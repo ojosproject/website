@@ -1,0 +1,18 @@
+.footer {
+    color: grey;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    flex-wrap: wrap;
+}
+
+.footer p {
+    max-width: 300px;
+    text-align: center;
+}
+
+.footer a {
+    color: grey;
+}
