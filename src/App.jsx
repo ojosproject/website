@@ -7,6 +7,7 @@ import './App.css';
 import logo from './static/logo.png'
 import grandma from "./static/grandma.jpg"
 import Layout from './Layout'
+import Member from './components/Member'
 
 function App() {
   return (
@@ -25,7 +26,14 @@ function App() {
       </div>
 
       <div className="our_team">
-        
+        <h1>Our Team</h1>
+
+        <div id="team_members">
+        <Member name="Carlos Valdez" position="software development" url="https://calejvaldez.com/" />
+          <Member name="Joseph Sweatt" position="engineering" url="https://blackswan3d.com/" />
+          <Member name="Mark S. Baldwin, PhD" position="faculty advisor" url="https://markbaldw.in/" />
+        </div>
+
       </div>
       
     </Layout>
