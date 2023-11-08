@@ -1,7 +1,7 @@
 import React from 'react';
 import "./Member.css"
 
-function Member(props) {
+function Member(props: {name: string, position: string, image?: string, url: string}) {
     // props: name, position, image, URL
     return (
         <div className='member_container'>
