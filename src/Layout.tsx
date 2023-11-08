@@ -2,7 +2,6 @@
 // Ojos Project
 // 
 // Includes the header and the footer for the website.
-import React from 'react';
 import './Layout.css'
 
 function Header() {

@@ -1,4 +1,3 @@
-import React from 'react';
 import "./Member.css"
 
 function Member(props: {name: string, position: string, image?: string, url: string}) {
