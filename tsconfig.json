@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "noImplicitAny": true,
+        "strict": true,
+        "moduleResolution": "Node",
+        "removeComments": true,
+        "jsx": "preserve"
+    },
+    "compileOnSave": true,
+    "exclude": ["node_modules"]
+}
