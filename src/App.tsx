@@ -22,7 +22,7 @@ function App() {
           <h1>Creating an easier way to stay connected with who you love.</h1>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nam aliquam sem et tortor consequat id porta nibh. Diam ut venenatis tellus in metus vulputate eu scelerisque. Lorem ipsum dolor sit amet.</p>
         </div>
-        <img id="story_image" src={grandma} alt="Photo of young Carlos with his grandmother"></img>
+        <img id="story_image" src={grandma} alt="Carlos with his grandmother"></img>
       </div>
 
       <div className="our_team">
