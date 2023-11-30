@@ -28,3 +28,7 @@
 
     text-align: center;
 }
+
+.header p {
+    margin: 15px 10px;
+}
