@@ -6,7 +6,9 @@ import './Layout.css'
 
 function Header() {
     return (
-      <div className="header"></div>
+      <div className="header">
+        <p>This website is under construction and may not work as expected.</p>
+      </div>
     )
   }
   
