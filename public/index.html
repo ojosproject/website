@@ -2,8 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" sizes="any">
-    <link rel="icon" href="%PUBLIC_URL%/favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="./favicon.ico" sizes="any">
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="./style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
     <meta
@@ -13,7 +14,49 @@
     <title>Ojos Project - a UCI research project</title>
   </head>
   <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
+
+    <header class="header">
+      <p>This website is under construction and may not work as expected.</p>
+    </header>
+
+    <div>
+      <div class="photo_container">
+        <img src="./logo.png" alt="The logo of the Ojos Project" width="350" height="350"></img>
+        <a href="https://markbaldw.in/url/" target="_blank" rel="noopener noreferrer">a uci research project</a>
+      </div>
+
+      <div class="story">
+        <div id="story_text">
+          <h1>Creating an easier way to stay connected with who you love.</h1>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nam aliquam sem et tortor consequat id porta nibh. Diam ut venenatis tellus in metus vulputate eu scelerisque. Lorem ipsum dolor sit amet.</p>
+        </div>
+        <img id="story_image" src="./grandma.jpg" alt="Carlos with his grandmother"></img>
+      </div>
+
+      <div class="our_team">
+        <h1>Our Team</h1>
+
+        <div id="team_members">
+          <div class='member_container'>
+            <a href="https://calejvaldez.com/" target="_blank" rel="noopener noreferrer">Carlos Valdez</a>
+            <p>software development</p>
+          </div>
+          <div class='member_container'>
+            <a href="https://blackswan3d.com/" target="_blank" rel="noopener noreferrer">Joseph Sweatt</a>
+            <p>engineering</p>
+          </div>
+          <div class='member_container'>
+            <a href="https://markbaldw.in/" target="_blank" rel="noopener noreferrer">Mark S. Baldwin, PhD</a>
+            <p>faculty advisor</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <footer class="footer">
+      <p id="footer_message">ojos means eyes, named after my grandma's nickname for me: <a href="https://translate.google.com/?sl=es&tl=en&text=mis+ojos" target="_blank" rel="noopener noreferrer">mis ojos</a></p>
+    </footer>
+
   </body>
 </html>
