@@ -121,3 +121,15 @@ body a {
 .header p {
     margin: 15px 10px;
 }
+
+.join-us-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.join-us-container {
+    margin: 25px;
+    max-width: 500px;
+}
