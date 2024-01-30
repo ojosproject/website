@@ -133,3 +133,11 @@ body a {
     margin: 25px;
     max-width: 500px;
 }
+
+.news-image {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    height: 300px;
+}
