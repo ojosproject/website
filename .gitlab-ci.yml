@@ -1,5 +1,5 @@
 # The Docker image that will be used to build your app
-image: ubuntu:lts
+image: ubuntu
 # Functions that should be executed before the build script is run
 before_script:
   - ":"
