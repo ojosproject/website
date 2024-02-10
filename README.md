@@ -17,3 +17,20 @@ we needed to have a `news` subsection route](https://ojos.calejvaldez.com/news/1
 
 We're doing this so that it can become (somewhat) easier to manage the website.
 Since the website is small, I don't think it'll be too big of an effort.
+
+## Developer Guide
+
+To start developing the website, install the dependencies with `npm`.
+
+```bash
+npm i
+```
+
+Once the dependencies are installed, you can do one of two things. You can use
+the terminal to run the command:
+
+```bash
+npm run dev
+```
+
+... or you can use [the debug tool in VS Code](https://code.visualstudio.com/docs/editor/debugging).
