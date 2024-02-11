@@ -2,6 +2,7 @@
 // Ojos Project
 // 
 // This is the root of the website at `/`.
+import {Helmet} from "react-helmet";
 import Layout from '../components/Layout'
 import "../styles/Root.css"
 
@@ -26,6 +27,20 @@ function TeamMember(props: {name: string, position: string, website?: string}) {
 export default function Root() {
     return (
         <Layout>
+            <Helmet>
+                <meta charSet="utf-8" />
+                <link rel="icon" href="/static/images/favicon.ico" sizes="any"/>
+                <link rel="icon" href="/static/images/favicon.svg" type="image/svg+xml"/>
+                <meta name="theme-color" content="#000000" />
+                <meta
+                name="description"
+                content="The Ojos Project is a research project developing a tablet-like device that can be used in an at-home hospice care setting. This device is being developed under Professor Mark S. Baldwin's Undergraduate Research Lab at the University of California, Irvine."
+                />
+                <meta property="og:image"  content="https://ojos.calejvaldez.com/static/images/oembed.png"/>
+                <meta name="twitter:image" content="https://ojos.calejvaldez.com/static/images/oembed.png"/>
+                <title>Ojos Project - a UCI research project</title>
+            </Helmet>
+
             <div className="story">
                 <div className="story_text">
                 <h1>Creating an easier way to stay connected with who you love.</h1>
