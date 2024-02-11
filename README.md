@@ -33,4 +33,10 @@ the terminal to run the command:
 npm run dev
 ```
 
+You must also open another terminal to watch Sass changes:
+
+```bash
+sass --watch src/styles:src/styles
+```
+
 ... or you can use [the debug tool in VS Code](https://code.visualstudio.com/docs/editor/debugging).
