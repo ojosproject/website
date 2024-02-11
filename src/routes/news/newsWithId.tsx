@@ -15,7 +15,7 @@ export async function loader({ params }: { params: {newsId: string} }) {
 
 export default function News() {
   // Not quite sure why "news" is in red at the moment
-  const { news }: {news: NewsArticle} = useLoaderData();
+  const { news } = useLoaderData() as {news: NewsArticle};
 
   return (
     <Layout>
