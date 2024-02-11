@@ -42,8 +42,8 @@ function Header() {
             <div className='header-item-container'>
                 <a href="/"><img src={Logo}></img></a>
                 <List selection={[
-                    {label: "Join us!", value: "/news/join-us/"},
-                    {label: "Interview Search", value: "/news/1706645600/"}
+                    {label: "Project News", value: "/news/"},
+                    {label: "Join us!", value: "/news/join-us/"}
                 ]}/>
             </div>
         </header>
