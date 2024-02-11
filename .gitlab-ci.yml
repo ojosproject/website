@@ -11,7 +11,7 @@ quality-check:
   stage: quality-check
   script:
     - echo "RUNNING QUALITY CONTROL..."
-    - npm i
+    - npm i eslint
     - npm run lint
 
 build:
@@ -27,16 +27,17 @@ build:
     - echo "RUNNING BUILD..."
     - npm i
     - npm run build
+
+deploy:
+  stage: deploy
+  dependencies:
+    - build
+  script:
+    - echo "DEPLOYING..."
     - rm -fr public/
     - cp -a dist/. public/
     - cp -fa public/public/* public/
     - rm -fr public/public
-
-deploy:
-  stage: deploy
-  script:
-    - echo "DEPLOYING..."
-  needs: [build]
   artifacts:
     paths:
       - public
