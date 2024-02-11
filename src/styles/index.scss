@@ -61,10 +61,30 @@ footer {
     color: grey;
 
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
 
     flex-wrap: wrap;
+
+    .list-collection {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+        width: 100%;
+
+        img {
+            width: 200px;
+        }
+
+        li {
+            list-style: none;
+            margin: 10px 0;
+        }
+    }
+
+
 
     p {
         max-width: 200px;
