@@ -36,6 +36,22 @@ header {
         height: 100px;
         width: 100px;
     }
+
+    .announcement {
+        background-color: lightcoral;
+        color: black;
+    
+        position:fixed;
+    
+        width: 100%;
+    
+        text-align: center;
+    
+        p {
+            margin: 15px 10px;
+        }
+    
+    }
 }
 
 footer {
@@ -56,20 +72,4 @@ footer {
     a {
         color: grey;
     }
-}
-
-.announcement {
-    background-color: lightcoral;
-    color: black;
-
-    position:fixed;
-
-    width: 100%;
-
-    text-align: center;
-
-    p {
-        margin: 15px 10px;
-    }
-
 }
