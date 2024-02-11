@@ -19,7 +19,7 @@ function Layout( {children}: {children: any} ) {
 function App() {
   return (
     <Layout>
-      <p>Test!</p>
+      <></>
     </Layout>
   )
 }
