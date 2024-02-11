@@ -14,7 +14,8 @@
             "args": ["run", "dev"],
             "linux": {
                 "program": "/bin/npm"
-            }
+            },
+            "preLaunchTask": "Sass"
         }
     ]
 }

@@ -2,7 +2,7 @@
 // Ojos Project
 // 
 // This will act as the index of the app.
-import './App.css'
+import './styles/App.css'
 import Header from './components/Header'
 import Footer from './components/Footer'
 

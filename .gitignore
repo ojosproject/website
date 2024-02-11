@@ -12,9 +12,13 @@ dist
 dist-ssr
 *.local
 
+*.css
+*.map
+
 # Editor directories and files
 .vscode/*
 !.vscode/launch.json
+!.vscode/tasks.json
 .idea
 .DS_Store
 *.suo
