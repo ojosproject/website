@@ -1,0 +1,18 @@
+{
+    "1706645600": {
+        "title": "The Ojos Project is searching for interview candidates!",
+        "author": "Carlos Valdez",
+        "date": 1706645600,
+        "description": "The Ojos Project is searching for individuals to participate in an interview regarding their experiences as caregivers for hospice patients. As researchers, our main responsibility is to collect data to build the right thing. If you're interested, please keep reading!",
+        "imageLocation": "/static/images/video_call.svg",
+        "id": "1706645600"
+    },
+    "join-us": {
+        "title": "🤝 Join the Ojos Project",
+        "author": "Carlos Valdez",
+        "date": 1706645601,
+        "description": "The Ojos Project is looking for people interested in research to join! We are a research project under UC Irvine professor Mark S. Baldwin's Undergraduate Research Lab. Whether you're experienced with Linux or are a fantastic writer, we'd love to have you! Take a look to see how you can help!",
+        "imageLocation": "/static/images/logo.png",
+        "id": "join-us"
+    }
+}

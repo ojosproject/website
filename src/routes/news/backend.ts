@@ -9,13 +9,13 @@ export interface NewsArticle {
     author: string,
     date: number,
     id: string,
-    contentInMarkdown: string,
+    contentInMarkdown?: string,
     description: string
     imageLocation?: string
 }
 
 export async function getNewsContent(fromId: string): Promise<NewsArticle> {
-    let metadata = await (await fetch(`/static/data/${fromId}.json`)).json()
+    let metadata = await (await fetch(`/static/data/metadata.json`)).json()
     let content = (await (await fetch(`/static/data/${fromId}.md`)).text())
 
     if (content.startsWith("# ")) {
@@ -23,12 +23,12 @@ export async function getNewsContent(fromId: string): Promise<NewsArticle> {
     }
     
     return {
-        title: metadata.title,
-        author: metadata.author,
-        date: metadata.date,
-        id: metadata.id,
-        description: metadata.description,
-        imageLocation: metadata.imageLocation,
+        title: metadata[fromId].title,
+        author: metadata[fromId].author,
+        date: metadata[fromId].date,
+        id: fromId,
+        description: metadata[fromId].description,
+        imageLocation: metadata[fromId].imageLocation,
         contentInMarkdown: content
     }
 }
