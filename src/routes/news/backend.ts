@@ -15,7 +15,7 @@ export interface NewsArticle {
 }
 
 export async function getNewsContent(fromId: string): Promise<NewsArticle> {
-    let metadata = await (await fetch(`/static/data/metadata.json`)).json()
+    const metadata = await (await fetch(`/static/data/metadata.json`)).json()
     let content = (await (await fetch(`/static/data/${fromId}.md`)).text())
 
     if (content.startsWith("# ")) {

@@ -2,9 +2,10 @@
 // Ojos Project
 // 
 // This is the header that is displayed everywhere on ojos.calejvaldez.com.
+import { ReactNode } from 'react'
 import Logo from '/static/images/logo.png'
 
-function Announcement({children}: {children: any}) {
+function Announcement({children}: {children: ReactNode}) {
     return (
         <div className="announcement">
             {children}

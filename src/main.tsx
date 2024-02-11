@@ -30,7 +30,7 @@ const router = createBrowserRouter([
     path: "/news/:newsId",
     element: <News />,
     // as any because it doesn't like newsLoader
-    loader: newsLoader as any,
+    loader: newsLoader,
   },
   {
     path: "/join-us/",
