@@ -22,6 +22,15 @@ function TeamMember(props: {name: string, position: string, website?: string}) {
 export default function Root() {
     return (
         <Layout>
+            <div className="story">
+                <div className="story_text">
+                <h1>Creating an easier way to stay connected with who you love.</h1>
+                <p>The Ojos Project is a UCI-backed research endeavor in which we aim to understand the needs of hospice patients, caregivers, and healthcare specialists to provide them with a better way to address the hospice experience. By utilizing modern technologies and analyzing previous methods, we will ensure your loved one gets the best possible care during this delicate time.</p>
+                </div>
+                <img className="story_image" src="/static/images/grandma.jpg" alt="Carlos with his grandmother"></img>
+            </div>
+
+
             <div className='our_team' id="team">
                 <h1>Our Team</h1>
                 <div className='team_members'>

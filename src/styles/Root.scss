@@ -1,3 +1,39 @@
+.story {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  
+    flex-wrap: wrap-reverse;
+
+    height: 75dvh;
+
+    .story_text {
+        flex: 2;
+      
+        min-width: 250px;
+        max-width: 500px;
+      
+        margin: 0 20px;
+        text-align: left;
+    }
+      
+    .story_image {
+        margin: 0 20px;
+      
+        max-height: 396px;
+        max-width: 528px;
+      
+        height: auto;
+        width: auto;
+      
+        min-height: 300px;
+        min-width: 225px;
+      
+        border-radius: 20px;
+    }
+}
+
 .our_team {
     display: flex;
     flex-direction: column;
