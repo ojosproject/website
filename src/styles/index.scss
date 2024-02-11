@@ -38,6 +38,26 @@ header {
     }
 }
 
+footer {
+    color: grey;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    flex-wrap: wrap;
+
+    p {
+        max-width: 200px;
+        text-align: center;
+        font-size: 12px;    
+    }
+
+    a {
+        color: grey;
+    }
+}
+
 .announcement {
     background-color: lightcoral;
     color: black;
