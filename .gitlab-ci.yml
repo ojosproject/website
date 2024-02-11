@@ -11,6 +11,14 @@ pages:
   script:
     - npm install
     - npm run build
+    - mkdir dist/news/
+    - mkdir dist/news/join-us/
+    - mkdir dist/join-us/
+    - mkdir dist/news/1706645600/
+    - cp dist/index.html dist/news/index.html
+    - cp dist/index.html dist/news/join-us/index.html
+    - cp dist/index.html dist/join-us/index.html
+    - cp dist/index.html dist/news/1706645600/index.html
     - cp -a dist/. public/
   artifacts:
     paths:
