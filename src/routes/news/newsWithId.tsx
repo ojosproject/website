@@ -3,15 +3,10 @@
 // 
 // Controls the "News" aspect of the website.
 import { useLoaderData } from "react-router-dom";
-import { getNewsContent, NewsArticle } from "./backend";
+import { NewsArticle } from "./backend";
 import Markdown from 'react-markdown';
 import Layout from "../../components/Layout";
 import "../../styles/newsWithId.css"
-
-export async function loader({ params }: { params: {newsId: string} }) {
-  const news = await getNewsContent(params.newsId);
-  return { news };
-}
 
 export default function News() {
   const { news } = useLoaderData() as {news: NewsArticle};

@@ -10,7 +10,8 @@ import {
 } from "react-router-dom";
 import './styles/index.css'
 import Root from './routes/root';
-import News, {loader as newsLoader} from './routes/news/newsWithId';
+import News from './routes/news/newsWithId';
+import { getNewsContent } from "./routes/news/backend";
 import Join from './routes/join';
 import NewsStand from './routes/news/newsWithoutId';
 
@@ -30,7 +31,10 @@ const router = createBrowserRouter([
     path: "/news/:newsId",
     element: <News />,
     // as any because it doesn't like newsLoader
-    loader: newsLoader,
+    loader: async ({ params }: { params: {newsId: string} }) => {
+      const news = await getNewsContent(params.newsId);
+      return { news };
+    },
   },
   {
     path: "/join-us/",
