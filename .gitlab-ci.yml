@@ -23,6 +23,9 @@ build:
       prefix: npm
     paths:
       - node_modules/
+  artifacts:
+    paths:
+      - "dist/"
   script:
     - echo "RUNNING BUILD..."
     - npm i
