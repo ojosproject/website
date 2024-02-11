@@ -13,7 +13,7 @@ pages:
     - npm run build
     - rm -fr public/
     - cp -a dist/. public/
-    - mv -f public/public/* public/
+    - cp -fa public/public/* public/
     - rm -fr public/public
   artifacts:
     paths:
