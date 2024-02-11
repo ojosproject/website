@@ -42,5 +42,3 @@ npm run build
 ```
 
 This creates the CSS files, runs `tsc`, and asks Vite to build for us.
-
-⚠️ There's currently a behavior where I need to manually add `index.html` files for every page. I'm not fully sure why. In [commit 70b6ef33](https://gitlab.com/ojosproject/ojos.calejvaldez.com/-/commit/70b6ef330ed70268112dda1699cd5734f193a272) I added a temporary workout in `.gitlab-ci.yml` that automatically creates them during deployment. This is being tracked in [this issue](https://gitlab.com/ojosproject/ojos.calejvaldez.com/-/issues/1).
