@@ -9,7 +9,7 @@ import { Helmet } from "react-helmet";
 import newsStand from '../../../public/static/data/metadata.json'
 
 function ClickableNews(props: NewsArticle) {
-    return <a href={"/news/"+props.id} className="news-stand-article">
+    return <a href={"/news/"+props.id+"/"} className="news-stand-article">
         <img src={props.imageLocation} width="200"/>
         <div>
             <h3><span className="article-title">{props.title}</span> by {props.author}</h3>
