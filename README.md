@@ -4,21 +4,14 @@
 
 Welcome to the repository for the Ojos Project's website.
 
-## Transition to Vite
+## Developer Guide
 
-As of the writing of this document, the current website is written in HTML and
-CSS. This worked fine at first, [until we had to make a news post and realized
-we needed to have a `news` subsection route](https://ojos.calejvaldez.com/news/1706645600/). So, we're transitioning to using the following techologies:
+This website uses the following technologies:
 
 - [Vite](https://vitejs.dev/)
 - [React](https://react.dev/)
 - [TypeScript](https://typescriptlang.org/)
 - [Sass](https://sass-lang.com/)
-
-We're doing this so that it can become (somewhat) easier to manage the website.
-Since the website is small, I don't think it'll be too big of an effort.
-
-## Developer Guide
 
 To start developing the website, install the dependencies with `npm`.
 
@@ -26,17 +19,28 @@ To start developing the website, install the dependencies with `npm`.
 npm i
 ```
 
-Once the dependencies are installed, you can do one of two things. You can use
-the terminal to run the command:
-
-```bash
-npm run dev
-```
-
-You must also open another terminal to watch Sass changes:
+Once dependencies are installed, you need to compile Sass into CSS. You can do so (continuously) by using this command:
 
 ```bash
 sass --watch src/styles:src/styles
 ```
 
-... or you can use [the debug tool in VS Code](https://code.visualstudio.com/docs/editor/debugging).
+Then, you get another terminal and run this to begin the development environment:
+
+```bash
+npm run dev
+```
+
+... or, you can also use [the debug tool in VS Code](https://code.visualstudio.com/docs/editor/debugging).
+
+## Deploying for Production
+
+To create a production-ready bundle, you must use:
+
+```bash
+npm run build
+```
+
+This creates the CSS files, runs `tsc`, and asks Vite to build for us.
+
+⚠️ There's currently a behavior where I need to manually add `index.html` files for every page. I'm not fully sure why. In [commit 70b6ef33](https://gitlab.com/ojosproject/ojos.calejvaldez.com/-/commit/70b6ef330ed70268112dda1699cd5734f193a272) I added a temporary workout in `.gitlab-ci.yml` that automatically creates them during deployment. This is being tracked in [this issue](https://gitlab.com/ojosproject/ojos.calejvaldez.com/-/issues/1).
