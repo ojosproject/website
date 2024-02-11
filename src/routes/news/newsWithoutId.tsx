@@ -5,7 +5,6 @@
 import { NewsArticle } from "./backend";
 import Layout from "../../components/Layout";
 import "../../styles/newsWithId.css"
-import { Helmet } from "react-helmet";
 import newsStand from '../../../public/static/data/metadata.json'
 
 function ClickableNews(props: NewsArticle) {
@@ -29,20 +28,6 @@ function ClickableNews(props: NewsArticle) {
 export default function NewsStand() {
   return (
       <Layout>
-
-      <Helmet>
-        <meta charSet="utf-8" />
-        <link rel="icon" href="/static/images/favicon.ico" sizes="any"/>
-        <link rel="icon" href="/static/images/favicon.svg" type="image/svg+xml"/>
-        <meta name="theme-color" content="#000000" />
-        <meta
-          name="description"
-          content="Take a look at the recent news from the Ojos Project!"
-        />
-        <meta property="og:image"  content="https://ojos.calejvaldez.com/static/images/oembed.png"/>
-        <meta name="twitter:image" content="https://ojos.calejvaldez.com/static/images/oembed.png"/>
-        <title>Project News - Ojos Project</title>
-      </Helmet>
 
       <div className="join-us-body">
         {
