@@ -6,6 +6,7 @@ stages:
 image: node:16.5.0
 
 quality-check-job:
+  stage: quality-check
   script:
     - echo "RUNNING QUALITY CONTROL..."
     - npm install
