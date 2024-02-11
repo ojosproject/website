@@ -54,7 +54,7 @@ export default function Root() {
                 <h1>Our Team</h1>
                 <div className='team_members'>
                     <TeamMember name="Carlos Valdez" position='software developer' website='https://calejvaldez.com/'/>
-                    <TeamMember name="Joseph Sweatt" position='engineering' website='https://blackswan3dprinting.com/'/>
+                    <TeamMember name="Joseph Sweatt" position='engineering' website='https://blackswan3d.com/'/>
                     <TeamMember name="Ayush Jain" position='software developer' website="https://ayushbot412.github.io/"/>
                     <TeamMember name="Isabella Gronich" position='publishing/documentation'/>
                     <TeamMember name="Jackie Sanchez" position='publishing/documentation'/>
