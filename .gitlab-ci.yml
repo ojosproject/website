@@ -3,24 +3,24 @@ stages:
   - build
   - deploy
 
-.preparing:
+.dependencies:
   image: node:16.5.0
   script: npm i
 
 
-quality-check-job:
+quality-check:
   stage: quality-check
   extends:
-    - .preparing
+    - .dependencies
   script:
     - echo "RUNNING QUALITY CONTROL..."
     - npm i
     - npm run lint
 
-build-job:
+build:
   stage: build
   extends:
-  - .preparing
+  - .dependencies
   cache:
     key:
       files:
@@ -37,10 +37,10 @@ build-job:
     - cp -fa public/public/* public/
     - rm -fr public/public
 
-pages:
+deploy:
   stage: deploy
   extends:
-  - .preparing
+  - .dependencies
   script:
     - echo "DEPLOYING..."
   artifacts:
