@@ -10,12 +10,19 @@ import {
 } from "react-router-dom";
 import './styles/index.css'
 import Root from './routes/root';
+import News, {loader as newsLoader} from './routes/news/newsWithId';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root />,
   },
+  {
+    path: "/news/:newsId",
+    element: <News />,
+    // not sure why this is in red yet
+    loader: newsLoader,
+  }
 ]);
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
