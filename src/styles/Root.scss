@@ -17,7 +17,6 @@
     .story_text {
         flex: 2;
       
-        min-width: 250px;
         max-width: 500px;
       
         margin: 0 20px;
@@ -30,13 +29,13 @@
         max-height: 396px;
         max-width: 528px;
       
-        height: auto;
-        width: auto;
-      
-        min-height: 300px;
-        min-width: 225px;
-      
         border-radius: 20px;
+
+        @media screen and (max-width: 767px) {
+            width: 300px;
+            height: 240px;
+            margin: 0;
+        }
     }
 }
 
