@@ -16,7 +16,11 @@ export interface NewsArticle {
 
 export async function getNewsContent(fromId: string): Promise<NewsArticle> {
     let metadata = await (await fetch(`/static/data/${fromId}.json`)).json()
-    let content = await (await fetch(`/static/data/${fromId}.md`)).text()
+    let content = (await (await fetch(`/static/data/${fromId}.md`)).text())
+
+    if (content.startsWith("# ")) {
+        content = content.split("\n").slice(2).join("\n")
+    }
     
     return {
         title: metadata.title,
