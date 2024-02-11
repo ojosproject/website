@@ -3,15 +3,12 @@ stages:
   - build
   - deploy
 
-.dependencies:
-  image: node:16.5.0
-  script: npm i
+
+image: node:16.5.0
 
 
 quality-check:
   stage: quality-check
-  extends:
-    - .dependencies
   script:
     - echo "RUNNING QUALITY CONTROL..."
     - npm i
@@ -19,8 +16,6 @@ quality-check:
 
 build:
   stage: build
-  extends:
-  - .dependencies
   cache:
     key:
       files:
@@ -39,10 +34,9 @@ build:
 
 deploy:
   stage: deploy
-  extends:
-  - .dependencies
   script:
     - echo "DEPLOYING..."
+  needs: [build]
   artifacts:
     paths:
       - public
