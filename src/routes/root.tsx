@@ -1,3 +1,7 @@
+// root.tsx
+// Ojos Project
+// 
+// This is the root of the website at `/`.
 import Layout from '../components/Layout'
 import "../styles/Root.css"
 

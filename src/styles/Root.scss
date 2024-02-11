@@ -1,3 +1,9 @@
+// Root.scss
+// Ojos Project
+//
+// Styles the content displayed in `/`.
+// To compile to CSS, run
+// sass --watch src/styles:src/styles
 .story {
     display: flex;
     flex-direction: row;

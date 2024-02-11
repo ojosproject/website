@@ -1,3 +1,7 @@
+// main.tsx
+// Ojos Project
+// 
+// Keep an eye on `router` and make sure it stays updated!
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import {
