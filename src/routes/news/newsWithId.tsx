@@ -32,7 +32,7 @@ export default function News() {
           <br></br>
 
           <div className="news-image">
-            <img src={news.imageLocation} width={350}></img>
+            <img src={news.imageLocation}></img>
           </div>
 
           <p>{news.description}</p>

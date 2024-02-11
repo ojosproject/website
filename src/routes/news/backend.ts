@@ -15,7 +15,16 @@ export interface NewsArticle {
 }
 
 export async function getNewsContent(fromId: string): Promise<NewsArticle> {
-    let c: NewsArticle = await (await fetch(`/static/json/${fromId}.json`)).json()
+    let metadata = await (await fetch(`/static/data/${fromId}.json`)).json()
+    let content = await (await fetch(`/static/data/${fromId}.md`)).text()
     
-    return c
+    return {
+        title: metadata.title,
+        author: metadata.author,
+        date: metadata.date,
+        id: metadata.id,
+        description: metadata.description,
+        imageLocation: metadata.imageLocation,
+        contentInMarkdown: content
+    }
 }

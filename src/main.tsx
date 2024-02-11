@@ -11,6 +11,7 @@ import {
 import './styles/index.css'
 import Root from './routes/root';
 import News, {loader as newsLoader} from './routes/news/newsWithId';
+import Join from './routes/join';
 
 const router = createBrowserRouter([
   {
@@ -22,6 +23,10 @@ const router = createBrowserRouter([
     element: <News />,
     // not sure why this is in red yet
     loader: newsLoader,
+  },
+  {
+    path: "/join-us/",
+    element: <Join />
   }
 ]);
 
