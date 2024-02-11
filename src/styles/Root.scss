@@ -1,0 +1,33 @@
+.our_team {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+    margin: 100px 0;
+
+    .team_members {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+      
+        flex-wrap: wrap;
+    }
+}
+
+.member_container {
+    height: 100px;
+    width: 300px;
+
+    margin: 10px;
+
+    text-align: center;
+
+    line-height: 5px;
+
+    a, h3 {
+        font-size: 20px;
+        text-decoration: underline;
+    }
+}
