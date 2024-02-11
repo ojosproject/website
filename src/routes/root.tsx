@@ -40,7 +40,7 @@ export default function Root() {
                 <div className='team_members'>
                     <TeamMember name="Carlos Valdez" position='software developer' website='https://calejvaldez.com/'/>
                     <TeamMember name="Joseph Sweatt" position='engineering' website='https://blackswan3dprinting.com/'/>
-                    <TeamMember name="Ayush Jain" position='software developer'/>
+                    <TeamMember name="Ayush Jain" position='software developer' website="https://ayushbot412.github.io/"/>
                     <TeamMember name="Isabella Gronich" position='publishing/documentation'/>
                     <TeamMember name="Jackie Sanchez" position='publishing/documentation'/>
                     <TeamMember name="Mark S. Baldwin, PhD" position='faculty advisor' website='https://markbaldw.in/'/>
