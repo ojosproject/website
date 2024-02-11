@@ -13,6 +13,9 @@ import Root from './routes/root';
 import News, {loader as newsLoader} from './routes/news/newsWithId';
 import Join from './routes/join';
 
+// ! If you're going to update, please check if
+// ! src/components/Header.tsx
+// ! also needs to update
 const router = createBrowserRouter([
   {
     path: "/",

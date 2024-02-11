@@ -30,6 +30,9 @@ function List(props: {selection: {label: string, value: string}[]}) {
 }
 
 function Header() {
+    // ! If you're going to update, please check if
+    // ! src/components/Header.tsx
+    // ! also needs to update
     return (
         <header>
             <Announcement>
@@ -39,7 +42,8 @@ function Header() {
             <div className='header-item-container'>
                 <a href="/"><img src={Logo}></img></a>
                 <List selection={[
-                    {label: "News", value: "/news/"}
+                    {label: "Join us!", value: "/news/join-us/"},
+                    {label: "Interview Search", value: "/news/1706645600/"}
                 ]}/>
             </div>
         </header>
