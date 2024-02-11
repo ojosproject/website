@@ -1,6 +1,18 @@
+stages:
+  - quality-check
+  - build
+  - deploy
+
 image: node:16.5.0
-pages:
-  stage: deploy
+
+quality-check-job:
+  script:
+    - echo "RUNNING QUALITY CONTROL..."
+    - npm install
+    - npm run lint
+
+build-job:
+  stage: build
   cache:
     key:
       files:
@@ -9,12 +21,17 @@ pages:
     paths:
       - node_modules/
   script:
-    - npm install
+    - echo "RUNNING BUILD..."
     - npm run build
     - rm -fr public/
     - cp -a dist/. public/
     - cp -fa public/public/* public/
     - rm -fr public/public
+
+pages:
+  stage: deploy
+  script:
+    - echo "DEPLOYING..."
   artifacts:
     paths:
       - public

@@ -33,12 +33,16 @@ npm run dev
 
 ... or, you can also use [the debug tool in VS Code](https://code.visualstudio.com/docs/editor/debugging).
 
-## Deploying for Production
+## Contributing
 
-To create a production-ready bundle, you must use:
+First thing's first: **please do not work directly on the `main` branch!** This is the structure we're following:
 
-```bash
-npm run build
-```
+|branch|description|
+|---|---|
+|`main`|The [live](https://ojos.calejvaldez.com) branch|
+|`dev`|Includes all code that is not quite ready for `main`.|
+|Everything else|This is your branch! Have it be descriptive, and create a Merge Request upon completion. Read more below.|
 
-This creates the CSS files, runs `tsc`, and asks Vite to build for us.
+In the "Everything else" branch, you will add your work and create a Merge Request. Once you finish your work, we will merge it into `dev`, where the maintainers will conduct further testing and/or add other people's features too.
+
+Once the website is ready for a new release, the `dev` branch will be merged into the `main` branch.
