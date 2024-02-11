@@ -5,8 +5,6 @@
 import Logo from '/static/images/logo.png'
 
 function Announcement({children}: {children: any}) {
-    // If there is no `Announcement`,
-    // just make sure `children` is <></>
     return (
         <div className="announcement">
             {children}
@@ -33,10 +31,13 @@ function Header() {
     // ! If you're going to update, please check if
     // ! src/components/Header.tsx
     // ! also needs to update
+
+    // * If there is no `Announcement`,
+    // * set `children` as <></>
     return (
         <header>
             <Announcement>
-                <p>Are you a student wanting to participate in research? <a href="/join-us/">Join the Ojos Project here!</a></p>
+                <></>
             </Announcement>
             
             <div className='header-item-container'>
