@@ -30,12 +30,15 @@ build:
     - echo "RUNNING BUILD..."
     - npm i
     - npm run build
+  rules:
+    - if: $CI_COMMIT_BRANCH != "main"
 
 deploy:
   stage: deploy
-  dependencies:
-    - build
   script:
+    - echo "RUNNING BUILD..."
+    - npm i
+    - npm run build
     - echo "DEPLOYING..."
     - rm -fr public/
     - cp -a dist/. public/
