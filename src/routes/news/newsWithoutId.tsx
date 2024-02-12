@@ -5,7 +5,7 @@
 import { NewsArticle } from "./backend";
 import Layout from "../../components/Layout";
 import "../../styles/newsWithId.css"
-import newsStand from '../../../public/static/data/metadata.json'
+import newsStand from '../../data/metadata.json'
 
 function ClickableNews(props: NewsArticle) {
     return <a href={"/news/"+props.id+"/"} className="news-stand-article">

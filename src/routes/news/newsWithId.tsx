@@ -9,6 +9,8 @@ import Layout from "../../components/Layout";
 import "../../styles/newsWithId.css"
 
 export default function News() {
+  // * Loader function can be found in
+  // * /src/main.tsx
   const { news } = useLoaderData() as {news: NewsArticle};
 
   return (

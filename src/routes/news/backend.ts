@@ -2,7 +2,7 @@
 // Ojos Project
 //
 // Gathers news content from the back!
-
+import metadata from "../../data/metadata.json"
 
 export interface NewsArticle {
     title: string,
@@ -15,7 +15,6 @@ export interface NewsArticle {
 }
 
 export async function getNewsContent(fromId: string): Promise<NewsArticle> {
-    const metadata = await (await fetch(`/static/data/metadata.json`)).json()
     let content = (await (await fetch(`/static/data/${fromId}.md`)).text())
 
     if (content.startsWith("# ")) {
@@ -23,12 +22,12 @@ export async function getNewsContent(fromId: string): Promise<NewsArticle> {
     }
     
     return {
-        title: metadata[fromId].title,
-        author: metadata[fromId].author,
-        date: metadata[fromId].date,
+        title: Object(metadata)[fromId].title,
+        author: Object(metadata)[fromId].author,
+        date: Object(metadata)[fromId].date,
         id: fromId,
-        description: metadata[fromId].description,
-        imageLocation: metadata[fromId].imageLocation,
+        description: Object(metadata)[fromId].description,
+        imageLocation: Object(metadata)[fromId].imageLocation,
         contentInMarkdown: content
     }
 }
