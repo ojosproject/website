@@ -40,7 +40,7 @@ First thing's first: **please do not work directly on the `main` branch!** This 
 |branch|description|
 |---|---|
 |`main`|The [live](https://ojos.calejvaldez.com) branch|
-|`dev`|Includes all code that is not quite ready for `main`.|
+|`dev`|Includes all code that is not quite ready for `main`. [Also used for testing](https://dev-ojosproject.onrender.com/).|
 |Everything else|This is your branch! Have it be descriptive, and create a Merge Request upon completion. Read more below.|
 
 In the "Everything else" branch, you will add your work and create a Merge Request. Once you finish your work, we will merge it into `dev`, where the maintainers will conduct further testing and/or add other people's features too.
