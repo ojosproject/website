@@ -6,16 +6,6 @@ import Layout from '../components/Layout'
 import "../styles/Root.css"
 
 function TeamMember(props: {name: string, position: string, organization: string, website?: string}) {
-    if (props.website === null) {
-        return (
-            <div className='member_container'>
-                <h3>{props.name}</h3>
-                <p>{props.position}</p>
-                <p>{props.organization}</p>
-            </div>
-        )
-    }
-    
     return (
         <div className='member_container'>
             <a href={props.website} target="_blank" rel="noopener noreferrer">{props.name}</a>
