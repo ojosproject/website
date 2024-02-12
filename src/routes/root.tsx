@@ -3,6 +3,7 @@
 // 
 // This is the root of the website at `/`.
 import Layout from '../components/Layout'
+import GrandmaImage from "/static/images/grandma.jpg"
 import "../styles/Root.css"
 
 function TeamMember(props: {name: string, position: string, organization: string, website?: string}) {
@@ -24,7 +25,7 @@ export default function Root() {
                 <h1>Creating an easier way to stay connected with who you love.</h1>
                 <p>The Ojos Project is a UCI-backed research endeavor in which we aim to understand the needs of hospice patients, caregivers, and healthcare specialists to provide them with a better way to address the hospice experience. By utilizing modern technologies and analyzing previous methods, we will ensure your loved one gets the best possible care during this delicate time.</p>
                 </div>
-                <img className="story_image" src="/static/images/grandma.jpg" alt="Carlos with his grandmother"></img>
+                <img className="story_image" src={GrandmaImage} alt="Carlos with his grandmother"></img>
             </div>
 
 
