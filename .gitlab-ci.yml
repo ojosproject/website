@@ -35,6 +35,13 @@ build:
 
 deploy:
   stage: deploy
+  cache:
+    key:
+      files:
+        - package-lock.json
+      prefix: npm
+    paths:
+      - node_modules/
   script:
     - echo "RUNNING BUILD..."
     - npm i
