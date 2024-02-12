@@ -6,18 +6,18 @@ import Layout from '../components/Layout'
 import GrandmaImage from "/static/images/grandma.jpg"
 import "../styles/Root.css"
 
-function TeamMember(props: {name: string, position: string, organization: string, website?: string}) {
-    return (
-        <div className='member_container'>
-            <a href={props.website} target="_blank" rel="noopener noreferrer">{props.name}</a>
-            <p>{props.organization}</p>
-            <p>{props.position}</p>
-            
-        </div>
-    )
-}
-
 export default function Root() {
+    function TeamMember(props: {name: string, position: string, organization: string, website?: string}) {
+        return (
+            <div className='member_container'>
+                <a href={props.website} target="_blank" rel="noopener noreferrer">{props.name}</a>
+                <p>{props.organization}</p>
+                <p>{props.position}</p>
+                
+            </div>
+        )
+    }
+    
     return (
         <Layout>
             <div className="story">
