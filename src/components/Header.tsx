@@ -38,7 +38,7 @@ function Header() {
     if (window.location.href.includes("onrender.com")) {
         // This is hosted on a development platform either on
         // https://dev-ojosproject.onrender.com
-        dev_indicator = <Announcement><p>Currently on the <a target="_blank" rel="noopener noreferrer" href={"https://gitlab.com/ojosproject/ojos.calejvaldez.com/-/commit/"}>dev branch.</a></p></Announcement>
+        dev_indicator = <Announcement><p>Currently on the <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/ojosproject/ojos.calejvaldez.com/-/commits/dev">dev branch.</a></p></Announcement>
     }
 
     // * If there is no `Announcement`,
