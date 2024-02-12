@@ -4,7 +4,7 @@
 
 The [Undergraduate Research Opportunities Program (UROP)](https://urop.uci.edu/) at UCI awarded the Ojos Project a Research Experience Fellowship grant to continue our research. We were notified about this on December 20, but I wanted to take an opportunity to discuss finances and transparency.
 
-The Ojos Project will be making our finances publicly available on a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1W9qHV4Bm3wPtvsBWxmY4jpJY9JbhpSFIvcgRSFbrr78/). I believe that keeping our finances openly available not only ensures there's an extra layer of accountability, it also shows that we're trying to use our funds responsively.
+The Ojos Project will be making our finances publicly available on a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1W9qHV4Bm3wPtvsBWxmY4jpJY9JbhpSFIvcgRSFbrr78/). I believe that keeping our finances openly available not only ensures there's an extra layer of accountability, it also shows that we're trying to use our funds responsibly.
 
 The Ojos Project, while an academic research project, is also a [free and open-source project](https://en.wikipedia.org/wiki/Free_and_open-source_software). Open-source projects are often auditable, and when it comes to something as important as money, I'd like that to be auditable as well. This is a step towards that goal.
 
