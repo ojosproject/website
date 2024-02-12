@@ -5,12 +5,13 @@
 import Layout from '../components/Layout'
 import "../styles/Root.css"
 
-function TeamMember(props: {name: string, position: string, website?: string}) {
+function TeamMember(props: {name: string, position: string, organization: string, website?: string}) {
     if (props.website === null) {
         return (
             <div className='member_container'>
                 <h3>{props.name}</h3>
                 <p>{props.position}</p>
+                <p>{props.organization}</p>
             </div>
         )
     }
@@ -18,7 +19,9 @@ function TeamMember(props: {name: string, position: string, website?: string}) {
     return (
         <div className='member_container'>
             <a href={props.website} target="_blank" rel="noopener noreferrer">{props.name}</a>
+            <p>{props.organization}</p>
             <p>{props.position}</p>
+            
         </div>
     )
 }
@@ -38,12 +41,12 @@ export default function Root() {
             <div className='our_team' id="team">
                 <h1>Our Team</h1>
                 <div className='team_members'>
-                    <TeamMember name="Carlos Valdez" position='software developer' website='https://calejvaldez.com/'/>
-                    <TeamMember name="Joseph Sweatt" position='engineering' website='https://blackswan3d.com/'/>
-                    <TeamMember name="Ayush Jain" position='software developer' website="https://ayushbot412.github.io/"/>
-                    <TeamMember name="Isabella Gronich" position='publishing/documentation'/>
-                    <TeamMember name="Jackie Sanchez" position='publishing/documentation'/>
-                    <TeamMember name="Mark S. Baldwin, PhD" position='faculty advisor' website='https://markbaldw.in/'/>
+                    <TeamMember name="Carlos Valdez" position='software developer' organization="university of california, irvine" website='https://calejvaldez.com/'/>
+                    <TeamMember name="Joseph Sweatt" position='engineering' organization="university of california, irvine" website='https://blackswan3d.com/'/>
+                    <TeamMember name="Ayush Jain" position='software developer' organization="university of california, irvine" website="https://ayushbot412.github.io/"/>
+                    <TeamMember name="Isabella Gronich" organization="imperial valley college" position='publishing/documentation'/>
+                    <TeamMember name="Jackie Sanchez" organization="imperial valley college" position='publishing/documentation'/>
+                    <TeamMember name="Mark S. Baldwin, PhD" position='faculty advisor' organization="university of california, irvine" website='https://markbaldw.in/'/>
                 </div>
             </div>
         </Layout>
