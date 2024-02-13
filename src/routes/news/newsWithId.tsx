@@ -12,6 +12,16 @@ export default function News() {
   // * Loader function can be found in
   // * /src/main.tsx
   const { news } = useLoaderData() as {news: NewsArticle};
+  let date_label = <blockquote>⚠️ THIS IS A DRAFT.<br/><br/>Information in this article may or may not be accurate and is subject to change.</blockquote>
+
+  if (news.date !== 0) {
+    // If the date is 0, it means it has not been published and is a draft.
+    date_label = <p>{new Date(news.date*1000).toLocaleDateString("PST", {
+      day: "2-digit",
+      month: "long",
+      year: "numeric"
+    })}</p>
+  }
 
   return (
       <Layout>
@@ -21,11 +31,8 @@ export default function News() {
           <h1>{news.title}</h1>
 
           <p>by {news.author}</p>
-          <p>{new Date(news.date*1000).toLocaleDateString("PST", {
-            day: "2-digit",
-            month: "long",
-            year: "numeric"
-          })}</p>
+
+          {date_label}
           <br></br>
 
           <div className="news-image">

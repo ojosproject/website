@@ -12,6 +12,12 @@
     max-width: 500px;
 }
 
+blockquote {
+    border-left: 3px solid lightcoral;
+    padding: 5px 10px;
+    margin-left: 0;
+}
+
 .news-image {
     display: flex;
     flex-direction: row;

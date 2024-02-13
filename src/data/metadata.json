@@ -14,5 +14,13 @@
         "description": "The Ojos Project is looking for people interested in research to join! We are a research project under UC Irvine professor Mark S. Baldwin's Undergraduate Research Lab. Whether you're experienced with Linux or are a fantastic writer, we'd love to have you! Take a look to see how you can help!",
         "imageLocation": "/static/images/logo.png",
         "id": "join-us"
+    },
+    "urop-and-finances": {
+        "title": "Ojos Project wins a UROP grant!",
+        "author": "Carlos Valdez",
+        "date": 1707782653,
+        "description": "The Ojos Project won a UROP Research Experience Fellowship in December! Let's talk the grant, finances, and transparency.",
+        "imageLocation": "/static/images/audit.svg",
+        "id": "urop-and-finances"
     }
 }
