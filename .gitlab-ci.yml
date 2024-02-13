@@ -33,7 +33,7 @@ build:
   rules:
     - if: $CI_COMMIT_BRANCH != "main"
 
-deploy:
+pages:
   stage: deploy
   cache:
     key:
