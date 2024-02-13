@@ -20,7 +20,7 @@ function Footer() {
                 <ul>
                     <li>Dev Team</li>
                     <li><a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/ojosproject/">GitLab</a></li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://docs.gitlab.com/ee/user/ssh.html">Setting up SSH</a></li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://docs.gitlab.com/ee/user/ssh.html#generate-an-ssh-key-pair">Setting up SSH</a></li>
                     <li><a target="_blank" rel="noopener noreferrer" href="https://www.freecodecamp.org/news/how-to-write-commit-messages-maintainers-will-like/">Writing a commit</a></li>
                     <li><a target="_blank" rel="noopener noreferrer" href="https://www.geeksforgeeks.org/basic-linux-commands/">Basic Linux Commands</a></li>
                     <li><a target="_blank" rel="noopener noreferrer" href="https://quickref.me/bash">Bash Cheatsheet</a></li>
