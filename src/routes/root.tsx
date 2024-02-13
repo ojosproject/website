@@ -35,7 +35,7 @@ export default function Root() {
                     <TeamMember name="Carlos Valdez" position='software developer' organization="university of california, irvine" website='https://calejvaldez.com/'/>
                     <TeamMember name="Joseph Sweatt" position='engineering' organization="university of california, irvine" website='https://blackswan3d.com/'/>
                     <TeamMember name="Ayush Jain" position='software developer' organization="university of california, irvine" website="https://ayushbot412.github.io/"/>
-                    <TeamMember name="Isabella Gronich" organization="imperial valley college" position='publishing/documentation'/>
+                    <TeamMember name="Isabella Gronich" organization="imperial valley college" position='publishing/documentation' website="mailto:igronich@students.imperial.edu"/>
                     <TeamMember name="Jackie Sanchez" organization="imperial valley college" position='publishing/documentation'/>
                     <TeamMember name="Mark S. Baldwin, PhD" position='faculty advisor' organization="university of california, irvine" website='https://markbaldw.in/'/>
                 </div>
