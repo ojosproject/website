@@ -33,6 +33,8 @@ build:
   rules:
     - if: $CI_COMMIT_BRANCH != "main"
 
+# ! DO NOT CHANGE NAME OF THIS.
+# ! Used to be 'deploy', and GitLab did not like that.
 pages:
   stage: deploy
   cache:
