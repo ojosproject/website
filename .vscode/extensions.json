@@ -1,6 +1,7 @@
 {
     "recommendations": [
       "aaron-bond.better-comments",
-      "DavidAnson.vscode-markdownlint"
+      "DavidAnson.vscode-markdownlint",
+      "ms-vscode-remote.remote-wsl"
     ]
 }
