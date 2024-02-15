@@ -24,9 +24,10 @@ function Footer() {
                 </ul>
 
                 <ul>
-                    <li>Publishing Team</li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://storyset.com/">Storyset</a></li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://quickref.me/markdown">Markdown Cheatsheet</a></li>
+                    <li>Research Team</li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/">Google Scholar</a></li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://imperial.edu/courses-and-programs/divisions/arts-and-letters/library-2/index.html">IVC Library</a></li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://www.lib.uci.edu/">UCI Library</a></li>
                 </ul>
             </div>
 
