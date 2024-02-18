@@ -32,7 +32,7 @@ export default function Root() {
             <div className='our_team' id="team">
                 <h1>Our Team</h1>
                 <div className='team_members'>
-                    <TeamMember name="Carlos Valdez" position='software developer' organization="university of california, irvine" website='https://calejvaldez.com/'/>
+                    <TeamMember name="Carlos Valdez" position='project lead' organization="university of california, irvine" website='https://calejvaldez.com/'/>
                     <TeamMember name="Joseph Sweatt" position='engineering' organization="university of california, irvine" website='https://blackswan3d.com/'/>
                     <TeamMember name="Ayush Jain" position='software developer' organization="university of california, irvine" website="https://ayushbot412.github.io/"/>
                     <TeamMember name="Isabella Gronich" position='researcher' organization="imperial valley college" website="mailto:igronich@students.imperial.edu"/>
