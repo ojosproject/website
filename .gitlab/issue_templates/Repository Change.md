@@ -6,5 +6,5 @@
 
 (Why should we change the repo? What's wrong with the current structure?)
 
-/label ~repo improvements
+/label ~"repo related"
 /assign @calejvaldez
