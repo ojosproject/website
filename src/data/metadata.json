@@ -26,7 +26,7 @@
     "welcome-home": {
         "title": "Welcome to ojosproject.org!",
         "author": "Carlos Valdez",
-        "date": 0,
+        "date": 1708568029,
         "description": "Introducing our domain: ojosproject.org! Let's have a quick chat about what's in a domain, why we got the domain, and how the Ojos Project is slowly but surely developing.",
         "imageLocation": "/static/images/logo.png",
         "id": "welcome-home"
