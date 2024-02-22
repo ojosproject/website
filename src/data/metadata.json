@@ -22,5 +22,13 @@
         "description": "The Ojos Project won a UROP Research Experience Fellowship in December! Let's talk the grant, finances, and transparency.",
         "imageLocation": "/static/images/audit.svg",
         "id": "urop-and-finances"
+    },
+    "welcome-home": {
+        "title": "Welcome to ojosproject.org!",
+        "author": "Carlos Valdez",
+        "date": 0,
+        "description": "Introducing our domain: ojosproject.org!",
+        "imageLocation": "/static/images/logo.png",
+        "id": "welcome-home"
     }
 }

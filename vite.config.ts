@@ -13,7 +13,8 @@ export default defineConfig({
         news_join_us: resolve(__dirname, "public/news/join-us/index.html"),
         news_interviews: resolve(__dirname, "public/news/1706645600/index.html"),
         news_urop_finances: resolve(__dirname, "public/news/urop-and-finances/index.html"),
-        broken_join_us: resolve(__dirname, "public/join-us/index.html")
+        broken_join_us: resolve(__dirname, "public/join-us/index.html"),
+        news_home: resolve(__dirname, "public/news/welcome-home/index.html")
       }
     }
   }
