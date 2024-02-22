@@ -12,7 +12,7 @@ My goal for the Ojos Project, whether it stays as undergraduate research or goes
 
 ## Subdomains
 
-At some point, subdomains will be added to `ojosproject.org`. It's faster to type something like `docs.ojosproject.org` instead of `docs.ojos.calejvaldez.com`. It is a big part as to why I made the change.
+At some point, subdomains will be added to `ojosproject.org`. It's faster to type something like `docs.ojosproject.org` instead of `docs.ojos.calejvaldez.com`. It is a big part of why I made the change.
 
 The Ojos Project is slowly but surely becoming something more complicated than a single-page website. We're moving, writing documentation, etc. I want us to be ready for that ahead of time.
 
