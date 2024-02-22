@@ -2,7 +2,7 @@
 
 ## What's in a domain? (and why a `.org`?)
 
-For the general public, a domain is a website such as `wikipedia.org`. At the same time, a domain is an identity. It helps identifying valid email addresses and subdomains. I've been wanting to get a domain for the Ojos Project for the sole purpose of identity.
+For the general public, a domain is a website such as `wikipedia.org`. At the same time, a domain is an identity. It helps identify valid email addresses and subdomains. I've been wanting to get a domain for the Ojos Project for the sole purpose of identity.
 
 The reason we're a `.org` is because I want to follow the path of other open-source projects, such as [GNOME](https://gnome.org/) and [KDE](https://kde.org/), both with `.org` domains. A `.com` is often associated with "commercial", while a `.org` is associated with "organization".
 
