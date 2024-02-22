@@ -8,6 +8,15 @@ body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 
+    code {
+        // gives code brackets `similar to this` a similar look like that on
+        // Discord, GitHub, or GitLab
+        background-color: rgb(240, 240, 240);
+        padding: 2px;
+        border-radius: 5px;
+        font-weight: bold;
+    }
+
     p, li {
         line-height: 25px;
     }
