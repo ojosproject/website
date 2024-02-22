@@ -18,7 +18,7 @@ The Ojos Project is slowly but surely becoming something more complicated than a
 
 ## What about `ojos.calejvaldez.com`?
 
-The deprecated subomain will still be available and updated for a few more days, or even weeks. Eventually, I will redirect the subdomain to the new `ojosproject.org` domain. It's heavily recommended to use the new domain.
+The deprecated subdomain will still be available and updated for a few more days, or even weeks. Eventually, I will redirect the subdomain to the new `ojosproject.org` domain. It's heavily recommended to use the new domain.
 
 ## Can I see the code?
 
