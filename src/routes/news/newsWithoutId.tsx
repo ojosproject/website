@@ -35,7 +35,7 @@ export default function NewsStand() {
 
       <div className="join-us-body">
         {
-            Object.values(newsStand).sort((v) => v.date).reverse().map(value => {
+            Object.values(newsStand).sort((a, b) => b.date - a.date).map(value => {
                 return <ClickableNews {...value} />
             })
         }
