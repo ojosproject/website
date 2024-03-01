@@ -14,21 +14,19 @@ function Footer() {
                     <li>Ojos Project</li>
                     <li><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/document/d/10M-nWgvVwltjMFBX2B4WWvXJXEF5i2PFWH1fpbsGK-8/">Timeline</a></li>
                     <li><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/spreadsheets/d/1W9qHV4Bm3wPtvsBWxmY4jpJY9JbhpSFIvcgRSFbrr78/">Finances</a></li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://discord.gg/SejmYUthEj">Discord</a></li>
+                </ul>
+
+                <ul>
+                    <li>URL Team</li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/ojosproject/">GitLab</a></li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://docs.ojosproject.org/teams/url/">URL Team Docs</a></li>
                     <li><a target="_blank" rel="noopener noreferrer" href="https://markbaldw.in/url/">Undergraduate Research Lab</a></li>
                 </ul>
 
                 <ul>
-                    <li>Dev Team</li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/ojosproject/">GitLab</a></li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://docs.ojosproject.org/docs/teams/url/ssh-setup/">Setting up SSH</a></li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://www.freecodecamp.org/news/how-to-write-commit-messages-maintainers-will-like/">Writing a commit</a></li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://www.geeksforgeeks.org/basic-linux-commands/">Basic Linux Commands</a></li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://quickref.me/bash">Bash Cheatsheet</a></li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://quickref.me/yaml">YAML Cheatsheet</a></li>
-                </ul>
-
-                <ul>
                     <li>Research Team</li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://docs.ojosproject.org/teams/research/">Research Team Docs</a></li>
                     <li><a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/">Google Scholar</a></li>
                     <li><a target="_blank" rel="noopener noreferrer" href="https://imperial.edu/courses-and-programs/divisions/arts-and-letters/library-2/index.html">IVC Library</a></li>
                     <li><a target="_blank" rel="noopener noreferrer" href="https://www.lib.uci.edu/">UCI Library</a></li>
