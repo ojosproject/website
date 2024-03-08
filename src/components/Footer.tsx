@@ -12,15 +12,15 @@ function Footer() {
                 <img src="/static/images/logo.png"/>
                 <ul>
                     <li>Ojos Project</li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/document/d/10M-nWgvVwltjMFBX2B4WWvXJXEF5i2PFWH1fpbsGK-8/">Timeline</a></li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/spreadsheets/d/1W9qHV4Bm3wPtvsBWxmY4jpJY9JbhpSFIvcgRSFbrr78/">Finances</a></li>
                     <li><a target="_blank" rel="noopener noreferrer" href="https://discord.gg/SejmYUthEj">Discord</a></li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/spreadsheets/d/1W9qHV4Bm3wPtvsBWxmY4jpJY9JbhpSFIvcgRSFbrr78/">Finances</a></li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="mailto:contact-project+ojosproject-website-54703113-issue-@incoming.gitlab.com">Found a bug? Email us!</a></li>
                 </ul>
 
                 <ul>
                     <li>URL Team</li>
-                    <li><a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/ojosproject/">GitLab</a></li>
                     <li><a target="_blank" rel="noopener noreferrer" href="https://docs.ojosproject.org/teams/url/">URL Team Docs</a></li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/ojosproject/">GitLab</a></li>
                     <li><a target="_blank" rel="noopener noreferrer" href="https://markbaldw.in/url/">Undergraduate Research Lab</a></li>
                 </ul>
 
