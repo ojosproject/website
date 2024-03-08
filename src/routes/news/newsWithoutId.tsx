@@ -21,7 +21,7 @@ function ClickableNews(props: NewsArticle) {
     return <a href={"/news/"+props.id+"/"} className="news-stand-article">
         <img src={props.imageLocation} width="200"/>
         <div>
-            <h3><span className="article-title">{props.title}</span> by {props.author}</h3>
+            <h3><span className="article-title">{props.title}</span> by {props.author.name}</h3>
             {date_label}
             
             <p>{props.description}</p>

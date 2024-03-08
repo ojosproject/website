@@ -30,9 +30,10 @@ export default function News() {
         <div className="join-us-container">
           <h1>{news.title}</h1>
 
-          <p>by {news.author}</p>
-
           {date_label}
+          <a className="news-author-container" target="_blank" rel="noopener noreferrer" href={"mailto:"+news.author.email}>
+            <img src={`https://gravatar.com/avatar/${news.author.email_sha}?s=50&d=mp`}/> by {news.author.name}
+          </a>
           <br></br>
 
           <div className="news-image">

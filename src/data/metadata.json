@@ -1,7 +1,11 @@
 {
     "1706645600": {
         "title": "The Ojos Project is searching for interview candidates!",
-        "author": "Carlos Valdez",
+        "author": {
+            "name": "Carlos Valdez",
+            "email": "cvaldezh@uci.edu",
+            "email_sha": "41bb2938e02bf5326eb6b82ec02d919ca97cf68b376c4c5769fbba4acc85a190"
+        },
         "date": 1706645600,
         "description": "The Ojos Project is searching for individuals to participate in an interview regarding their experiences as caregivers for hospice patients. As researchers, our main responsibility is to collect data to build the right thing. If you're interested, please keep reading!",
         "imageLocation": "/static/images/video_call.svg",
@@ -9,7 +13,11 @@
     },
     "join-us": {
         "title": "🤝 Join the Ojos Project",
-        "author": "Carlos Valdez",
+        "author": {
+            "name": "Carlos Valdez",
+            "email": "cvaldezh@uci.edu",
+            "email_sha": "41bb2938e02bf5326eb6b82ec02d919ca97cf68b376c4c5769fbba4acc85a190"
+        },
         "date": 1706645601,
         "description": "The Ojos Project is looking for people interested in research to join! We are a research project under UC Irvine professor Mark S. Baldwin's Undergraduate Research Lab. Whether you're experienced with Linux or are a fantastic writer, we'd love to have you! Take a look to see how you can help!",
         "imageLocation": "/static/images/logo.png",
@@ -17,7 +25,11 @@
     },
     "urop-and-finances": {
         "title": "Ojos Project wins a UROP grant!",
-        "author": "Carlos Valdez",
+        "author": {
+            "name": "Carlos Valdez",
+            "email": "cvaldezh@uci.edu",
+            "email_sha": "41bb2938e02bf5326eb6b82ec02d919ca97cf68b376c4c5769fbba4acc85a190"
+        },
         "date": 1707782653,
         "description": "The Ojos Project won a UROP Research Experience Fellowship in December! Let's talk the grant, finances, and transparency.",
         "imageLocation": "/static/images/audit.svg",
@@ -25,7 +37,11 @@
     },
     "welcome-home": {
         "title": "Welcome to ojosproject.org!",
-        "author": "Carlos Valdez",
+        "author": {
+            "name": "Carlos Valdez",
+            "email": "cvaldezh@uci.edu",
+            "email_sha": "41bb2938e02bf5326eb6b82ec02d919ca97cf68b376c4c5769fbba4acc85a190"
+        },
         "date": 1708568029,
         "description": "Introducing our domain: ojosproject.org! Let's have a quick chat about what's in a domain, why we got the domain, and how the Ojos Project is slowly but surely developing.",
         "imageLocation": "/static/images/logo.png",
