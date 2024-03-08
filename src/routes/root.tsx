@@ -34,7 +34,7 @@ export default function Root() {
                 <div className='team_members'>
                     <TeamMember name="Carlos Valdez" position='project lead' organization="university of california, irvine" website='https://calejvaldez.com/'/>
                     <TeamMember name="Joseph Sweatt" position='engineering' organization="university of california, irvine" website='https://www.linkedin.com/in/josephsweattjr/'/>
-                    <TeamMember name="Ayush Jain" position='software developer' organization="university of california, irvine" website="https://ayushbot412.github.io/"/>
+                    <TeamMember name="Ayush Jain" position='software developer' organization="university of california, irvine" website="https://ayushdotjain.com/"/>
                     <TeamMember name="Isabella Gronich" position='researcher' organization="imperial valley college" website="mailto:igronich@students.imperial.edu"/>
                     <TeamMember name="Jackie Sanchez"  position='researcher' organization="imperial valley college" website="mailto:jsanchez88@students.imperial.edu"/>
                     <TeamMember name="Mark S. Baldwin, PhD" position='faculty advisor' organization="university of california, irvine" website='https://markbaldw.in/'/>
