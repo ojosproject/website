@@ -58,17 +58,23 @@
 }
 
 .member_container {
-    height: 100px;
     width: 300px;
-
     margin: 10px;
-
     text-align: center;
+    text-decoration: none;
 
-    p {line-height: 5px;}
+    img {
+        margin: 10px;
+        border-radius: 10px;
+    }
 
-    a, h3 {
-        font-size: 20px;
+    p {
+        line-height: 5px;
+    }
+
+    h3 {
+        font-weight:normal;
         text-decoration: underline;
+        font-size: 20px;
     }
 }
