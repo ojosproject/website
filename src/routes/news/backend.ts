@@ -6,7 +6,7 @@ import metadata from "../../data/metadata.json"
 
 export interface NewsArticle {
     title: string,
-    author: string,
+    author: {name: string, email: string, email_sha: string},
     date: number,
     id: string,
     contentInMarkdown?: string,

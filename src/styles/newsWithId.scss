@@ -10,6 +10,17 @@
 .join-us-container {
     margin: 25px;
     max-width: 500px;
+
+    .news-author-container {
+        img {
+            border-radius: 100px;
+            margin: 0 10px;
+        }
+
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+    }
 }
 
 blockquote {
