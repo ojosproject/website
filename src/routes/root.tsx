@@ -37,7 +37,7 @@ export default function Root() {
                     <TeamMember name="Joseph Sweatt" position='engineering' organization="university of california, irvine" gravatar_link='https://gravatar.com/avatar/fac497a877e467035b306a201b938608120228662480b08e0477c59b4cfe347a' website='https://www.linkedin.com/in/josephsweattjr/'/>
                     <TeamMember name="Ayush Jain" position='software developer' organization="university of california, irvine" gravatar_link='https://gravatar.com/avatar/e4c598f9826093429edec4c38d6bfb93968a59b512259b07e7d1ffe4ff7bb115' website="https://ayushdotjain.com/"/>
                     <TeamMember name="Isabella Gronich" position='researcher' organization="imperial valley college" gravatar_link='https://gravatar.com/avatar/e4b66681a801324cb8b596783892b45e275d0c182789cb22a2af0c14ff73f0f8' website="mailto:igronich@students.imperial.edu"/>
-                    <TeamMember name="Mark S. Baldwin, PhD" position='faculty advisor' organization="university of california, irvine" gravatar_link='https://gravatar.com/avatar/681e39c56221b204973cb6c3400ae235c6282f29862a742df02c2de30ca0df7c' website='https://markbaldw.in/'/>
+                    <TeamMember name="Mark S. Baldwin, PhD" position='faculty advisor' organization="university of california, irvine" gravatar_link='https://gravatar.com/avatar/84ea4715fcf218179a00bd36150884d878b5d4a19fb731b2d09ab0eee7aba509' website='https://markbaldw.in/'/>
                 </div>
             </div>
         </Layout>
