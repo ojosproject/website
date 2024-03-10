@@ -25,7 +25,7 @@ export default function Root() {
             <div className="story">
                 <div className="story_text">
                 <h1>Creating an easier way to stay connected with who you love.</h1>
-                <p>The Ojos Project is a UCI-backed research endeavor in which we aim to understand the needs of hospice patients, caregivers, and healthcare specialists to provide them with a better way to address the hospice experience. By utilizing modern technologies and analyzing previous methods, we will ensure your loved one gets the best possible care during this delicate time.</p>
+                <p>The Ojos Project is a UCI-backed research endeavor in which we aim to understand the needs of hospice patients, caregivers, and healthcare specialists to provide them with a better way to address the hospice experience. By utilizing modern technologies and analyzing previous methods, we will ensure nurses and caregivers stay connected to provide a sense of comfort and confidence during your loved one's care.</p>
                 </div>
                 <img className="story_image" src={GrandmaImage} alt="Carlos with his grandmother"></img>
             </div>
@@ -36,7 +36,7 @@ export default function Root() {
                     <h1>Our Purpose</h1>
                     <p>Hospice patients are often immobile and slowly lose their independence, relying on the people around them to take care of them. It's difficult to help someone in this position when we often have other responsibilities, such as work.</p>
                     <p>During this moment, caregivers often have a lot on their mind. This can become dangerous if the caregiver forgets critical information about the patient's care, loses track of how often medication was taken, or forgets to report the patient's level of comfort.</p>
-                    <p>The purpose of the Ojos Project is to increase patient independence by providing a kiosk-like assistant and to make sure all caregivers are on the same page by ensuring all information on the kiosk is up to date and synchronized with their personal devices.</p>
+                    <p>The purpose of the Ojos Project is to increase patient independence by providing a kiosk-like assistant and to make sure all caregivers are on the same page by ensuring all information of the patient's care is on one device.</p>
                 </div>
             </div>
 
