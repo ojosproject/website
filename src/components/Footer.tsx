@@ -1,7 +1,7 @@
 // Footer.tsx
 // Ojos Project
 // 
-// This is the footer displayed everywhere on ojos.calejvaldez.com.
+// This is the footer displayed everywhere on ojosproject.org.
 
 function Footer() {
     // Temporary footer
