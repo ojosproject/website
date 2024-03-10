@@ -10,7 +10,6 @@ function Announcement({children}: {children: ReactNode}) {
         <div className="announcement">
             {children}
         </div>
-  
     )
 }
 

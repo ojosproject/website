@@ -35,7 +35,7 @@ header {
         flex-direction: row;
         align-items: center;
         margin: 0 25px;
-        padding-top: 50px; // so that it's not covered by `Announcement`
+        padding-top: 25px;
     }
 
     .header-item-list {
@@ -56,8 +56,6 @@ header {
     .announcement {
         background-color: lightcoral;
         color: black;
-    
-        position:fixed;
     
         width: 100%;
     
