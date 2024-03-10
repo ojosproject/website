@@ -8,6 +8,7 @@ export interface NewsArticle {
     title: string,
     author: {name: string, email: string, email_sha: string},
     date: number,
+    updated: number,
     id: string,
     contentInMarkdown?: string,
     description: string
@@ -26,6 +27,7 @@ export async function getNewsContent(fromId: string): Promise<NewsArticle> {
         author: Object(metadata)[fromId].author,
         date: Object(metadata)[fromId].date,
         id: fromId,
+        updated: Object(metadata)[fromId].updated,
         description: Object(metadata)[fromId].description,
         imageLocation: Object(metadata)[fromId].imageLocation,
         contentInMarkdown: content
