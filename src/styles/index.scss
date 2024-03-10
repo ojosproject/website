@@ -71,7 +71,9 @@ header {
 }
 
 footer {
-    color: grey;
+    padding-top: 10px;
+    color: rgb(100, 100, 100);
+    background-color: rgb(245, 245, 245);
 
     display: flex;
     flex-direction: column;
@@ -92,13 +94,14 @@ footer {
             padding-left: 0;
         }
 
-        img {
-            width: 200px;
-        }
-
         li {
             list-style: none;
             margin: 10px 0;
+        }
+
+        .li-header {
+            color: black;
+            font-weight: bold;
         }
 
         @media screen and (max-width: 767px) {
@@ -117,6 +120,11 @@ footer {
     }
 
     a {
-        color: grey;
+        color: rgb(100, 100, 100);
+        text-decoration: none;
+
+        &:hover {
+            text-decoration: underline;
+        }
     }
 }
