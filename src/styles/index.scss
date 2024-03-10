@@ -88,6 +88,10 @@ footer {
         justify-content: space-evenly;
         width: 100%;
 
+        ul {
+            padding-left: 0;
+        }
+
         img {
             width: 200px;
         }
@@ -98,13 +102,13 @@ footer {
         }
 
         @media screen and (max-width: 767px) {
+            justify-content: center;
+            text-align: center;
             ul {
                 width: 250px;
             }
         }
     }
-
-
 
     p {
         max-width: 200px;
