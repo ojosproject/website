@@ -20,7 +20,7 @@ function ClickableNews(props: NewsArticle) {
     }
     return <a href={"/news/"+props.id+"/"} className="news-stand-article">
         <img src={props.imageLocation} width="200"/>
-        <div>
+        <div className="news-stand-article-text">
             <h3><span className="article-title">{props.title}</span> by {props.author.name}</h3>
             {date_label}
             
@@ -32,8 +32,7 @@ function ClickableNews(props: NewsArticle) {
 export default function NewsStand() {
   return (
       <Layout>
-
-      <div className="join-us-body">
+      <div className="news-stand">
         {
             Object.values(newsStand).sort((a, b) => b.date - a.date).map(value => {
                 return <ClickableNews {...value} />
