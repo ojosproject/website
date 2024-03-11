@@ -18,11 +18,9 @@ All of our software will be for the good of those in need, and will be 100% free
 
 ## 👷 Member Responsibilities
 
-Considering we're being graded for this project, there will be responsibilities for this project. At the very minimum, the responsibilities include:
+The Ojos Project currently has two teams you can join: the URL team and the Research team. Responsibilities vary depending on which team you'd like to join. If you want to work on building the physical device, you may join the URL team that is physically on campus. However, if you prefer to be doing research, you may join the Research team to work on everything asynchronously. Regardless, you can view responsibilities on the [URL team homepage](https://docs.ojosproject.org/teams/url/) or the [Research team homepage](https://docs.ojosproject.org/teams/research/).
 
-- A minimum of a two-quarter commitment
-- Meeting at least twice a week (once with Prof. Baldwin, another to work)
-- Meeting responsibilities as outlined in our internal timeline
+Individuals who are not enrolled in IN4MATX 199 may join and leave the project however they'd like. [Please read the Informatics 199 Acknowledement here](https://docs.ojosproject.org/teams/url/inf199-acknowledgement/).
 
 ## 🙋 How you can help
 
@@ -30,10 +28,10 @@ We're looking for individuals who already know, or are curious about, various te
 
 You can help if you want to do any of the following things:
 
-- Work with a Raspberry Pi
-- Work with Linux/Raspberry Pi OS
-- Work with programming languages (Soon!)
-- [Documenting our work](https://en.wikipedia.org/wiki/Software_documentation)/general paperwork
+- Requirements gathering
+- Conducting interviews
+- Documenting our work
+- Researching topics about hospice
 
 This is a learning experience for everyone, so if you don't know how to do some of the things in this least, please know we may just be in a similar boat! 🛶
 
@@ -43,6 +41,7 @@ The benefits of joining the project include:
   - Research
   - Raspberry Pi
   - Linux
+  - ... and more!
 
 ## 📧 Contact
 
