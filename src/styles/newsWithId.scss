@@ -1,10 +1,14 @@
 // newsWithId.scss
 // Ojos Project
-.join-us-body {
+@mixin centered-flex() {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+.join-us-body {
+    @include centered-flex()
 }
 
 .join-us-container {
@@ -37,14 +41,18 @@ blockquote {
     height: 300px;
 }
 
+.news-stand {
+    @include centered-flex();
+    margin: 20px;
+}
+
 .news-stand-article {
     display: flex;
     flex-direction: row;
 
     justify-content: center;
 
-
-    width: 80%;
+    width: 100%;
     max-width: 1000px;
     margin: 30px 0;
     padding: 5px;
@@ -57,6 +65,10 @@ blockquote {
 
     p {
         text-decoration: none;
+    }
+
+    .news-stand-article-text {
+        width: 100%;
     }
 
     @media screen and (max-width: 767px) {

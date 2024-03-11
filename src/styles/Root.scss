@@ -26,14 +26,13 @@
     .story_image {
         margin: 0 20px;
         
-        max-height: 396px;
+        // max-height: 396px;
         max-width: 528px;
         
         border-radius: 20px;
 
         @media screen and (max-width: 767px) {
-            width: 300px;
-            height: 240px;
+            max-width: 300px;
             margin-top: 20px;
         }
     }

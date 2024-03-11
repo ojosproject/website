@@ -35,7 +35,7 @@ header {
         flex-direction: row;
         align-items: center;
         margin: 0 25px;
-        padding-top: 50px; // so that it's not covered by `Announcement`
+        padding-top: 25px;
     }
 
     .header-item-list {
@@ -57,8 +57,6 @@ header {
         background-color: lightcoral;
         color: black;
     
-        position:fixed;
-    
         width: 100%;
     
         text-align: center;
@@ -71,7 +69,9 @@ header {
 }
 
 footer {
-    color: grey;
+    padding-top: 10px;
+    color: rgb(100, 100, 100);
+    background-color: rgb(240, 240, 240);
 
     display: flex;
     flex-direction: column;
@@ -88,8 +88,8 @@ footer {
         justify-content: space-evenly;
         width: 100%;
 
-        img {
-            width: 200px;
+        ul {
+            padding-left: 0;
         }
 
         li {
@@ -97,14 +97,19 @@ footer {
             margin: 10px 0;
         }
 
+        .li-header {
+            color: black;
+            font-weight: bold;
+        }
+
         @media screen and (max-width: 767px) {
+            justify-content: center;
+            text-align: center;
             ul {
                 width: 250px;
             }
         }
     }
-
-
 
     p {
         max-width: 200px;
@@ -113,6 +118,11 @@ footer {
     }
 
     a {
-        color: grey;
+        color: rgb(100, 100, 100);
+        text-decoration: none;
+
+        &:hover {
+            text-decoration: underline;
+        }
     }
 }

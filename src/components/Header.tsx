@@ -1,7 +1,7 @@
 // Header.tsx
 // Ojos Project
 // 
-// This is the header that is displayed everywhere on ojos.calejvaldez.com.
+// This is the header that is displayed everywhere on ojosproject.org.
 import { ReactNode } from 'react'
 import Logo from '/static/images/logo.png'
 
@@ -10,7 +10,6 @@ function Announcement({children}: {children: ReactNode}) {
         <div className="announcement">
             {children}
         </div>
-  
     )
 }
 
@@ -29,10 +28,6 @@ function List(props: {selection: {label: string, value: string}[]}) {
 }
 
 function Header() {
-    // ! If you're going to update, please check if
-    // ! src/components/Header.tsx
-    // ! also needs to update
-
     let dev_indicator: ReactNode = <></>
 
     if (window.location.href.includes("dev.")) {
