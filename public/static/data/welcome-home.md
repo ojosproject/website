@@ -18,6 +18,8 @@ The Ojos Project is slowly but surely becoming something more complicated than a
 
 The deprecated subdomain will still be available and updated for a few more days, or even weeks. Eventually, I will redirect the subdomain to the new `ojosproject.org` domain. It's heavily recommended to use the new domain.
 
+Edit: `ojos.calejvaldez.com` will now redirect to `ojosproject.org` and will no longer be updated. Everything before **February 22, 2024** will be redirected.
+
 ## Can I see the code?
 
 Of course. It's available on [our GitLab page](https://gitlab.com/ojosproject/website).
