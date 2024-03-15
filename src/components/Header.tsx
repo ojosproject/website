@@ -36,11 +36,21 @@ function Header() {
         dev_indicator = <Announcement><p>Currently on the <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/ojosproject/ojos.calejvaldez.com/-/commits/dev">dev branch</a>, meaning that this is for development/testing purposes.</p></Announcement>
     }
 
+    // ! Remove this once Spring Break is over.
+    // Temporarily here to notify people we're going on Spring Break.
+    const now = new Date();
+    let break_indicator: ReactNode = <></>;
+
+    if (new Date(1711152000000) < now && now < new Date(1711983600000)) {
+        break_indicator = <Announcement><p>The Ojos Project will be inactive until April 1, 2024. Have a great Spring Break!</p></Announcement>
+    }
+
     // * If there is no `Announcement`,
     // * set `children` as <></>
     return (
         <header>
             {dev_indicator}
+            {break_indicator}
             <Announcement>
                 <></>
             </Announcement>
