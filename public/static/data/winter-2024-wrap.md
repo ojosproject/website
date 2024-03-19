@@ -45,12 +45,14 @@ considering:
 
 - Teams
   - Splitting the [URL team](https://docs.ojosproject.org/teams/url/) into more
-    focused teams, such as developers and engineering.
+    focused teams, such as developers and engineering
   - Getting someone to properly lead the Research Team
+  - Getting someone to lead individuals at IVC
 - Requirements
   - Finalizing an iteration of the requirements
   - Start software development
   - More interviews conducted by other team members
+  - Continuing to research academic papers
 - [Undergraduate Research Lab](https://markbaldw.in/url/) (URL Team)
   - We plan to sign up for the
     [UROP Summer Undergraduate Research Program](https://urop.uci.edu/urop-opportunities/#surp)
