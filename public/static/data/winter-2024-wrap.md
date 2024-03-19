@@ -51,6 +51,9 @@ considering:
   - Finalizing an iteration of the requirements
   - Start software development
   - More interviews conducted by other team members
+- [Undergraduate Research Lab](https://markbaldw.in/url/) (URL Team)
+  - We plan to sign up for the
+    [UROP Summer Undergraduate Research Program](https://urop.uci.edu/urop-opportunities/#surp)
 
 ## Acknowledgements
 
