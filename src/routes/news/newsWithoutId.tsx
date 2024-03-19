@@ -19,7 +19,7 @@ function ClickableNews(props: NewsArticle) {
       })}</p>
     }
     return <a href={"/news/"+props.id+"/"} className="news-stand-article">
-        <img src={props.imageLocation} width="200"/>
+        <img src={props.imageLocation} className="news-stand-article-image" width="200"/>
         <div className="news-stand-article-text">
             <h3><span className="article-title">{props.title}</span> by {props.author.name}</h3>
             {date_label}

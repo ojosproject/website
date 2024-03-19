@@ -22,7 +22,7 @@
         "date": 1706645601,
         "updated": 1710185757,
         "description": "The Ojos Project is looking for people interested in research to join! We are a research project under UC Irvine professor Mark S. Baldwin's Undergraduate Research Lab. Whether you're experienced with Linux or are a fantastic writer, we'd love to have you! Take a look to see how you can help!",
-        "imageLocation": "/static/images/logo.png",
+        "imageLocation": "https://docs.ojosproject.org/img/header.png",
         "id": "join-us"
     },
     "urop-and-finances": {
@@ -48,7 +48,7 @@
         "date": 1708568029,
         "updated": 1710203469,
         "description": "Introducing our domain: ojosproject.org! Let's have a quick chat about what's in a domain, why we got the domain, and how the Ojos Project is slowly but surely developing.",
-        "imageLocation": "/static/images/logo.png",
+        "imageLocation": "https://docs.ojosproject.org/img/header.png",
         "id": "welcome-home"
     },
     "winter-2024-wrap": {
@@ -61,7 +61,7 @@
         "date": 0,
         "updated": 0,
         "description": "The 2024 Winter quarter is almost finished! As we get ready to wrap up for Spring break, let's go over some of the accomplishments we had this quarter, as well as the plans we have for Spring 2024. Be back soon!",
-        "imageLocation": "/static/images/logo.png",
+        "imageLocation": "https://docs.ojosproject.org/img/header.png",
         "id": "winter-2024-wrap"
     }
 }
