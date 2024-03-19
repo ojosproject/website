@@ -47,7 +47,7 @@ considering:
   - Splitting the [URL team](https://docs.ojosproject.org/teams/url/) into more
     focused teams, such as developers and engineering
   - Getting someone to properly lead the Research Team
-  - Getting someone to lead individuals at IVC
+  - Getting someone to lead individuals at [Imperial Valley College](https://imperial.edu/)
 - Requirements
   - Finalizing an iteration of the requirements
   - Start software development
