@@ -33,7 +33,7 @@ function Header() {
     if (window.location.href.includes("dev.")) {
         // This is hosted on a development platform on
         // https://dev.ojosproject.org/
-        dev_indicator = <Announcement><p>Currently on the <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/ojosproject/ojos.calejvaldez.com/-/commits/dev">dev branch</a>, meaning that this is for development/testing purposes.</p></Announcement>
+        dev_indicator = <Announcement><p>Currently on the <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/ojosproject/website/-/commits/dev">dev branch</a>, meaning that this is for development/testing purposes.</p></Announcement>
     }
 
     // ! Remove this once Spring Break is over.
