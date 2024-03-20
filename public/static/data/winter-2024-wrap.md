@@ -20,6 +20,19 @@ interviews and our research.
 Since our requirements aren't yet ready, it isn't published. Once it is though,
 [you can find them here](https://docs.ojosproject.org/teams/url/requirements/).
 
+### Hardware
+
+The goal of this project was to build a hospice device that can run on a
+Raspberry Pi. Thanks to
+[the UROP grant](https://ojosproject.org/news/urop-and-finances/), we've now
+purchased both a Raspberry Pi 4 and a Raspberry Pi 5.
+
+We also got hold of some keyboards and monitors that the UCI Informatics
+department let us use so that we can interact with the Pis.
+
+All of our purchases are
+[publicly available for everyone to see](https://docs.google.com/spreadsheets/d/1W9qHV4Bm3wPtvsBWxmY4jpJY9JbhpSFIvcgRSFbrr78/).
+
 ### (More) Research
 
 We're researching various academic papers regarding hospice, and even started
@@ -56,14 +69,18 @@ considering:
 - [Undergraduate Research Lab](https://markbaldw.in/url/) (URL Team)
   - We plan to sign up for the
     [UROP Summer Undergraduate Research Program](https://urop.uci.edu/urop-opportunities/#surp)
+- ... and probably more!
 
 ## Acknowledgements
+
+All in all, it was a very productive quarter with wins all around. Of course,
+we didn't do this alone.
 
 First and foremost, thank you to our interviewees who participated in our
 project. Your input helped us understand the different ways we can help patients
 and caregivers alike.
 
-And of course, from the bottom of my heart to
+And of course, from the bottom of my heart, thank you to
 [the entire team](https://ojosproject.org/#team). Without you, none of this
 would have been possible.
 
