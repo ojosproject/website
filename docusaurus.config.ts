@@ -34,7 +34,14 @@ const config: Config = {
     ],
   ],
 
-  plugins: ['docusaurus-plugin-sass'],
+  plugins: ['docusaurus-plugin-sass', [
+    '@docusaurus/plugin-client-redirects',
+    {
+      redirects: [
+        {from: '/join-us/', to: '/news/join-us/'}
+      ]
+    }
+  ]],
 
   themeConfig: {
     colorMode: {
