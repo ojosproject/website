@@ -7,6 +7,7 @@ const config: Config = {
 
   url: 'https://ojosproject.org',
   baseUrl: '/',
+  trailingSlash: true,
 
   organizationName: 'ojosproject',
   projectName: 'website',
@@ -25,7 +26,9 @@ const config: Config = {
       {
         docs: false,
         blog: {
-          routeBasePath: '/news'
+          routeBasePath: '/news',
+          blogTitle: 'Project News',
+          showReadingTime: false,
         },
       } satisfies Preset.Options,
     ],
