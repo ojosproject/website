@@ -78,7 +78,7 @@ export default function Root() {
                     {team.map((member) => {return <TeamMember member={member}/>})}
                 </div>
 
-                <p>... and <a href="https://docs.ojosproject.org/url/members/">more</a>.</p>
+                <p>... and <a href="https://docs.ojosproject.org/url/members/" target="_blank" rel="noopener noreferrer">more</a>.</p>
             </div>
         </Layout>
     )
