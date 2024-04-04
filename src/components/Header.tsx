@@ -3,7 +3,6 @@
 // 
 // This is the header that is displayed everywhere on ojosproject.org.
 import { ReactNode } from 'react'
-import Logo from '/static/images/logo.png'
 
 function Announcement({children}: {children: ReactNode}) {
     return (
@@ -56,7 +55,7 @@ function Header() {
             </Announcement>
             
             <div className='header-item-container'>
-                <a href="/"><img src={Logo}></img></a>
+                <a href="/"><img src="https://docs.ojosproject.org/img/logo.png"></img></a>
                 <List selection={[
                     {label: "Project News", value: "/news/"},
                     {label: "Join us!", value: "/news/join-us/"}

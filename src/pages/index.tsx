@@ -2,11 +2,12 @@
 // Ojos Project
 // 
 // This is the root of the website at `/`.
-import Layout from '../components/Layout'
 import GrandmaImage from "/static/images/grandma.jpg"
 import JosephGrandmaImage from "/static/images/joseph-grandma.jpg"
-import "../styles/Root.css"
+import "../css/Root.scss"
+import "./index.module.scss"
 import { useEffect, useState } from 'react'
+import Layout from '@theme/Layout'
 
 interface Member {
     name: string
