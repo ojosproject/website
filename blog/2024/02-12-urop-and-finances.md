@@ -1,5 +1,5 @@
 ---
-authors: carlos
+authors: cvaldezh@uci.edu
 slug: /urop-and-finances/
 hide_table_of_contents: true
 image: https://ojosproject.org/images/audit.svg

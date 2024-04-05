@@ -1,5 +1,5 @@
 ---
-authors: carlos
+authors: cvaldezh@uci.edu
 slug: /join-us/
 hide_table_of_contents: true
 description: >

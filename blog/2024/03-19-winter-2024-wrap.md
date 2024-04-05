@@ -1,5 +1,5 @@
 ---
-authors: carlos
+authors: cvaldezh@uci.edu
 slug: /winter-2024-wrap/
 hide_table_of_contents: true
 description: >
