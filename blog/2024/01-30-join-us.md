@@ -7,7 +7,8 @@ description: >
   a research project under UC Irvine professor Mark S. Baldwin's Undergraduate
   Research Lab. Whether you're experienced with Linux or are a fantastic writer,
   we'd love to have you! Take a look to see how you can help!
-
+last_update:
+  date: March 11 2024
 ---
 # Join the Ojos Project
 

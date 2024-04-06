@@ -6,6 +6,8 @@ description: >
     Introducing our domain: ojosproject.org! Let's have a quick chat about
     what's in a domain, why we got the domain, and how the Ojos Project is
     slowly but surely developing.
+last_update:
+    date: March 11 2024
 ---
 # Welcome to ojosproject.org
 
