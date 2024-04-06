@@ -23,6 +23,7 @@ const config: Config = {
       {
         docs: false,
         blog: {
+          path: './news',
           routeBasePath: '/news',
           blogTitle: 'Project News',
           // ? Cannot have last update time show up without an editUrl link set
