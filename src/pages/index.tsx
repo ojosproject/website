@@ -1,11 +1,8 @@
 // root.tsx
 // Ojos Project
-// 
-// This is the root of the website at `/`.
 import GrandmaImage from "/static/images/grandma.jpg"
 import JosephGrandmaImage from "/static/images/joseph-grandma.jpg"
-import "../css/Root.scss"
-import "./index.module.scss"
+import "./index.scss"
 import { useEffect, useState } from 'react'
 import Layout from '@theme/Layout'
 

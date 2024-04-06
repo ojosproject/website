@@ -30,6 +30,9 @@ const config: Config = {
           blogTitle: 'Project News',
           showReadingTime: false,
         },
+        theme: {
+          customCss: './src/css/custom.css'
+        }
       } satisfies Preset.Options,
     ],
   ],
@@ -64,6 +67,11 @@ const config: Config = {
         {
           label: 'Join us!',
           to: '/news/join-us/'
+        },
+        {
+          label: "Documentation",
+          href: "https://docs.ojosproject.org/",
+          position: "right"
         }
       ],
     },
