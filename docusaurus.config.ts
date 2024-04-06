@@ -2,23 +2,20 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
+  // Appears as the order the keys appear in
+  // https://docusaurus.io/docs/api/docusaurus-config
   title: 'Ojos Project - a UCI research project',
-  favicon: 'https://docs.ojosproject.org/img/logo.png',
-
   url: 'https://ojosproject.org',
   baseUrl: '/',
+
+  favicon: 'https://docs.ojosproject.org/img/logo.png',
   trailingSlash: true,
-
-  organizationName: 'ojosproject',
-  projectName: 'website',
-
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
   },
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
 
   presets: [
     [
@@ -83,25 +80,12 @@ const config: Config = {
           title: 'Ojos Project',
           items: [
             {
-              label: 'Discord',
-              href: 'https://discord.gg/SejmYUthEj'
+              label: 'Slack',
+              href: 'https://ojosproject.slack.com/'
             },
             {
               label: 'Finances',
               href: 'https://docs.google.com/spreadsheets/d/1W9qHV4Bm3wPtvsBWxmY4jpJY9JbhpSFIvcgRSFbrr78/'
-            },
-            {
-              label: 'Found a bug? Email us!',
-              href: 'mailto:contact-project+ojosproject-website-54703113-issue-@incoming.gitlab.com'
-            }
-          ]
-        },
-        {
-          title: 'URL Team',
-          items: [
-            {
-              label: 'URL Team Docs',
-              href: 'https://docs.ojosproject.org/teams/url/'
             },
             {
               label: 'GitLab',
@@ -110,27 +94,23 @@ const config: Config = {
             {
               label: 'Undergraduate Research Lab',
               href: 'https://markbaldw.in/url/'
+            },
+            {
+              label: 'Found a bug? Email us!',
+              href: 'mailto:contact-project+ojosproject-website-54703113-issue-@incoming.gitlab.com'
             }
           ]
         },
         {
-          title: 'Research Team',
+          title: 'Documentation',
           items: [
             {
-              label: 'Research Team Docs',
-              href: 'https://docs.ojosproject.org/teams/research/',
+              label: 'Developers Docs',
+              href: 'https://docs.ojosproject.org/url/developers/'
             },
             {
-              label: 'Google Scholar',
-              href: 'https://scholar.google.com/'
-            },
-            {
-              label: 'IVC Library',
-              href: 'https://imperial.edu/courses-and-programs/divisions/arts-and-letters/library-2/index.html'
-            },
-            {
-              label: 'UCI Library',
-              href: 'https://www.lib.uci.edu/'
+              label: 'Engineering Docs',
+              href: 'https://docs.ojosproject.org/url/engineering/'
             }
           ]
         }
