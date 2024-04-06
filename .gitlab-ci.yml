@@ -1,18 +1,9 @@
 stages:
-  - quality-check
   - build
   - deploy
 
 
-image: node:16.5.0
-
-
-quality-check:
-  stage: quality-check
-  script:
-    - echo "RUNNING QUALITY CONTROL..."
-    - npm i eslint
-    - npm run lint
+image: node
 
 build:
   stage: build
@@ -25,10 +16,10 @@ build:
       - node_modules/
   artifacts:
     paths:
-      - "dist/"
+      - "build/"
   script:
-    - echo "RUNNING BUILD..."
     - npm i
+    - npm run clear
     - npm run build
   rules:
     - if: $CI_COMMIT_BRANCH != "main"
@@ -45,16 +36,11 @@ pages:
     paths:
       - node_modules/
   script:
-    - echo "RUNNING BUILD..."
     - npm i
+    - npm run clear
     - npm run build
-    - echo "DEPLOYING..."
-    - rm -fr public/
-    - cp -a dist/. public/
-    - cp -fa public/public/* public/
-    - rm -fr public/public
   artifacts:
     paths:
-      - public
+      - build
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH

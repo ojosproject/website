@@ -1,0 +1,17 @@
+/*
+custom.scss
+Ojos Project
+*/
+:root {
+    --ifm-color-primary: #0d0405;
+    --ifm-color-primary-dark: #0c0405;
+    --ifm-color-primary-darker: #0b0304;
+    --ifm-color-primary-darkest: #090304;
+    --ifm-color-primary-light: #0e0406;
+    --ifm-color-primary-lighter: #0f0506;
+    --ifm-color-primary-lightest: #110507;
+}
+
+article {
+    p {a {text-decoration: underline;}}
+}

@@ -5,17 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "node",
+            "name": "Update Authors",
+            "type": "debugpy",
             "request": "launch",
-            "name": "Start",
-            "skipFiles": [
-                "<node_internals>/**"
-            ],
-            "args": ["run", "dev"],
-            "linux": {
-                "program": "/bin/npm"
-            },
-            "preLaunchTask": "Sass"
+            "program": "${workspaceFolder}/tools/update_authors.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
         }
+
     ]
 }

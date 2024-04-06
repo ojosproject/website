@@ -1,0 +1,93 @@
+// index.scss
+// Ojos Project
+
+body {
+    background-color: white;
+    color: black;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    p, li {
+        line-height: 25px;
+    }
+
+    p {a {text-decoration: underline;}}
+}
+
+.story {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+    flex-wrap: wrap-reverse;
+
+    min-height: 75dvh;
+
+    .story_text {
+        flex: 2;
+        
+        max-width: 500px;
+        
+        margin: 0 20px;
+        text-align: left;
+    }
+
+    .story_image {
+        margin: 0 20px;
+        
+        // max-height: 396px;
+        max-width: 528px;
+        
+        border-radius: 20px;
+
+        @media screen and (max-width: 767px) {
+            max-width: 300px;
+            margin-top: 20px;
+        }
+    }
+}
+
+.our_team {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 100px 0;
+
+    .team_members {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        
+        flex-wrap: wrap;
+    }
+}
+
+.member_container {
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: none;
+    }
+
+    img {
+        margin: 10px;
+        border-radius: 10px;
+    }
+
+    p {
+        line-height: 5px;
+    }
+
+    h3 {
+        font-weight:normal;
+        text-decoration: underline;
+        font-size: 20px;
+    }
+}
