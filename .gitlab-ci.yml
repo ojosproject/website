@@ -16,7 +16,7 @@ build:
       - node_modules/
   artifacts:
     paths:
-      - "build/"
+      - "public/"
   script:
     - npm i
     - npm run clear
@@ -37,10 +37,9 @@ pages:
       - node_modules/
   script:
     - npm i
-    - npm run clear
-    - npm run build
+    - npm run gitlab
   artifacts:
     paths:
-      - build
+      - public
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
