@@ -23,6 +23,7 @@ const config: Config = {
       {
         docs: false,
         blog: {
+          path: './news',
           routeBasePath: '/news',
           blogTitle: 'Project News',
           // ? Cannot have last update time show up without an editUrl link set
@@ -69,7 +70,7 @@ const config: Config = {
         },
         {
           label: "Documentation",
-          href: "https://docs.ojosproject.org/",
+          href: "https://docs.ojosproject.org/url/",
           position: "right"
         }
       ],
@@ -104,6 +105,10 @@ const config: Config = {
         {
           title: 'Documentation',
           items: [
+            {
+              label: 'URL Group Docs',
+              href: 'https://docs.ojosproject.org/url/'
+            },
             {
               label: 'Developers Docs',
               href: 'https://docs.ojosproject.org/url/developers/'
