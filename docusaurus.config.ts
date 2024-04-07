@@ -17,6 +17,16 @@ const config: Config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'description',
+        content: 'The Ojos Project is a research project developing a tablet-like device that can be used in an at-home hospice care setting. This device is being developed under Professor Mark S. Baldwin\'s Undergraduate Research Lab at the University of California, Irvine.'
+      }
+    }
+  ],
+
   presets: [
     [
       'classic',
