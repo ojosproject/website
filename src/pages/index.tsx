@@ -12,7 +12,7 @@ interface Member {
     roles: string[]
     institution: string
     website: {label: string, value: string}
-    joined: string
+    joined: number
     avatar: string
     contributions: string[]
     active: boolean
@@ -56,11 +56,11 @@ export default function Root() {
                 <h1>Creating an easier way to stay connected with who you love.</h1>
                 <p>The Ojos Project is a UCI-backed research endeavor in which we aim to understand the needs of hospice patients, caregivers, and healthcare specialists to provide them with a better way to address the hospice experience. By utilizing modern technologies and analyzing previous methods, we will ensure nurses and caregivers stay connected to provide a sense of comfort and confidence during your loved one's care.</p>
                 </div>
-                <img className="story_image" src={GrandmaImage} alt="Carlos with his grandmother"></img>
+                <img className="story_image" src={GrandmaImage as string} alt="Carlos with his grandmother"></img>
             </div>
 
             <div className='story' id="purpose">
-                <img className='story_image' src={JosephGrandmaImage} alt="Joseph's family"/>
+                <img className='story_image' src={JosephGrandmaImage as string} alt="Joseph's family"/>
                 <div className='story_text'>
                     <h1>Our Purpose</h1>
                     <p>Hospice patients are often immobile and slowly lose their independence, relying on the people around them to take care of them. It's difficult to help someone in this position when we often have other responsibilities, such as work.</p>
