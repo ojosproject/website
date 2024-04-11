@@ -93,6 +93,9 @@ of the things in this post, please know we may just be in a similar boat! 🛶
 
 ## 📧 Contact
 
-If you'd like to join, or have any questions, please contact Carlos Valdez via
+If you'd like to join,
+[please fill out this interest form](https://forms.gle/HeU9Luv94dDG4SJS9)!
+
+... or have any questions, please contact Carlos Valdez via
 [cvaldezh@uci.edu](mailto:cvaldezh@uci.edu) and he'll get back to you as soon as
 possible!
