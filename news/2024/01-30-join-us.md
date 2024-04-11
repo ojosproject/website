@@ -73,7 +73,7 @@ Group has three teams:
 
 Individuals who are not enrolled in IN4MATX 199 may join and leave the project
 however they'd like.
-[Please read the Informatics 199 Acknowledement here](https://docs.ojosproject.org/policies/inf199-acknowledgement/).
+[Please read the Informatics 199 Acknowledgment here](https://docs.ojosproject.org/policies/inf199-acknowledgement/).
 
 ## 🙋 How you can help
 
