@@ -8,7 +8,7 @@ description: >
   Research Lab. Whether you're experienced with Linux or are a fantastic writer,
   we'd love to have you! Take a look to see how you can help!
 last_update:
-  date: April 10 2024
+  date: April 11 2024
 ---
 # Join the Ojos Project
 
@@ -18,6 +18,9 @@ The Ojos Project is looking for people to join our team! We are a research
 project under UC Irvine Professor Mark S. Baldwin's Undergraduate Research Lab.
 Join us to create a different way technology can help individuals in palliative
 care and hospice!
+
+If you're interested,
+[please fill out this interest form](https://forms.gle/HeU9Luv94dDG4SJS9)!
 
 <!-- truncate -->
 
