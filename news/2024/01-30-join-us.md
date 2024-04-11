@@ -38,9 +38,8 @@ device.
 
 At the Ojos Project, we're researching, developing, and building.
 
-We're researching the needs of hospice patients, caregivers, and hospice nurses
-to come up with a technological solution by reading academic articles and
-conducting interviews.
+We're researching the needs of hospice patients, caregivers, and nurses by
+reading academic articles and conducting interviews.
 
 We're developing open-source software based on our research to expand access of
 quality hospice software using [Rust](https://www.rust-lang.org/), Linux, and
@@ -64,8 +63,11 @@ Group has three teams:
   - Developing the software
   - Implement external accessibility software
 - [Engineering team](https://docs.ojosproject.org/url/engineering/)
-  - Participate in product design research
-  - Use Raspberry Pi to build the device
+  - Product design research
+  - Electrical engineering
+  - Computer aided design
+  - Additive manufacturing
+  - Raspberry Pi to build the device
 - [Research team](https://docs.ojosproject.org/url/research/)
   - Conduct interviews
   - Read research articles and take notes
