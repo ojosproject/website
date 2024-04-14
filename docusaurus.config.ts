@@ -99,17 +99,13 @@ const config: Config = {
               href: 'https://docs.google.com/spreadsheets/d/1W9qHV4Bm3wPtvsBWxmY4jpJY9JbhpSFIvcgRSFbrr78/'
             },
             {
-              label: 'GitLab',
-              href: 'https://gitlab.com/ojosproject/'
+              label: 'GitHub',
+              href: 'https://github.com/ojosproject/'
             },
             {
               label: 'Undergraduate Research Lab',
               href: 'https://markbaldw.in/url/'
             },
-            {
-              label: 'Found a bug? Email us!',
-              href: 'mailto:contact-project+ojosproject-website-54703113-issue-@incoming.gitlab.com'
-            }
           ]
         },
         {
