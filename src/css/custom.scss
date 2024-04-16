@@ -13,5 +13,7 @@ Ojos Project
 }
 
 article {
+    // Ensures that the links in the news posts are underlined. Without this,
+    // it would look like regular text, which isn't great.
     p, li {a {text-decoration: underline;}}
 }
