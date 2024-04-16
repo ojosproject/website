@@ -59,8 +59,7 @@ const config: Config = {
   themeConfig: {
     colorMode: {
       defaultMode: 'light',
-      disableSwitch: true,
-      respectPrefersColorScheme: false
+      respectPrefersColorScheme: true
     },
     image: 'https://docs.ojosproject.org/images/header.png',
     navbar: {
@@ -68,6 +67,7 @@ const config: Config = {
       logo: {
         alt: 'Ojos Project logo',
         src: 'https://docs.ojosproject.org/images/logo-space.png',
+        className: 'ojos_logo_in_navbar'
       },
       items: [
         {
