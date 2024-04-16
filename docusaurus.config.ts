@@ -59,8 +59,7 @@ const config: Config = {
   themeConfig: {
     colorMode: {
       defaultMode: 'light',
-      disableSwitch: true,
-      respectPrefersColorScheme: false
+      respectPrefersColorScheme: true
     },
     image: 'https://docs.ojosproject.org/images/header.png',
     navbar: {
