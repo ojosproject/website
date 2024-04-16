@@ -8,11 +8,20 @@ description: >
   Research Lab. Whether you're experienced with Linux or are a fantastic writer,
   we'd love to have you! Take a look to see how you can help!
 last_update:
-  date: April 11 2024
+  date: April 16 2024
 ---
 # Join the Ojos Project
 
-![Ojos Project header](https://docs.ojosproject.org/img/header.png)
+![Ojos Project header](https://docs.ojosproject.org/images/header.png)
+
+:::note
+
+The Ojos Project is currently not accepting new members. Thank you for your
+interest.
+
+Please keep an eye out on this page for an update!
+
+:::
 
 The Ojos Project is looking for people to join our team! We are a research
 project under UC Irvine Professor Mark S. Baldwin's Undergraduate Research Lab.
