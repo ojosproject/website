@@ -68,6 +68,7 @@ const config: Config = {
       logo: {
         alt: 'Ojos Project logo',
         src: 'https://docs.ojosproject.org/images/logo-space.png',
+        className: 'ojos_logo_in_navbar'
       },
       items: [
         {

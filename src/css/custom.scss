@@ -17,3 +17,9 @@ article {
     // it would look like regular text, which isn't great.
     p, li {a {text-decoration: underline;}}
 }
+
+.ojos_logo_in_navbar {
+    // For people who want to use dark mode, it makes the logo look circular in
+    // the nav bar. Light mode people won't really notice this.
+    border-radius: 50px;
+}
