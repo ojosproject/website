@@ -12,7 +12,7 @@ last_update:
 ---
 # Join the Ojos Project
 
-![Ojos Project header](https://docs.ojosproject.org/img/header.png)
+![Ojos Project header](https://docs.ojosproject.org/images/header.png)
 
 The Ojos Project is looking for people to join our team! We are a research
 project under UC Irvine Professor Mark S. Baldwin's Undergraduate Research Lab.

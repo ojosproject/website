@@ -8,7 +8,7 @@ const config: Config = {
   url: 'https://ojosproject.org',
   baseUrl: '/',
 
-  favicon: 'https://docs.ojosproject.org/img/logo.png',
+  favicon: 'https://docs.ojosproject.org/images/logo.png',
   trailingSlash: true,
   i18n: {
     defaultLocale: 'en',
@@ -62,12 +62,12 @@ const config: Config = {
       disableSwitch: true,
       respectPrefersColorScheme: false
     },
-    image: 'https://docs.ojosproject.org/img/header.png',
+    image: 'https://docs.ojosproject.org/images/header.png',
     navbar: {
       title: 'Ojos Project',
       logo: {
         alt: 'Ojos Project logo',
-        src: 'https://docs.ojosproject.org/img/logo-space.png',
+        src: 'https://docs.ojosproject.org/images/logo-space.png',
       },
       items: [
         {

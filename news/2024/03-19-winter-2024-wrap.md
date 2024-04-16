@@ -9,7 +9,7 @@ description: >
 ---
 # Winter 2024 Wrap Up
 
-![Ojos Project header](https://docs.ojosproject.org/img/header.png)
+![Ojos Project header](https://docs.ojosproject.org/images/header.png)
 
 The 2024 Winter quarter is almost finished! As we get ready to wrap up for Spring break, let's go over some of the accomplishments we had this quarter, as well as the plans we have for Spring 2024. Be back soon!
 
@@ -19,7 +19,7 @@ The 2024 Winter quarter is almost finished! As we get ready to wrap up for Sprin
 
 ### Interviews
 
-As [we've announced earlier in the quarter](https://ojosproject.org/news/1706645600/),
+As [we've announced earlier in the quarter](/news/1706645600/),
 the Ojos Project conducted various interviews with families and healthcare
 providers. We've interviewed **four caregivers** and **two healthcare
 professionals**. These interviews gave us valuable information that will be
@@ -39,7 +39,7 @@ Since our requirements aren't yet ready, it isn't published. Once it is though,
 
 The goal of this project was to build a hospice device that can run on a
 Raspberry Pi. Thanks to
-[the UROP grant](https://ojosproject.org/news/urop-and-finances/), we've now
+[the UROP grant](/news/urop-and-finances/), we've now
 purchased both a Raspberry Pi 4 and a Raspberry Pi 5.
 
 We also got hold of some keyboards and monitors that the UCI Informatics
