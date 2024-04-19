@@ -37,7 +37,7 @@ const config: Config = {
           routeBasePath: '/news',
           blogTitle: 'Project News',
           // ? Cannot have last update time show up without an editUrl link set
-          editUrl: "https://github.com/ojosproject/website/tree/dev/",
+          editUrl: "https://github.dev/ojosproject/website/blob/dev/",
           showLastUpdateTime: true,
         },
         theme: {
