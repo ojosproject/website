@@ -5,6 +5,7 @@ import JosephGrandmaImage from "/static/images/joseph-grandma.jpg"
 import "./index.scss"
 import { useEffect, useState } from 'react'
 import Layout from '@theme/Layout'
+import {useColorMode} from '@docusaurus/theme-common';
 
 interface Member {
     name: string
@@ -38,8 +39,15 @@ export default function Root() {
         if (!props.member) {
             return (<></>)
         }
+
+        // Instead of using SCSS to configure light mode/dark mode changes,
+        // Docusaurus uses the useColorMode hook because, well, React.
+        // `index.scss` has a `.darkMemberBackground` and
+        // `.lightMemberBackground` to help with giving them the appropriate
+        // background to indicate that the member is clickable.
+        const {colorMode} = useColorMode();
         return (
-            <a className='member_container' target="_blank" rel="noopener noreferrer" href={props.member.website.value}>
+            <a className={'member_container ' + (colorMode === 'dark' ? "darkMemberBackground": "lightMemberBackground")} target="_blank" rel="noopener noreferrer" href={props.member.website.value}>
                 <img src={props.member.avatar+"&s=175"} alt={`Gravatar for ${props.member.name}.`}/>
                 <br/>
                 <h3>{props.member.name}</h3>
