@@ -75,10 +75,6 @@ const config: Config = {
           to: '/news/'
         },
         {
-          label: 'Join us!',
-          to: '/news/join-us/'
-        },
-        {
           label: "Documentation",
           href: "https://docs.ojosproject.org/url/",
           position: "right"
