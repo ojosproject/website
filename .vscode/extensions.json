@@ -2,7 +2,6 @@
     "recommendations": [
       "aaron-bond.better-comments",
       "DavidAnson.vscode-markdownlint",
-      "ms-vscode-remote.remote-wsl",
-      "GitLab.gitlab-workflow"
+      "ms-vscode-remote.remote-wsl"
     ]
 }
