@@ -3,6 +3,16 @@
         "Ayush",
         "Gronich",
         "irvine",
+        "Ojos",
+        "ojosproject",
         "Sweatt"
-    ]
+    ],
+    "[markdown]": {
+        "editor.rulers": [80],
+        "editor.wordWrap": "off"
+    },
+    "[python]": {
+        "editor.rulers": [120]
+    },
+    "files.autoSave": "onFocusChange",
 }

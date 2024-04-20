@@ -3,6 +3,8 @@
       "aaron-bond.better-comments",
       "DavidAnson.vscode-markdownlint",
       "ms-vscode-remote.remote-wsl",
-      "GitLab.gitlab-workflow"
+      "streetsidesoftware.code-spell-checker",
+      "streetsidesoftware.code-spell-checker-spanish",
+      "oderwat.indent-rainbow",
     ]
 }
