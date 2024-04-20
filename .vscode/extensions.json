@@ -2,6 +2,9 @@
     "recommendations": [
       "aaron-bond.better-comments",
       "DavidAnson.vscode-markdownlint",
-      "ms-vscode-remote.remote-wsl"
+      "ms-vscode-remote.remote-wsl",
+      "streetsidesoftware.code-spell-checker",
+      "streetsidesoftware.code-spell-checker-spanish",
+      "oderwat.indent-rainbow",
     ]
 }
