@@ -7,7 +7,7 @@
         "ojosproject",
         "Sweatt"
     ],
-    "[markdown]": {
+    "[markdown][plaintext]": {
         "editor.rulers": [80],
         "editor.wordWrap": "off"
     },
