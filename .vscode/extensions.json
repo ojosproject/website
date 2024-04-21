@@ -1,10 +1,36 @@
+// extensions.json
+// Ojos Project
+// 
+// This is a collection of Visual Studio Code extensions that are actively
+// being used in this project. Please download them.
+// 
+// * For an easier install:
+// *
+// * - Go to "Extensions"
+// * - Search `@recommended`
+// *
+// * A neat list of these extensions will appear. :)
 {
-    "recommendations": [
-      "aaron-bond.better-comments",
-      "DavidAnson.vscode-markdownlint",
-      "ms-vscode-remote.remote-wsl",
+  "recommendations": [
+      // Spell checking
       "streetsidesoftware.code-spell-checker",
+
+      // Same as above, but for Spanish
       "streetsidesoftware.code-spell-checker-spanish",
+
+      // Makes comments stand out more
+      "aaron-bond.better-comments",
+
+      // Ensures you're indenting properly
       "oderwat.indent-rainbow",
-    ]
+
+      // Ensures you're writing proper Markdown
+      "DavidAnson.vscode-markdownlint",
+
+      // Windows Subsystem for Linux extension, for WSL users in Ojos Project
+      "ms-vscode-remote.remote-wsl",
+
+      // Enables MDX support
+      "unifiedjs.vscode-mdx"
+  ]
 }

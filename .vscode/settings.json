@@ -1,13 +1,31 @@
 {
     "cSpell.words": [
+        "anonimizado",
+        "cdrive",
+        "dism",
+        "featurename",
+        "Flix",
+        "Gaphor",
+        "IN4MATX",
+        "incómod",
+        "LXDE",
+        "neofetch",
+        "norestart",
+        "Ojos",
+        "ojosproject",
+        "raspi",
+        "Sweatt",
+        "telehealth",
+        "Telehealth",
+        "telemedicine",
+        "Telemedicine",
+        "xinitrc",
         "Ayush",
         "Gronich",
         "irvine",
-        "Ojos",
-        "ojosproject",
-        "Sweatt"
     ],
-    "[markdown]": {
+    "cSpell.language": "en,es",
+    "[markdown][plaintext]": {
         "editor.rulers": [80],
         "editor.wordWrap": "off"
     },
