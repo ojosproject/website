@@ -2,7 +2,7 @@
 displayed_sidebar: policies
 last_update:
     author: Carlos Valdez
-    date: April 16 2024
+    date: April 23 2024
 description: These are guidelines for how to use the Ojos Project name and logos.
 ---
 
@@ -46,6 +46,19 @@ software documentation or in our meta tags header.
 ![Ojos Project header](@site/static/images/header.png)
 
 Link: `https://ojosproject.org/images/header.png`
+
+## Special Logos
+
+Sometimes we are participating in something that we want to hype people up for.
+Here are some of the logos we've used.
+
+### UCI Pride Header
+
+![Ojos Project UCI Pride header](@site/static/images/uci-pride-header.png)
+
+This was made for the [2024 UCI Undergraduate Research Symposium](/news/symposium-2024/).
+
+Link: `https://ojosproject.org/images/uci-pride-header.png`
 
 ## Contact
 
