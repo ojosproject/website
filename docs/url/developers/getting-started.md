@@ -18,14 +18,14 @@ join it.
 ### SSH Setup
 
 To connect to GitHub, you will be required to use SSH. Please read
-[SSH Setup](/url/developers/guides/ssh-setup/) to get started.
+[SSH Setup](/docs/url/developers/ssh-setup/) to get started.
 
 ## Unix-like Environments
 
 The Developers team will primarily use Unix-like operating systems. This includes
 macOS, Linux, or the Windows Subsystem for Linux. If you don't use macOS or
 Linux, please read
-[Installing the Windows Subsystem for Linux](/url/developers/guides/installing-wsl/).
+[Installing the Windows Subsystem for Linux](/docs/url/developers/installing-wsl/).
 
 ## GPG & Encryption Keys
 
@@ -36,7 +36,7 @@ encryption keys.
 
 You must also install `gpg`. The install process for that, as well as
 instructions for decrypting the interviews, is here:
-[Decrypting the Interviews](/url/developers/guides/decrypt-interviews/)
+[Decrypting the Interviews](/docs/url/developers/decrypt-interviews/)
 
 ## Admin Checklist
 

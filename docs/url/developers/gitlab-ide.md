@@ -51,7 +51,7 @@ is written in [MDX](https://mdxjs.com/), which is a
 [programming language](https://en.wikipedia.org/wiki/Programming_language)
 rather than a [markup language](https://en.wikipedia.org/wiki/Markup_language).
 I **highly** recommend not editing pages that are written in MDX, such as the
-[members page](/url/members/).
+[members page](/docs/url/members/).
 
 :::
 

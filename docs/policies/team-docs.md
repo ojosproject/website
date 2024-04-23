@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: default
+displayed_sidebar: policies
 description: >
     If you're just learning about how to add to the Team Docs, please go ahead
     and read this document. It will help you go over how to add to the docs,
@@ -34,7 +34,7 @@ Keeping things documented is essential and should not be underestimated.
 ## How do I update the document?
 
 The easiest way to do this is by using the GitLab IDE. [We have a guide for how
-to use it](/url/developers/guides/gitlab-ide/).
+to use it](/docs/url/developers/gitlab-ide/).
 
 The important part is to make sure you are switched into the `dev` branch. The
 document goes over that too.

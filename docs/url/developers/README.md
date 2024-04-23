@@ -39,7 +39,7 @@ the tools we use are:
 | Tool           | Setup                                      | Reason                                              |
 | -------------- | ------------------------------------------ | --------------------------------------------------- |
 | macOS or Linux | N/A                                        | Ensuring we can use the same bash scripts.          |
-| Gaphor         | [gaphor.org](https://gaphor.org/download/) | [C4 Model design](/url/developers/design/c4-model/) |
+| Gaphor         | [gaphor.org](https://gaphor.org/download/) | [C4 Model design](/docs/url/developers/c4-model/) |
 
 ## Resources
 

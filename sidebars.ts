@@ -8,11 +8,7 @@
 import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 
 const sidebars: SidebarsConfig = {
-  default: {
-    'Groups': [
-      'url/README'
-    ],
-    'Policies': [
+  policies: [
       'policies/git',
       'policies/image',
       'policies/inf199-acknowledgement',
@@ -20,8 +16,7 @@ const sidebars: SidebarsConfig = {
       'policies/structure',
       'policies/team-docs',
       'policies/url-lab-attendance'
-    ]
-  },
+  ],
 
   groupUrl: {
     'Teams': [
@@ -35,33 +30,25 @@ const sidebars: SidebarsConfig = {
     ]
   },
 
-  groupBreathe: [
-    'breathe/proposal'
-  ],
-
-  groupSocial: [
-    'social/proposal'
-  ],
-
   groupUrlTeamEngineering: [
     'url/engineering/getting-started'
   ],
   groupUrlTeamDevelopers: {
     'Design': [
-      'url/developers/design/c4-model'
+      'url/developers/c4-model'
     ],
     'Guides': [
-      'url/developers/guides/decrypt-interviews',
-      'url/developers/guides/gitlab-ide',
-      'url/developers/guides/gravatar',
-      'url/developers/guides/installing-wsl',
-      'url/developers/guides/linux-filesystem',
-      'url/developers/guides/ssh-setup',
-      'url/developers/guides/updating-news',
+      'url/developers/decrypt-interviews',
+      'url/developers/gitlab-ide',
+      'url/developers/gravatar',
+      'url/developers/installing-wsl',
+      'url/developers/linux-filesystem',
+      'url/developers/ssh-setup',
+      'url/developers/updating-news',
     ],
     'WebDev': [
-      'url/developers/webdev/git-transition',
-      'url/developers/webdev/updating-docs'
+      'url/developers/git-transition',
+      'url/developers/updating-docs'
     ]
   },
   groupUrlTeamResearch: {

@@ -15,7 +15,7 @@ This is a temporary name. Do not get attached.
 
 :::
 
-ChaluBot is the product of the [Credit via Git proposal](/url/research/git-credit/).
+ChaluBot is the product of the [Credit via Git proposal](/docs/url/research/git-credit/).
 
 ## How to use this bot
 

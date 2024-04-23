@@ -11,7 +11,7 @@ last_update:
 
 :::info
 
-This has been put in place. See [the ChaluBot page](/url/research/chalubot).
+This has been put in place. See [the ChaluBot page](/docs/url/research/chalubot).
 
 :::
 
@@ -68,7 +68,7 @@ sequenceDiagram
 
 ### Commands
 
-Moved to the [ChaluBot page](/url/research/chalubot#commands).
+Moved to the [ChaluBot page](/docs/url/research/chalubot#commands).
 
 ### Are there any privacy concerns?
 

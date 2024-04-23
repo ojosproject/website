@@ -16,12 +16,12 @@ do to get started. ✨
 
 The Ojos Project runs under a "group, team, member" structure. You are
 participating in the URL Group. [Read the policies about that here if
-you're interested](/policies/structure/).
+you're interested](/docs/policies/structure/).
 
 ## Figure out your commitment
 
 Some students in this research project are enrolled in IN4MATX 199 at UCI. Read
-the [IN4MATX 199 Acknowledgement](/policies/inf199-acknowledgement) to learn
+the [IN4MATX 199 Acknowledgement](/docs/policies/inf199-acknowledgement) to learn
 more.
 
 **If you are enrolled in IN4MATX 199, you are required to participate for a
@@ -86,7 +86,7 @@ That is, it must end with `.edu`.
 ## Send Carlos your portfolio/website
 
 We promote your website on [our main page](https://ojosproject.org/#team) and on
-[the members page](/url/members/). Send Carlos your website to add the link!
+[the members page](/docs/url/members/). Send Carlos your website to add the link!
 
 :::tip
 
@@ -99,7 +99,7 @@ anywhere you want people to contact you.
 
 A lot of the services we use integrates [Gravatar](https://gravatar.com/). It
 adds an icon to your email. To learn more about getting that up, please check
-out [this guide](/url/developers/guides/gravatar).
+out [this guide](/docs/url/developers/gravatar).
 
 ## Getting recognized as a member
 
@@ -127,9 +127,9 @@ Benefits include...
 There may be more instructions depending on the team you're in. Read the
 instructions for the team you are in:
 
-- [Developers team](/url/developers/getting-started/)
-- [Engineering team](/url/engineering/getting-started/)
-- [Research team](/url/research/getting-started/)
+- [Developers team](/docs/url/developers/getting-started/)
+- [Engineering team](/docs/url/engineering/getting-started/)
+- [Research team](/docs/url/research/getting-started/)
 
 ## Admin Checklist
 

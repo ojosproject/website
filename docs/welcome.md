@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: default
+displayed_sidebar: groupUrl
 description: >
     Welcome to the Ojos Project documentation! This is a collection of Markdown
     files organized to help you get a better understanding of us as a team and
@@ -26,7 +26,7 @@ read the instructions in the
 [GitHub repository](https://github.com/ojosproject/docs) to get started.
 
 For easier access, you can click `Edit this button` to immediately open the
-page using the [GitHub IDE](/url/developers/guides/gitlab-ide).
+page using the [GitHub IDE](/docs/url/developers/gitlab-ide).
 
 ## Need help?
 

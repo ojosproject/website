@@ -1,4 +1,5 @@
 ---
+displayed_sidebar: policies
 description: This document goes into depth about IN4MATX 199 and who can/cannot enroll in this project for course credit.
 last_update:
     date: April 11 2024

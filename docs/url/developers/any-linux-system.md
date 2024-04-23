@@ -79,7 +79,7 @@ It would be something like
 hardware is available ont he computer.
 
 So, when it comes to the hardware device that
-[the Engineering team](/url/engineering/) is developing, the flowchart will
+[the Engineering team](/docs/url/engineering/) is developing, the flowchart will
 obviously go down the "Yes" path. However, if someone wants to repurpose their
 old laptop, or even their own Raspberry Pi, it could go either way.
 

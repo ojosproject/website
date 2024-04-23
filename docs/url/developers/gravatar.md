@@ -20,7 +20,7 @@ discretion, and developers don't have to focus on needing to change it.
 To set your Gravatar, you need to [go to their website](https://gravatar.com/)
 and set up an account. You'll then need to add a photo and select it as the main
 photo for your email. You must use an
-[approved email domain](/url/getting-started#send-us-your-email).
+[approved email domain](/docs/url/getting-started#send-us-your-email).
 
 ## Privacy Concerns
 

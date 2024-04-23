@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: default
+displayed_sidebar: policies
 description: >
     Let's clarify what groups, teams, and members are, as well as clarify the
     structure of the Ojos Project.
@@ -32,7 +32,7 @@ block-beta
     dev-->You!
 ```
 
-This example above represents [the URL Group](/url/).
+This example above represents [the URL Group](/docs/url/).
 
 ## Ojos Project
 

@@ -19,7 +19,7 @@ We will be using:
 
 | Tool                                             | Description                                                                                                                  |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| [GitLab IDE](/url/developers/guides/gitlab-ide/) | A [VS Code](https://code.visualstudio.com/)-like environment. Easier to use since it authenticates with your GitLab account. |
+| [GitLab IDE](/docs/url/developers/gitlab-ide/) | A [VS Code](https://code.visualstudio.com/)-like environment. Easier to use since it authenticates with your GitLab account. |
 | [Markdown](https://quickref.me/markdown)         | The markup language used to write posts                                                                                      |
 | [Mermaid](https://mermaid.js.org/) (Optional)    | A diagraming tool                                                                                                            |
 
@@ -44,7 +44,7 @@ The `authors.yml` file is auto-generated. Please do not change it.
 
 The `authors.yml` file includes information about members of the Ojos Project.
 All of the information that is included is from the information [we already
-publish of our members](/url/members/).
+publish of our members](/docs/url/members/).
 
 The important thing to know about this file is that you're identified by your
 email. For example, if Carlos wanted to author a news post, he'd set the
@@ -197,7 +197,7 @@ diagrams that can be made with Mermaid includes:
 - [Flowcharts](https://mermaid.js.org/syntax/flowchart.html)
 - [Class Diagrams](https://mermaid.js.org/syntax/classDiagram.html)
 - [Gantt](https://mermaid.js.org/syntax/gantt.html)
-- [Gitgraph](https://mermaid.js.org/syntax/gitgraph.html) ([Here's a live example in the Git policies](/policies/git/#branching))
+- [Gitgraph](https://mermaid.js.org/syntax/gitgraph.html) ([Here's a live example in the Git policies](/docs/policies/git/#branching))
 
 Using Mermaid can be tedious as the syntax can be somewhat strict. You can use
 [this Mermaid live editor](https://mermaid.live/) to view your changes before
@@ -224,5 +224,5 @@ posted.
 
 ### I made a mistake. Now what?
 
-Let someone on [the Developers team](/url/developers/) know. They have to review
+Let someone on [the Developers team](/docs/url/developers/) know. They have to review
 the news posts before they're published anyways, so don't worry!

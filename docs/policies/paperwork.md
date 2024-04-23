@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: default
+displayed_sidebar: policies
 description: >
     How do we make sure we're filling out paperwork correctly for the Ojos
     Project? Read this to find out.
@@ -11,7 +11,7 @@ last_update:
 
 When it comes to filling out paperwork for the Ojos Project, **do not fill out
 any paperwork without your group lead's approval**. For most cases, especially
-the [URL Group](/url/), the group lead will be me.
+the [URL Group](/docs/url/), the group lead will be me.
 
 :::warning
 

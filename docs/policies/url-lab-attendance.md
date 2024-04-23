@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: default
+displayed_sidebar: policies
 description: >
     Read on the attendance policies of the URL Lab at UCI, located at DBH 5089.
 last_update:

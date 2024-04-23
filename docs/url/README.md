@@ -20,8 +20,8 @@ for their loved one.
 
 There's currently three available teams:
 
-- [Developers](/url/developers/) (led by Carlos)
-- [Engineering](/url/engineering/) (led by Joseph)
-- [Research](/url/research/)
+- [Developers](/docs/url/developers/) (led by Carlos)
+- [Engineering](/docs/url/engineering/) (led by Joseph)
+- [Research](/docs/url/research/)
 
 For more information, please go to each team's respective link.
