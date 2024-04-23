@@ -9,7 +9,7 @@ last_update:
 ---
 # Updating the documentation
 
-You're probably reading this on `docs.ojosproject.org`. Previously, we would
+You're probably reading this on `ojosproject.org`. Previously, we would
 keep our documentation in a
 [GitLab folder](https://gitlab.com/ojosproject/docs/-/tree/33878f675970afe8e6b7dd4f60e08fcd8564c4a9)
 full of Markdown files, which worked just fine. I wanted to focus on just

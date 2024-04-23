@@ -1,6 +1,6 @@
 ---
 displayed_sidebar: groupUrlTeamDevelopers
-image: https://docs.ojosproject.org/images/url/developers/context_diagram.svg
+image: https://ojosproject.org/images/url/developers/context_diagram.svg
 description: >
     View the C4 Model by the URL Group Developers team.
 last_update:
@@ -36,7 +36,7 @@ tutorials that may be useful to view](https://gaphor.org/tutorials).
 
 ## Diagrams
 
-You can [download the C4 Model here](https://docs.ojosproject.org/data/url/developers/c4.gaphor)
+You can [download the C4 Model here](https://ojosproject.org/data/url/developers/c4.gaphor)
 and open it in [Gaphor](https://gaphor.org/).
 
 ### Context Diagram

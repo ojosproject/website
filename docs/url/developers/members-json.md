@@ -78,7 +78,7 @@ You can
 As of April 3, 2024, this file is used in two places:
 
 1. [Main website](https://ojosproject.org#team)
-2. [Members of the Ojos Project website](https://docs.ojosproject.org/url/members/)
+2. [Members of the Ojos Project website](https://ojosproject.org/url/members/)
 
 The (literal) keys to sorting individuals are `active` and `contributions`.
 Everything else in the Members JSON file is just for information.
@@ -87,10 +87,10 @@ Everything else in the Members JSON file is just for information.
 
 On the main website, it adds members if the `active` key is `true` and if the
 `contributions` array is not empty. This indicates a
-[Recognized Member](https://docs.ojosproject.org/url/getting-started/#getting-recognized-as-a-member).
+[Recognized Member](https://ojosproject.org/url/getting-started/#getting-recognized-as-a-member).
 
 It gets the Members JSON file by making a `GET` request to
-`https://docs.ojosproject.org/data/url/members.json`.
+`https://ojosproject.org/data/url/members.json`.
 
 #### Example: Docs website
 

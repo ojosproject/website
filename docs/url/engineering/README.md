@@ -55,4 +55,4 @@ Skills
 <!-- ! engineering folder. Do not touch any other files. Thank you! -->
 
 <!-- A good reference for the structure is the Research team homepage. -->
-<!-- https://docs.ojosproject.org/teams/research/ -->
+<!-- https://ojosproject.org/teams/research/ -->

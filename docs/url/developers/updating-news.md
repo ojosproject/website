@@ -114,7 +114,7 @@ the same Winter 2024 Wrap Up as an example.
 ```markdown
 # Winter 2024 Wrap Up
 
-![Ojos Project header](https://docs.ojosproject.org/img/header.png)
+![Ojos Project header](https://ojosproject.org/img/header.png)
 
 The 2024 Winter quarter is almost finished! As we get ready to wrap up for Spring break, let's go over some of the accomplishments we had this quarter, as well as the plans we have for Spring 2024. Be back soon!
 

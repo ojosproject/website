@@ -24,7 +24,6 @@ want to use HTTPS authentication, replace it with the appropriate URL.
 
 | GitLab Repository                                     | Command                                                            |
 | ----------------------------------------------------- | ------------------------------------------------------------------ |
-| [docs](https://gitlab.com/ojosproject/docs)           | `git remote set-url origin git@github.com:ojosproject/docs.git`    |
 | [website](https://gitlab.com/ojosproject/website)     | `git remote set-url origin git@github.com:ojosproject/website.git` |
 | [scripts](https://gitlab.com/ojosproject/url/scripts) | `git remote set-url origin git@github.com:ojosproject/scripts.git` |
 

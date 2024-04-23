@@ -26,7 +26,7 @@ Our logo uses the [Inter font](https://github.com/rsms/inter).
 
 ![Ojos Project logo](@site/static/images/logo.png)
 
-Link: `https://docs.ojosproject.org/images/logo.png`
+Link: `https://ojosproject.org/images/logo.png`
 
 ### Logo for circular frame
 
@@ -36,7 +36,7 @@ logo on this website next to "Docs" above.
 
 ![Ojos Project logo with room to breathe](@site/static/images/logo-space.png)
 
-Link: `https://docs.ojosproject.org/images/logo-space.png`
+Link: `https://ojosproject.org/images/logo-space.png`
 
 ### Header
 
@@ -45,7 +45,7 @@ software documentation or in our meta tags header.
 
 ![Ojos Project header](@site/static/images/header.png)
 
-Link: `https://docs.ojosproject.org/images/header.png`
+Link: `https://ojosproject.org/images/header.png`
 
 ## Contact
 
