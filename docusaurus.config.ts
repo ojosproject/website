@@ -39,7 +39,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.dev/ojosproject/docs/blob/website/',
+            'https://github.dev/ojosproject/website/blob/dev/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
