@@ -1,4 +1,5 @@
 ---
+slug: /
 displayed_sidebar: groupUrl
 description: >
     Welcome to the Ojos Project documentation! This is a collection of Markdown
