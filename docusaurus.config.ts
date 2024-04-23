@@ -8,7 +8,7 @@ const config: Config = {
   url: 'https://ojosproject.org',
   baseUrl: '/',
 
-  favicon: 'https://docs.ojosproject.org/images/logo.png',
+  favicon: 'https://ojosproject.org/images/logo.png',
   trailingSlash: true,
   i18n: {
     defaultLocale: 'en',
@@ -27,11 +27,22 @@ const config: Config = {
     }
   ],
 
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
+
   presets: [
     [
       'classic',
       {
-        docs: false,
+        docs: {
+          sidebarPath: './sidebars.ts',
+          editUrl:
+            'https://github.dev/ojosproject/docs/blob/website/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
+        },
         blog: {
           path: './news',
           routeBasePath: '/news',
@@ -61,12 +72,12 @@ const config: Config = {
       defaultMode: 'light',
       respectPrefersColorScheme: true
     },
-    image: 'https://docs.ojosproject.org/images/header.png',
+    image: 'https://ojosproject.org/images/header.png',
     navbar: {
       title: 'Ojos Project',
       logo: {
         alt: 'Ojos Project logo',
-        src: 'https://docs.ojosproject.org/images/logo-space.png',
+        src: 'https://ojosproject.org/images/logo-space.png',
         className: 'ojos_logo_in_navbar'
       },
       items: [
@@ -76,7 +87,7 @@ const config: Config = {
         },
         {
           label: "Documentation",
-          href: "https://docs.ojosproject.org/url/",
+          to: "/docs/url/",
           position: "right"
         }
       ],
@@ -109,15 +120,15 @@ const config: Config = {
           items: [
             {
               label: 'URL Group Docs',
-              href: 'https://docs.ojosproject.org/url/'
+              to: '/docs/url/'
             },
             {
               label: 'Developers Docs',
-              href: 'https://docs.ojosproject.org/url/developers/'
+              to: '/docs/url/developers/'
             },
             {
               label: 'Engineering Docs',
-              href: 'https://docs.ojosproject.org/url/engineering/'
+              to: '/docs/url/engineering/'
             }
           ]
         }

@@ -3,9 +3,9 @@
 import GrandmaImage from "/static/images/grandma.jpg"
 import JosephGrandmaImage from "/static/images/joseph-grandma.jpg"
 import "./index.scss"
-import { useEffect, useState } from 'react'
 import Layout from '@theme/Layout'
 import {useColorMode} from '@docusaurus/theme-common';
+import members from '@site/static/data/url/members.json'
 
 interface Member {
     name: string
@@ -21,20 +21,6 @@ interface Member {
 
 
 export default function Root() {
-    const [team, setTeam] = useState([]);
-
-    useEffect(() => {
-        fetch("https://docs.ojosproject.org/data/url/members.json", {
-            method: "GET",
-        }).then((response) => response.json()).then(data => {
-            setTeam(data.map((member: Member) => {
-                if (member.active && member.contributions.length) {
-                    return member;
-                }
-            }))
-        })
-    }, [])
-
     function TeamMember(props: {member?: Member}) {
         if (!props.member) {
             return (<></>)
@@ -81,10 +67,14 @@ export default function Root() {
             <div className='our_team' id="team">
                 <h1>Our Team</h1>
                 <div className='team_members'>
-                    {team.map((member) => {return <TeamMember member={member}/>})}
+                    {members.map((member) => {
+                        if (member.active && member.contributions.length) {
+                            return <TeamMember member={member}/>
+                        }
+                    })}
                 </div>
 
-                <p>... and <a href="https://docs.ojosproject.org/url/members/" target="_blank" rel="noopener noreferrer">more</a>.</p>
+                <p>... and <a href="/docs/url/members/">more</a>.</p>
             </div>
         </Layout>
     )
