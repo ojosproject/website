@@ -31,7 +31,13 @@ const config: Config = {
     [
       'classic',
       {
-        docs: false,
+        docs: {
+          sidebarPath: './sidebars.ts',
+          editUrl:
+            'https://github.dev/ojosproject/docs/blob/website/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
+        },
         blog: {
           path: './news',
           routeBasePath: '/news',
@@ -76,7 +82,7 @@ const config: Config = {
         },
         {
           label: "Documentation",
-          href: "https://docs.ojosproject.org/url/",
+          to: "/docs/url/",
           position: "right"
         }
       ],
@@ -109,15 +115,15 @@ const config: Config = {
           items: [
             {
               label: 'URL Group Docs',
-              href: 'https://docs.ojosproject.org/url/'
+              to: '/docs/url/'
             },
             {
               label: 'Developers Docs',
-              href: 'https://docs.ojosproject.org/url/developers/'
+              to: '/docs/url/developers/'
             },
             {
               label: 'Engineering Docs',
-              href: 'https://docs.ojosproject.org/url/engineering/'
+              to: '/docs/url/engineering/'
             }
           ]
         }
