@@ -11,7 +11,7 @@ last_update:
 ---
 # Welcome to ojosproject.org
 
-![Ojos Project header](https://docs.ojosproject.org/images/header.png)
+![Ojos Project header](@site/static/images/header.png)
 
 Introducing our domain: ojosproject.org! Let's have a quick chat about what's in a domain, why we got the domain, and how the Ojos Project is slowly but surely developing.
 

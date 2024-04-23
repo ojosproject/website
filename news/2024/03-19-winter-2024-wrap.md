@@ -9,7 +9,7 @@ description: >
 ---
 # Winter 2024 Wrap Up
 
-![Ojos Project header](https://docs.ojosproject.org/images/header.png)
+![Ojos Project header](@site/static/images/header.png)
 
 The 2024 Winter quarter is almost finished! As we get ready to wrap up for Spring break, let's go over some of the accomplishments we had this quarter, as well as the plans we have for Spring 2024. Be back soon!
 
@@ -33,7 +33,7 @@ are building the right thing with the information we've gotten from the
 interviews and our research.
 
 Since our requirements aren't yet ready, it isn't published. Once it is though,
-[you can find them here](https://docs.ojosproject.org/teams/url/requirements/).
+[you can find them here](/docs/url/requirements/).
 
 ### Hardware
 
@@ -51,13 +51,13 @@ All of our purchases are
 ### (More) Research
 
 We're researching various academic papers regarding hospice, and even started
-a [Research Team](https://docs.ojosproject.org/teams/research/) to help with
+a [Research Team](/docs/url/research/) to help with
 reading these articles. Since we weren't able to interview hospice nurses who
 were on-site in taking care of a patient, we are looking into the various
 things hospice nurses have stated in previous academic journals to get a better
 idea of how our device may be able to help them.
 
-[You can view our research notes here](https://docs.ojosproject.org/teams/research/).
+[You can view our research notes here](/docs/url/research/).
 
 ### Other Accomplishments
 
@@ -72,7 +72,7 @@ The plans for Spring quarter are a bit fuzzy, but this is what I am (currently)
 considering:
 
 - Teams
-  - Splitting the [URL team](https://docs.ojosproject.org/teams/url/) into more
+  - Splitting the [URL team](/docs/url/) into more
     focused teams, such as developers and engineering
   - Getting someone to properly lead the Research Team
   - Getting someone to lead individuals at [Imperial Valley College](https://imperial.edu/)
