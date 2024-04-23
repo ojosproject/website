@@ -86,6 +86,10 @@ const config: Config = {
           to: '/news/'
         },
         {
+          label: "Symposium Registration",
+          href: "https://docs.google.com/forms/d/e/1FAIpQLSfND0jIPndxC67ti6G_jhxZcHuTNso3-fX79TIPtH3Kw5z6Yw/viewform"
+        },
+        {
           label: "Documentation",
           to: "/docs/url/",
           position: "right"
