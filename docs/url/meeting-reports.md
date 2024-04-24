@@ -18,13 +18,13 @@ Here's a template:
 
 ## Date
 
-|                  |     |
-| ---------------- | --- |
-| Teams Present    |     |
-| Members Present  |     |
-| Meeting Time     |     |
-| Report Author(s) |     |
-| Location         |     |
+| General Information |     |
+| ------------------- | --- |
+| Teams Present       |     |
+| Members Present     |     |
+| Meeting Time        |     |
+| Report Author(s)    |     |
+| Location            |     |
 
 ### Team
 
@@ -34,13 +34,13 @@ Enter what this team did during the meeting!
 
 ## April 24, 2024
 
-|                  |                                                                         |
-| ---------------- | ----------------------------------------------------------------------- |
-| Teams Present    | Developers, Engineering                                                 |
-| Members Present  | Carlos Valdez, Joseph Sweatt, Ayush Jain, Meadow Rubalcava, Jesse David |
-| Meeting Time     | 12:00 PM - 3:00 PM                                                      |
-| Report Author(s) | Carlos Valdez                                                           |
-| Location         | Undergraduate Research Lab @ Donald Bren Hall                           |
+| General Information |                                                                         |
+| ------------------- | ----------------------------------------------------------------------- |
+| Teams Present       | Developers, Engineering                                                 |
+| Members Present     | Carlos Valdez, Joseph Sweatt, Ayush Jain, Meadow Rubalcava, Jesse David |
+| Meeting Time        | 12:00 PM - 3:00 PM                                                      |
+| Report Author(s)    | Carlos Valdez                                                           |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                           |
 
 ### Developers
 
