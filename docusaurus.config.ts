@@ -117,6 +117,10 @@ const config: Config = {
               label: 'Undergraduate Research Lab',
               href: 'https://markbaldw.in/url/'
             },
+            {
+              label: "Policies",
+              to: "/docs/policies/"
+            }
           ]
         },
         {
