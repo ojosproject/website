@@ -1,7 +1,7 @@
 ---
 authors: cvaldezh@uci.edu
 slug: /symposium-2024/
-image: https://ojosproject.org/images/uci-pride.png
+image: https://ojosproject.org/images/uci-pride-header.png
 hide_table_of_contents: true
 description: >
     The Ojos Project is going to present our work at the UCI Undergraduate
@@ -12,7 +12,7 @@ last_update:
 ---
 # Ojos @ 2024 UCI Research Symposium
 
-![Ojos Project header](@site/static/images/uci-pride.png)
+![Ojos Project header](@site/static/images/uci-pride-header.png)
 
 :::important
 
