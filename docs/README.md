@@ -20,8 +20,8 @@ is relatively young, our documentation is rapidly growing on a near-daily basis.
 
 There's a lot of different things you can get out of these documents. As of now,
 we're still working on software design and engineering design. You may just have
-to refer to the [URL Group's Developers Docs](/url/developers) or the
-[URL Group's Engineering Docs](/url/engineering/). Both are great starting
+to refer to the [URL Group's Developers Docs](/docs/url/developers) or the
+[URL Group's Engineering Docs](/docs/url/engineering/). Both are great starting
 points!
 
 ## Need help?
