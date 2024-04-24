@@ -52,11 +52,15 @@ Link: `https://ojosproject.org/images/header.png`
 Sometimes we are participating in something that we want to hype people up for.
 Here are some of the logos we've used.
 
+### UCI Pride Logo
+
+![Ojos Project UCI Pride logo](@site/static/images/uci-pride-logo.png)
+
+Link: `https://ojosproject.org/images/uci-pride-logo.png`
+
 ### UCI Pride Header
 
 ![Ojos Project UCI Pride header](@site/static/images/uci-pride-header.png)
-
-This was made for the [2024 UCI Undergraduate Research Symposium](/news/symposium-2024/).
 
 Link: `https://ojosproject.org/images/uci-pride-header.png`
 
