@@ -126,7 +126,7 @@
     {
         "name": "Christina Martinez",
         "email": "chrismm6@uci.edu",
-        "roles": ["Developers Lead"],
+        "roles": ["Developers Team"],
         "institution": "University of California, Irvine",
         "website": {"label": "Email", "value": "mailto:chrismm6@uci.edu"},
         "joined": 1713380400,
@@ -137,7 +137,7 @@
     {
         "name": "Jason Martin",
         "email": "jasonbm2@uci.edu",
-        "roles": ["Developers Lead", "Research Team"],
+        "roles": ["Developers Team", "Research Team"],
         "institution": "University of California, Irvine",
         "website": {"label": "Email", "value": "mailto:jasonbm2@uci.edu"},
         "joined": 1713466800,
