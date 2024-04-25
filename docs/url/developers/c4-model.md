@@ -39,6 +39,12 @@ tutorials that may be useful to view](https://gaphor.org/tutorials).
 You can [download the C4 Model here](https://ojosproject.org/data/url/developers/c4.gaphor)
 and open it in [Gaphor](https://gaphor.org/).
 
+:::warning
+
+These are all drafts and are subject to modification.
+
+:::
+
 ### Context Diagram
 
 ![Context Diagram for Iris](@site/static/images/url/developers/context_diagram.svg)
