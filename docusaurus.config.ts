@@ -116,10 +116,6 @@ const config: Config = {
             {
               label: 'Undergraduate Research Lab',
               href: 'https://markbaldw.in/url/'
-            },
-            {
-              label: "Policies",
-              to: "/docs/policies/"
             }
           ]
         },
@@ -137,6 +133,14 @@ const config: Config = {
             {
               label: 'Engineering Docs',
               to: '/docs/url/engineering/'
+            },
+            {
+              label: "Glossary",
+              to: "/docs/url/glossary/"
+            },
+            {
+              label: "Policies",
+              to: "/docs/policies/"
             }
           ]
         }
