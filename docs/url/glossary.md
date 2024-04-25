@@ -30,5 +30,5 @@ This is a glossary of the terms we use. Please use these consistently.
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | GNOME DE             | A [desktop environment](https://en.wikipedia.org/wiki/Desktop_environment) that is often used on Linux devices. The DE itself isn't used on a Raspberry Pi. |
 | GNOME (organization) | The [GNOME organization](https://gnome.org/) offers various tools for desktop Linux development                                                             |
-| `gtk4-rs`            | A Rust wrapper of GTK 4, allowing us to write Linux GUIs in Rust                                                                                            |
-| GTK 4                | A popular cross-platform widget toolkit to develop GUIs                                                                                                     |
+| GTK 4                | A cross-platform widget toolkit to develop Linux GUIs                                                                                                     |
+| `gtk4-rs`            | A wrapper of GTK 4 that allows us to use it with Rust                           |
