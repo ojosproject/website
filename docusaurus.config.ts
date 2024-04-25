@@ -139,6 +139,10 @@ const config: Config = {
               to: "/docs/url/glossary/"
             },
             {
+              label: "Meeting Reports",
+              to: "/docs/url/meeting-reports/"
+            },
+            {
               label: "Policies",
               to: "/docs/policies/"
             }
