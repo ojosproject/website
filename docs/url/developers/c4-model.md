@@ -42,3 +42,7 @@ and open it in [Gaphor](https://gaphor.org/).
 ### Context Diagram
 
 ![Context Diagram for Iris](@site/static/images/url/developers/context_diagram.svg)
+
+### Container Diagram
+
+![Container Diagram for Iris](@site/static/images/url/developers/container_diagram.svg)
