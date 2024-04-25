@@ -53,7 +53,8 @@
         "avatar": "https://gravatar.com/avatar/e4c598f9826093429edec4c38d6bfb93968a59b512259b07e7d1ffe4ff7bb115?d=mp",
         "contributions": [
             "Maintained software infrastructure.",
-            "Requirements analysis."
+            "Requirements analysis.",
+            "Designed C4 Model diagrams."
         ],
         "active": true
     },
@@ -103,7 +104,8 @@
         "avatar": "https://gravatar.com/avatar/e54d8eddd364952c265567243cca1c33f8654fd0e8e4ac7323887e1d2fc01989?d=mp",
         "contributions": [
             "Assisted with engineering brainstorming.",
-            "Researched engineering design."
+            "Researched engineering design.",
+            "Designed C4 Model diagrams."
         ],
         "active": true
     },
@@ -116,7 +118,8 @@
         "joined": 1713380400,
         "avatar": "https://gravatar.com/avatar/51db6b5c49b02428e4e69270515fa2cd00c966f249afceede0a8a295a7dc3e0d?d=mp",
         "contributions": [
-            "Contributed code to our repositories."
+            "Contributed code to our repositories.",
+            "Designed C4 Model diagrams."
         ],
         "active": true
     },
@@ -139,7 +142,10 @@
         "website": {"label": "Email", "value": "mailto:jasonbm2@uci.edu"},
         "joined": 1713466800,
         "avatar": "https://gravatar.com/avatar/8289191418b7daecb56c302c1088bc3cf261a250834ffa47681f707ad31c9e1e?d=mp",
-        "contributions": [],
+        "contributions": [
+            "Designed UML class diagrams.",
+            "Designed C4 Model diagrams."
+        ],
         "active": true
     }
 ]
