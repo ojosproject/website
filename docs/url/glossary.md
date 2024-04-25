@@ -11,13 +11,24 @@ last_update:
 
 This is a glossary of the terms we use. Please use these consistently.
 
-|Term|Description|
-|---|---|
-|patient|The individual/family member in hospice|
-|caregiver|A family member who takes care of the patient|
-|nurse|A nurse from a hospice agency|
-|healthcare professional|A social worker, mental health professional, or a hospice nurse|
-|palliative care|Specialized medical care with people living with serious illness|
-|hospice|End-of-life care, sometimes at home or at a hospital|
-|PROs|"Patient recorded outcomes", digital records of an individual stating whether the care is working|
-|PHIs/PII|"Protected health information", "personal identifying information", [more information here](https://compliancy-group.com/protected-health-information-understanding-phi/)|
+## General Terms
+
+| Term                    | Description                                                                                                                                                               |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| patient                 | The individual/family member in hospice                                                                                                                                   |
+| caregiver               | A family member who takes care of the patient                                                                                                                             |
+| nurse                   | A nurse from a hospice agency                                                                                                                                             |
+| healthcare professional | A social worker, mental health professional, or a hospice nurse                                                                                                           |
+| palliative care         | Specialized medical care with people living with serious illness                                                                                                          |
+| hospice                 | End-of-life care, sometimes at home or at a hospital                                                                                                                      |
+| PROs                    | "Patient recorded outcomes", digital records of an individual stating whether the care is working                                                                         |
+| PHIs/PII                | "Protected health information", "personal identifying information", [more information here](https://compliancy-group.com/protected-health-information-understanding-phi/) |
+
+## Developer Terms
+
+| Term                 | Description                                                                                                                                                 |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| GNOME DE             | A [desktop environment](https://en.wikipedia.org/wiki/Desktop_environment) that is often used on Linux devices. The DE itself isn't used on a Raspberry Pi. |
+| GNOME (organization) | The [GNOME organization](https://gnome.org/) offers various tools for desktop Linux development                                                             |
+| `gtk4-rs`            | A Rust wrapper of GTK 4, allowing us to write Linux GUIs in Rust                                                                                            |
+| GTK 4                | A popular cross-platform widget toolkit to develop GUIs                                                                                                     |
