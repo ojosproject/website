@@ -34,17 +34,49 @@ Enter what this team did during the meeting!
 
 ## April 25, 2024
 
-| General Information |                                               |
-| ------------------- | --------------------------------------------- |
-| Teams Present       | Developers, Engineering                       |
-| Members Present     | Carlos Valdez, Joseph Sweatt, Mark S. Baldwin |
-| Meeting Time        | 12:00 PM - 3:00 PM                            |
-| Report Author(s)    | Carlos Valdez                                 |
-| Location            | Undergraduate Research Lab @ Donald Bren Hall |
+| General Information |                                                                                                                         |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Teams Present       | Developers, Engineering                                                                                                 |
+| Members Present     | Carlos Valdez, Joseph Sweatt, Ayush Jain, Jesse David, Meadow Rubalcava, Mark S. Baldwin, Kristopher Doan, Jason Martin |
+| Meeting Time        | 12:00 PM - 3:00 PM                                                                                                      |
+| Report Author(s)    | Carlos Valdez                                                                                                           |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                                                           |
 
 ### Research Advisor Meeting
 
-Enter what this team did during the meeting!
+Engineering requested things to be bought for the prototype. The professor
+bought the required hardware during the meeting.
+
+Developers explained the prototype we're trying to program, which is a text
+notification every time a medication is logged. We also explained that the
+open-source accessibility tools we're looking into are either not updated
+anymore or require more research.
+
+We spoke about the Symposium and the abstract we wrote. We don't need to add
+the open-source tools we're using in the abstract, though it's a good idea to
+mention them in our poster, potentially with a QR code. We also clarified that
+we're using the open-source AAC tools, and improving upon those tools is not the
+focus of this project; therefore, it's not needed to add it in the abstract.
+
+:::note
+
+The website has a `/qr/` path we should use to ensure there's no broken links.
+[Check the GitHub repository for how it works](https://github.com/ojosproject/website/blob/main/src/pages/qr.tsx).
+
+:::
+
+### Developers
+
+Developers continued to work on C4 models. We near finalized the component
+diagram, though they're going to look into it more. We also started working on
+class diagrams and noticed the diagrams became a bit too messy. We're going to
+work on a SQL schema before continuing with the class diagrams.
+
+We will also start a new iteration of the requirements.
+
+### Engineering
+
+This report is still in progress.
 
 ## April 24, 2024
 
