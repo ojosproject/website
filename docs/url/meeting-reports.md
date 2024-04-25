@@ -82,3 +82,9 @@ We have a checklist we have to get done before the Symposium:
 
 The Engineering team continued with computer aided designs and finished their
 first iteration of the designs.
+
+## Previous Reports
+
+Before this page, we didn't exactly have "meeting reports". Rather, we just took
+attendance in an [internal Google Docs, which you can view here if you have
+access](https://docs.google.com/document/d/1aNoTci4Yo663LW_om2WUFohHg6SC70SI3AmMp9x4gc8/).
