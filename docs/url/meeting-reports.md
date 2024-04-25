@@ -5,7 +5,7 @@ description: >
     we did here.
 last_update:
     author: Carlos Valdez
-    date: April 24 2024
+    date: April 25 2024
 ---
 # Meeting Reports
 
@@ -31,6 +31,20 @@ Here's a template:
 Enter what this team did during the meeting!
 
 -->
+
+## April 25, 2024
+
+| General Information |                                               |
+| ------------------- | --------------------------------------------- |
+| Teams Present       | Developers, Engineering                       |
+| Members Present     | Carlos Valdez, Joseph Sweatt, Mark S. Baldwin |
+| Meeting Time        | 12:00 PM - 3:00 PM                            |
+| Report Author(s)    | Carlos Valdez                                 |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall |
+
+### Research Advisor Meeting
+
+Enter what this team did during the meeting!
 
 ## April 24, 2024
 
