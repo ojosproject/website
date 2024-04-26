@@ -62,7 +62,8 @@ const config: Config = {
     '@docusaurus/plugin-client-redirects',
     {
       redirects: [
-        {from: '/join-us/', to: '/news/join-us/'}
+        {from: '/join-us/', to: '/news/join-us/'},
+        {from: '/qr/', to: '/'} // Old `/qr/`
       ]
     }
   ]],
