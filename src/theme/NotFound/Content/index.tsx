@@ -1,3 +1,21 @@
+// src/theme/NotFound/Content/index.tsx
+// Ojos Project
+// 
+// This is our custom 404 Not Found page. It lets the user know that the link
+// is broken and provides resources. As a little bonus, mostly for myself, I
+// added an icon by Sawaratsuki, who's been making cute software logos on X.
+// 
+// This is a little different to other aspects of this repository. For one, it
+// uses swizzling, which changes the structure of the page itself.
+// More information on swizzling here:
+// https://docusaurus.io/docs/swizzling
+// 
+// Another difference in this code is that it uses the Docusaurus
+// `<Translations/>` component, which we don't really use.. yet! More
+// information on that here:
+// https://docusaurus.io/docs/docusaurus-core#translate
+// 
+// If you have any questions, let Carlos know.
 import React from 'react';
 import clsx from 'clsx';
 import Translate from '@docusaurus/Translate';
