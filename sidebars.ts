@@ -35,7 +35,8 @@ const sidebars: SidebarsConfig = {
   ],
   groupUrlTeamDevelopers: {
     'Design': [
-      'url/developers/c4-model'
+      'url/developers/c4-model',
+      'url/developers/database-schema'
     ],
     'Guides': [
       'url/developers/decrypt-interviews',
