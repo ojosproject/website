@@ -87,8 +87,8 @@ const config: Config = {
           to: '/news/'
         },
         {
-          label: "Symposium Registration",
-          href: "https://docs.google.com/forms/d/e/1FAIpQLSfND0jIPndxC67ti6G_jhxZcHuTNso3-fX79TIPtH3Kw5z6Yw/viewform"
+          label: "Ojos @ Symposium",
+          to: "/news/symposium-2024"
         },
         {
           label: "Documentation",
