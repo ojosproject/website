@@ -9,13 +9,26 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 
 const sidebars: SidebarsConfig = {
   policies: [
-      'policies/git',
-      'policies/image',
-      'policies/inf199-acknowledgement',
-      'policies/paperwork',
-      'policies/structure',
-      'policies/team-docs',
-      'policies/url-lab-attendance'
+    {
+      type: 'category',
+      label: 'Policies',
+      link: {
+        type: 'generated-index',
+        title: 'Ojos Project Policies',
+        description: 'These are the policies we follow at the Ojos Project. Make sure you understand them. If you have any questions, please contact Carlos. Thanks!',
+        slug: '/policies/',
+        image: '@site/static/images/uci-pride-header.png',
+      },
+      items: [
+        'policies/git',
+        'policies/image',
+        'policies/inf199-acknowledgement',
+        'policies/paperwork',
+        'policies/structure',
+        'policies/team-docs',
+        'policies/url-lab-attendance'
+      ],
+    },
   ],
 
   groupUrl: {
