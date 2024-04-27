@@ -32,6 +32,33 @@ Enter what this team did during the meeting!
 
 -->
 
+## April 26, 2024
+
+| General Information |     |
+| ------------------- | --- |
+| Teams Present       |  Developers   |
+| Members Present     |  Carlos Valdez, Ayush Jain, Jason Martin, Jesse David   |
+| Meeting Time        |  12:00 PM - 4:00 PM   |
+| Report Author(s)    |  Carlos Valdez   |
+| Location            |  Undergraduate Research Lab @ Donald Bren Hall   |
+
+### Developers
+
+Developers decided to work on the
+[Iris database scheme](/docs/url/developers/database-schema/) since working on
+class diagrams became complicated without having a solid idea of what exactly
+the database will have. The database schema is mostly finalized.
+
+Carlos took time to research how to implement Patient
+Reported Outcomes (PROs) into the database and decided to use
+[PROMIS](https://www.healthmeasures.net/explore-measurement-systems/promis).
+
+Ayush and Jason worked on creating a dummy database to see how effective our
+schema is.
+
+Carlos and Jesse worked on a
+[flowchart diagram for the Symposium](/docs/url/developers/flowcharts).
+
 ## April 25, 2024
 
 | General Information |                                                                                                                         |
