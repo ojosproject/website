@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: groupUrlTeamDevelopers
+displayed_sidebar: groupUrl
 unlisted: true
 description: >
     This walks Developers over the Members JSON Protocol.

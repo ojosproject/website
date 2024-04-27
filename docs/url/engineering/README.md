@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: groupUrlTeamEngineering
+displayed_sidebar: groupUrl
 description: >
     The Engineering team of the Ojos Project is in charge of product development
     and research of the kiosk. They will interact with Raspberry Pi, Commuter

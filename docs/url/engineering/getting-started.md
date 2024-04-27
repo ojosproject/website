@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: groupUrlTeamEngineering
+displayed_sidebar: groupUrl
 description: >
     Get started with the Engineering team at the Ojos Project!
 last_update:

@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: groupUrlTeamDevelopers
+displayed_sidebar: groupUrl
 description: >
     This document will explain the process of how to add a new Markdown file to
     the documentation. Out are the days of just adding the document...

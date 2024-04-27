@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: groupUrlTeamDevelopers
+displayed_sidebar: groupUrl
 description: >
     This guide is meant for Team Leads who want to add to the News section of
     the main website. It is meant to be non-technical and as easy as possible to

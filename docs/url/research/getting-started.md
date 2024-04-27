@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: groupUrlTeamResearch
+displayed_sidebar: groupUrl
 description: >
     Welcome to the Ojos Project's Research team! We're excited to have you!
     These are instructions for people who are just joining the team.

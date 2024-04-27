@@ -1,4 +1,5 @@
 ---
+displayed_sidebar: groupUrl
 last_update:
     author: Carlos Valdez
     date: April 14 2024
