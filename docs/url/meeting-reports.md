@@ -34,13 +34,13 @@ Enter what this team did during the meeting!
 
 ## April 26, 2024
 
-| General Information |     |
-| ------------------- | --- |
-| Teams Present       |  Developers   |
-| Members Present     |  Carlos Valdez, Ayush Jain, Jason Martin, Jesse David   |
-| Meeting Time        |  12:00 PM - 4:00 PM   |
-| Report Author(s)    |  Carlos Valdez   |
-| Location            |  Undergraduate Research Lab @ Donald Bren Hall   |
+| General Information |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| Teams Present       | Developers                                           |
+| Members Present     | Carlos Valdez, Ayush Jain, Jason Martin, Jesse David |
+| Meeting Time        | 12:00 PM - 4:00 PM                                   |
+| Report Author(s)    | Carlos Valdez                                        |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall        |
 
 ### Developers
 
