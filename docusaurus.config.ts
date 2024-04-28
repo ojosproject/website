@@ -63,7 +63,8 @@ const config: Config = {
     {
       redirects: [
         {from: '/join-us/', to: '/news/join-us/'},
-        {from: '/qr/', to: '/'} // Old `/qr/`
+        {from: '/qr/', to: '/'}, // Old `/qr/`
+        {from: '/iris/', to: '/docs/iris/'}
       ]
     }
   ]],

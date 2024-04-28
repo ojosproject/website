@@ -23,6 +23,16 @@ const sidebars: SidebarsConfig = {
     },
   ],
 
+  softwareIris: [
+    {
+      type: 'category',
+      link: {type: 'doc', id: 'iris/README'},
+      label: 'Iris Docs',
+      collapsible: false,
+      items: ['url/developers/README', 'iris/README']
+    }
+  ],
+
   groupUrl: [
     {
       type: 'category',

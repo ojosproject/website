@@ -10,8 +10,8 @@ last_update:
 
 # Developers Team
 
-The Developers team of the Ojos Project is in charge of building the software
-infrastructure of the device and the organization as a whole.
+The Developers team of the Ojos Project is in charge of building Iris, the
+at-home hospice management system.
 
 ## Responsibilities
 
