@@ -60,7 +60,7 @@ export default function CountdownWrapper(props: {colorModeHook}) {
                     return (
                         <>
                             <p>The <a href="https://urop.uci.edu/symposium/" target="_blank" rel="noopener noreferrer" >Undergraduate Research Symposium</a> starts in...</p>
-                            <span className="countdown">{(days !== 0 ? `${days}:`:null)}{hours !== 0 ? `${numberPadding(hours)}:`:null}{numberPadding(minutes)}:{numberPadding(seconds)}</span>
+                            <span className="countdown">{(days !== 0 ? `${days}:`:null)}{hours !== 0 || days > 0 ? `${numberPadding(hours)}:`:null}{numberPadding(minutes)}:{numberPadding(seconds)}</span>
                             <p>Show your support to the team and UCI research by attending! 🤘🤘🤘</p>
                             <p>Read more about it <a href="/news/symposium-2024/">here</a>.</p>
                         </>
