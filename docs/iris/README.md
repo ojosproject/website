@@ -12,13 +12,6 @@ last_update:
 
 ![Ojos Project header](@site/static/images/header.png)
 
-## Table of Contents
-
-- [Iris Docs](#iris-docs)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Who these docs are for](#who-these-docs-are-for)
-
 ## Introduction
 
 Iris is the at-home hospice management system developed by the Ojos Project.

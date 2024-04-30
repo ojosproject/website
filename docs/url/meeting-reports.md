@@ -45,7 +45,7 @@ Enter what this team did during the meeting!
 ### Developers
 
 Developers decided to work on the
-[Iris database scheme](/docs/url/developers/database-schema/) since working on
+[Iris database scheme](/docs/iris/database-schema/) since working on
 class diagrams became complicated without having a solid idea of what exactly
 the database will have. The database schema is mostly finalized.
 
@@ -57,7 +57,7 @@ Ayush and Jason worked on creating a dummy database to see how effective our
 schema is.
 
 Carlos and Jesse worked on a
-[flowchart diagram for the Symposium](/docs/url/developers/flowcharts).
+[flowchart diagram for the Symposium](/docs/iris/flowcharts).
 
 ## April 25, 2024
 
@@ -119,7 +119,7 @@ This report is still in progress.
 
 The Developers worked on the C4 Model more, creating a rough draft of the
 Container Diagram and the Component Diagram, both of which will be found in the
-[C4 Model page](/docs/url/developers/c4-model).
+[C4 Model page](/docs/iris/c4-model).
 
 The Developers have also agreed to develop a mobile app for Iris written in
 [React Native](https://reactnative.dev/) to keep only one extra codebase. This

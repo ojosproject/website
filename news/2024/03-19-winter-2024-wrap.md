@@ -33,7 +33,7 @@ are building the right thing with the information we've gotten from the
 interviews and our research.
 
 Since our requirements aren't yet ready, it isn't published. Once it is though,
-[you can find them here](/docs/url/requirements/).
+[you can find them here](/docs/iris/requirements/).
 
 ### Hardware
 
