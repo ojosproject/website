@@ -25,4 +25,4 @@ If you want to update the meeting reports, you have to
 After you commit your changes, please open a Pull Request so that Carlos can
 review your changes.
 
-[Use this quick link to open a pull request pointing to `main`](https://github.com/ojosproject/website/compare/main...meeting-reports?expand=1).
+[Use this quick link to open a pull request pointing to `main`](https://github.com/ojosproject/website/compare/main...meeting-reports?expand=1&assignees=calejvaldez).
