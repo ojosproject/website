@@ -42,15 +42,14 @@ few more emails and a meeting, we got to work on the (soon to be named) Ojos
 Project. In this project, Professor Baldwin is our research advisor and faculty
 mentor.
 
-Joseph Sweatt is a Mechanical Engineering undergraduate at UCI. He has a long 
-and intimate family history with palliative & hospice care. With all of his 
-grandparents being diagnosed with various forms of cancer. Evenutally, losing 
-3 of his grandparents by age 16. He witness a crushing degradation of people 
-who were icon sof strength soon reliant on machines to live. This had become a
-catalyst for him; to use his degree to improve technoloyg in the treatement and
+Joseph Sweatt is a Mechanical Engineering undergraduate at UCI. He has a long
+and intimate family history with palliative & hospice care. With all of his
+grandparents being diagnosed with various forms of cancer. Eventually, losing
+3 of his grandparents by age 16. He witness a crushing degradation of people
+who were icons of strength soon reliant on machines to live. This had become a
+catalyst for him; to use his degree to improve technology in the treatment and
 comfort of these patients. Joseph has been apart of the Ojos Project since its
-creation and currently is leading the [Engineering Team](/url/engineering). 
-<!-- todo: Joseph should probably add a section here for himself since he was part of Ojos for just about the same time. -->
+creation and currently is leading the [Engineering Team](/url/engineering).
 
 Since the Ojos Project started in October 2023, many more members have joined.
 [View all the members here](/url/members/).
