@@ -4,8 +4,8 @@ description: >
     Whenever we have a meeting for URL, we will note down the different things
     we did here.
 last_update:
-    author: Carlos Valdez
-    date: April 25 2024
+    author: Joseph Sweatt
+    date: April 30 2024
 ---
 # Meeting Reports
 
@@ -61,14 +61,15 @@ Carlos and Jesse worked on a
 
 ### Engineers
 
-While Joseph and Meadow continue on the CAD modeling of the Palliaview, Kris 
-highlighted key problems that we needed to address in the mounting system. 
+While Joseph and Meadow continue on the CAD modeling of the Palliaview, Kris
+highlighted key problems that we needed to address in the mounting system.
 
-Additionally, parts were able to be purchased with an estimated arrival of 
-May 1, 2024. Any additional parts such as fastern and thread inserts are still 
+Additionally, parts were able to be purchased with an estimated arrival of
+May 1, 2024. Any additional parts such as fastener and thread inserts are still
 need for purchase.
 
 The following are still underway.
+
 - [ ] Finite Element Analysis (FEA)
 - [ ] Computer-Aided Drawings (CAD)
 - [ ] Electrical Diagrams
@@ -118,12 +119,13 @@ We will also start a new iteration of the requirements.
 
 ### Engineering
 
-The Engineers continues with our digital modeling of the first prototype. 
-Additionally, we managed to classify our kiosk name to work in tandem with our 
-IRIS Software. For now the Kiosk will now be name the Palliaview. 
+The Engineers continues with our digital modeling of the first prototype.
+Additionally, we managed to classify our kiosk name to work in tandem with our
+IRIS Software. For now the Kiosk will now be name the Palliaview.
 
-Furthermore, We began to make a checklist of future reports and illustrations 
+Furthermore, We began to make a checklist of future reports and illustrations
 needed to be produced:
+
 - [ ] Finite Element Analysis (FEA)
 - [ ] Computer-Aided Drawings (CAD)
 - [ ] Electrical Diagrams
@@ -163,13 +165,14 @@ We have a checklist we have to get done before the Symposium:
 
 ### Engineering
 
-Engineering Team has begun the Computer Aided Design Process for two systems for 
+Engineering Team has begun the Computer Aided Design Process for two systems for
 our Kiosk Device:
+
 - Kiosk Tablet
 - Mounting System
 
-Additionally, we have finialized our first shopping list for the prototype we 
-will be presenting during our [2024 Symposium](https://ojosproject.org/news/symposium-2024/)
+Additionally, we have finalized our first shopping list for the prototype we
+will be presenting during our [2024 Symposium](/news/symposium-2024/)
 
 ## Previous Reports
 
