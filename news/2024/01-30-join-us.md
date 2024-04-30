@@ -12,7 +12,7 @@ last_update:
 ---
 # Join the Ojos Project
 
-![Ojos Project header](https://docs.ojosproject.org/images/header.png)
+![Ojos Project header](@site/static/images/header.png)
 
 :::note
 
@@ -69,25 +69,25 @@ and open-source.
 Other member responsibilities depend heavily on the team they're in. The URL
 Group has three teams:
 
-- [Developers team](https://docs.ojosproject.org/url/developers/)
+- [Developers team](/docs/url/developers/)
   - Software design
   - Learning Rust
   - Developing the software
   - Implement external accessibility software
-- [Engineering team](https://docs.ojosproject.org/url/engineering/)
+- [Engineering team](/docs/url/engineering/)
   - Product design research
   - Electrical engineering
   - Computer aided design
   - Additive manufacturing
   - Raspberry Pi to build the device
-- [Research team](https://docs.ojosproject.org/url/research/)
+- [Research team](/docs/url/research/)
   - Conduct interviews
   - Read research articles and take notes
   - Explain your research to the other teams
 
 Individuals who are not enrolled in IN4MATX 199 may join and leave the project
 however they'd like.
-[Please read the Informatics 199 Acknowledgment here](https://docs.ojosproject.org/policies/inf199-acknowledgement/).
+[Please read the Informatics 199 Acknowledgment here](/docs/policies/inf199-acknowledgement/).
 
 ## 🙋 How you can help
 

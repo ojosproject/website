@@ -8,7 +8,7 @@ const config: Config = {
   url: 'https://ojosproject.org',
   baseUrl: '/',
 
-  favicon: 'https://docs.ojosproject.org/images/logo.png',
+  favicon: 'https://ojosproject.org/images/uci-pride-logo.png',
   trailingSlash: true,
   i18n: {
     defaultLocale: 'en',
@@ -27,17 +27,28 @@ const config: Config = {
     }
   ],
 
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
+
   presets: [
     [
       'classic',
       {
-        docs: false,
+        docs: {
+          sidebarPath: './sidebars.ts',
+          editUrl:
+            'https://github.dev/ojosproject/website/blob/dev/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
+        },
         blog: {
           path: './news',
           routeBasePath: '/news',
           blogTitle: 'Project News',
           // ? Cannot have last update time show up without an editUrl link set
-          editUrl: "https://github.com/ojosproject/website/tree/dev/",
+          editUrl: "https://github.dev/ojosproject/website/blob/dev/",
           showLastUpdateTime: true,
         },
         theme: {
@@ -51,7 +62,14 @@ const config: Config = {
     '@docusaurus/plugin-client-redirects',
     {
       redirects: [
-        {from: '/join-us/', to: '/news/join-us/'}
+        {from: '/join-us/', to: '/news/join-us/'},
+        {from: '/qr/', to: '/'}, // Old `/qr/`
+        {from: '/iris/', to: '/docs/iris/'},
+        {from: '/docs/url/requirements/', to: '/docs/iris/requirements/'},
+        {from: '/docs/url/developers/design/', to: '/docs/iris/design/'},
+        {from: '/docs/url/developers/c4-model/', to: '/docs/iris/c4-model/'},
+        {from: '/docs/url/developers/database-schema/', to: '/docs/iris/database-schema/'},
+        {from: '/docs/url/developers/flowcharts/', to: '/docs/iris/flowcharts/'}
       ]
     }
   ]],
@@ -61,12 +79,12 @@ const config: Config = {
       defaultMode: 'light',
       respectPrefersColorScheme: true
     },
-    image: 'https://docs.ojosproject.org/images/header.png',
+    image: 'https://ojosproject.org/images/uci-pride-header.png',
     navbar: {
       title: 'Ojos Project',
       logo: {
         alt: 'Ojos Project logo',
-        src: 'https://docs.ojosproject.org/images/logo-space.png',
+        src: 'https://ojosproject.org/images/uci-pride-logo.png',
         className: 'ojos_logo_in_navbar'
       },
       items: [
@@ -75,12 +93,12 @@ const config: Config = {
           to: '/news/'
         },
         {
-          label: 'Join us!',
-          to: '/news/join-us/'
+          label: "Ojos @ Symposium",
+          to: "/news/symposium-2024"
         },
         {
           label: "Documentation",
-          href: "https://docs.ojosproject.org/url/",
+          to: "/docs/url/",
           position: "right"
         }
       ],
@@ -105,7 +123,7 @@ const config: Config = {
             {
               label: 'Undergraduate Research Lab',
               href: 'https://markbaldw.in/url/'
-            },
+            }
           ]
         },
         {
@@ -113,15 +131,27 @@ const config: Config = {
           items: [
             {
               label: 'URL Group Docs',
-              href: 'https://docs.ojosproject.org/url/'
+              to: '/docs/url/'
             },
             {
               label: 'Developers Docs',
-              href: 'https://docs.ojosproject.org/url/developers/'
+              to: '/docs/url/developers/'
             },
             {
               label: 'Engineering Docs',
-              href: 'https://docs.ojosproject.org/url/engineering/'
+              to: '/docs/url/engineering/'
+            },
+            {
+              label: "Glossary",
+              to: "/docs/url/glossary/"
+            },
+            {
+              label: "Meeting Reports",
+              to: "/docs/url/meeting-reports/"
+            },
+            {
+              label: "Policies",
+              to: "/docs/policies/"
             }
           ]
         }

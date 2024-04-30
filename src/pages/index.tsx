@@ -3,8 +3,10 @@
 import GrandmaImage from "/static/images/grandma.jpg"
 import JosephGrandmaImage from "/static/images/joseph-grandma.jpg"
 import "./index.scss"
-import { useEffect, useState } from 'react'
 import Layout from '@theme/Layout'
+import {useColorMode} from '@docusaurus/theme-common';
+import members from '@site/static/data/url/members.json'
+import CountdownWrapper from "../components/temp/SymposiumCountdown";
 
 interface Member {
     name: string
@@ -20,26 +22,19 @@ interface Member {
 
 
 export default function Root() {
-    const [team, setTeam] = useState([]);
-
-    useEffect(() => {
-        fetch("https://docs.ojosproject.org/data/url/members.json", {
-            method: "GET",
-        }).then((response) => response.json()).then(data => {
-            setTeam(data.map((member: Member) => {
-                if (member.active && member.contributions.length) {
-                    return member;
-                }
-            }))
-        })
-    }, [])
-
     function TeamMember(props: {member?: Member}) {
+        const {colorMode} = useColorMode();
         if (!props.member) {
             return (<></>)
         }
+
+        // Instead of using SCSS to configure light mode/dark mode changes,
+        // Docusaurus uses the useColorMode hook because, well, React.
+        // `index.scss` has a `.darkMemberBackground` and
+        // `.lightMemberBackground` to help with giving them the appropriate
+        // background to indicate that the member is clickable.
         return (
-            <a className='member_container' target="_blank" rel="noopener noreferrer" href={props.member.website.value}>
+            <a className={'member_container ' + (colorMode === 'dark' ? "darkMemberBackground": "lightMemberBackground")} target="_blank" rel="noopener noreferrer" href={props.member.website.value}>
                 <img src={props.member.avatar+"&s=175"} alt={`Gravatar for ${props.member.name}.`}/>
                 <br/>
                 <h3>{props.member.name}</h3>
@@ -51,6 +46,8 @@ export default function Root() {
     
     return (
         <Layout>
+            <CountdownWrapper colorModeHook={useColorMode}/>
+
             <div className="story">
                 <div className="story_text">
                 <h1>Creating an easier way to stay connected with who you love.</h1>
@@ -73,10 +70,14 @@ export default function Root() {
             <div className='our_team' id="team">
                 <h1>Our Team</h1>
                 <div className='team_members'>
-                    {team.map((member) => {return <TeamMember member={member}/>})}
+                    {members.map((member) => {
+                        if (member.active && member.contributions.length) {
+                            return <TeamMember member={member}/>
+                        }
+                    })}
                 </div>
 
-                <p>... and <a href="https://docs.ojosproject.org/url/members/" target="_blank" rel="noopener noreferrer">more</a>.</p>
+                <p>... and <a href="/docs/url/members/">more</a>.</p>
             </div>
         </Layout>
     )
