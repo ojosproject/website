@@ -23,6 +23,30 @@ const sidebars: SidebarsConfig = {
     },
   ],
 
+  softwareIris: [
+    {
+      type: 'category',
+      link: {type: 'doc', id: 'iris/README'},
+      label: 'Iris Docs',
+      collapsible: false,
+      items: ['url/developers/README',
+      {
+        type: 'category',
+        link: {
+          type: 'generated-index',
+          title: 'Software Design',
+          description: 'These are designs made by the Developers team. They\'re often made with Figma.',
+          slug: 'iris/design/',
+          image: '@site/static/images/uci-pride-header.png'
+        },
+        label: 'Design',
+        collapsible: true,
+        items: ['iris/c4-model', 'iris/database-schema', 'iris/flowcharts']
+      }
+      ]
+    }
+  ],
+
   groupUrl: [
     {
       type: 'category',
@@ -37,19 +61,6 @@ const sidebars: SidebarsConfig = {
           label: 'Developers',
           collapsible: true,
           items: [
-            {
-              type: 'category',
-              link: {
-                type: 'generated-index',
-                title: 'Software Design',
-                description: 'These are designs made by the Developers team. They\'re often made with Figma.',
-                slug: 'url/developers/design/',
-                image: '@site/static/images/uci-pride-header.png'
-              },
-              label: 'Design',
-              collapsible: true,
-              items: ['url/developers/c4-model', 'url/developers/database-schema', 'url/developers/flowcharts']
-            },
             {
               type: 'category',
               label: 'Guides',
