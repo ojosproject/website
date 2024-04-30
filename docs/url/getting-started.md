@@ -49,8 +49,7 @@ grandparents being diagnosed with various forms of cancer. Evenutally, losing
 who were icon sof strength soon reliant on machines to live. This had become a
 catalyst for him; to use his degree to improve technoloyg in the treatement and
 comfort of these patients. Joseph has been apart of the Ojos Project since its
-creation and 
-currently is leading the [Engineering Team](/url/engineering). 
+creation and currently is leading the [Engineering Team](/url/engineering). 
 <!-- todo: Joseph should probably add a section here for himself since he was part of Ojos for just about the same time. -->
 
 Since the Ojos Project started in October 2023, many more members have joined.
