@@ -8,11 +8,11 @@ description: >
     After months of working on data collecting and requirements analysis, the
     Ojos Project is ready to announce the name(s) of our work.
 last_update:
-    date: April 18 2024
+    date: April 30 2024
 ---
 # Announcing the name(s) of our work
 
-![Ojos Project header](https://docs.ojosproject.org/images/header.png)
+![Ojos Project header](@site/static/images/header.png)
 
 <!-- ! Make sure `slug`, `last_update`, and the filename are up to date. -->
 
@@ -22,7 +22,7 @@ our, we're gonna have two names!
 
 <!-- truncate -->
 <!-- ? Do not remove the truncate line. -->
-<!-- ? https://docs.ojosproject.org/url/developers/guides/updating-news/#truncating -->
+<!-- ? https://ojosproject.org/url/developers/guides/updating-news/#truncating -->
 
 ## Two names? Why?
 
@@ -55,7 +55,7 @@ Iris, the Greek god who acted as a messenger between gods and humans.
 It's fitting, as we're trying to develop a way to ensure all caregivers and
 hospice nurses stay on the same page to ensure proper care of your loved one.
 While the software- sorry. I mean, while Iris is [still in the early stages of
-software design](https://docs.ojosproject.org/url/developers/design/c4-model/),
+software design](/docs/iris/c4-model/),
 we have high hopes that it will be beneficial to everybody involved.
 
 <!-- todo: I don't think "hospice assist" is the best word choice. Should be changed. -->
