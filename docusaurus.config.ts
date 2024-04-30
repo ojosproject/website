@@ -63,7 +63,13 @@ const config: Config = {
     {
       redirects: [
         {from: '/join-us/', to: '/news/join-us/'},
-        {from: '/qr/', to: '/'} // Old `/qr/`
+        {from: '/qr/', to: '/'}, // Old `/qr/`
+        {from: '/iris/', to: '/docs/iris/'},
+        {from: '/docs/url/requirements/', to: '/docs/iris/requirements/'},
+        {from: '/docs/url/developers/design/', to: '/docs/iris/design/'},
+        {from: '/docs/url/developers/c4-model/', to: '/docs/iris/c4-model/'},
+        {from: '/docs/url/developers/database-schema/', to: '/docs/iris/database-schema/'},
+        {from: '/docs/url/developers/flowcharts/', to: '/docs/iris/flowcharts/'}
       ]
     }
   ]],

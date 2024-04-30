@@ -10,8 +10,8 @@ last_update:
 
 # Developers Team
 
-The Developers team of the Ojos Project is in charge of building the software
-infrastructure of the device and the organization as a whole.
+The Developers team of the Ojos Project is in charge of building Iris, the
+at-home hospice management system.
 
 ## Responsibilities
 
@@ -39,7 +39,7 @@ the tools we use are:
 | Tool           | Setup                                      | Reason                                              |
 | -------------- | ------------------------------------------ | --------------------------------------------------- |
 | macOS or Linux | N/A                                        | Ensuring we can use the same bash scripts.          |
-| Gaphor         | [gaphor.org](https://gaphor.org/download/) | [C4 Model design](/docs/url/developers/c4-model/) |
+| Gaphor         | [gaphor.org](https://gaphor.org/download/) | [C4 Model design](/docs/iris/c4-model/) |
 
 ## Resources
 
