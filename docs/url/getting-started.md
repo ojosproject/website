@@ -111,8 +111,7 @@ We also have our
 A requirements document has all of the features our software should include, as
 well as shareholder concerns. It may be worth giving this document a read.
 
-We're also actively working
-[C4 Model diagrams](/docs/url/developers/c4-model/), which visually depicts
+We're also actively working on [Software Design](/docs/iris/design/) to depict
 the software architecture of Iris.
 
 :::
