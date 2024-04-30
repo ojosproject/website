@@ -29,7 +29,7 @@ home from work, he'd take over the care. This was the cycle for most weekdays
 until August 17 when she had passed away. During this time, he had witnessed
 critical shortcomings in hospice. Miscommunication between caregivers and
 difficulty in communicating with hospice nurses were a big issue. In this
-project, Carlos is the lead of the [Developers team](/url/developers/).
+project, Carlos is the lead of the [Developers team](/docs/url/developers/).
 
 Professor Mark Baldwin is a professor at UCI in the department of Informatics.
 He has a background in accessibility and assistive technologies and pursued a
@@ -37,7 +37,7 @@ Ph.D. to make an impact in this field. During the summer of 2023, Carlos had
 emailed Professor Mark Baldwin about potential research opportunities. During
 this time, the professor was about to take research proposals for the
 Undergraduate Research Lab, so it was perfect timing for both parties.
-[Carlos submitted this proposal](/url/proposal/) to the professor, and after a
+[Carlos submitted this proposal](/docs/url/proposal/) to the professor, and after a
 few more emails and a meeting, we got to work on the (soon to be named) Ojos
 Project. In this project, Professor Baldwin is our research advisor and faculty
 mentor.
@@ -49,10 +49,10 @@ grandparents being diagnosed with various forms of cancer. Eventually, losing
 who were icons of strength soon reliant on machines to live. This had become a
 catalyst for him; to use his degree to improve technology in the treatment and
 comfort of these patients. Joseph has been apart of the Ojos Project since its
-creation and currently is leading the [Engineering Team](/url/engineering).
+creation and currently is leading the [Engineering Team](/docs/url/engineering).
 
 Since the Ojos Project started in October 2023, many more members have joined.
-[View all the members here](/url/members/).
+[View all the members here](/docs/url/members/).
 
 ### What is hospice care?
 
@@ -112,7 +112,7 @@ A requirements document has all of the features our software should include, as
 well as shareholder concerns. It may be worth giving this document a read.
 
 We're also actively working
-[C4 Model diagrams](/url/developers/design/c4-model/), which visually depicts
+[C4 Model diagrams](/docs/url/developers/c4-model/), which visually depicts
 the software architecture of Iris.
 
 :::
@@ -126,14 +126,14 @@ up!
 
 The Ojos Project runs under a "group, team, member" structure. You are
 participating in the URL Group. [Read the policies about that here if
-you're interested](/policies/structure/).
+you're interested](/docs/policies/structure/).
 
 In short, a group in the Ojos Project works on a project. A team in a group
 works on a specific part of that project, such as development or engineering. A
 member is someone who is a member of a team.
 
-The URL Group has two teams: [Developers](/url/developers/) and
-[Engineering](/url/engineering/).
+The URL Group has two teams: [Developers](/docs/url/developers/) and
+[Engineering](/docs/url/engineering/).
 
 Both groups and teams have leads.
 
@@ -150,12 +150,12 @@ lead.
 
 Some students in this research project are enrolled in IN4MATX 199 at UCI,
 **but new members are not able to enroll**. Read the
-[IN4MATX 199 Acknowledgement](/policies/inf199-acknowledgement) to learn more.
+[IN4MATX 199 Acknowledgement](/docs/policies/inf199-acknowledgement) to learn more.
 
 If you are not enrolled in IN4MATX 199, you may join and leave the project as
 you'd like, with limits. The limits are: 1) Your attendance must be documented,
 and 2) If you go AWOL for 2 weeks, we will assume you dropped the project. Read
-[our attendance policies](/policies/url-lab-attendance/) to learn more.
+[our attendance policies](/docs/policies/url-lab-attendance/) to learn more.
 
 ### Add meetings to your calendar
 
@@ -212,7 +212,7 @@ That is, it must end with `.edu`.
 ### Send Carlos a website
 
 We promote your website on [our main page](https://ojosproject.org/#team) and on
-[the members page](/url/members/). Send Carlos your website to add the link!
+[the members page](/docs/url/members/). Send Carlos your website to add the link!
 
 :::tip
 
@@ -230,7 +230,7 @@ It doesn't have to be a personal website. Examples we suggest are:
 A lot of the services we use integrate [Gravatar](https://gravatar.com/). It's
 important to have one set as it gives an avatar to your name on our website. To
 learn more about getting that up, please check out
-[this guide](/url/developers/guides/gravatar). All you have to do is create a
+[this guide](/docs/url/developers/gravatar). All you have to do is create a
 Gravatar account and set a photo. That's it!
 
 ### Getting recognized as a member
@@ -246,7 +246,7 @@ To get recognized as a member, you must contribute to the project in some way.
 That may mean writing research notes, adding a commit message to any of our git
 repos, etc. As long as we see you are dedicated to the project, you may get
 recognized as a member if you so wish. To remain an active member, you must
-comply with our [attendance policies](/policies/url-lab-attendance/).
+comply with our [attendance policies](/docs/policies/url-lab-attendance/).
 
 Benefits include...
 
@@ -260,9 +260,9 @@ Benefits include...
 There may be more instructions depending on the team you're in. Read the
 instructions for the team you are in:
 
-- [Developers team](/url/developers/getting-started/)
-- [Engineering team](/url/engineering/getting-started/)
-- [Research team](/url/research/getting-started/)
+- [Developers team](/docs/url/developers/getting-started/)
+- [Engineering team](/docs/url/engineering/getting-started/)
+- [Research team](/docs/url/research/getting-started/)
 
 ## Admin Checklist
 
