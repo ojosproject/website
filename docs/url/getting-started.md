@@ -96,7 +96,7 @@ that does the following:
 
 We're trying to develop two solutions: Iris, the open-source software that can
 do all of the above and be installable on any Linux distribution, and
-Palliview, a device that uses our software to provide a "plug and play"
+Palliaview, a device that uses our software to provide a "plug and play"
 experience.
 
 :::tip
