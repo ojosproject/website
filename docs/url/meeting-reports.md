@@ -39,7 +39,7 @@ Enter what this team did during the meeting!
 | Teams Present       | Developers                                           |
 | Members Present     | Carlos Valdez, Ayush Jain, Jason Martin, Jesse David |
 | Meeting Time        | 12:00 PM - 4:00 PM                                   |
-| Report Author(s)    | Carlos Valdez                                        |
+| Report Author(s)    | Carlos Valdez, Joseph Sweatt                         |
 | Location            | Undergraduate Research Lab @ Donald Bren Hall        |
 
 ### Developers
@@ -59,7 +59,7 @@ schema is.
 Carlos and Jesse worked on a
 [flowchart diagram for the Symposium](/docs/url/developers/flowcharts).
 
-### Engineers
+### Engineering
 
 While Joseph and Meadow continue on the CAD modeling of the Palliaview, Kris
 highlighted key problems that we needed to address in the mounting system.
@@ -82,7 +82,7 @@ The following are still underway.
 | Teams Present       | Developers, Engineering                                                                                                 |
 | Members Present     | Carlos Valdez, Joseph Sweatt, Ayush Jain, Jesse David, Meadow Rubalcava, Mark S. Baldwin, Kristopher Doan, Jason Martin |
 | Meeting Time        | 12:00 PM - 3:00 PM                                                                                                      |
-| Report Author(s)    | Carlos Valdez                                                                                                           |
+| Report Author(s)    | Carlos Valdez, Joseph Sweatt                                                                                            |
 | Location            | Undergraduate Research Lab @ Donald Bren Hall                                                                           |
 
 ### Research Advisor Meeting
@@ -138,7 +138,7 @@ needed to be produced:
 | Teams Present       | Developers, Engineering                                                 |
 | Members Present     | Carlos Valdez, Joseph Sweatt, Ayush Jain, Meadow Rubalcava, Jesse David |
 | Meeting Time        | 12:00 PM - 3:00 PM                                                      |
-| Report Author(s)    | Carlos Valdez                                                           |
+| Report Author(s)    | Carlos Valdez, Joseph Sweatt                                            |
 | Location            | Undergraduate Research Lab @ Donald Bren Hall                           |
 
 ### Developers
