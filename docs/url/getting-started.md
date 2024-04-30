@@ -5,7 +5,7 @@ description: >
     so that you can work with us. We can't wait to see what you do here!
 last_update:
     author: Carlos Valdez
-    date: April 22 2024
+    date: April 30 2024
 ---
 # Welcome to the Ojos Project
 
