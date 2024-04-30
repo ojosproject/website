@@ -2,7 +2,7 @@
 authors:
     - cvaldezh@uci.edu
     - jsweatt@uci.edu
-slug: /names/
+slug: /hello-iris-palliaview/
 hide_table_of_contents: true
 description: >
     After months of working on data collecting and requirements analysis, the
