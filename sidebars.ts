@@ -29,7 +29,7 @@ const sidebars: SidebarsConfig = {
       link: {type: 'doc', id: 'iris/README'},
       label: 'Iris Docs',
       collapsible: false,
-      items: ['url/developers/README',
+      items: ['url/developers/README', 'iris/requirements',
       {
         type: 'category',
         link: {
