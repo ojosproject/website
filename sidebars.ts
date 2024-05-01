@@ -41,7 +41,7 @@ const sidebars: SidebarsConfig = {
         },
         label: 'Design',
         collapsible: true,
-        items: ['iris/c4-model', 'iris/database-schema', 'iris/flowcharts']
+        items: ['iris/c4-model', 'iris/database-schema', 'iris/filesystem', 'iris/flowcharts']
       }
       ]
     }
