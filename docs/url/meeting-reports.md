@@ -34,13 +34,13 @@ Enter what this team did during the meeting!
 
 ## May 1, 2024
 
-| General Information |                                                                                    |
-| ------------------- | ---------------------------------------------------------------------------------- |
-| Teams Present       | Developers, Engineering                                                            |
-| Members Present     | Carlos Valdez, Ayush Jain, Joseph Sweatt, Jesse David, Meadow Rubalcava, Mai Luong |
-| Meeting Time        | 12:30 PM - 3:00 PM                                                                 |
-| Report Author(s)    | Carlos Valdez                                                                      |
-| Location            | Undergraduate Research Lab @ Donald Bren Hall, Zoom                                |
+| General Information |                                                                                                  |
+| ------------------- | ------------------------------------------------------------------------------------------------ |
+| Teams Present       | Developers, Engineering                                                                          |
+| Members Present     | Carlos Valdez, Ayush Jain, Joseph Sweatt, Jesse David, Meadow Rubalcava, Mai Luong, Jason Martin |
+| Meeting Time        | 12:30 PM - 3:00 PM                                                                               |
+| Report Author(s)    | Carlos Valdez                                                                                    |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall, Zoom                                              |
 
 ### Developers
 
