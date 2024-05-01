@@ -5,11 +5,13 @@
 # To comply with the Members JSON Protocol, that file will be automatically
 # generated with this script.
 # 
+# ! Please run this script from the root of this repository.
+# 
 # To learn more about the Members JSON Protocol, please visit
 # https://docs.ojosproject.org/url/developers/webdev/members-json/
 import requests
 
-response = requests.get("https://docs.ojosproject.org/data/url/members.json")
+response = requests.get("https://ojosproject.org/data/url/members.json")
 
 if response.status_code == 200:
     data = response.json()
@@ -22,7 +24,7 @@ if response.status_code == 200:
         \n  url: {member['website']['value']}\
         \n  image_url: {member['avatar']}\n"
 
-    with open("./blog/authors.yml", "w") as f:
+    with open("./news/authors.yml", "w") as f:
         f.write(yaml)
 
 
