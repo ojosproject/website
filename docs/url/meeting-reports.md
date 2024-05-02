@@ -32,6 +32,27 @@ Enter what this team did during the meeting!
 
 -->
 
+## May 2, 2024
+
+| General Information |                                                                        |
+| ------------------- | ---------------------------------------------------------------------- |
+| Teams Present       | Engineering, Developers                                                |
+| Members Present     | Ayush Jain, Joseph Sweatt, Carlos Valdez, Jesse David, Mark S. Baldwin |
+| Meeting Time        | 12:30 PM - 3:00 PM                                                     |
+| Report Author(s)    | Carlos Valdez                                                          |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                          |
+
+### Research Advisor Meeting
+
+We updated the professor about the different designs happening with Developers
+and Engineering. He asked us about our workflow and mentioned we seem to be
+doing the waterfall method. Once coding starts, we will be switching a different
+workflow. We might try agile?
+
+### Everybody
+
+We worked on the Symposium poster today.
+
 ## May 1, 2024
 
 | General Information |                                                                                                  |
