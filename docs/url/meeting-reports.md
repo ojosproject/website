@@ -7,6 +7,10 @@ last_update:
     author: Carlos Valdez
     date: May 1 2024
 ---
+<!-- ? Disable no-duplicate-heading -->
+<!-- ? A lot of these will have duplicate headings. -->
+<!-- ? Users should just link the date instead of Developers/Engineering -->
+<!-- markdownlint-disable MD024 -->
 # Meeting Reports
 
 Whenever we have any meeting, we will write a report here. Newest reports go at
@@ -49,9 +53,9 @@ and Engineering. He asked us about our workflow and mentioned we seem to be
 doing the waterfall method. Once coding starts, we will be switching a different
 workflow. We might try agile?
 
-### Everybody
+### Developers, Engineering
 
-We worked on the Symposium poster today.
+Everybody worked on the 2024 Symposium poster for the Ojos Project.
 
 ## May 1, 2024
 
