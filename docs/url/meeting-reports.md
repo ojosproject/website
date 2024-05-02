@@ -38,13 +38,13 @@ Enter what this team did during the meeting!
 
 ## May 2, 2024
 
-| General Information |                                                                        |
-| ------------------- | ---------------------------------------------------------------------- |
-| Teams Present       | Engineering, Developers                                                |
-| Members Present     | Ayush Jain, Joseph Sweatt, Carlos Valdez, Jesse David, Mark S. Baldwin |
-| Meeting Time        | 12:30 PM - 3:00 PM                                                     |
-| Report Author(s)    | Carlos Valdez                                                          |
-| Location            | Undergraduate Research Lab @ Donald Bren Hall                          |
+| General Information |                                                                                      |
+| ------------------- | ------------------------------------------------------------------------------------ |
+| Teams Present       | Engineering, Developers                                                              |
+| Members Present     | Ayush Jain, Joseph Sweatt, Carlos Valdez, Jesse David, Mark S. Baldwin, Jason Martin |
+| Meeting Time        | 12:30 PM - 3:00 PM                                                                   |
+| Report Author(s)    | Carlos Valdez                                                                        |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                        |
 
 ### Research Advisor Meeting
 
@@ -56,6 +56,14 @@ workflow. We might try agile?
 ### Developers, Engineering
 
 Everybody worked on the 2024 Symposium poster for the Ojos Project.
+
+Carlos and Joseph are actively adding supplemental content on the website for
+the symposium.
+[Process can be seen in this PR](https://github.com/ojosproject/website/pull/29).
+
+Jason looked into Pipfiles and wrote some documentation on it for us to use
+later.
+[Progress can be seen in this PR](https://github.com/ojosproject/website/pull/30).
 
 ## May 1, 2024
 
