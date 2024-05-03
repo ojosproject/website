@@ -65,7 +65,7 @@ const sidebars: SidebarsConfig = {
               type: 'category',
               label: 'Guides',
               collapsible: true,
-              items: ['url/developers/decrypt-interviews', 'url/developers/gitlab-ide', 'url/developers/gravatar', 'url/developers/installing-wsl', 'url/developers/linux-filesystem', 'url/developers/ssh-setup', 'url/developers/updating-meeting-reports', 'url/developers/updating-news']
+              items: ['url/developers/decrypt-interviews', 'url/developers/gitlab-ide', 'url/developers/gravatar', 'url/developers/installing-wsl', 'url/developers/linux-filesystem', 'url/developers/ssh-setup', 'url/developers/updating-meeting-reports', 'url/developers/updating-news', 'url/developers/using-pipfiles']
             },
             {
               type: 'category',
