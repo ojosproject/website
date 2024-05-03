@@ -2,7 +2,9 @@
 displayed_sidebar: groupUrl
 last_update:
     author: Carlos Valdez
-    date: May 2 2024
+    date: May 3 2024
+description: >
+    Let's learn about package management in Python.
 ---
 # `pip`, Pipfiles, and Pipenv
 
