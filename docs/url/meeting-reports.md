@@ -36,6 +36,24 @@ Enter what this team did during the meeting!
 
 -->
 
+## May 3, 2024
+
+| General Information |                                               |
+| ------------------- | --------------------------------------------- |
+| Teams Present       | Developers                                    |
+| Members Present     | Carlos Valdez, Jesse David, Jason Martin      |
+| Meeting Time        | 12:00 PM - 4:00 PM                            |
+| Report Author(s)    | Carlos Valdez                                 |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall |
+
+### Developers
+
+Carlos tried to help get the developers setup with Pipenv, which proved to be
+difficult. Carlos and Jason got started with the code and created various
+modules, such as `Database.py`, `User.py`, `main.py`, and `Medications.py`.
+
+[View the last commit done during the meeting](https://github.com/ojosproject/iris/tree/db5284f4f7acca25bcd2c2480dfd86e1afd486c4).
+
 ## May 2, 2024
 
 | General Information |                                                                                      |
