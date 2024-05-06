@@ -22,9 +22,9 @@ physical prototype of our Palliaview. This is the first teasers of the our
 prototype. Below is the shell we modeled to fit our components.
 <!-- todo: Need to add link for Palliaview section of the Docs. -->
 
-![Palliaview](@site/static/images/PalliaviewShellVerision1rotatingview-ezgif.com-video-to-gif-converter.gif)
+![Palliaview](@site/static/images/palliaview-rotating-shell.gif)
 
-![Collapsing](@site/static/images/PalliaviewShellVerision1collaspingview-ezgif.com-video-to-gif-converter.gif)
+![Collapsing](@site/static/images/palliaview-collapsing-view.gif)
 
 ## References
 
