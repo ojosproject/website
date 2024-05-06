@@ -1,13 +1,14 @@
 ---
 displayed_sidebar: softwareIris
 description: >
-    Iris is the at-home hospice management system developed by the Ojos Project.
-    It is free and fully open-source. Made with love at the University of
-    California, Irvine.
+  Iris is the at-home hospice management system developed by the Ojos Project.
+  It is free and fully open-source. Made with love at the University of
+  California, Irvine.
 last_update:
-    author: Carlos Valdez
-    date: April 28 2024
+  author: Carlos Valdez
+  date: April 28 2024
 ---
+
 # Iris Docs
 
 ![Ojos Project header](@site/static/images/header.png)

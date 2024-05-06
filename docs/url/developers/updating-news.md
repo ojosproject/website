@@ -1,13 +1,14 @@
 ---
 displayed_sidebar: groupUrl
 description: >
-    This guide is meant for Team Leads who want to add to the News section of
-    the main website. It is meant to be non-technical and as easy as possible to
-    understand.
+  This guide is meant for Team Leads who want to add to the News section of
+  the main website. It is meant to be non-technical and as easy as possible to
+  understand.
 last_update:
-    author: Carlos Valdez
-    date: April 16 2024
+  author: Carlos Valdez
+  date: April 16 2024
 ---
+
 # Publishing News
 
 The Ojos Project has
@@ -17,11 +18,11 @@ figure out how to update the site.
 
 We will be using:
 
-| Tool                                             | Description                                                                                                                  |
-| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| Tool                                           | Description                                                                                                                  |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | [GitLab IDE](/docs/url/developers/gitlab-ide/) | A [VS Code](https://code.visualstudio.com/)-like environment. Easier to use since it authenticates with your GitLab account. |
-| [Markdown](https://quickref.me/markdown)         | The markup language used to write posts                                                                                      |
-| [Mermaid](https://mermaid.js.org/) (Optional)    | A diagraming tool                                                                                                            |
+| [Markdown](https://quickref.me/markdown)       | The markup language used to write posts                                                                                      |
+| [Mermaid](https://mermaid.js.org/) (Optional)  | A diagraming tool                                                                                                            |
 
 ## Getting Started
 
@@ -89,11 +90,11 @@ description: >
 The above is an example from the [Winter 2024 Wrap Up](https://ojosproject.org/news/winter-2024-wrap/)
 post we made in March.
 
-|Key|Description|
-|---|---|
-|`slug`|The content after `ojosproject.org/news/`. Keep it short and simple. MUST BE INCLUDED.|
-|`hide_table_of_contents`|Almost always set to `true`.|
-|`description`|This is just a description of the content you wrote. It's best to write something as search engines like this.|
+| Key                      | Description                                                                                                    |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| `slug`                   | The content after `ojosproject.org/news/`. Keep it short and simple. MUST BE INCLUDED.                         |
+| `hide_table_of_contents` | Almost always set to `true`.                                                                                   |
+| `description`            | This is just a description of the content you wrote. It's best to write something as search engines like this. |
 
 If you collaborated with someone on an article, you can have more than one
 author. You can do so by doing:
@@ -101,8 +102,8 @@ author. You can do so by doing:
 ```yaml
 ---
 authors:
-    - email1
-    - email2
+  - email1
+  - email2
 ---
 ```
 
@@ -123,6 +124,7 @@ The 2024 Winter quarter is almost finished! As we get ready to wrap up for Sprin
 ## A look back
 
 ### Interviews
+
 ...
 ...
 ...
@@ -150,16 +152,16 @@ neat feature to use sometimes.
 Here's the basic syntax:
 
 ```markdown
-|Column 1 Name|Column 2 Name|
-|---|---|
-|Content for column 1|Content for column2|
+| Column 1 Name        | Column 2 Name       |
+| -------------------- | ------------------- |
+| Content for column 1 | Content for column2 |
 ```
 
 This will create:
 
-|Column 1 Name|Column 2 Name|
-|---|---|
-|Content for column 1|Content for column2|
+| Column 1 Name        | Column 2 Name       |
+| -------------------- | ------------------- |
+| Content for column 1 | Content for column2 |
 
 ### Adding images
 

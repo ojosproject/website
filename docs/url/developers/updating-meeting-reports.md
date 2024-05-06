@@ -1,11 +1,12 @@
 ---
 displayed_sidebar: groupUrl
 last_update:
-    author: Carlos Valdez
-    date: April 30 2024
+  author: Carlos Valdez
+  date: April 30 2024
 description: >
-    Let's learn how to add meeting reports on GitHub.
+  Let's learn how to add meeting reports on GitHub.
 ---
+
 # Updating Meeting Reports
 
 The Ojos Project keeps [meeting reports](/docs/url/meeting-reports) so that we

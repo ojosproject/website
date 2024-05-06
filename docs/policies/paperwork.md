@@ -1,12 +1,13 @@
 ---
 displayed_sidebar: policies
 description: >
-    How do we make sure we're filling out paperwork correctly for the Ojos
-    Project? Read this to find out.
+  How do we make sure we're filling out paperwork correctly for the Ojos
+  Project? Read this to find out.
 last_update:
-    date: March 30 2024
-    author: Carlos Valdez
+  date: March 30 2024
+  author: Carlos Valdez
 ---
+
 # Paperwork Policies
 
 When it comes to filling out paperwork for the Ojos Project, **do not fill out

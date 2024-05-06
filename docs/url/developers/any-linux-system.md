@@ -2,12 +2,13 @@
 displayed_sidebar: groupUrl
 unlisted: true
 last_update:
-    author: Carlos Valdez
-    date: April 16 2024
+  author: Carlos Valdez
+  date: April 16 2024
 description: >
-    This document will elaborate deeper as to how the "must run on any Linux
-    system" should happen, by using ChromeOS Flex as an example.
+  This document will elaborate deeper as to how the "must run on any Linux
+  system" should happen, by using ChromeOS Flex as an example.
 ---
+
 # Any Linux System Proposal
 
 The idea behind "it must run on any Linux system"

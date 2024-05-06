@@ -1,11 +1,12 @@
 ---
 displayed_sidebar: policies
 description: >
-    Read on the attendance policies of the URL Lab at UCI, located at DBH 5089.
+  Read on the attendance policies of the URL Lab at UCI, located at DBH 5089.
 last_update:
-    date: April 21 2024
-    author: Carlos Valdez
+  date: April 21 2024
+  author: Carlos Valdez
 ---
+
 # URL Lab Attendance
 
 The URL Lab at the University of California, Irvine is a room at the Donald Bren

@@ -1,12 +1,12 @@
 ---
 displayed_sidebar: policies
 description: >
-    If you're just learning about how to add to the Team Docs, please go ahead
-    and read this document. It will help you go over how to add to the docs,
-    the purpose of the docs, etc.
+  If you're just learning about how to add to the Team Docs, please go ahead
+  and read this document. It will help you go over how to add to the docs,
+  the purpose of the docs, etc.
 last_update:
-    author: Carlos Valdez
-    date: March 20 2024
+  author: Carlos Valdez
+  date: March 20 2024
 ---
 
 # Team Docs
@@ -58,14 +58,13 @@ referencing Markdown.](https://quickref.me/markdown)
 ---
 displayed_sidebar: groupUrlTeamDevelopers OR groupUrlTeamEngineering OR groupUrlTeamResearch
 description: >
-    ENTER A DESCRIPTION ABOUT THIS DOCUMENT HERE.
+  ENTER A DESCRIPTION ABOUT THIS DOCUMENT HERE.
 last_update:
-    author: ENTER YOUR NAME HERE.
-    date: ENTER THE DATE HERE. JAN 1 2024 STRUCTURE.
+  author: ENTER YOUR NAME HERE.
+  date: ENTER THE DATE HERE. JAN 1 2024 STRUCTURE.
 ---
 
 # TITLE OF THE DOCUMENT
 
 CONTENT OF THE DOCUMENT.
-
 ```

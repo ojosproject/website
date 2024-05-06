@@ -1,12 +1,13 @@
 ---
 displayed_sidebar: groupUrl
 last_update:
-    author: Carlos Valdez
-    date: April 14 2024
+  author: Carlos Valdez
+  date: April 14 2024
 description: >
-    This will guide you to transition from GitLab to GitHub. This page will also
-    be used to help developers transition from one `git` service to another.
+  This will guide you to transition from GitLab to GitHub. This page will also
+  be used to help developers transition from one `git` service to another.
 ---
+
 # Transitioning to GitHub
 
 This guide will help you transition from GitLab to GitHub.
@@ -20,7 +21,7 @@ All you need to do is
 ## Commands to Run
 
 There's some commands you can run on the terminal to not have to clone an entire
-new repository. **This assumes you want to use SSH key authentication. If you
+new repository. \*\*This assumes you want to use SSH key authentication. If you
 want to use HTTPS authentication, replace it with the appropriate URL.
 
 | GitLab Repository                                     | Command                                                            |

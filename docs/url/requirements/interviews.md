@@ -1,12 +1,12 @@
 ---
 displayed_sidebar: groupUrl
 description: >
-    This document will serve as the Ojos Project's interview protocol. It will
-    help us ensure we provide clear instructions to team members to ensure we
-    conduct proper interviews.
+  This document will serve as the Ojos Project's interview protocol. It will
+  help us ensure we provide clear instructions to team members to ensure we
+  conduct proper interviews.
 last_update:
-    author: Carlos Valdez
-    date: February 28, 2024 1:49:26 PM PST
+  author: Carlos Valdez
+  date: February 28, 2024 1:49:26 PM PST
 ---
 
 # Interview Protocol
@@ -51,7 +51,7 @@ upcoming interviews.
 lines of...
 
 > Hi Mx. [surname], please don't forget that your interview today is going
-to be at [dateTime]. Thank you!
+> to be at [dateTime]. Thank you!
 
 Be sure to include a photo of the PDF document they agreed to.
 

@@ -1,12 +1,13 @@
 ---
 displayed_sidebar: groupUrl
 description: >
-    This document will explain the process of how to add a new Markdown file to
-    the documentation. Out are the days of just adding the document...
+  This document will explain the process of how to add a new Markdown file to
+  the documentation. Out are the days of just adding the document...
 last_update:
-    author: Carlos Valdez
-    date: April 5 2024
+  author: Carlos Valdez
+  date: April 5 2024
 ---
+
 # Updating the documentation
 
 You're probably reading this on `ojosproject.org`. Previously, we would
@@ -20,7 +21,7 @@ just as nice!
 
 In comes [Docusaurus](https://docusaurus.io/), an open-source documentation
 tool that focuses on making the documentation look pretty while I can focus on
-just writing it up! That is... until *after* the setup.
+just writing it up! That is... until _after_ the setup.
 
 This document will explain the process of how to add a new Markdown file to
 the documentation. Out are the days of just adding the document...
@@ -33,10 +34,10 @@ On the top of almost every Markdown file, you will find something like this:
 ---
 displayed_sidebar: null
 description: >
-    null
+  null
 last_update:
-    author: null
-    date: null
+  author: null
+  date: null
 ---
 ```
 

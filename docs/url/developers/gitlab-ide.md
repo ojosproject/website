@@ -2,8 +2,8 @@
 displayed_sidebar: groupUrl
 description: Want to edit our GitLab code without having to fight with SSH? Learn how to use the GitLab IDE tool!
 last_update:
-    date: April 5 2024
-    author: Carlos Valdez
+  date: April 5 2024
+  author: Carlos Valdez
 ---
 
 # Using the GitLab Web IDE

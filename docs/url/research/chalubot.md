@@ -1,12 +1,13 @@
 ---
 description: >
-    ChaluBot is a Discord bot we use at the Ojos Project to organize our
-    research notes. This document includes the commands for the bots, as well as
-    how you might need to use it.
+  ChaluBot is a Discord bot we use at the Ojos Project to organize our
+  research notes. This document includes the commands for the bots, as well as
+  how you might need to use it.
 last_update:
-    author: Carlos Valdez
-    date: March 2, 2024 12:17:54 AM PST
+  author: Carlos Valdez
+  date: March 2, 2024 12:17:54 AM PST
 ---
+
 # ChaluBot
 
 :::info
@@ -41,10 +42,10 @@ So, in summary,
 
 ## Commands
 
-|Command|Who can use|Description|
-|---|---|---|
-|`/assign <member> <paper id>`|Carlos|Assigns `<member>` a research paper.|
-|`/claim <paper id>`|Ojos Team|Team members can also claim research papers for themselves.|
-|`/add_notes <paper id>`|Assignee for `<paper id>`|Opens a [long text box](https://discord.com/developers/docs/interactions/message-components#text-inputs) for you to add your notes. Make sure to use [Markdown](https://quickref.me/markdown)!|
-|`/commit <paper id>`|Assignee for `<paper id>`|This means your notes are finalized and ready to be published.|
-|`/list`|Ojos Project Team|Lists all papers, their status, and who is assigned to them.|
+| Command                       | Who can use               | Description                                                                                                                                                                                    |
+| ----------------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `/assign <member> <paper id>` | Carlos                    | Assigns `<member>` a research paper.                                                                                                                                                           |
+| `/claim <paper id>`           | Ojos Team                 | Team members can also claim research papers for themselves.                                                                                                                                    |
+| `/add_notes <paper id>`       | Assignee for `<paper id>` | Opens a [long text box](https://discord.com/developers/docs/interactions/message-components#text-inputs) for you to add your notes. Make sure to use [Markdown](https://quickref.me/markdown)! |
+| `/commit <paper id>`          | Assignee for `<paper id>` | This means your notes are finalized and ready to be published.                                                                                                                                 |
+| `/list`                       | Ojos Project Team         | Lists all papers, their status, and who is assigned to them.                                                                                                                                   |
