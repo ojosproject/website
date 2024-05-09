@@ -38,6 +38,16 @@ Enter what this team did during the meeting!
 
 -->
 
+## May 8, 2024
+
+### Developers
+
+Jason noticed we could make a `.sql` to create the tables faster. We did so, but we all had to brush up on SQL, specifically with `sqlite3`.
+
+Carlos started using [GitHub Milestones](https://github.com/ojosproject/iris/milestone/1) to create agendas for the team.
+
+[Last commit of the meeting](https://github.com/ojosproject/iris/commit/785fddb4f323cb1d0465303921de6ca02e0557b7).
+
 ## May 3, 2024
 
 | General Information |                                               |
