@@ -40,11 +40,22 @@ Enter what this team did during the meeting!
 
 ## May 8, 2024
 
+| General Information |                                                                                                 |
+| ------------------- | ----------------------------------------------------------------------------------------------- |
+| Teams Present       | Developers, Engineering                                                                         |
+| Members Present     | Joseph Sweatt, Ayush Jain, Carlos Valdez, Jesse David, Jason Martin, Kristopher Doan, Mai Luong |
+| Meeting Time        | 12:00 PM - 3:00 PM                                                                              |
+| Report Author(s)    | Carlos Valdez                                                                                   |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                                   |
+
 ### Developers
 
-Jason noticed we could make a `.sql` to create the tables faster. We did so, but we all had to brush up on SQL, specifically with `sqlite3`.
+Jason noticed we could make a `.sql` to create the tables faster. We did so, but
+we all had to brush up on SQL, specifically with `sqlite3`.
 
-Carlos started using [GitHub Milestones](https://github.com/ojosproject/iris/milestone/1) to create agendas for the team.
+Carlos started using
+[GitHub Milestones](https://github.com/ojosproject/iris/milestone/1) to create
+agendas for the team.
 
 [Last commit of the meeting](https://github.com/ojosproject/iris/commit/785fddb4f323cb1d0465303921de6ca02e0557b7).
 
