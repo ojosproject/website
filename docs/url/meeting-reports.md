@@ -38,6 +38,22 @@ Enter what this team did during the meeting!
 
 -->
 
+## May 9, 2024
+
+| General Information |                                                                                                        |
+| ------------------- | ------------------------------------------------------------------------------------------------------ |
+| Teams Present       | Developers, Engineering                                                                                |
+| Members Present     | Carlos Valdez, Joseph Sweatt, Jesse David, Mark S. Baldwin, Ayush Jain, Meadow Rubalcava, Jason Martin |
+| Meeting Time        | 12:00 PM - 3:00 PM                                                                                     |
+| Report Author(s)    | Carlos Valdez                                                                                          |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                                          |
+
+### Developers
+
+Developers continued to work on the Iris prototype for the symposium. Ayush and
+Carlos started looking into how to work with the PyGObject library, but noticed
+the documentation isn't in a singular place. Carlos will look into it more.
+
 ## May 8, 2024
 
 | General Information |                                                                                                 |
