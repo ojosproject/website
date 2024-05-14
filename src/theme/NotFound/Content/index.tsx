@@ -21,6 +21,7 @@ import clsx from "clsx";
 import Translate from "@docusaurus/Translate";
 import type { Props } from "@theme/NotFound/Content";
 import Heading from "@theme/Heading";
+import SawaratsukiNotFound from "@site/static/images/404NotFound.png";
 
 export default function NotFoundContent({ className }: Props): JSX.Element {
 	return (
@@ -35,10 +36,7 @@ export default function NotFoundContent({ className }: Props): JSX.Element {
 						</Translate>
 					</Heading>
 
-					<img
-						src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/e1cf3d23e1a6161c6ccfdb8c8e8edbada3b4384f/404Notfound/NotFound.png"
-						alt="NotFound logo by Sawaratsuki."
-					/>
+					<img src={SawaratsukiNotFound} alt="NotFound logo by Sawaratsuki." />
 
 					<p>
 						<Translate
@@ -73,7 +71,7 @@ export default function NotFoundContent({ className }: Props): JSX.Element {
 					</ul>
 
 					<a
-						href="https://github.com/SAWARATSUKI/ServiceLogos/blob/e1cf3d23e1a6161c6ccfdb8c8e8edbada3b4384f/404Notfound/NotFound.png"
+						href="https://twitter.com/sawaratsuki1004/"
 						target="_blank"
 						rel="noreferrer noopener">
 						<Translate id="theme.NotFound.a3">
