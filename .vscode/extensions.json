@@ -1,9 +1,9 @@
 // extensions.json
 // Ojos Project
-// 
+//
 // This is a collection of Visual Studio Code extensions that are actively
 // being used in this project. Please download them.
-// 
+//
 // * For an easier install:
 // *
 // * - Go to "Extensions"
@@ -11,26 +11,29 @@
 // *
 // * A neat list of these extensions will appear. :)
 {
-  "recommendations": [
-      // Spell checking
-      "streetsidesoftware.code-spell-checker",
+	"recommendations": [
+		// Spell checking
+		"streetsidesoftware.code-spell-checker",
 
-      // Same as above, but for Spanish
-      "streetsidesoftware.code-spell-checker-spanish",
+		// Same as above, but for Spanish
+		"streetsidesoftware.code-spell-checker-spanish",
 
-      // Makes comments stand out more
-      "aaron-bond.better-comments",
+		// Makes comments stand out more
+		"aaron-bond.better-comments",
 
-      // Ensures you're indenting properly
-      "oderwat.indent-rainbow",
+		// Ensures you're indenting properly
+		"oderwat.indent-rainbow",
 
-      // Ensures you're writing proper Markdown
-      "DavidAnson.vscode-markdownlint",
+		// Ensures you're writing proper Markdown
+		"DavidAnson.vscode-markdownlint",
 
-      // Windows Subsystem for Linux extension, for WSL users in Ojos Project
-      "ms-vscode-remote.remote-wsl",
+		// Windows Subsystem for Linux extension, for WSL users in Ojos Project
+		"ms-vscode-remote.remote-wsl",
 
-      // Enables MDX support
-      "unifiedjs.vscode-mdx"
-  ]
+		// Enables MDX support
+		"unifiedjs.vscode-mdx",
+
+		// prettier
+		"esbenp.prettier-vscode"
+	]
 }

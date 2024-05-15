@@ -1,12 +1,13 @@
 ---
 displayed_sidebar: policies
 description: >
-    Let's clarify what groups, teams, and members are, as well as clarify the
-    structure of the Ojos Project.
+  Let's clarify what groups, teams, and members are, as well as clarify the
+  structure of the Ojos Project.
 last_update:
-    author: Carlos Valdez
-    date: April 11 2024
+  author: Carlos Valdez
+  date: April 11 2024
 ---
+
 # Groups, Teams, and Members
 
 We throw around terms such as 'group', 'team', 'member', etc. This will

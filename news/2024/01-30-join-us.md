@@ -10,6 +10,7 @@ description: >
 last_update:
   date: April 16 2024
 ---
+
 # Join the Ojos Project
 
 ![Ojos Project header](@site/static/images/header.png)

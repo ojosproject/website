@@ -1,12 +1,13 @@
 ---
 displayed_sidebar: groupUrl
 description: >
-    Welcome to the Ojos Project! This document is here to help you get set up
-    so that you can work with us. We can't wait to see what you do here!
+  Welcome to the Ojos Project! This document is here to help you get set up
+  so that you can work with us. We can't wait to see what you do here!
 last_update:
-    author: Carlos Valdez
-    date: April 30 2024
+  author: Carlos Valdez
+  date: April 30 2024
 ---
+
 # Welcome to the Ojos Project
 
 We're pleased that you decided to join us. There's a few things we need you to

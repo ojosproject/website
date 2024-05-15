@@ -1,11 +1,11 @@
 ---
 displayed_sidebar: groupUrl
 description: >
-    The Developers team of the Ojos Project is in charge of building the
-    software infrastructure of the device and the organization as a whole.
+  The Developers team of the Ojos Project is in charge of building the
+  software infrastructure of the device and the organization as a whole.
 last_update:
-    author: Carlos Valdez
-    date: April 18 2024
+  author: Carlos Valdez
+  date: April 18 2024
 ---
 
 # Developers Team
@@ -36,10 +36,10 @@ related to the Ojos Project.** Thanks!
 We try to use similar tools to ensure consistency throughout the team. Some of
 the tools we use are:
 
-| Tool           | Setup                                      | Reason                                              |
-| -------------- | ------------------------------------------ | --------------------------------------------------- |
-| macOS or Linux | N/A                                        | Ensuring we can use the same bash scripts.          |
-| Gaphor         | [gaphor.org](https://gaphor.org/download/) | [C4 Model design](/docs/iris/c4-model/) |
+| Tool           | Setup                                      | Reason                                     |
+| -------------- | ------------------------------------------ | ------------------------------------------ |
+| macOS or Linux | N/A                                        | Ensuring we can use the same bash scripts. |
+| Gaphor         | [gaphor.org](https://gaphor.org/download/) | [C4 Model design](/docs/iris/c4-model/)    |
 
 ## Resources
 

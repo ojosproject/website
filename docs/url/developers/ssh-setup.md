@@ -1,10 +1,10 @@
 ---
 displayed_sidebar: groupUrl
 description: >
-    This will help you get through the SSH setup.
+  This will help you get through the SSH setup.
 last_update:
-    author: Carlos Valdez
-    date: February 22, 2024 2:42:55 PM PST
+  author: Carlos Valdez
+  date: February 22, 2024 2:42:55 PM PST
 ---
 
 # SSH Setup

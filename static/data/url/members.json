@@ -1,162 +1,183 @@
 [
-    {
-        "name": "Carlos Valdez",
-        "email": "cvaldezh@uci.edu",
-        "roles": ["Group Lead", "Developers Lead", "Research Team"],
-        "institution": "University of California, Irvine",
-        "website": {"label": "Personal Website", "value": "https://calejvaldez.com/"},
-        "joined": 1696536000,
-        "avatar": "https://gravatar.com/avatar/41bb2938e02bf5326eb6b82ec02d919ca97cf68b376c4c5769fbba4acc85a190?d=mp",
-        "contributions": [
-            "Lead the URL Group.",
-            "Developed and maintained software infrastructure.",
-            "Researched various academic papers for the Ojos Project.",
-            "Requirements analysis."
-        ],
-        "active": true
-    },
-    {
-        "name": "Mark S. Baldwin, PhD",
-        "email": "baldwinm@ics.uci.edu",
-        "institution": "University of California, Irvine",
-        "roles": ["Faculty Advisor"],
-        "website": {"label": "Personal Website", "value": "https://markbaldw.in"},
-        "joined": 1696536000,
-        "avatar": "https://gravatar.com/avatar/84ea4715fcf218179a00bd36150884d878b5d4a19fb731b2d09ab0eee7aba509?d=mp",
-        "contributions": [
-            "Advised our research effort."
-        ],
-        "active": true
-    },
-    {
-        "name": "Joseph Sweatt",
-        "email": "jsweatt@uci.edu",
-        "roles": ["Engineering Lead", "Research Team"],
-        "institution": "University of California, Irvine",
-        "website": {"label": "LinkedIn", "value": "https://linkedin.com/in/josephsweattjr/"},
-        "joined": 1697050800,
-        "avatar": "https://gravatar.com/avatar/fac497a877e467035b306a201b938608120228662480b08e0477c59b4cfe347a?d=mp",
-        "contributions": [
-            "Lead a team of engineers.",
-            "Researched various academic papers for the Ojos Project.",
-            "Requirements analysis."
-        ],
-        "active": true
-    },
-    {
-        "name": "Ayush Jain",
-        "email": "ayushj4@uci.edu",
-        "roles": ["Developers Team"],
-        "institution": "University of California, Irvine",
-        "website": {"label": "Personal Website", "value": "https://ayushdotjain.com/"},
-        "joined": 1706644800,
-        "avatar": "https://gravatar.com/avatar/e4c598f9826093429edec4c38d6bfb93968a59b512259b07e7d1ffe4ff7bb115?d=mp",
-        "contributions": [
-            "Maintained software infrastructure.",
-            "Requirements analysis.",
-            "Designed C4 Model diagrams."
-        ],
-        "active": true
-    },
-    {
-        "name": "Isabella Gronich",
-        "email": "igronich@students.imperial.edu",
-        "roles": ["Research Team"],
-        "institution": "Imperial Valley College",
-        "website": {"label": "Email", "value":"mailto:igronich@students.imperial.edu"},
-        "joined": 1707163200,
-        "avatar": "https://gravatar.com/avatar/e4b66681a801324cb8b596783892b45e275d0c182789cb22a2af0c14ff73f0f8?d=mp",
-        "contributions": ["Researched various academic papers for the Ojos Project."],
-        "active": false
-    },
-    {
-        "name": "Jackie Sanchez",
-        "email": "jsanchez88@students.imperial.edu",
-        "roles": ["Research Team"],
-        "institution": "Imperial Valley College",
-        "website": {"label": "Email", "value": "mailto:jsanchez88@students.imperial.edu"},
-        "joined": 1707163200,
-        "avatar": "https://gravatar.com/avatar/60445455d0c9497dd7f2da0838c4b355d8686efab439067e79df497fbbbba3a3?d=mp",
-        "contributions": [],
-        "active": false
-    },
-    {
-        "name": "Meadow Rubalcava",
-        "email": "mbrubalc@uci.edu",
-        "roles": ["Engineering Team"],
-        "institution":"University of California, Irvine",
-        "website": {"label": "Email", "value": "mailto:mbrubalc@uci.edu"},
-        "joined": 1712170800,
-        "avatar": "https://gravatar.com/avatar/7bae5b8f9cc1947984ed6c9d448549b7e8447b46af410c58ed4837223c7a4ff5?d=mp",
-        "contributions": [
-            "Assisted with engineering brainstorming.",
-            "Researched engineering design."
-        ],
-        "active": true
-    },
-    {
-        "name": "Kristopher Doan",
-        "email": "doankv@uci.edu",
-        "roles": ["Engineering Team"],
-        "institution": "University of California, Irvine",
-        "website": {"label": "Email", "value": "mailto:doankv@uci.edu"},
-        "joined": 1712170800,
-        "avatar": "https://gravatar.com/avatar/e54d8eddd364952c265567243cca1c33f8654fd0e8e4ac7323887e1d2fc01989?d=mp",
-        "contributions": [
-            "Assisted with engineering brainstorming.",
-            "Researched engineering design.",
-            "Designed C4 Model diagrams."
-        ],
-        "active": true
-    },
-    {
-        "name": "Jesse David",
-        "email": "jessecd@uci.edu",
-        "roles": ["Developers Team", "Research Team"],
-        "institution": "University of California, Irvine",
-        "website": {"label": "Email", "value": "mailto:jessecd@uci.edu"},
-        "joined": 1713380400,
-        "avatar": "https://gravatar.com/avatar/51db6b5c49b02428e4e69270515fa2cd00c966f249afceede0a8a295a7dc3e0d?d=mp",
-        "contributions": [
-            "Contributed code to our repositories.",
-            "Designed C4 Model diagrams."
-        ],
-        "active": true
-    },
-    {
-        "name": "Christina Martinez",
-        "email": "chrismm6@uci.edu",
-        "roles": ["Developers Team"],
-        "institution": "University of California, Irvine",
-        "website": {"label": "Email", "value": "mailto:chrismm6@uci.edu"},
-        "joined": 1713380400,
-        "avatar": "https://gravatar.com/avatar/adc610eaf208b218e57a7cd465ebff9e305d4961d1a1066fe15424e0cd732380?d=mp",
-        "contributions": [],
-        "active": true
-    },
-    {
-        "name": "Jason Martin",
-        "email": "jasonbm2@uci.edu",
-        "roles": ["Developers Team", "Research Team"],
-        "institution": "University of California, Irvine",
-        "website": {"label": "Email", "value": "mailto:jasonbm2@uci.edu"},
-        "joined": 1713466800,
-        "avatar": "https://gravatar.com/avatar/8289191418b7daecb56c302c1088bc3cf261a250834ffa47681f707ad31c9e1e?d=mp",
-        "contributions": [
-            "Designed UML class diagrams.",
-            "Designed C4 Model diagrams."
-        ],
-        "active": true
-    },
-    {
-        "name": "Mai Luong",
-        "email": "pluong3@uci.edu",
-        "roles": ["Developers Team"],
-        "institution": "University of California, Irvine",
-        "website": {"label": "LinkedIn", "value": "https://www.linkedin.com/in/phuong-luong-541840216/"},
-        "joined": 1714590000,
-        "avatar": "https://gravatar.com/avatar/5002e9dc4b1b7b95625b027b7dea849cfd47a8e743907545e37ef250635460ea?d=mp",
-        "contributions": [],
-        "active": true
-    }
+	{
+		"name": "Carlos Valdez",
+		"email": "cvaldezh@uci.edu",
+		"roles": ["Group Lead", "Developers Lead", "Research Team"],
+		"institution": "University of California, Irvine",
+		"website": {
+			"label": "Personal Website",
+			"value": "https://calejvaldez.com/"
+		},
+		"joined": 1696536000,
+		"avatar": "https://gravatar.com/avatar/41bb2938e02bf5326eb6b82ec02d919ca97cf68b376c4c5769fbba4acc85a190?d=mp",
+		"contributions": [
+			"Lead the URL Group.",
+			"Developed and maintained software infrastructure.",
+			"Researched various academic papers for the Ojos Project.",
+			"Requirements analysis."
+		],
+		"active": true
+	},
+	{
+		"name": "Mark S. Baldwin, PhD",
+		"email": "baldwinm@ics.uci.edu",
+		"institution": "University of California, Irvine",
+		"roles": ["Faculty Advisor"],
+		"website": {
+			"label": "Personal Website",
+			"value": "https://markbaldw.in"
+		},
+		"joined": 1696536000,
+		"avatar": "https://gravatar.com/avatar/84ea4715fcf218179a00bd36150884d878b5d4a19fb731b2d09ab0eee7aba509?d=mp",
+		"contributions": ["Advised our research effort."],
+		"active": true
+	},
+	{
+		"name": "Joseph Sweatt",
+		"email": "jsweatt@uci.edu",
+		"roles": ["Engineering Lead", "Research Team"],
+		"institution": "University of California, Irvine",
+		"website": {
+			"label": "LinkedIn",
+			"value": "https://linkedin.com/in/josephsweattjr/"
+		},
+		"joined": 1697050800,
+		"avatar": "https://gravatar.com/avatar/fac497a877e467035b306a201b938608120228662480b08e0477c59b4cfe347a?d=mp",
+		"contributions": [
+			"Lead a team of engineers.",
+			"Researched various academic papers for the Ojos Project.",
+			"Requirements analysis."
+		],
+		"active": true
+	},
+	{
+		"name": "Ayush Jain",
+		"email": "ayushj4@uci.edu",
+		"roles": ["Developers Team"],
+		"institution": "University of California, Irvine",
+		"website": {
+			"label": "Personal Website",
+			"value": "https://ayushdotjain.com/"
+		},
+		"joined": 1706644800,
+		"avatar": "https://gravatar.com/avatar/e4c598f9826093429edec4c38d6bfb93968a59b512259b07e7d1ffe4ff7bb115?d=mp",
+		"contributions": [
+			"Maintained software infrastructure.",
+			"Requirements analysis.",
+			"Designed C4 Model diagrams."
+		],
+		"active": true
+	},
+	{
+		"name": "Isabella Gronich",
+		"email": "igronich@students.imperial.edu",
+		"roles": ["Research Team"],
+		"institution": "Imperial Valley College",
+		"website": {
+			"label": "Email",
+			"value": "mailto:igronich@students.imperial.edu"
+		},
+		"joined": 1707163200,
+		"avatar": "https://gravatar.com/avatar/e4b66681a801324cb8b596783892b45e275d0c182789cb22a2af0c14ff73f0f8?d=mp",
+		"contributions": [
+			"Researched various academic papers for the Ojos Project."
+		],
+		"active": false
+	},
+	{
+		"name": "Jackie Sanchez",
+		"email": "jsanchez88@students.imperial.edu",
+		"roles": ["Research Team"],
+		"institution": "Imperial Valley College",
+		"website": {
+			"label": "Email",
+			"value": "mailto:jsanchez88@students.imperial.edu"
+		},
+		"joined": 1707163200,
+		"avatar": "https://gravatar.com/avatar/60445455d0c9497dd7f2da0838c4b355d8686efab439067e79df497fbbbba3a3?d=mp",
+		"contributions": [],
+		"active": false
+	},
+	{
+		"name": "Meadow Rubalcava",
+		"email": "mbrubalc@uci.edu",
+		"roles": ["Engineering Team"],
+		"institution": "University of California, Irvine",
+		"website": { "label": "Email", "value": "mailto:mbrubalc@uci.edu" },
+		"joined": 1712170800,
+		"avatar": "https://gravatar.com/avatar/7bae5b8f9cc1947984ed6c9d448549b7e8447b46af410c58ed4837223c7a4ff5?d=mp",
+		"contributions": [
+			"Assisted with engineering brainstorming.",
+			"Researched engineering design."
+		],
+		"active": true
+	},
+	{
+		"name": "Kristopher Doan",
+		"email": "doankv@uci.edu",
+		"roles": ["Engineering Team"],
+		"institution": "University of California, Irvine",
+		"website": { "label": "Email", "value": "mailto:doankv@uci.edu" },
+		"joined": 1712170800,
+		"avatar": "https://gravatar.com/avatar/e54d8eddd364952c265567243cca1c33f8654fd0e8e4ac7323887e1d2fc01989?d=mp",
+		"contributions": [
+			"Assisted with engineering brainstorming.",
+			"Researched engineering design.",
+			"Designed C4 Model diagrams."
+		],
+		"active": true
+	},
+	{
+		"name": "Jesse David",
+		"email": "jessecd@uci.edu",
+		"roles": ["Developers Team", "Research Team"],
+		"institution": "University of California, Irvine",
+		"website": { "label": "Email", "value": "mailto:jessecd@uci.edu" },
+		"joined": 1713380400,
+		"avatar": "https://gravatar.com/avatar/51db6b5c49b02428e4e69270515fa2cd00c966f249afceede0a8a295a7dc3e0d?d=mp",
+		"contributions": [
+			"Contributed code to our repositories.",
+			"Designed C4 Model diagrams."
+		],
+		"active": true
+	},
+	{
+		"name": "Christina Martinez",
+		"email": "chrismm6@uci.edu",
+		"roles": ["Developers Team"],
+		"institution": "University of California, Irvine",
+		"website": { "label": "Email", "value": "mailto:chrismm6@uci.edu" },
+		"joined": 1713380400,
+		"avatar": "https://gravatar.com/avatar/adc610eaf208b218e57a7cd465ebff9e305d4961d1a1066fe15424e0cd732380?d=mp",
+		"contributions": [],
+		"active": false
+	},
+	{
+		"name": "Jason Martin",
+		"email": "jasonbm2@uci.edu",
+		"roles": ["Developers Team", "Research Team"],
+		"institution": "University of California, Irvine",
+		"website": { "label": "Email", "value": "mailto:jasonbm2@uci.edu" },
+		"joined": 1713466800,
+		"avatar": "https://gravatar.com/avatar/8289191418b7daecb56c302c1088bc3cf261a250834ffa47681f707ad31c9e1e?d=mp",
+		"contributions": [
+			"Designed UML class diagrams.",
+			"Designed C4 Model diagrams."
+		],
+		"active": true
+	},
+	{
+		"name": "Mai Luong",
+		"email": "pluong3@uci.edu",
+		"roles": ["Developers Team"],
+		"institution": "University of California, Irvine",
+		"website": {
+			"label": "LinkedIn",
+			"value": "https://www.linkedin.com/in/phuong-luong-541840216/"
+		},
+		"joined": 1714590000,
+		"avatar": "https://gravatar.com/avatar/5002e9dc4b1b7b95625b027b7dea849cfd47a8e743907545e37ef250635460ea?d=mp",
+		"contributions": ["Designed lo-fi prototypes for Iris."],
+		"active": true
+	}
 ]

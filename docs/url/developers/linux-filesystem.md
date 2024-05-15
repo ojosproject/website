@@ -1,11 +1,12 @@
 ---
 displayed_sidebar: groupUrl
 description: >
-    Let's go over the Linux filesystem.
+  Let's go over the Linux filesystem.
 last_update:
-    author: Carlos Valdez
-    date: April 18 2024
+  author: Carlos Valdez
+  date: April 18 2024
 ---
+
 # The Linux Filesystem
 
 At first, the Linux filesystem might be a bit scary at first, but it's actually

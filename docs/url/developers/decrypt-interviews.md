@@ -1,20 +1,18 @@
 ---
 displayed_sidebar: groupUrl
 description: >
-    This document will go into how to decrypt the interviews we conducted for
-    the Ojos Project. This will use `gpg`.
+  This document will go into how to decrypt the interviews we conducted for
+  the Ojos Project. This will use `gpg`.
 last_update:
-    author: Carlos Valdez
-    date: February 22, 2024 2:42:55 PM PST
+  author: Carlos Valdez
+  date: February 22, 2024 2:42:55 PM PST
 ---
 
-Decrypting the Interviews
-=========================
+# Decrypting the Interviews
 
 I hope you're comfortable with the terminal.
 
-Installation
-------------
+## Installation
 
 If you are on macOS, you'll have to install `gpg` using
 [Homebrew](https://brew.sh/) using this command:
@@ -29,8 +27,7 @@ If you are on Linux, install `gpg` using...
 sudo apt install gpg
 ```
 
-Decryption
-----------
+## Decryption
 
 Once you have gpg installed, use the terminal to get to the folder the videos
 are downloaded in. There's two useful comments that will help: `ls` and `cd`.

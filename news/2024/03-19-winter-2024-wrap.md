@@ -7,6 +7,7 @@ description: >
   Spring break, let's go over some of the accomplishments we had this quarter,
   as well as the plans we have for Spring 2024. Be back soon!
 ---
+
 # Winter 2024 Wrap Up
 
 ![Ojos Project header](@site/static/images/header.png)
