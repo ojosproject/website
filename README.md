@@ -92,4 +92,5 @@ and open a Pull Request pointing to `dev`.
 ## License
 
 Content: [Creative Commons Attribution 4.0 International](https://choosealicense.com/licenses/cc-by-4.0/)
+
 Code: [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
