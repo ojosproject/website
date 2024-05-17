@@ -9,7 +9,7 @@ export default function CountdownWrapper(props: { colorModeHook }) {
 	// A countdown for the 2024 Undergraduate Research Symposium.
 	//
 	// * Important times:
-	// * 1715967000000 - May 17, 10:30 AM: Start of the symposium
+	// * 1715977800000 - May 17,  1:30 PM: Start of Ojos' poster presentation
 	// * 1715989500000 - May 17,  4:45 PM: End of the symposium
 	// * 1716015600000 - May 18, 12:00 AM: End of the day
 	//
@@ -38,7 +38,7 @@ export default function CountdownWrapper(props: { colorModeHook }) {
 				(colorMode === "dark" ? "symposium-dark" : "symposium-light")
 			}>
 			<Countdown
-				date={1715967000000}
+				date={1715977800000}
 				renderer={({ days, hours, minutes, seconds, completed }) => {
 					if (new Date() > new Date(1715989500000)) {
 						// If the current date is past 4:45 PM, the end time for the symposium
@@ -61,7 +61,7 @@ export default function CountdownWrapper(props: { colorModeHook }) {
 					}
 
 					if (completed) {
-						// If it's 10:30 AM, show this
+						// If it's 1:30 AM, show this
 						return (
 							<>
 								<p>
@@ -70,9 +70,9 @@ export default function CountdownWrapper(props: { colorModeHook }) {
 										href="https://urop.uci.edu/symposium/"
 										target="_blank"
 										rel="noopener noreferrer">
-										Undergraduate Research Symposium
+										Ojos Project
 									</a>{" "}
-									is happening
+									is presenting
 								</p>
 								<span className="countdown">RIGHT NOW!</span>
 								<p>
@@ -94,9 +94,9 @@ export default function CountdownWrapper(props: { colorModeHook }) {
 										href="https://urop.uci.edu/symposium/"
 										target="_blank"
 										rel="noopener noreferrer">
-										Undergraduate Research Symposium
+										Ojos Project
 									</a>{" "}
-									starts in...
+									will present in...
 								</p>
 								<span className="countdown">
 									{days !== 0 ? `${days}:` : null}
