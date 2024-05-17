@@ -87,6 +87,10 @@ const config: Config = {
 						from: "/docs/url/developers/flowcharts/",
 						to: "/docs/iris/flowcharts/",
 					},
+					{
+						from: "/events/uci-symposium-2024/",
+						to: "/"
+					}
 				],
 			},
 		],
