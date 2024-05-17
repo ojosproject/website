@@ -64,16 +64,7 @@ export default function CountdownWrapper(props: { colorModeHook }) {
 						// If it's 1:30 AM, show this
 						return (
 							<>
-								<p>
-									The{" "}
-									<a
-										href="https://urop.uci.edu/symposium/"
-										target="_blank"
-										rel="noopener noreferrer">
-										Ojos Project
-									</a>{" "}
-									is presenting
-								</p>
+								<p>Ojos Project is presenting</p>
 								<span className="countdown">RIGHT NOW!</span>
 								<p>
 									Show your support to the team and UCI research by attending!
@@ -88,16 +79,7 @@ export default function CountdownWrapper(props: { colorModeHook }) {
 						// Show the actual countdown otherwise
 						return (
 							<>
-								<p>
-									The{" "}
-									<a
-										href="https://urop.uci.edu/symposium/"
-										target="_blank"
-										rel="noopener noreferrer">
-										Ojos Project
-									</a>{" "}
-									will present in...
-								</p>
+								<p>Ojos Project will present in...</p>
 								<span className="countdown">
 									{days !== 0 ? `${days}:` : null}
 									{hours !== 0 || days > 0 ? `${numberPadding(hours)}:` : null}
