@@ -85,20 +85,6 @@
 		"active": false
 	},
 	{
-		"name": "Jackie Sanchez",
-		"email": "jsanchez88@students.imperial.edu",
-		"roles": ["Research Team"],
-		"institution": "Imperial Valley College",
-		"website": {
-			"label": "Email",
-			"value": "mailto:jsanchez88@students.imperial.edu"
-		},
-		"joined": 1707163200,
-		"avatar": "https://gravatar.com/avatar/60445455d0c9497dd7f2da0838c4b355d8686efab439067e79df497fbbbba3a3?d=mp",
-		"contributions": [],
-		"active": false
-	},
-	{
 		"name": "Meadow Rubalcava",
 		"email": "mbrubalc@uci.edu",
 		"roles": ["Engineering Team"],
@@ -140,17 +126,6 @@
 			"Designed C4 Model diagrams."
 		],
 		"active": true
-	},
-	{
-		"name": "Christina Martinez",
-		"email": "chrismm6@uci.edu",
-		"roles": ["Developers Team"],
-		"institution": "University of California, Irvine",
-		"website": { "label": "Email", "value": "mailto:chrismm6@uci.edu" },
-		"joined": 1713380400,
-		"avatar": "https://gravatar.com/avatar/adc610eaf208b218e57a7cd465ebff9e305d4961d1a1066fe15424e0cd732380?d=mp",
-		"contributions": [],
-		"active": false
 	},
 	{
 		"name": "Jason Martin",
