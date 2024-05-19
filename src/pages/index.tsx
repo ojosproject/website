@@ -6,7 +6,6 @@ import "./index.scss";
 import Layout from "@theme/Layout";
 import { useColorMode } from "@docusaurus/theme-common";
 import members from "@site/static/data/url/members.json";
-import CountdownWrapper from "../components/temp/SymposiumCountdown";
 
 interface Member {
 	name: string;
@@ -57,8 +56,6 @@ export default function Root() {
 
 	return (
 		<Layout>
-			<CountdownWrapper colorModeHook={useColorMode} />
-
 			<div className="story">
 				<div className="story_text">
 					<h1>Creating an easier way to stay connected with who you love.</h1>
