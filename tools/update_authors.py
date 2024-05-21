@@ -1,12 +1,13 @@
 # update_authors.py
 # Ojos Project
-# 
+#
 # In the blog folder of this project, there exists an `authors.yml` file.
 # To comply with the Members JSON Protocol, that file will be automatically
 # generated with this script.
-# 
-# ! Please run this script from the root of this repository.
-# 
+#
+# ! Please run this script from the root of this repository like this:
+# ! python tools/update_authors.py
+#
 # To learn more about the Members JSON Protocol, please visit
 # https://docs.ojosproject.org/url/developers/webdev/members-json/
 import requests
@@ -18,11 +19,11 @@ if response.status_code == 200:
     yaml = ""
 
     for member in data:
-        yaml += f"{member['email']}:\
-        \n  name: {member['name']}\
-        \n  title: {member['roles'][0]}\
-        \n  url: {member['website']['value']}\
-        \n  image_url: {member['avatar']}\n"
+        yaml += f"{member['email']}:\n"
+        yaml += f"  name: {member['name']}\n"
+        yaml += f"  title: {member['roles'][0]}\n"
+        yaml += f"  url: {member['website']['value']}\n"
+        yaml += f"  image_url: {member['avatar']}\n"
 
     with open("./news/authors.yml", "w") as f:
         f.write(yaml)

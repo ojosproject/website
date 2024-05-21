@@ -23,11 +23,6 @@ igronich@students.imperial.edu:
   title: Research Team
   url: mailto:igronich@students.imperial.edu
   image_url: https://gravatar.com/avatar/e4b66681a801324cb8b596783892b45e275d0c182789cb22a2af0c14ff73f0f8?d=mp
-jsanchez88@students.imperial.edu:
-  name: Jackie Sanchez
-  title: Research Team
-  url: mailto:jsanchez88@students.imperial.edu
-  image_url: https://gravatar.com/avatar/60445455d0c9497dd7f2da0838c4b355d8686efab439067e79df497fbbbba3a3?d=mp
 mbrubalc@uci.edu:
   name: Meadow Rubalcava
   title: Engineering Team
@@ -38,3 +33,18 @@ doankv@uci.edu:
   title: Engineering Team
   url: mailto:doankv@uci.edu
   image_url: https://gravatar.com/avatar/e54d8eddd364952c265567243cca1c33f8654fd0e8e4ac7323887e1d2fc01989?d=mp
+jessecd@uci.edu:
+  name: Jesse David
+  title: Developers Team
+  url: mailto:jessecd@uci.edu
+  image_url: https://gravatar.com/avatar/51db6b5c49b02428e4e69270515fa2cd00c966f249afceede0a8a295a7dc3e0d?d=mp
+jasonbm2@uci.edu:
+  name: Jason Martin
+  title: Developers Team
+  url: mailto:jasonbm2@uci.edu
+  image_url: https://gravatar.com/avatar/8289191418b7daecb56c302c1088bc3cf261a250834ffa47681f707ad31c9e1e?d=mp
+pluong3@uci.edu:
+  name: Mai Luong
+  title: Developers Team
+  url: https://www.linkedin.com/in/phuong-luong-541840216/
+  image_url: https://gravatar.com/avatar/5002e9dc4b1b7b95625b027b7dea849cfd47a8e743907545e37ef250635460ea?d=mp
