@@ -3,6 +3,7 @@
 //
 // Gets and organizes the information about members of the Ojos Project to
 // display it in https://docs.ojosproject.org/url/members/.
+import "./members.scss";
 import membersJSON from "@site/static/data/url/members.json";
 
 interface Member {
