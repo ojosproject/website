@@ -8,7 +8,7 @@ const config: Config = {
 	url: "https://ojosproject.org",
 	baseUrl: "/",
 
-	favicon: "https://ojosproject.org/images/uci-pride-logo.png",
+	favicon: "https://ojosproject.org/images/logo.png",
 	trailingSlash: true,
 	i18n: {
 		defaultLocale: "en",
@@ -89,8 +89,8 @@ const config: Config = {
 					},
 					{
 						from: "/events/uci-symposium-2024/",
-						to: "/"
-					}
+						to: "/",
+					},
 				],
 			},
 		],
@@ -101,22 +101,18 @@ const config: Config = {
 			defaultMode: "light",
 			respectPrefersColorScheme: true,
 		},
-		image: "https://ojosproject.org/images/uci-pride-header.png",
+		image: "https://ojosproject.org/images/header.png",
 		navbar: {
 			title: "Ojos Project",
 			logo: {
 				alt: "Ojos Project logo",
-				src: "https://ojosproject.org/images/uci-pride-logo.png",
+				src: "https://ojosproject.org/images/logo-space.png",
 				className: "ojos_logo_in_navbar",
 			},
 			items: [
 				{
 					label: "Project News",
 					to: "/news/",
-				},
-				{
-					label: "Ojos @ Symposium",
-					to: "/news/symposium-2024",
 				},
 				{
 					label: "Documentation",
