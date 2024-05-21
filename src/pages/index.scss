@@ -30,22 +30,20 @@ body {
 		flex: 2;
 
 		max-width: 500px;
+		min-width: 350px;
 
 		margin: 0 20px;
 		text-align: left;
 	}
 
 	.story_image {
-		margin: 0 20px;
+		margin: 20px;
 
 		// max-height: 396px;
-		max-width: 528px;
-
-		border-radius: 20px;
+		max-width: 600px;
 
 		@media screen and (max-width: 767px) {
-			max-width: 300px;
-			margin-top: 20px;
+			max-width: 95%;
 		}
 	}
 }
