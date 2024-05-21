@@ -6,9 +6,3 @@ website, these components decide which information to present at which times.
 
 In short, these components "self destruct" after a certain period, should be
 cleared when their time is done.
-
-## Current Components and Expiration Dates
-
-| File            | Purpose                        | Expiration Date |
-| --------------- | ------------------------------ | --------------- |
-| `Countdown.tsx` | A countdown for the Symposium. | May 18 2024     |
