@@ -1,7 +1,7 @@
 ---
 authors: cvaldezh@uci.edu
 slug: /symposium-2024/
-image: https://ojosproject.org/images/uci-pride-header.png
+image: https://ojosproject.org/images/2024-symposium-group.png
 hide_table_of_contents: true
 description: >
   The Ojos Project presented our work at the UCI Undergraduate Research
