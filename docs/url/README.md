@@ -1,11 +1,12 @@
 ---
 displayed_sidebar: groupUrl
 description: >
-    Learn more about the URL Group at the Ojos Project.
+  Learn more about the URL Group at the Ojos Project.
 last_update:
-    author: Carlos Valdez
-    date: March 28 2024
+  author: Carlos Valdez
+  date: March 28 2024
 ---
+
 # URL Group
 
 The [Undergraduate Research Lab](https://markbaldw.in/url/) is a research lab by

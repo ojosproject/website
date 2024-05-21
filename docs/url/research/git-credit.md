@@ -1,12 +1,13 @@
 ---
 description: >
-    The git Credit proposal is meant to explain how people in the Research team
-    can get credit in the docs repository with git. This has been implemented
-    using a Discord bot.
+  The git Credit proposal is meant to explain how people in the Research team
+  can get credit in the docs repository with git. This has been implemented
+  using a Discord bot.
 last_update:
-    author: Carlos Valdez
-    date: March 2, 2024 12:20:31 AM PST
+  author: Carlos Valdez
+  date: March 2, 2024 12:20:31 AM PST
 ---
+
 # Credit via Git
 
 :::info

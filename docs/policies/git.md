@@ -1,8 +1,8 @@
 ---
 displayed_sidebar: policies
 last_update:
-    author: Carlos Valdez
-    date: April 19 2024
+  author: Carlos Valdez
+  date: April 19 2024
 description: Read up on the Ojos Project policies for git and GitHub!
 ---
 

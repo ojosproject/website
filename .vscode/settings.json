@@ -1,42 +1,52 @@
 {
-    "cSpell.words": [
-        "anonimizado",
-        "Ayush",
-        "cdrive",
-        "dism",
-        "Doan",
-        "featurename",
-        "Flix",
-        "Gaphor",
-        "Gronich",
-        "IN4MATX",
-        "incómod",
-        "irvine",
-        "LXDE",
-        "neofetch",
-        "norestart",
-        "Ojos",
-        "ojosproject",
-        "palliaview",
-        "Palliaview",
-        "PROMIS",
-        "raspi",
-        "Rubalcava",
-        "Sweatt",
-        "telehealth",
-        "Telehealth",
-        "telemedicine",
-        "Telemedicine",
-        "xinitrc"
-    ],
-    "cSpell.language": "en,es",
-    "[markdown][plaintext][mdx]": {
-        "editor.rulers": [80],
-        "editor.wordWrap": "off"
-    },
-    "[python]": {
-        "editor.rulers": [120]
-    },
-    "editor.wordWrap": "off",
-    "files.autoSave": "onFocusChange",
+	"cSpell.words": [
+		"anonimizado",
+		"Ayush",
+		"cdrive",
+		"dism",
+		"Doan",
+		"featurename",
+		"Flix",
+		"Gaphor",
+		"Gronich",
+		"IN4MATX",
+		"incómod",
+		"irvine",
+		"Luong",
+		"LXDE",
+		"neofetch",
+		"norestart",
+		"Ojos",
+		"ojosproject",
+		"Palliaview",
+		"pipenv",
+		"Pipenv",
+		"Pipfile",
+		"Pipfiles",
+		"PROMIS",
+		"raspi",
+		"Rubalcava",
+		"Sweatt",
+		"telehealth",
+		"Telehealth",
+		"telemedicine",
+		"Telemedicine",
+		"xinitrc"
+	],
+	"cSpell.language": "en,es",
+	"[markdown][plaintext][mdx]": {
+		"editor.rulers": [80],
+		"editor.wordWrap": "off"
+	},
+	"[python]": {
+		"editor.rulers": [120]
+	},
+	"editor.wordWrap": "off",
+	"files.autoSave": "onFocusChange",
+	"files.associations": {
+		".prettierrc": "json"
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"gitlens.defaultGravatarsStyle": "mp"
 }

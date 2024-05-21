@@ -1,9 +1,10 @@
 ---
 displayed_sidebar: groupUrl
 last_update:
-    author: Carlos Valdez
-    date: April 15, 2024
+  author: Carlos Valdez
+  date: April 15, 2024
 ---
+
 # Getting Started in the Developers Team
 
 Welcome to the Ojos Project's Developers team! We're excited to have you! These are

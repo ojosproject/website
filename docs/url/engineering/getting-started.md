@@ -1,11 +1,12 @@
 ---
 displayed_sidebar: groupUrl
 description: >
-    Get started with the Engineering team at the Ojos Project!
+  Get started with the Engineering team at the Ojos Project!
 last_update:
-    author: Joseph Sweatt
-    date: April 2, 2024
+  author: Joseph Sweatt
+  date: April 2, 2024
 ---
+
 # Getting Started in the Engineering Team
 
 [Raspberry Software](https://www.raspberrypi.com/software/raspberry-pi-desktop/)

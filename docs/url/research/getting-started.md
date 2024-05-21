@@ -1,12 +1,13 @@
 ---
 displayed_sidebar: groupUrl
 description: >
-    Welcome to the Ojos Project's Research team! We're excited to have you!
-    These are instructions for people who are just joining the team.
+  Welcome to the Ojos Project's Research team! We're excited to have you!
+  These are instructions for people who are just joining the team.
 last_update:
-    author: Carlos Valdez
-    date: April 11 2024
+  author: Carlos Valdez
+  date: April 11 2024
 ---
+
 # Getting Started in the Research Team
 
 Welcome to the Ojos Project's Research team! We're excited to have you! These

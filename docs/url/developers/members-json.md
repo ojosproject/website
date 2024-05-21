@@ -2,11 +2,12 @@
 displayed_sidebar: groupUrl
 unlisted: true
 description: >
-    This walks Developers over the Members JSON Protocol.
+  This walks Developers over the Members JSON Protocol.
 last_update:
-    author: Carlos Valdez
-    date: April 28 2024
+  author: Carlos Valdez
+  date: April 28 2024
 ---
+
 # Members JSON Protocol
 
 ## Background
@@ -32,17 +33,17 @@ The structure of the Members JSON file is:
 
 ```json
 [
-    {
-        "name": "",
-        "email": "",
-        "roles": [],
-        "institution": "",
-        "website": {"label": "", "value": ""},
-        "joined": 0,
-        "avatar": "",
-        "contributions": [],
-        "active": false
-    }
+	{
+		"name": "",
+		"email": "",
+		"roles": [],
+		"institution": "",
+		"website": { "label": "", "value": "" },
+		"joined": 0,
+		"avatar": "",
+		"contributions": [],
+		"active": false
+	}
 ]
 ```
 

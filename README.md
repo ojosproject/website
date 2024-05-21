@@ -13,6 +13,7 @@
     - [npm commands](#npm-commands)
   - [Contributing](#contributing)
     - [Branching](#branching)
+  - [License](#license)
 
 ## Description
 
@@ -87,3 +88,9 @@ Then open a Pull Request pointing to `dev`.
 
 If you're not a member, please create a fork copy of `dev`, commit your changes,
 and open a Pull Request pointing to `dev`.
+
+## License
+
+Content: [Creative Commons Attribution 4.0 International](https://choosealicense.com/licenses/cc-by-4.0/)
+
+Code: [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
