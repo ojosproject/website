@@ -37,6 +37,110 @@ Here's a template:
 Enter what this team did during the meeting!
 
 -->
+## May 17, 2024
+
+| General Information |                                                                       |
+| ------------------- | --------------------------------------------------------------------- |
+| Teams Present       | Developers, Engineering                                               |
+| Members Present     | Carlos Valdez, Ayush Jain, Meadow Rubalcava, Kris Doan, Joseph Sweatt |
+| Meeting Time        | 1:30 PM - 3:00 PM                                                     |
+| Report Author(s)    | Carlos Valdez                                                         |
+| Location            | Bren Events Center                                                    |
+
+### Ojos Project
+
+We presented our work at the 2024 Undergraduate Research Symposium.
+
+[View pics here](https://drive.google.com/drive/folders/12m_Vo5XeYGjv0yok0-WHEYNAUgJUr7bz).
+
+## May 16, 2024
+
+| General Information |                                                                            |
+| ------------------- | -------------------------------------------------------------------------- |
+| Teams Present       | Engineering, Developers                                                    |
+| Members Present     | Joseph Sweatt, Carlos Valdez, Mark S. Baldwin, Meadow Rubalcava, Kris Doan |
+| Meeting Time        | 12:00 PM - 3:00PM                                                          |
+| Report Author(s)    | Joseph Sweatt, Carlos Valdez                                               |
+| Location            | Remote                                                                     |
+
+### Ojos Project
+
+We did some preparation for the symposium.
+
+## May 15, 2024
+
+| General Information |                                                                          |
+| ------------------- | ------------------------------------------------------------------------ |
+| Teams Present       | Engineering, Developers                                                  |
+| Members Present     | Joseph Sweatt, Carlos Valdez, Meadow Rubalcava, Jason Martin, Ayush Jain |
+| Meeting Time        | 12:00 PM - 3:00PM                                                        |
+| Report Author(s)    | Joseph Sweatt                                                            |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                            |
+
+### Engineering, Developers
+
+Joseph and Ayush led a resume and symposium breakdown to prepare new or
+inexperienced members. Carlos started the process to make a supplemental
+information page for the symposium.
+
+## May 10, 2024
+
+| General Information |                                                                            |
+| ------------------- | -------------------------------------------------------------------------- |
+| Teams Present       | Engineering, Developers                                                    |
+| Members Present     | Joseph Sweatt, Carlos, Valdez, Kris Doan, Jesse David, Mai Luong           |
+| Meeting Time        | 12:00-4:00 PM                                                              |
+| Report Author(s)    | Joseph Sweatt                                                              |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall, Division of Career Pathways |
+
+### Engineering
+
+Joseph Sent out the poster to
+[ImageWorks @ UCI](https://www.imageworks.bio.uci.edu/) for it to be printed in
+time for the symposium. Additionally, Joseph and Kris went to the Division of
+Career Pathways to obtain professional clothes for the symposium.
+
+## May 9, 2024
+
+| General Information |                                                                                                        |
+| ------------------- | ------------------------------------------------------------------------------------------------------ |
+| Teams Present       |                                                                                                        |
+| Members Present     | Joseph Sweatt, Carlos Valdez, Meadow Rubalcava, Mark S. Baldwin, Ayush Jain, Jesse David, Jason Martin |
+| Meeting Time        | 12:00-3:00PM                                                                                           |
+| Report Author(s)    | Joseph Sweatt                                                                                          |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                                          |
+
+### Engineering, Developers
+
+Joseph attended an UROP advisor appointment to get feedback on the poster and
+iron out final details on the printers before it was sent off to the printers.
+Mark S. Baldwin also provided key input on changes that can be done to the
+symposium poster
+
+### Engineering
+
+Meadow finished first assembly of her models of the mounting system.
+
+## May 8, 2024
+
+| General Information |                                                                                                  |
+| ------------------- | ------------------------------------------------------------------------------------------------ |
+| Teams Present       | Engineering, Developers                                                                          |
+| Members Present     | Joseph Sweatt, Carlos Valdez, Jesse David, Jason Martin, Meadow Rubalcava, Ayush Jain, Kris Doan |
+| Meeting Time        | 12:00 PM - 3:00PM                                                                                |
+| Report Author(s)    | Joseph Sweatt                                                                                    |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                                    |
+
+### Engineering, Developers
+
+The group worked on proofing and finalizing our Symposium Poster before it is
+sent off to the printers.
+
+### Engineering
+
+Meadow continued to CAD her mounting system for the Palliaview design. Joseph
+attempted a loose assembly fo the physical electronic components. Kris Doan
+created a electronic component diagram for the poster.
 
 ## May 9, 2024
 
@@ -129,7 +233,7 @@ later.
 | Teams Present       | Developers, Engineering                                                                          |
 | Members Present     | Carlos Valdez, Ayush Jain, Joseph Sweatt, Jesse David, Meadow Rubalcava, Mai Luong, Jason Martin |
 | Meeting Time        | 12:30 PM - 3:00 PM                                                                               |
-| Report Author(s)    | Carlos Valdez                                                                                    |
+| Report Author(s)    | Carlos Valdez, Joseph Sweatt                                                                     |
 | Location            | Undergraduate Research Lab @ Donald Bren Hall, Zoom                                              |
 
 ### Developers
@@ -147,7 +251,8 @@ We introduced a new developer! Welcome Mai!
 
 ### Engineering
 
-This report is still being written.
+Engineering developed more into the mounting system and adjusted previous models
+now that we have parts to use and measure from.
 
 ## April 26, 2024
 
