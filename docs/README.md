@@ -1,13 +1,14 @@
 ---
 displayed_sidebar: groupUrl
 description: >
-    Welcome to the Ojos Project documentation! This is a collection of Markdown
-    files organized to help you get a better understanding of us as a team and
-    our work.
+  Welcome to the Ojos Project documentation! This is a collection of Markdown
+  files organized to help you get a better understanding of us as a team and
+  our work.
 last_update:
-    author: Carlos Valdez
-    date: April 24 2024
+  author: Carlos Valdez
+  date: April 24 2024
 ---
+
 # Ojos Project Docs
 
 ![Ojos Project header](@site/static/images/header.png)

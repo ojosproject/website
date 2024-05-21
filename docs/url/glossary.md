@@ -1,10 +1,10 @@
 ---
 displayed_sidebar: groupUrl
 description: >
-    This is a glossary of the terms we use. Please use these consistently.
+  This is a glossary of the terms we use. Please use these consistently.
 last_update:
-    author: Carlos Valdez
-    date: April 24 2024
+  author: Carlos Valdez
+  date: April 24 2024
 ---
 
 # Glossary

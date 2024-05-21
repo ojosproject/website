@@ -4,9 +4,10 @@ slug: /urop-and-finances/
 hide_table_of_contents: true
 image: https://ojosproject.org/images/audit.svg
 description: >
-    The Ojos Project won a UROP Research Experience Fellowship in December!
-    Let's talk the grant, finances, and transparency.
+  The Ojos Project won a UROP Research Experience Fellowship in December!
+  Let's talk the grant, finances, and transparency.
 ---
+
 # Ojos Project wins a UROP grant
 
 ![Illustration by Storyset of an audit](@site/static/images/audit.svg)

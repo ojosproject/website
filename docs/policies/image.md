@@ -1,8 +1,8 @@
 ---
 displayed_sidebar: policies
 last_update:
-    author: Carlos Valdez
-    date: April 23 2024
+  author: Carlos Valdez
+  date: April 23 2024
 description: These are guidelines for how to use the Ojos Project name and logos.
 ---
 

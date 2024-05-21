@@ -1,11 +1,12 @@
 ---
 displayed_sidebar: groupUrl
 last_update:
-    author: Carlos Valdez
-    date: May 3 2024
+  author: Carlos Valdez
+  date: May 3 2024
 description: >
-    Let's learn about package management in Python.
+  Let's learn about package management in Python.
 ---
+
 # `pip`, Pipfiles, and Pipenv
 
 This will help you install Pipfiles and the virtual environment for this project.
@@ -98,7 +99,7 @@ pip install -r requirements.txt
 ## `Pipenv`
 
 There's a few issues with `pip`. First of all, it usually installs packages
-*globally*, meaning it could break some apps on your system that are built with
+_globally_, meaning it could break some apps on your system that are built with
 Python. Secondly, installing from `requirements.txt` don't really provide much
 security. Thirdly, some projects require different versions of Python and
 different packages installed.
@@ -145,7 +146,7 @@ pipenv install requests==2.31.0
 
 ## Generating `requirements.txt` from Pipfiles
 
-Sometimes, you *need* a `requirements.txt` file. We can create one from our
+Sometimes, you _need_ a `requirements.txt` file. We can create one from our
 Pipfile by running:
 
 ```shell

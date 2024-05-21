@@ -1,13 +1,14 @@
 ---
 displayed_sidebar: groupUrl
 description: >
-    Gravatar sets a photo for you. We use Gravatar's services to show your photo
-    so that you can change it whenever you want instead of having to rely on
-    the Developers to set it for you.
+  Gravatar sets a photo for you. We use Gravatar's services to show your photo
+  so that you can change it whenever you want instead of having to rely on
+  the Developers to set it for you.
 last_update:
-    date: April 7 2024
-    author: Carlos Valdez
+  date: April 7 2024
+  author: Carlos Valdez
 ---
+
 # Gravatar
 
 Gravatar (otherwise known as a **g**lobally **r**ecognized **avatar**) is a

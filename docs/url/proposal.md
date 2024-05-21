@@ -1,11 +1,12 @@
 ---
 displayed_sidebar: groupUrl
 description: >
-    Read the proposal for the URL Group.
+  Read the proposal for the URL Group.
 last_update:
-    author: Carlos Valdez
-    date: September 29 2023
+  author: Carlos Valdez
+  date: September 29 2023
 ---
+
 # URL Proposal
 
 :::note
