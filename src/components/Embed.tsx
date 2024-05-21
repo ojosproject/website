@@ -5,7 +5,7 @@
 
 import { ReactNode } from "react";
 
-export default function OjosEmbed(props: {
+export default function Embed(props: {
 	type: "figma";
 	url: string;
 }): ReactNode {
