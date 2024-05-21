@@ -44,7 +44,8 @@
 	"editor.wordWrap": "off",
 	"files.autoSave": "onFocusChange",
 	"files.associations": {
-		".prettierrc": "json"
+		".prettierrc": "json",
+		"LICENSE*": "plaintext"
 	},
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
 	"editor.formatOnSave": true,
