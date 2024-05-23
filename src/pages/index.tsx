@@ -5,19 +5,10 @@ import JosephGrandmaImage from "/static/images/joseph-grandma.jpg";
 import "./index.scss";
 import Layout from "@theme/Layout";
 import { useColorMode } from "@docusaurus/theme-common";
-import members from "@site/static/data/url/members.json";
-
-interface Member {
-	name: string;
-	email: string;
-	roles: string[];
-	institution: string;
-	website: { label: string; value: string };
-	joined: number;
-	avatar: string;
-	contributions: string[];
-	active: boolean;
-}
+import {
+	Member,
+	getActiveMemberWithContributions,
+} from "../components/members";
 
 export default function Root() {
 	function TeamMember(props: { member?: Member }) {
@@ -48,7 +39,7 @@ export default function Root() {
 				/>
 				<br />
 				<h3>{props.member.name}</h3>
-				<p>{props.member.institution.toLowerCase()}</p>
+				<p>{props.member.association.toLowerCase()}</p>
 				<p>{props.member.roles[0].toLowerCase()}</p>
 			</a>
 		);
@@ -107,10 +98,8 @@ export default function Root() {
 			<div className="our_team" id="team">
 				<h1>Our Team</h1>
 				<div className="team_members">
-					{members.map((member) => {
-						if (member.active && member.contributions.length) {
-							return <TeamMember member={member} />;
-						}
+					{getActiveMemberWithContributions().map((member: Member) => {
+						return <TeamMember member={member} />;
 					})}
 				</div>
 

@@ -6,16 +6,40 @@
 import "./members.scss";
 import membersJSON from "@site/static/data/url/members.json";
 
-interface Member {
+export interface Member {
 	name: string;
 	email: string;
 	roles: string[];
-	institution: string;
+	association: string;
 	website: { label: string; value: string };
 	joined: number;
 	avatar: string;
 	contributions: string[];
 	active: boolean;
+}
+
+function getActiveMembers(): Member[] {
+	// A current member is a Member that meets the following criteria:
+	//     - `Member.active` is `true`
+	return membersJSON.filter((member) => member.active);
+}
+
+export function getActiveMemberWithContributions(): Member[] {
+	// A current member with contributions is a Member that meets the following criteria:
+	//     - `Member.active` is `true`
+	//     - `Member.contributions` is not empty
+	return membersJSON.filter(
+		(member) => member.active && member.contributions.length,
+	);
+}
+
+function getFormerMembers(): Member[] {
+	// A former member is a Member that meets the following criteria:
+	//     - `Member.active` is `false`
+	//     - `Member.contributions` is not empty
+	return membersJSON.filter(
+		(member) => !member.active && member.contributions.length,
+	);
 }
 
 function getRowForCurrentMember(member: Member) {
@@ -96,7 +120,7 @@ function getRowForFormerMember(member: Member) {
 	);
 }
 
-export const CurrentMembers = () => (
+export const CurrentMembersTable = () => (
 	<table>
 		<thead>
 			<tr>
@@ -108,16 +132,14 @@ export const CurrentMembers = () => (
 			</tr>
 		</thead>
 		<tbody>
-			{membersJSON.map((member: Member) => {
-				if (member.active) {
-					return getRowForCurrentMember(member);
-				}
+			{getActiveMembers().map((member) => {
+				return getRowForCurrentMember(member);
 			})}
 		</tbody>
 	</table>
 );
 
-export const FormerMembers = () => (
+export const FormerMembersTable = () => (
 	<table>
 		<thead>
 			<td>Photo</td>
@@ -127,10 +149,8 @@ export const FormerMembers = () => (
 			<td>Contributions</td>
 		</thead>
 		<tbody>
-			{membersJSON.map((member: Member) => {
-				if (!member.active && member.contributions.length) {
-					return getRowForFormerMember(member);
-				}
+			{getFormerMembers().map((member) => {
+				return getRowForFormerMember(member);
 			})}
 		</tbody>
 	</table>
