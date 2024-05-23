@@ -64,6 +64,29 @@ const sidebars: SidebarsConfig = {
 		},
 	],
 
+	softwareWebsite: [
+		{
+			type: "category",
+			link: {
+				type: "generated-index",
+				title: "Website Docs",
+				description:
+					"Our website has a lot of neat little features, such as Gravatar implementation and keeping track of member contributions. This is here to ensure you know how to interact with the website if you need to.",
+				slug: "/website/",
+				image: "@site/static/images/header.png",
+			},
+			label: "Website Docs",
+			collapsible: false,
+			items: [
+				"website/gravatar",
+				"website/members-json",
+				"website/updating-docs",
+				"website/updating-meeting-reports",
+				"website/updating-news",
+			],
+		},
+	],
+
 	groupUrl: [
 		{
 			type: "category",
@@ -85,12 +108,9 @@ const sidebars: SidebarsConfig = {
 							items: [
 								"url/developers/decrypt-interviews",
 								"url/developers/gitlab-ide",
-								"url/developers/gravatar",
 								"url/developers/installing-wsl",
 								"url/developers/linux-filesystem",
 								"url/developers/ssh-setup",
-								"url/developers/updating-meeting-reports",
-								"url/developers/updating-news",
 								"url/developers/using-pipfiles",
 							],
 						},
@@ -98,10 +118,7 @@ const sidebars: SidebarsConfig = {
 							type: "category",
 							label: "WebDev",
 							collapsible: true,
-							items: [
-								"url/developers/git-transition",
-								"url/developers/updating-docs",
-							],
+							items: ["url/developers/git-transition"],
 						},
 					],
 				},

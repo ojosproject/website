@@ -1,11 +1,11 @@
 ---
-displayed_sidebar: groupUrl
+displayed_sidebar: softwareWebsite
 unlisted: true
 description: >
-  This walks Developers over the Members JSON Protocol.
+  Learn about what the Members JSON file is and how it's used in the website.
 last_update:
   author: Carlos Valdez
-  date: April 28 2024
+  date: May 21 2024
 ---
 
 # Members JSON Protocol
@@ -33,17 +33,17 @@ The structure of the Members JSON file is:
 
 ```json
 [
-	{
-		"name": "",
-		"email": "",
-		"roles": [],
-		"institution": "",
-		"website": { "label": "", "value": "" },
-		"joined": 0,
-		"avatar": "",
-		"contributions": [],
-		"active": false
-	}
+  {
+    "name": "",
+    "email": "",
+    "roles": [],
+    "association": "",
+    "website": { "label": "", "value": "" },
+    "joined": 0,
+    "avatar": "",
+    "contributions": [],
+    "active": false
+  }
 ]
 ```
 
@@ -56,7 +56,7 @@ Here's a table of keys and their meaning:
 | `name`          | `string`   | Member name.                                                                                                                                                                         | Used to identify you as you.                                                                                                               |
 | `email`         | `string`   | Their institution email. Must be from an [approved domain](/docs/url/getting-started/#send-us-your-email).                                                                           | Used to uniquely sort you from others in the team.                                                                                         |
 | `roles`         | `string[]` | Their role(s) in the Ojos Project. Index 0 is your main role.                                                                                                                        | Used to give you credit for your role(s) in the Ojos Project.                                                                              |
-| `institution`   | `string`   | Their associated institution. Examples: `University of California, Irvine`, `Imperial Valley College`, etc.                                                                          | Used to indicate the institution you're from.                                                                                              |
+| `association`   | `string`   | The individual's association. Examples: `University of California, Irvine`, `Imperial Valley College`, etc.                                                                          | Used to indicate your school or institution you're associated with.                                                                        |
 | `website.label` | `string`   | The label, usually `Personal Website`, `Email`, etc.                                                                                                                                 | Used to label your website URL.                                                                                                            |
 | `website.value` | `string`   | The link to direct people to. `mailto:` for `Email`.                                                                                                                                 | Used to link people to your website.                                                                                                       |
 | `joined`        | `number`   | [Unix timestamp](https://www.unixtimestamp.com/) of their join date                                                                                                                  | Used to sort people... or at least will be used to sort people.                                                                            |
@@ -71,37 +71,21 @@ You can
 
 :::
 
-### Using the file
+## Need to update something?
 
-This file is used in two places:
+If you need to update content about yourself, feel free to do so. Some of the
+most common fields you may want to update are:
 
-1. [Main website](https://ojosproject.org#team)
-2. [Members of the Ojos Project](https://ojosproject.org/docs/url/members/)
+- `roles`
+- `website.label`
+- `website.value`
+- `contributions`
 
-The (literal) keys to sorting individuals are `active` and `contributions`.
-Everything else in the Members JSON file is just for information.
+Once you do that, let Carlos know so that it's merged onto the `main` branch.
 
-#### Example: Main website
+:::warning
 
-On the main website, it adds members if the `active` key is `true` and if the
-`contributions` array is not empty. This indicates a
-[Recognized Member](https://ojosproject.org/docs/url/getting-started/#getting-recognized-as-a-member).
-
-#### Example: Members of the Ojos Project
-
-On the Docs website, if adds members to the Current Members table if their
-`active` key is `true`. It adds members to the Former members table if their
-`active` is `false` and the `contributions` array is not empty.
-
-### Changing the data
-
-If you need to add a change to the Members JSON file, it is located in
-`/static/data/url/members.json` in the website repository. [Please use the dev
-branch](https://github.com/ojosproject/website/blob/dev/static/data/url/members.json).
-
-:::tip
-
-If you are not in the Developers team, it is highly recommended to use
-`github.dev` instead. You can do so by going to the repository and pressing the `.` key.
+It is **heavily** recommended you update these values yourself. Carlos does not
+update these as often as he should.
 
 :::

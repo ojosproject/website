@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: groupUrl
+displayed_sidebar: softwareWebsite
 description: >
   Gravatar sets a photo for you. We use Gravatar's services to show your photo
   so that you can change it whenever you want instead of having to rely on

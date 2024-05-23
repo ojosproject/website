@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: groupUrl
+displayed_sidebar: softwareWebsite
 last_update:
   author: Carlos Valdez
   date: April 30 2024
