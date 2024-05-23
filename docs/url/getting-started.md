@@ -230,7 +230,7 @@ It doesn't have to be a personal website. Examples we suggest are:
 A lot of the services we use integrate [Gravatar](https://gravatar.com/). It's
 important to have one set as it gives an avatar to your name on our website. To
 learn more about getting that up, please check out
-[this guide](/docs/url/developers/gravatar). All you have to do is create a
+[this guide](/docs/website/gravatar). All you have to do is create a
 Gravatar account and set a photo. That's it!
 
 ### Getting recognized as a member
