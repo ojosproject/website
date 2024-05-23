@@ -6,7 +6,7 @@ description: >
   our work.
 last_update:
   author: Carlos Valdez
-  date: April 24 2024
+  date: May 22 2024
 ---
 
 # Ojos Project Docs
@@ -19,11 +19,13 @@ is relatively young, our documentation is rapidly growing on a near-daily basis.
 
 ## Getting Started
 
-There's a lot of different things you can get out of these documents. As of now,
-we're still working on software design and engineering design. You may just have
-to refer to the [URL Group's Developers Docs](/docs/url/developers) or the
-[URL Group's Engineering Docs](/docs/url/engineering/). Both are great starting
-points!
+There's a lot of different things you can explore. For example...
+
+| Doc                                     | Description                                                                     |
+| --------------------------------------- | ------------------------------------------------------------------------------- |
+| [Iris Documentation](/docs/iris/)       | Iris is an open-source hospice management system developed by the Ojos Project. |
+| Palliaview Documentation (Coming soon!) | Palliaview is our plug-and-play solution for Iris software.                     |
+| [Website Documentation](/docs/website/) | `ojosproject.org` has a lot of neat features that are documented.               |
 
 ## Need help?
 

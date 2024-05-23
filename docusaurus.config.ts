@@ -116,7 +116,7 @@ const config: Config = {
 				},
 				{
 					label: "Documentation",
-					to: "/docs/url/",
+					to: "/docs/",
 					position: "right",
 				},
 			],
