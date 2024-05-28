@@ -1,6 +1,6 @@
 {
 	"name": "ojosproject.org",
-	"version": "git",
+	"version": "3",
 	"private": true,
 	"scripts": {
 		"docusaurus": "docusaurus",
