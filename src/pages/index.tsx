@@ -4,47 +4,13 @@ import GrandmaImage from "/static/images/grandma.jpg";
 import JosephGrandmaImage from "/static/images/joseph-grandma.jpg";
 import "./index.scss";
 import Layout from "@theme/Layout";
-import { useColorMode } from "@docusaurus/theme-common";
 import {
 	Member,
 	getActiveMemberWithContributions,
+	TeamMemberButton,
 } from "../components/members";
 
 export default function Root() {
-	function TeamMember(props: { member?: Member }) {
-		const { colorMode } = useColorMode();
-		if (!props.member) {
-			return <></>;
-		}
-
-		// Instead of using SCSS to configure light mode/dark mode changes,
-		// Docusaurus uses the useColorMode hook because, well, React.
-		// `index.scss` has a `.darkMemberBackground` and
-		// `.lightMemberBackground` to help with giving them the appropriate
-		// background to indicate that the member is clickable.
-		return (
-			<a
-				className={
-					"member_container " +
-					(colorMode === "dark"
-						? "darkMemberBackground"
-						: "lightMemberBackground")
-				}
-				target="_blank"
-				rel="noopener noreferrer"
-				href={props.member.website.value}>
-				<img
-					src={props.member.avatar + "&s=175"}
-					alt={`Gravatar for ${props.member.name}.`}
-				/>
-				<br />
-				<h3>{props.member.name}</h3>
-				<p>{props.member.association.toLowerCase()}</p>
-				<p>{props.member.roles[0].toLowerCase()}</p>
-			</a>
-		);
-	}
-
 	return (
 		<Layout>
 			<div className="story">
@@ -99,7 +65,7 @@ export default function Root() {
 				<h1>Our Team</h1>
 				<div className="team_members">
 					{getActiveMemberWithContributions().map((member: Member) => {
-						return <TeamMember member={member} />;
+						return <TeamMemberButton member={member} />;
 					})}
 				</div>
 

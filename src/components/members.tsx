@@ -5,6 +5,7 @@
 // display it in https://docs.ojosproject.org/url/members/.
 import "./members.scss";
 import membersJSON from "@site/static/data/url/members.json";
+import { useColorMode } from "@docusaurus/theme-common";
 
 export interface Member {
 	name: string;
@@ -155,3 +156,37 @@ export const FormerMembersTable = () => (
 		</tbody>
 	</table>
 );
+
+export function TeamMemberButton(props: { member?: Member }) {
+	const { colorMode } = useColorMode();
+	if (!props.member) {
+		return <></>;
+	}
+
+	// Instead of using SCSS to configure light mode/dark mode changes,
+	// Docusaurus uses the useColorMode hook because, well, React.
+	// `members.scss` has a `.darkMemberBackground` and
+	// `.lightMemberBackground` to help with giving them the appropriate
+	// background to indicate that the member is clickable.
+	return (
+		<a
+			className={
+				"member_container " +
+				(colorMode === "dark"
+					? "darkMemberBackground"
+					: "lightMemberBackground")
+			}
+			target="_blank"
+			rel="noopener noreferrer"
+			href={props.member.website.value}>
+			<img
+				src={props.member.avatar + "&s=175"}
+				alt={`Gravatar for ${props.member.name}.`}
+			/>
+			<br />
+			<h3>{props.member.name}</h3>
+			<p>{props.member.association.toLowerCase()}</p>
+			<p>{props.member.roles[0].toLowerCase()}</p>
+		</a>
+	);
+}
