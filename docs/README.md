@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: groupUrl
+displayed_sidebar: default
 description: >
   Welcome to the Ojos Project documentation! This is a collection of Markdown
   files organized to help you get a better understanding of us as a team and
@@ -21,11 +21,11 @@ is relatively young, our documentation is rapidly growing on a near-daily basis.
 
 There's a lot of different things you can explore. For example...
 
-| Doc                                     | Description                                                                     |
-| --------------------------------------- | ------------------------------------------------------------------------------- |
-| [Iris Documentation](/docs/iris/)       | Iris is an open-source hospice management system developed by the Ojos Project. |
-| Palliaview Documentation (Coming soon!) | Palliaview is our plug-and-play solution for Iris software.                     |
-| [Website Documentation](/docs/website/) | `ojosproject.org` has a lot of neat features that are documented.               |
+| Doc                                                                                                          | Description                                                                     |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+| [Iris Documentation](/docs/iris/)                                                                            | Iris is an open-source hospice management system developed by the Ojos Project. |
+| [Palliaview Documentation](https://docs.google.com/document/d/1l60y9Kog3sbdiTm0TlWQSpLGMTpvvO05bGnn72r-dA8/) | Palliaview is our plug-and-play solution for Iris software.                     |
+| [Website Documentation](/docs/website/)                                                                      | `ojosproject.org` has a lot of neat features that are documented.               |
 
 ## Need help?
 

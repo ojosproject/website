@@ -8,6 +8,44 @@
 import type { SidebarsConfig } from "@docusaurus/plugin-content-docs";
 
 const sidebars: SidebarsConfig = {
+	default: [
+		{
+			type: "category",
+			label: "URL Group",
+			link: { type: "doc", id: "url/README" },
+			collapsible: true,
+			collapsed: false,
+			items: [
+				"url/developers/README",
+				"url/engineering/README",
+				"url/research/README",
+			],
+		},
+		{
+			type: "category",
+			label: "Software",
+			collapsible: true,
+			collapsed: false,
+			items: [
+				"iris/README",
+				{ type: "link", label: "Website Docs", href: "/docs/website/" },
+			],
+		},
+		{
+			type: "category",
+			label: "Hardware",
+			collapsible: true,
+			collapsed: false,
+			items: [
+				{
+					type: "link",
+					label: "Palliaview Docs",
+					href: "https://docs.google.com/document/d/1l60y9Kog3sbdiTm0TlWQSpLGMTpvvO05bGnn72r-dA8/",
+				},
+			],
+		},
+	],
+
 	policies: [
 		{
 			type: "category",
