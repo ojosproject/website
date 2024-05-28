@@ -1,6 +1,5 @@
 ---
 displayed_sidebar: softwareWebsite
-unlisted: true
 description: >
   Learn about what the Members JSON file is and how it's used in the website.
 last_update:
