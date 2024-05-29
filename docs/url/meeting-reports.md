@@ -45,7 +45,7 @@ Enter what this team did during the meeting!
 | Teams Present       | Engineering, Developers                                                               |
 | Members Present     | Joseph Sweatt, Carlos Valdez, Jesse David, Ayush Jain, Mark Baldwin, Meadow Rubalcava |
 | Meeting Time        | 12:00 PM - 3:00 PM                                                                    |
-| Report Author(s)    | Joseph Sweatt                                                                         |
+| Report Author(s)    | Joseph Sweatt, Carlos Valdez                                                          |
 | Location            | Undergraduate Research Lab @ Donald Bren Hall                                         |
 
 ### Ojos Project
@@ -65,6 +65,11 @@ We also determined summer commitments such as career and academic
 responsibilities. Later on, we began looking in the proper licensing for the
 hardware design. Prioritizing open-source values, and accreditation of our work
 contributions.
+
+### Developers
+
+Developers voted on transitioning the project from Python to Rust and started
+learning a bit of Rust.
 
 ## May 21, 2024
 
