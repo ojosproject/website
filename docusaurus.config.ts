@@ -131,12 +131,20 @@ const config: Config = {
 							href: "https://ojosproject.slack.com/",
 						},
 						{
+							label: "GitHub",
+							href: "https://github.com/ojosproject/",
+						},
+						{
 							label: "Finances",
 							href: "https://docs.google.com/spreadsheets/d/1W9qHV4Bm3wPtvsBWxmY4jpJY9JbhpSFIvcgRSFbrr78/",
 						},
 						{
-							label: "GitHub",
-							href: "https://github.com/ojosproject/",
+							label: "Meeting Reports",
+							to: "/docs/url/meeting-reports/",
+						},
+						{
+							label: "Policies",
+							to: "/docs/policies/",
 						},
 						{
 							label: "Undergraduate Research Lab",
@@ -148,28 +156,16 @@ const config: Config = {
 					title: "Documentation",
 					items: [
 						{
-							label: "URL Group Docs",
-							to: "/docs/url/",
+							label: "Iris Docs",
+							to: "/docs/iris/",
 						},
 						{
-							label: "Developers Docs",
-							to: "/docs/url/developers/",
+							label: "Palliaview Docs",
+							href: "https://docs.google.com/document/d/1l60y9Kog3sbdiTm0TlWQSpLGMTpvvO05bGnn72r-dA8/",
 						},
 						{
-							label: "Engineering Docs",
-							to: "/docs/url/engineering/",
-						},
-						{
-							label: "Glossary",
-							to: "/docs/url/glossary/",
-						},
-						{
-							label: "Meeting Reports",
-							to: "/docs/url/meeting-reports/",
-						},
-						{
-							label: "Policies",
-							to: "/docs/policies/",
+							label: "Website Docs",
+							to: "/docs/website/",
 						},
 					],
 				},
