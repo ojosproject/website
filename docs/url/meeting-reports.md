@@ -8,15 +8,15 @@ last_update:
   date: May 21 2024
 ---
 
-<!-- ? Disable no-duplicate-heading -->
-<!-- ? A lot of these will have duplicate headings. -->
-<!-- ? Users should just link the date instead of Developers/Engineering -->
-<!-- markdownlint-disable MD024 -->
-
 # Meeting Reports
 
 Whenever we have any meeting, we will write a report here. Newest reports go at
 the top.
+
+<!-- ? Disable no-duplicate-heading -->
+<!-- ? A lot of these will have duplicate headings. -->
+<!-- ? Users should just link the date instead of Developers/Engineering -->
+<!-- markdownlint-disable MD024 -->
 
 <!--
 
@@ -37,6 +37,21 @@ Here's a template:
 Enter what this team did during the meeting!
 
 -->
+
+## May 29, 2024
+
+| General Information |                                                             |
+| ------------------- | ----------------------------------------------------------- |
+| Teams Present       | Developers, Engineering                                     |
+| Members Present     | Carlos Valdez, Jesse David, Meadow Rubalcava, Joseph Sweatt |
+| Meeting Time        | 12:00 PM - 3:00 PM                                          |
+| Report Author(s)    | Carlos Valdez                                               |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall               |
+
+### Developers
+
+Developers are learning Rust and did some demo projects to get the gist of Rust
+before writing code for Iris.
 
 ## May 22, 2024
 
