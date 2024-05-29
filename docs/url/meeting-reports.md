@@ -37,6 +37,48 @@ Here's a template:
 Enter what this team did during the meeting!
 
 -->
+## May 22, 2024
+
+| General Information |                                                                                   |
+| ------------------- | --------------------------------------------------------------------------------- |
+| Teams Present       | Engineering, Developers                                                           |
+| Members Present     | Joseph Sweatt, Carlos Valdez, Jesse David, Ayush Jain, Mark Baldwin, Rubaclava    |
+| Meeting Time        | 12:00 - 3:00 PM                                                                   |
+| Report Author(s)    | Joseph Sweatt                                                                     |
+| Location            |  Undergraduate Research Lab @ Donald Bren Hall                                    |
+
+### Ojos Project
+The Ojos Project collaborated on the previous meeting to decide more about the 
+workflow, summer undergraduate research program guidelines. Furthermore, 
+discussion with Mark Baldwin on the events and the performance of the Symposium.
+
+## Engineering
+Developments on new systems management for CAD collaboration are being decided.
+Tasks and responisbilites for the rest of the qtr as well as summer we also being 
+discussed. These include roles, hours of meeting, location and remote 
+possibility.
+
+We also determined summer commitments such as career and academic 
+responsibilites. Later on, we began looking in the proper licensing for the
+hardware design. Prioritizing open-source values, and accreditation of our work 
+contributions.
+
+## May 21, 2024
+
+| General Information |               |
+| ------------------- | ------------- |
+| Teams Present       | N/A           |
+| Members Present     | N/A           |
+| Meeting Time        | N/A           |
+| Report Author(s)    | Joseph Sweatt |
+| Location            | N/A           |
+
+### Ojos Project
+
+This day was taken to recover after a productive work week involving the 
+symposium. Additionally, administrative details, planning for the upcoming goals.
+and workflow management decisions were intiated remotely.
+
 ## May 17, 2024
 
 | General Information |                                                                       |
@@ -65,7 +107,8 @@ We presented our work at the 2024 Undergraduate Research Symposium.
 
 ### Ojos Project
 
-We did some preparation for the symposium.
+We did some preparation for the symposium such as itnerview preparation and 
+professional development.
 
 ## May 15, 2024
 
