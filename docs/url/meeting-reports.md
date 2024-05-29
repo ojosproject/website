@@ -85,7 +85,7 @@ learning a bit of Rust.
 
 This day was taken to recover after a productive work week involving the
 symposium. Additionally, administrative details, planning for the upcoming goals.
-and workflow management decisions were intiated remotely.
+and workflow management decisions were initiated remotely.
 
 ## May 17, 2024
 
@@ -115,7 +115,7 @@ We presented our work at the 2024 Undergraduate Research Symposium.
 
 ### Ojos Project
 
-We did some preparation for the symposium such as itnerview preparation and
+We did some preparation for the symposium such as interview preparation and
 professional development.
 
 ## May 15, 2024
