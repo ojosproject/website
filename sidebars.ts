@@ -148,6 +148,7 @@ const sidebars: SidebarsConfig = {
 								"url/developers/gitlab-ide",
 								"url/developers/installing-wsl",
 								"url/developers/linux-filesystem",
+								"url/developers/rust-setup",
 								"url/developers/ssh-setup",
 								"url/developers/using-pipfiles",
 							],
