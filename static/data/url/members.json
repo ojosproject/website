@@ -64,7 +64,9 @@
 		"contributions": [
 			"Maintained software infrastructure.",
 			"Requirements analysis.",
-			"Designed C4 Model diagrams."
+			"Designed C4 Model diagrams.",
+			"Designed UML class diagrams.",
+			"Designed flowchart diagrams."
 		],
 		"active": true
 	},
@@ -79,9 +81,7 @@
 		},
 		"joined": 1707163200,
 		"avatar": "https://gravatar.com/avatar/e4b66681a801324cb8b596783892b45e275d0c182789cb22a2af0c14ff73f0f8?d=mp",
-		"contributions": [
-			"Researched various academic papers for the Ojos Project."
-		],
+		"contributions": ["Researched various academic papers"],
 		"active": false
 	},
 	{
@@ -123,7 +123,11 @@
 		"avatar": "https://gravatar.com/avatar/51db6b5c49b02428e4e69270515fa2cd00c966f249afceede0a8a295a7dc3e0d?d=mp",
 		"contributions": [
 			"Contributed code to our repositories.",
-			"Designed C4 Model diagrams."
+			"Designed C4 Model diagrams.",
+			"Designed flowchart diagrams.",
+			"Designed lo-fi prototypes for Iris.",
+			"Designed our UROP Symposium 2024 poster.",
+			"Designed UML class diagrams."
 		],
 		"active": true
 	},
@@ -137,7 +141,9 @@
 		"avatar": "https://gravatar.com/avatar/8289191418b7daecb56c302c1088bc3cf261a250834ffa47681f707ad31c9e1e?d=mp",
 		"contributions": [
 			"Designed UML class diagrams.",
-			"Designed C4 Model diagrams."
+			"Designed C4 Model diagrams.",
+			"Contributed code to our repositories.",
+			"Designed flowchart diagrams."
 		],
 		"active": true
 	},
@@ -154,8 +160,7 @@
 		"avatar": "https://gravatar.com/avatar/5002e9dc4b1b7b95625b027b7dea849cfd47a8e743907545e37ef250635460ea?d=mp",
 		"contributions": [
 			"Designed lo-fi prototypes for Iris.",
-			"Contributed code to our repositories.",
-			"Designed our UROP Symposium 2024 poster."
+			"Contributed code to our repositories."
 		],
 		"active": true
 	}
