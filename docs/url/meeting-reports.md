@@ -38,6 +38,29 @@ Enter what this team did during the meeting!
 
 -->
 
+## May 30, 2024
+
+| General Information |                                                                                           |
+| ------------------- | ----------------------------------------------------------------------------------------- |
+| Teams Present       | Developers, Engineering                                                                   |
+| Members Present     | Carlos Valdez, Joseph Sweatt, Mark S. Baldwin, Ayush Jain, Meadow Rubalcava, Jason Martin |
+| Meeting Time        | 12:00 PM - 3:00 PM                                                                        |
+| Report Author(s)    | Carlos Valdez                                                                             |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                             |
+
+### Ojos Project
+
+We updated Mark on the status of the project. We told him about SURP/LAEP
+winners. We also told him that the Developers are learning Rust.
+
+We also told him that Carlos, Joseph, and Ayush started the URL Planning
+Committee to plan out how the future of the URL will look like.
+
+### Developers
+
+Developers are still learning Rust, now trying with
+[Tour of Rust](https://tourofrust.com/).
+
 ## May 29, 2024
 
 | General Information |                                                                           |
@@ -47,6 +70,12 @@ Enter what this team did during the meeting!
 | Meeting Time        | 12:00 PM - 3:00 PM                                                        |
 | Report Author(s)    | Carlos Valdez                                                             |
 | Location            | Undergraduate Research Lab @ Donald Bren Hall                             |
+
+### Ojos Project
+
+We introduced the team to the [digital agenda on Google Docs](https://docs.google.com/document/d/10M-nWgvVwltjMFBX2B4WWvXJXEF5i2PFWH1fpbsGK-8/).
+We also told the team about the SURP/LAEP winners. Members will also asked to
+sign up to the URL Planning Committee if they're interested.
 
 ### Developers
 
