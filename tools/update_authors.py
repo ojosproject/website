@@ -9,7 +9,7 @@
 # ! python tools/update_authors.py
 #
 # To learn more about the Members JSON Protocol, please visit
-# https://docs.ojosproject.org/url/developers/webdev/members-json/
+# https://ojosproject.org/docs/website/members-json/
 import requests
 
 response = requests.get("https://ojosproject.org/data/url/members.json")
