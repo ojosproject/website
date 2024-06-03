@@ -45,3 +45,13 @@ article {
 	// the nav bar. Light mode people won't really notice this.
 	border-radius: 50px;
 }
+
+.footer__grandma--grey {
+	// Makes the grandma message at the bottom of the footer grey and smaller so
+	// that it doesn't take up a lot of attention from the menu items.
+	p,
+	a {
+		color: grey;
+		font-size: 12px;
+	}
+}
