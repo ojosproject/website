@@ -37,7 +37,21 @@ Here's a template:
 Enter what this team did during the meeting!
 
 -->
+## June 5, 2024
 
+| General Information |     |
+| ------------------- | --- |
+| Teams Present       | Developers, Engineers    |
+| Members Present     |     |
+| Meeting Time        | 12:00 - 3:00PM     |
+| Report Author(s)    | Joseph Sweatt    |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall    |
+
+### Team
+
+Enter what this team did during the meeting!
+
+-->
 ## May 30, 2024
 
 | General Information |                                                                                           |
@@ -45,7 +59,7 @@ Enter what this team did during the meeting!
 | Teams Present       | Developers, Engineering                                                                   |
 | Members Present     | Carlos Valdez, Joseph Sweatt, Mark S. Baldwin, Ayush Jain, Meadow Rubalcava, Jason Martin |
 | Meeting Time        | 12:00 PM - 3:00 PM                                                                        |
-| Report Author(s)    | Carlos Valdez                                                                             |
+| Report Author(s)    | Carlos Valdez, Joseph Sweatt                                                              |
 | Location            | Undergraduate Research Lab @ Donald Bren Hall                                             |
 
 ### Ojos Project
@@ -60,6 +74,11 @@ Committee to plan out how the future of the URL will look like.
 
 Developers are still learning Rust, now trying with
 [Tour of Rust](https://tourofrust.com/).
+
+### Engineering
+
+Eningeering continue to familarize with Onshape User interface and capbailites.
+It is showing that there is a long road to develop individual skills.
 
 ## May 29, 2024
 
@@ -81,6 +100,16 @@ sign up to the URL Planning Committee if they're interested.
 
 Developers are learning Rust and did some demo projects to get the gist of Rust
 before writing code for Iris.
+
+### Engineering
+Engineering began to create more immediate goals for indiviudals for the summer. 
+These include:
+- Literature reserach on engineering systems
+- Imprvement of technical skills
+- development of of documentation and Engineering writing. 
+
+Additionally, We began to use Onshape Tutorials and implement older project STL
+designs in the new system.
 
 ## May 22, 2024
 
