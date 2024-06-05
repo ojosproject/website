@@ -37,21 +37,27 @@ Here's a template:
 Enter what this team did during the meeting!
 
 -->
+
 ## June 5, 2024
 
-| General Information |     |
-| ------------------- | --- |
-| Teams Present       | Developers, Engineers    |
-| Members Present     |     |
-| Meeting Time        | 12:00 - 3:00PM     |
-| Report Author(s)    | Joseph Sweatt    |
-| Location            | Undergraduate Research Lab @ Donald Bren Hall    |
+| General Information |                                                                                               |
+| ------------------- | --------------------------------------------------------------------------------------------- |
+| Teams Present       | Developers, Engineers                                                                         |
+| Members Present     | Carlos Valdez, Joseph Sweatt, Ayush Jain, Jesse David, Meadow Rubalcava, Kris Doan, Mai Luong |
+| Meeting Time        | 12:00 - 3:00PM                                                                                |
+| Report Author(s)    | Carlos Valdez, Joseph Sweatt                                                                  |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                                 |
 
-### Team
+### URL Planning Committee
 
-Enter what this team did during the meeting!
+The URL Planning Committee took some time to plan out how the Undergraduate
+Research Lab is going to look like during Fall 2024 and onwards.
 
--->
+### Developers
+
+Since finals week is almost here, developers were given the option of learning
+Rust with [Tour of Rust](https://tourofrust.com/) or studying for finals.
+
 ## May 30, 2024
 
 | General Information |                                                                                           |
@@ -102,11 +108,13 @@ Developers are learning Rust and did some demo projects to get the gist of Rust
 before writing code for Iris.
 
 ### Engineering
-Engineering began to create more immediate goals for indiviudals for the summer. 
+
+Engineering began to create more immediate goals for indiviudals for the summer.
 These include:
+
 - Literature reserach on engineering systems
 - Imprvement of technical skills
-- development of of documentation and Engineering writing. 
+- development of of documentation and Engineering writing.
 
 Additionally, We began to use Onshape Tutorials and implement older project STL
 designs in the new system.
