@@ -34,23 +34,54 @@ The UCI Undergraduate Research Symposium is an annual event where undergraduate
 students have the opportunity to present their research to the UCI community. It
 is a celebration of undergraduate research!
 
+Ulimately, is chance to present summation of all the work the Ojos team has done
+this year to the public. It also allows our emembers to:
+- Promote our research 
+- Gather Feedback on our topic and ideas that may be further implemented
+- Interact with our peers and parents
+- Network with Professionals
+
 ## The Event
 
+This year we were able to have 5 of our members attend, but everyone on the team
+was able to contribute to our success.
+
 ![2024 Symposium Engineering shot](@site/static/images/2024-symposium-engineering.jpg)
+
+Heres how some of our members felt preparing and acutally presenting for this 
+year's symposium.
+
+*"The UROP Symposium was a highly inofrmative and educational experience! I 
+loved getting a glimpse into what my peers have been researching and working on
+all year!"*
+
+-Ayush
+
+<!--insert image carousel-->
+
+*"Getting prepared for the symposium was nerve-wrenching but fun and informative
+experience that expanded my previosuly non-existent experience in a professional
+setting with deadlines."*
+
+-Jason
+
+<!--insert image carousel-->
+
+*"I enjoyed getting to experience a symposium for the the first time. I got to
+practice my public speaking sklls while sharing about a project that I enjoy 
+talking about."*
+
+-Meadow
 
 ### Our Poster
 
 For the symposium, we were asked to create a poster that showcases the different
 things we've been doing. Therefore,
-[we created this poster](https://www.figma.com/design/a4hGzevpg0o86XjUwEVWvj/)
-using Figma. We introduced our research, software design, and hardware.
+[we created this poster](https://drive.google.com/file/d/1-QbIBzGi8UYfNwEOQ8Uz16ER5uIzTz0T/view?usp=sharing)
+using Figma software. We introduced our research, software design, and hardware.
 
 ![2024 Symposium: Kris explaining](@site/static/images/2024-symposium-kris.jpg)
 
-### Photos
-
-If you'd like to see all of the photos taken at the symposium, please feel free
-to view [this Google Drive](https://drive.google.com/drive/u/0/folders/12m_Vo5XeYGjv0yok0-WHEYNAUgJUr7bz).
 
 ## What's next?
 
