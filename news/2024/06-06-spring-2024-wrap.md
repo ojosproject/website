@@ -37,12 +37,6 @@ where we showed what we were working on to other researchers, students, and
 faculty at the University of California, Irvine! We made another post about
 this earlier, [which you can see here](/news/symposium-2024/).
 
-### SURP Awards
-
-The five members who signed up for UCI UROP's Summer Undergraduate Research
-Program (SURP) won a SURP award! Congrats to Carlos, Joseph, Ayush, Meadow and
-Kristopher! We wrote about it more in [this post](/news/surp-fellowship-2024/).
-
 ### New Members
 
 This quarter, we introduced five new members, and already they've contributed
@@ -50,6 +44,12 @@ very valuable insight into our project.
 
 Meadow, Kristopher, Jesse, Jason and Mai -- thank you for joining our chaotic
 group! 💞
+
+### SURP Awards
+
+The five members who signed up for UCI UROP's Summer Undergraduate Research
+Program (SURP) won a SURP award! Congrats to Carlos, Joseph, Ayush, Meadow and
+Kristopher! We wrote about it more in [this post](/news/surp-fellowship-2024/).
 
 ### Software Design
 
