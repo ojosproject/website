@@ -5,7 +5,7 @@ description: >
   we did here.
 last_update:
   author: Carlos Valdez
-  date: June 5, 2024
+  date: June 6, 2024
 ---
 
 # Meeting Reports
@@ -37,21 +37,21 @@ Here's a template:
 Enter what this team did during the meeting!
 
 -->
+
 ## June 6, 2024
 
-| General Information |                                                                           |
-| ------------------- | ------------------------------------------------------------------------- |
-| Teams Present       | Developers, Engineering                                                   |
-| Members Present     | Joseph Sweatt, Carlos Valdez, Ayush Jain, Mark S. Baldwin, Jesse David    |
-| Meeting Time        | 12:00-4:00 PM                                                             |
-| Report Author(s)    | Joseph Sweatt                                                             |
-| Location            | Undergraduate Research Lab @ Donald Bren Hall                             |
+| General Information |                                                                        |
+| ------------------- | ---------------------------------------------------------------------- |
+| Teams Present       | Developers, Engineering                                                |
+| Members Present     | Joseph Sweatt, Carlos Valdez, Ayush Jain, Mark S. Baldwin, Jesse David |
+| Meeting Time        | 12:00-4:00 PM                                                          |
+| Report Author(s)    | Joseph Sweatt                                                          |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                          |
 
 ### Ojos Project
 
 The Ojos Project met with Mark S. Baldwin to wrap up the quarter and finish final
 website posts. We will reconvene during Summer session I.
-
 
 ## June 5, 2024
 
@@ -74,7 +74,8 @@ Since finals week is almost here, developers were given the option of learning
 Rust with [Tour of Rust](https://tourofrust.com/) or studying for finals.
 
 ### Engineering
-Engineering did a practice CAD modeling exercise with Onshape software to 
+
+Engineering did a practice CAD modeling exercise with Onshape software to
 familiarize with user interface and operations.
 
 ## May 30, 2024
