@@ -53,7 +53,7 @@
 	{
 		"name": "Ayush Jain",
 		"email": "ayushj4@uci.edu",
-		"roles": ["Developers Team"],
+		"roles": ["Developers Team", "Research Team"],
 		"association": "University of California, Irvine",
 		"website": {
 			"label": "Personal Website",
@@ -87,7 +87,7 @@
 	{
 		"name": "Meadow Rubalcava",
 		"email": "mbrubalc@uci.edu",
-		"roles": ["Engineering Team"],
+		"roles": ["Engineering Team", "Research Team"],
 		"association": "University of California, Irvine",
 		"website": { "label": "Email", "value": "mailto:mbrubalc@uci.edu" },
 		"joined": 1712170800,
@@ -101,7 +101,7 @@
 	{
 		"name": "Kristopher Doan",
 		"email": "doankv@uci.edu",
-		"roles": ["Engineering Team"],
+		"roles": ["Engineering Team", "Research Team"],
 		"association": "University of California, Irvine",
 		"website": { "label": "Email", "value": "mailto:doankv@uci.edu" },
 		"joined": 1712170800,
@@ -150,7 +150,7 @@
 	{
 		"name": "Mai Luong",
 		"email": "pluong3@uci.edu",
-		"roles": ["Developers Team"],
+		"roles": ["Developers Team", "Research Team"],
 		"association": "University of California, Irvine",
 		"website": {
 			"label": "LinkedIn",
