@@ -12,7 +12,7 @@ description: >
 
 <!-- markdownlint-disable MD026 -->
 
-![alt text](../../static/images/Researching-bro.png)
+![Person researching](@site/static/images/Researching-bro.png)
 
 Hey everybody! We are announcing that his upcoming summer quarter
 several of our members were able to achieve the Learning Aligned Employment
@@ -36,7 +36,7 @@ were accepted into the LAEP. In addition:
 
 received a SURP Fellowship!
 
-![alt text](../../static/images/Awards-rafiki.png)
+![Person giving an award to somebody else](@site/static/images/Awards-rafiki.png)
 
 ## Whats the difference?
 
@@ -73,3 +73,5 @@ like to acknowledge the following for all there contributions and aid.
 - UROP, for this incredibly opportunity.
 - All of our members, for putting in the hard work for this prestige.
 - You! For your support in this research!
+
+[Illustrations by Storyset](https://storyset.com/).
