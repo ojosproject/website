@@ -129,3 +129,11 @@ are our (current) plans for Summer 2024:
     - Leading research efforts such as surveys and interviews
     - Assign Project members interviews and research notes
   - Conduct more interviews by our new members during the summer
+
+## Acknowledgements
+
+Thank you for UROP for an unforgettable experience. Thank you to
+[our team](/docs/url/members/) who continue to contribute to the project week
+by week. And thank you for continuing to support us.
+
+We'll be back soon!
