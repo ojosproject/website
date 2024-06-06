@@ -19,6 +19,8 @@ several of our members were able to achieve the Learning Aligned Employment
 Program (LAEP) & Summer Undergraduate Research Program (SURP) Fellowship for
 this upcoming Summer 2024. This is a huge honor for the Ojos Project team!
 
+<!-- truncate -->
+
 This past spring our team submitted a proposal, under UCI UROP, to have our
 research project sponsored and achieve this fellowship. Additionally, our members
 were able to apply for the state funded LAEP. On May 28, we were notified that:
