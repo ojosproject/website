@@ -10,6 +10,9 @@ description: >
 
 # Spring 2024 Wrap Up
 
+<!-- markdownlint-disable MD026 -->
+<!-- ^ disabled no-trailing-punctuation -->
+
 ![Ojos Project header](@site/static/images/header.png)
 
 Happy pride! The 2024 Spring quarter is nearly at a close. That means we're
@@ -73,7 +76,7 @@ are, as of now, attempting to learn Rust. Wish us luck!
 
 ### Hardware Design
 
-The Engineering team has begun our long awaited process to develop the 
+The Engineering team has begun our long awaited process to develop the
 Palliaview system. Some of the major first steps our team has made include:
 
 - [Literature Review](https://docs.google.com/document/d/11XabYtqSH2T0kYiCQlZCUHdmd2RCrYuYNnG6U2ctfrg/edit?usp=sharing)
@@ -81,27 +84,26 @@ Palliaview system. Some of the major first steps our team has made include:
 - [Design Licensing](https://docs.google.com/document/d/11XabYtqSH2T0kYiCQlZCUHdmd2RCrYuYNnG6U2ctfrg/edit?usp=sharing)
 - [Prototyping Iterations](https://drive.google.com/drive/folders/1gxXNxYq5uN61Hglgekk9cIKoI_pXZOfT?usp=sharing)
 
-Ultimately, it is this methodology to define what we are building, what is currently 
-being implement, & our design constraints. 
+Ultimately, it is this methodology to define what we are building, what is currently
+being implement, & our design constraints.
 
-### And so it begins..
+### And so it begins...
 
 > Engineering: where creativity meets logic and duct tape.
+>
+> --unknown
 
-*-unknown*
+We were able to accomplish a lot this past quarter with our research symposium
+and creating a rapid prototype of the Palliaview system. Our team has tried to
+create a [user documentation report](https://drive.google.com/drive/folders/1wekjazzAdaNHZFtBIGvW5phunZMsgJlw?usp=sharing)
+to allow anyone to keep up to date on the work we are doing this summer and
+already implemented. It is still early on in the process and a first for many
+of our members so forgive us if it seems messy. (╥﹏╥)
 
-We were able to accomplish a lot this past quarter with our research symposium 
-and creating a rapid protoype of the Palliview system. Our team has tried to
-create a [user documentaton report](https://drive.google.com/drive/folders/1wekjazzAdaNHZFtBIGvW5phunZMsgJlw?usp=sharing)
-to allow anyone to keep up to date on the work we are doing this summer and 
-already implemented. It is still early on in the process and a first for many 
-of our members so forgive us if it seems messy. (╥﹏╥) 
-
-Also, we will be posting some of our digital files online for users to look at 
+Also, we will be posting some of our digital files online for users to look at
 [here](https://drive.google.com/drive/folders/1wekjazzAdaNHZFtBIGvW5phunZMsgJlw?usp=sharing).
-We hope you enjoy our process as we further develop and look forward to any 
-feeback!
-
+We hope you enjoy our process as we further develop and look forward to any
+feedback!
 
 ## A look forward
 
@@ -114,9 +116,9 @@ are our (current) plans for Summer 2024:
   - We're hoping we can get a beta version ready to go by the end of the summer
 - Engineering
   - Finish our first iteration of User documentation
-  - Create a finish 1st verision of Palliaview for deployment
+  - Create a finish 1st version of Palliaview for deployment
   - Learn use of collaborative software for Project design
-  - Develop individual Enigeering skills
+  - Develop individual Engineering skills
     - Computer Aided Modeling
     - Embedded Systems Design
     - Additive manufacturing
