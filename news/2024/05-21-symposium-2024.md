@@ -1,5 +1,5 @@
 ---
-authors: [cvaldezh@uci.edu, jsweatt@uci.edu]
+authors: [jsweatt@uci.edu, cvaldezh@uci.edu]
 slug: /symposium-2024/
 image: https://ojosproject.org/images/2024-symposium-group.png
 hide_table_of_contents: true
