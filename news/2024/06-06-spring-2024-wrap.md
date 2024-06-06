@@ -17,8 +17,7 @@ description: >
 
 Happy pride! The 2024 Spring quarter is nearly at a close. That means we're
 having an overview of the accomplishments we had for this quarter, as well as
-outline our plans for the summer. We wrote about it more in
-[this post](/news/surp-fellowship/).
+outline our plans for the summer.
 
 <!-- truncate -->
 
@@ -42,7 +41,7 @@ this earlier, [which you can see here](/news/symposium-2024/).
 
 The five members who signed up for UCI UROP's Summer Undergraduate Research
 Program (SURP) won a SURP award! Congrats to Carlos, Joseph, Ayush, Meadow and
-Kristopher!
+Kristopher! We wrote about it more in [this post](/news/surp-fellowship-2024/).
 
 ### New Members
 
