@@ -71,7 +71,37 @@ Although we attempted to start by using [Python](https://www.python.org/), the
 Developers voted to use [Rust](https://www.rust-lang.org/) instead. Developers
 are, as of now, attempting to learn Rust. Wish us luck!
 
-<!-- ! Add Spring accomplishments by the Engineering team. -->
+### Hardware Design
+
+The Engineering team has begun our long awaited process to develop the 
+Palliaview system. Some of the major first steps our team has made include:
+
+- [Literature Review](https://docs.google.com/document/d/11XabYtqSH2T0kYiCQlZCUHdmd2RCrYuYNnG6U2ctfrg/edit?usp=sharing)
+- [Product Design Research](https://drive.google.com/drive/folders/18s_cyUk6A6HX9LonWUuPJvsjlM_ZQz6E?usp=sharing)
+- [Design Licensing](https://docs.google.com/document/d/11XabYtqSH2T0kYiCQlZCUHdmd2RCrYuYNnG6U2ctfrg/edit?usp=sharing)
+- [Prototyping Iterations](https://drive.google.com/drive/folders/1gxXNxYq5uN61Hglgekk9cIKoI_pXZOfT?usp=sharing)
+
+Ultimately, it is this methodology to define what we are building, what is currently 
+being implement, & our design constraints. 
+
+### And so it begins..
+
+> Engineering: where creativity meets logic and duct tape.
+
+*-unknown*
+
+We were able to accomplish a lot this past quarter with our research symposium 
+and creating a rapid protoype of the Palliview system. Our team has tried to
+create a [user documentaton report](https://drive.google.com/drive/folders/1wekjazzAdaNHZFtBIGvW5phunZMsgJlw?usp=sharing)
+to allow anyone to keep up to date on the work we are doing this summer and 
+already implemented. It is still early on in the process and a first for many 
+of our members so forgive us if it seems messy. (╥﹏╥) 
+
+Also, we will be posting some of our digital files online for users to look at 
+[here](https://drive.google.com/drive/folders/1wekjazzAdaNHZFtBIGvW5phunZMsgJlw?usp=sharing).
+We hope you enjoy our process as we further develop and look forward to any 
+feeback!
+
 
 ## A look forward
 
@@ -83,7 +113,15 @@ are our (current) plans for Summer 2024:
   - We plan to fully learn Rust and translate our current code into Rust
   - We're hoping we can get a beta version ready to go by the end of the summer
 - Engineering
-  - <!-- ! Add Summer goals for the Engineering team. -->
+  - Finish our first iteration of User documentation
+  - Create a finish 1st verision of Palliaview for deployment
+  - Learn use of collaborative software for Project design
+  - Develop individual Enigeering skills
+    - Computer Aided Modeling
+    - Embedded Systems Design
+    - Additive manufacturing
+    - Fabrication analysis
+  - Professional development
 - Research
   - We're looking for a Research Lead; their responsibilities would include:
     - Organizing the project's research
