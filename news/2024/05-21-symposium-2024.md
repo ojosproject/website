@@ -7,7 +7,7 @@ description: >
   The Ojos Project presented our work at the UCI Undergraduate Research
   Symposium on May 17, 2024!
 last_update:
-  date: June 5 2024
+  date: June 7 2024
 ---
 
 # Ojos @ 2024 UCI Research Symposium
@@ -18,7 +18,7 @@ On May 17, the Ojos Project gave a poster presentation at the 2024 UCI
 Undergraduate Research Symposium! After months of work, we finally got to
 present _everything_.
 
-{/* truncate */}
+<!-- truncate -->
 
 ## Background
 
@@ -58,7 +58,7 @@ year's symposium.
 >
 > --Ayush
 
-{/* insert image carousel */}
+<!-- images needed -->
 
 > Getting prepared for the symposium was nerve-wrenching but fun and informative
 > experience that expanded my previously non-existent experience in a professional
@@ -66,7 +66,7 @@ year's symposium.
 >
 > --Jason
 
-{/* insert image carousel */}
+<!-- images needed -->
 
 > I enjoyed getting to experience a symposium for the the first time. I got to
 > practice my public speaking skills while sharing about a project that I enjoy
