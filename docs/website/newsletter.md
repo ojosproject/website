@@ -23,7 +23,7 @@ do not fall for phishing schemes.
 ## Sending email
 
 We have an unusual way of sending email. We use the
-[Mailchimp API](https://documentation.mailgun.com/docs/mailgun/api-reference/)
+[Mailgun API](https://documentation.mailgun.com/docs/mailgun/api-reference/)
 with our own custom [Python script](https://github.com/ojosproject/newsletter/)
 to send plaintext email. We do this to (try to) keep things simple, but also
 because Carlos doesn't want to research.
