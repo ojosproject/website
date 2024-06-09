@@ -118,6 +118,7 @@ const sidebars: SidebarsConfig = {
 			items: [
 				"website/gravatar",
 				"website/members-json",
+				"website/newsletter",
 				"website/updating-docs",
 				"website/updating-meeting-reports",
 				"website/updating-news",
