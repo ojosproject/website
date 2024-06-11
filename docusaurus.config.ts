@@ -52,6 +52,7 @@ const config: Config = {
 					// ? Cannot have last update time show up without an editUrl link set
 					editUrl: "https://github.dev/ojosproject/website/blob/dev/",
 					showLastUpdateTime: true,
+					blogSidebarCount: "ALL",
 				},
 				theme: {
 					customCss: "./src/css/custom.scss",
