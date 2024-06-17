@@ -14,6 +14,17 @@ description: >
 
 ![Person researching](@site/static/images/Researching-bro.png)
 
+:::info[Update]
+
+On June 14, LAEP awardees of the Ojos Project received an email notifying them
+that the LAEP program was eliminated due to California budget cuts. However,
+LAEP awardees will still be awarded funding by the [Office of the Vice Provost of
+Teaching and Learning (OVPTL)](https://ovptl.uci.edu/) from the University of
+California, Irvine.
+-- Carlos
+
+:::
+
 Hey everybody! We are announcing that his upcoming summer quarter
 several of our members were able to achieve the Learning Aligned Employment
 Program (LAEP) & Summer Undergraduate Research Program (SURP) Fellowship for
