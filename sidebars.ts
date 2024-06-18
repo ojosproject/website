@@ -117,6 +117,7 @@ const sidebars: SidebarsConfig = {
 			collapsible: false,
 			items: [
 				"website/gravatar",
+				"website/kimai",
 				"website/members-json",
 				"website/updating-docs",
 				"website/updating-meeting-reports",
