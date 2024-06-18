@@ -17,8 +17,8 @@ last_update:
 
 Iris is the at-home hospice management system developed by the Ojos Project.
 This documentation provides extensive details about the software requirements,
-design, and code for the Iris software. It is developed by the [Ojos Project
-Developers team](/docs/url/developers/).
+design, and code for the Iris software. It is developed by the Ojos Project
+Developers team.
 
 Ready to dig in? Get started at the
 [Iris repository](https://github.com/ojosproject/iris/).

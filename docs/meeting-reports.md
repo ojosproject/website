@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: groupUrl
+displayed_sidebar: default
 description: >
   Whenever we have a meeting for URL, we will note down the different things
   we did here.

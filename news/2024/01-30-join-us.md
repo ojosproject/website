@@ -70,18 +70,18 @@ and open-source.
 Other member responsibilities depend heavily on the team they're in. The URL
 Group has three teams:
 
-- [Developers team](/docs/url/developers/)
+- [Developers team](/docs/iris/)
   - Software design
   - Learning Rust
   - Developing the software
   - Implement external accessibility software
-- [Engineering team](/docs/url/engineering/)
+- [Engineering team](https://github.com/ojosproject/website/blob/cc24069ca979c0aa9ddd5ff78b0360d95daa1a1d/docs/url/engineering/README.md)
   - Product design research
   - Electrical engineering
   - Computer aided design
   - Additive manufacturing
   - Raspberry Pi to build the device
-- [Research team](/docs/url/research/)
+- [Research team](https://github.com/ojosproject/website/blob/cc24069ca979c0aa9ddd5ff78b0360d95daa1a1d/docs/url/research/README.md)
   - Conduct interviews
   - Read research articles and take notes
   - Explain your research to the other teams

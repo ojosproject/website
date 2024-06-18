@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: groupUrl
+displayed_sidebar: default
 description: >
   Learn more about the URL Group at the Ojos Project.
 last_update:
@@ -21,8 +21,8 @@ for their loved one.
 
 There's currently three available teams:
 
-- [Developers](/docs/url/developers/) (led by Carlos)
-- [Engineering](/docs/url/engineering/) (led by Joseph)
-- [Research](/docs/url/research/)
+- [Iris](/docs/iris/) (led by Carlos)
+- [Palliaview](https://github.com/ojosproject/website/blob/cc24069ca979c0aa9ddd5ff78b0360d95daa1a1d/docs/url/engineering/README.md) (led by Joseph)
+- [Research](https://github.com/ojosproject/website/blob/cc24069ca979c0aa9ddd5ff78b0360d95daa1a1d/docs/url/research/README.md)
 
 For more information, please go to each team's respective link.

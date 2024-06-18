@@ -52,13 +52,13 @@ All of our purchases are
 ### (More) Research
 
 We're researching various academic papers regarding hospice, and even started
-a [Research Team](/docs/url/research/) to help with
+a [Research Team](https://github.com/ojosproject/website/blob/cc24069ca979c0aa9ddd5ff78b0360d95daa1a1d/docs/url/research/README.md) to help with
 reading these articles. Since we weren't able to interview hospice nurses who
 were on-site in taking care of a patient, we are looking into the various
 things hospice nurses have stated in previous academic journals to get a better
 idea of how our device may be able to help them.
 
-[You can view our research notes here](/docs/url/research/).
+[You can view our research notes here](https://github.com/ojosproject/website/tree/cc24069ca979c0aa9ddd5ff78b0360d95daa1a1d/docs/url/research/notes).
 
 ### Other Accomplishments
 

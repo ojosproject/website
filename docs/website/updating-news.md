@@ -18,11 +18,11 @@ figure out how to update the site.
 
 We will be using:
 
-| Tool                                           | Description                                                                                                                  |
-| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| [GitLab IDE](/docs/url/developers/gitlab-ide/) | A [VS Code](https://code.visualstudio.com/)-like environment. Easier to use since it authenticates with your GitLab account. |
-| [Markdown](https://quickref.me/markdown)       | The markup language used to write posts                                                                                      |
-| [Mermaid](https://mermaid.js.org/) (Optional)  | A diagraming tool                                                                                                            |
+| Tool                                          | Description                                                                                                                  |
+| --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| [github.dev](https://github.dev/)             | A [VS Code](https://code.visualstudio.com/)-like environment. Easier to use since it authenticates with your GitLab account. |
+| [Markdown](https://quickref.me/markdown)      | The markup language used to write posts                                                                                      |
+| [Mermaid](https://mermaid.js.org/) (Optional) | A diagraming tool                                                                                                            |
 
 ## Getting Started
 
@@ -45,7 +45,7 @@ The `authors.yml` file is auto-generated. Please do not change it.
 
 The `authors.yml` file includes information about members of the Ojos Project.
 All of the information that is included is from the information [we already
-publish of our members](/docs/url/members/).
+publish of our members](/docs/members/).
 
 The important thing to know about this file is that you're identified by your
 email. For example, if Carlos wanted to author a news post, he'd set the
@@ -226,5 +226,5 @@ posted.
 
 ### I made a mistake. Now what?
 
-Let someone on [the Developers team](/docs/url/developers/) know. They have to review
+Let someone on [the Iris team](/docs/iris/) know. They have to review
 the news posts before they're published anyways, so don't worry!

@@ -94,6 +94,22 @@ const config: Config = {
 						from: "/events/uci-symposium-2024/",
 						to: "/",
 					},
+					{
+						from: "/docs/url/meeting-reports/",
+						to: "/docs/meeting-reports/"
+					},
+					{
+						from: "/docs/url/glossary/",
+						to: "/docs/glossary/"
+					},
+					{
+						from: "/docs/url/members/",
+						to: "/docs/members/"
+					},
+					{
+						from: "/docs/url/proposal/",
+						to: "/docs/proposal/"
+					}
 				],
 			},
 		],
@@ -143,7 +159,7 @@ const config: Config = {
 						},
 						{
 							label: "Meeting Reports",
-							to: "/docs/url/meeting-reports/",
+							to: "/docs/meeting-reports/",
 						},
 						{
 							label: "Policies",

@@ -9,7 +9,7 @@ description: >
 
 # Updating Meeting Reports
 
-The Ojos Project keeps [meeting reports](/docs/url/meeting-reports) so that we
+The Ojos Project keeps [meeting reports](/docs/meeting-reports) so that we
 have a record of attendance and the things we've been doing in the lab. Carlos
 tries to keep this updated, but he won't always know everything that is going
 on. Therefore, this document is here to show how to maintain it.

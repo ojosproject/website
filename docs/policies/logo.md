@@ -6,7 +6,7 @@ last_update:
 description: These are guidelines for how to use the Ojos Project name and logos.
 ---
 
-# Image Policies
+# Logo Policies
 
 This document will go over how to properly use the Ojos Project logos and
 identity.
