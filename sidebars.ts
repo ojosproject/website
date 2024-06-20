@@ -52,7 +52,7 @@ const sidebars: SidebarsConfig = {
 				"policies/logo",
 				"policies/inf199-acknowledgement",
 				"policies/paperwork",
-				"policies/url-lab-attendance",
+				"policies/url-attendance",
 			],
 		},
 	],

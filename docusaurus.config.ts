@@ -96,20 +96,24 @@ const config: Config = {
 					},
 					{
 						from: "/docs/url/meeting-reports/",
-						to: "/docs/meeting-reports/"
+						to: "/docs/meeting-reports/",
 					},
 					{
 						from: "/docs/url/glossary/",
-						to: "/docs/glossary/"
+						to: "/docs/glossary/",
 					},
 					{
 						from: "/docs/url/members/",
-						to: "/docs/members/"
+						to: "/docs/members/",
 					},
 					{
 						from: "/docs/url/proposal/",
-						to: "/docs/proposal/"
-					}
+						to: "/docs/proposal/",
+					},
+					{
+						from: "/policies/url-lab-attendance/",
+						to: "/policies/url-attendance/",
+					},
 				],
 			},
 		],
