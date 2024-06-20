@@ -70,7 +70,7 @@ export default function Root() {
 				</div>
 
 				<p>
-					... and <a href="/docs/url/members/">more</a>.
+					... and <a href="/docs/members/">more</a>.
 				</p>
 			</div>
 		</Layout>
