@@ -163,5 +163,19 @@
 			"Contributed code to our repositories."
 		],
 		"active": true
+	},
+	{
+		"name": "Alberto Krone-Martins",
+		"email": "algol@uci.edu",
+		"roles": ["Faculty Advisor"],
+		"association": "University of California, Irvine",
+		"website": {
+			"label": "Personal Website",
+			"value": "https://www.albertokronemartins.com/"
+		},
+		"joined": 0,
+		"avatar": "https://gravatar.com/avatar/17448caf304fe0e60a7ebe00d21695dfaa91028705fd712b7da99e362c6ca8fe?d=mp",
+		"contributions": [],
+		"active": false
 	}
 ]
