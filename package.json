@@ -23,10 +23,8 @@
 		"@mdx-js/react": "^3.0.0",
 		"clsx": "^2.0.0",
 		"docusaurus-plugin-sass": "^0.2.5",
-		"framer-motion": "^11.2.2",
 		"prism-react-renderer": "^2.3.0",
 		"react": "^18.0.0",
-		"react-countdown": "^2.3.5",
 		"react-dom": "^18.0.0",
 		"sass": "^1.74.1"
 	},
