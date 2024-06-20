@@ -111,8 +111,8 @@ const config: Config = {
 						to: "/docs/proposal/",
 					},
 					{
-						from: "/policies/url-lab-attendance/",
-						to: "/policies/url-attendance/",
+						from: "/docs/policies/url-lab-attendance/",
+						to: "/docs/policies/url-attendance/",
 					},
 				],
 			},
