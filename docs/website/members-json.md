@@ -4,29 +4,17 @@ description: >
   Learn about what the Members JSON file is and how it's used in the website.
 last_update:
   author: Carlos Valdez
-  date: May 21 2024
+  date: June 20, 2024
 ---
 
-# Members JSON Protocol
+# members.json
 
-## Background
+The `members.json` file is a file located in `/static/data/` that keeps all
+information of our members. The purpose of this file is to keep all data we
+might need in a single place to keep the project consistent. This document is
+here to provide a transparent view to our members of the kind of data we keep.
 
-Throughout our website, we promote the individuals that became members of the
-Ojos Project. However, to ensure the information is updated consistently, we
-keep a singular JSON file that these pages pull from. That is the Members JSON
-file.
-
-## The Protocol
-
-The Members JSON Protocol is the method in which we will use the Members JSON
-file, the file that contains information about the URL Group's team members.
-
-The protocol has two requirements.
-
-1. Information about our members must be in the `members.json` file
-2. Information displayed about our members must come from the `members.json` file
-
-### JSON Structure
+## JSON Structure
 
 The structure of the Members JSON file is:
 
@@ -66,7 +54,7 @@ Here's a table of keys and their meaning:
 :::tip
 
 You can
-[view the `members.json` file on GitHub](https://github.com/ojosproject/website/blob/main/static/data/url/members.json).
+[view the `members.json` file on GitHub](https://github.com/ojosproject/website/blob/main/static/data/members.json).
 
 :::
 
@@ -80,7 +68,9 @@ most common fields you may want to update are:
 - `website.value`
 - `contributions`
 
-Once you do that, let Carlos know so that it's merged onto the `main` branch.
+**DO NOT COMMIT DIRECTLY ON THE MAIN BRANCH.** Create a separate branch and
+open a Pull Request. Once you do that, let Carlos know and he will review and
+merge it into `main`.
 
 :::warning
 
