@@ -16,6 +16,11 @@ information of our members. The purpose of this file is to keep all data we
 might need in a single place to keep the project consistent. This document is
 here to provide a transparent view to our members of the kind of data we keep.
 
+## Our Usage
+
+Read more about how we use the information found in `members.json` on our
+[Email Policies](/docs/policies/email) document.
+
 ## JSON Structure
 
 The structure of the Members JSON file is:
@@ -80,3 +85,29 @@ It is **heavily** recommended you update these values yourself. Carlos does not
 update these as often as he should.
 
 :::
+
+## Data Retention Policies
+
+Ojos Project doesn't have reason to keep this data for more than what we need.
+However, if you're a current or incoming member of the Ojos Project, we keep
+this information for the purposes mentioned above.
+
+### Please delete my data
+
+:::note
+
+This is for former members only. If you're a current member, you may **modify**
+your data, but we still need it until you're no longer a member for the reasons
+mentioned above.
+
+:::
+
+If you're a former member and would like your data deleted, please [contact
+Carlos](mailto:cvaldezh@uci.edu) or
+[raise a GitHub issue](https://github.com/ojosproject/website/issues/new/choose/).
+You may request some or all of your data to be deleted.
+
+If you're a former member and your `contributions` array is empty, we delete
+all of your data as soon as you leave the project. However, if you're a former
+member and have `contributions`, then we display your work on our [members
+page](/docs/members/).
