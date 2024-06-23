@@ -11,6 +11,8 @@ last_update:
 
 # Publishing News
 
+![Docusaurus header from GitHub](https://camo.githubusercontent.com/51929caaeeaf41308befe091f8cfae176fcb462a7251d3cc3e8ea11d0693a011/68747470733a2f2f646f63757361757275732e696f2f696d672f736c6173682d696e74726f647563696e672e737667)
+
 The Ojos Project has
 [a News section on our main website](https://ojosproject.org/news/) that is
 meant to update people interested in the Ojos Project. This guide will help you

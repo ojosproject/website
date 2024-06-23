@@ -11,6 +11,8 @@ last_update:
 
 # Gravatar
 
+![Gravatar logo](https://docs.gravatar.com/wp-content/uploads/2024/01/logo.png)
+
 Gravatar (otherwise known as a **g**lobally **r**ecognized **avatar**) is a
 service that let's you change your photo whenever you want and immediately gets
 updated on our website. This is incredibly useful and convenient for both users

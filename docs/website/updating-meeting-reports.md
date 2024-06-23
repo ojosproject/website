@@ -9,6 +9,8 @@ description: >
 
 # Updating Meeting Reports
 
+![Docusaurus header from GitHub](https://camo.githubusercontent.com/51929caaeeaf41308befe091f8cfae176fcb462a7251d3cc3e8ea11d0693a011/68747470733a2f2f646f63757361757275732e696f2f696d672f736c6173682d696e74726f647563696e672e737667)
+
 The Ojos Project keeps [meeting reports](/docs/meeting-reports) so that we
 have a record of attendance and the things we've been doing in the lab. Carlos
 tries to keep this updated, but he won't always know everything that is going

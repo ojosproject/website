@@ -9,6 +9,8 @@ last_update:
 
 # members.json
 
+![Ojos Project header](@site/static/images/header.png)
+
 The `members.json` file is a file located in `/static/data/` that keeps all
 information of our members. The purpose of this file is to keep all data we
 might need in a single place to keep the project consistent. This document is

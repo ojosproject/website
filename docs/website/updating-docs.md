@@ -10,6 +10,8 @@ last_update:
 
 # Updating the documentation
 
+![Docusaurus header from GitHub](https://camo.githubusercontent.com/51929caaeeaf41308befe091f8cfae176fcb462a7251d3cc3e8ea11d0693a011/68747470733a2f2f646f63757361757275732e696f2f696d672f736c6173682d696e74726f647563696e672e737667)
+
 You're probably reading this on `ojosproject.org`. Previously, we would
 keep our documentation in a
 [GitLab folder](https://gitlab.com/ojosproject/docs/-/tree/33878f675970afe8e6b7dd4f60e08fcd8564c4a9)
