@@ -44,7 +44,7 @@ Your account will already have the following information:
 | Username     | Your email username (before the `@`)                                                 |
 | Email        | Your email                                                                           |
 | An avatar    | Your Gravatar                                                                        |
-| Set pay      | `0.00` if not enrolled in LAEP, otherwise `22.00`                                    |
+| Set pay      | `0.00`                                                                               |
 | A team       | `Developers` or `Engineering`                                                        |
 | A supervisor | `Mark S. Baldwin`, `Carlos Valdez`, or `Joseph Sweatt`                               |
 | Your role    | `Faculty Advisor`, `Project Lead`, `Engineering Lead`, `Developer`, or `Engineering` |
