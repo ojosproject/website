@@ -105,6 +105,7 @@ const sidebars: SidebarsConfig = {
 				"website/gravatar",
 				"website/kimai",
 				"website/members-json",
+				"website/newsletter",
 				"website/updating-docs",
 				"website/updating-meeting-reports",
 				"website/updating-news",
