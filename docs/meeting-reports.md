@@ -5,7 +5,7 @@ description: >
   we did here.
 last_update:
   author: Carlos Valdez
-  date: June 6, 2024
+  date: June 28, 2024
 ---
 
 # Meeting Reports
@@ -37,6 +37,23 @@ Here's a template:
 Enter what this team did during the meeting!
 
 -->
+
+## June 28, 2024
+
+| General Information |                                                                                         |
+| ------------------- | --------------------------------------------------------------------------------------- |
+| Teams Present       | Developers, Engineering                                                                 |
+| Members Present     | Carlos Valdez, Joseph Sweatt, Mai Luong, Meadow Rubalcava, Jesse David, Kristopher Doan |
+| Meeting Time        | 12:00 PM - 4:00 PM                                                                      |
+| Report Author(s)    | Carlos Valdez                                                                           |
+| Location            | URL Discord server                                                                      |
+
+### Ojos Project
+
+Carlos and Joseph helped everybody sign up to
+[citiprogram.org](https://about.citiprogram.org/) and start on IRB training.
+Most of the people who worked on this today finished their training. However,
+about half of the people still need to finish.
 
 ## June 6, 2024
 
