@@ -19,19 +19,8 @@ const sidebars: SidebarsConfig = {
 				{ type: "link", label: "Website Docs", href: "/docs/website/" },
 			],
 		},
-		{
-			type: "category",
-			label: "Hardware",
-			collapsible: true,
-			collapsed: false,
-			items: [
-				{
-					type: "link",
-					label: "Palliaview Docs",
-					href: "https://docs.google.com/document/d/1l60y9Kog3sbdiTm0TlWQSpLGMTpvvO05bGnn72r-dA8/",
-				},
-			],
-		},
+		
+		,
 	],
 
 	policies: [
@@ -56,7 +45,36 @@ const sidebars: SidebarsConfig = {
 			],
 		},
 	],
+	hardwarePalliview:[{
+		type: "category",
+		link: { type: "doc", id: "palliview/README" },
+		label: "Palliview Docs",
+		collapsible: false,
+		items: [
+			{
+				type: "category",
+				link: {
+					type: "generated-index",
+					title: "Hardware Design",
+					description:
+						"The is made by the engineer team using computer aided software programs such as Solidworks,OnShape, and AutoDesk Fusion ",
+					slug: "palliview/design/",
+					image: "@site/static/images/uci-pride-header.png",
+				},
+				label: "Itteration 1",
+				collapsible: true,
+				items: [
+					"iris/documentation",
+					"iris/engineerdes",
+					"iris/licenseres",
+					"iris/userguide",
+				],
+			},
+		]
+	},
+],
 
+	]
 	softwareIris: [
 		{
 			type: "category",

@@ -12,4 +12,6 @@ last_update:
 
 # Palliview Documentation
 
+![Ojos Project header](@site/static/images/header.png)
+
 Welcome to the Palliview documentation. This documentation is intended to allow users to view, modify and build their own verision of our Plug-in-Play solution utilizing our software(Iris)[ojosproject/website/tree/dev/docs/iris]
