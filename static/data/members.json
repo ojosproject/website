@@ -5,8 +5,8 @@
 		"roles": ["Project Lead", "Developers Lead", "Research Team"],
 		"association": "University of California, Irvine",
 		"website": {
-			"label": "Personal Website",
-			"value": "https://calejvaldez.com/"
+			"label": "GitHub",
+			"value": "https://github.com/calejvaldez/"
 		},
 		"joined": 1696536000,
 		"avatar": "https://gravatar.com/avatar/41bb2938e02bf5326eb6b82ec02d919ca97cf68b376c4c5769fbba4acc85a190?d=mp",
