@@ -14,7 +14,7 @@ last_update:
 
 ![Ojos Project header](@site/static/images/header.png)
 
-Welcome to the Palliview documentation. This documentation is intended to allow users to view, modify and build their own verision of our Plug-in-Play solution utilizing our software(Iris)[ojosproject/website/tree/dev/docs/iris]---
+Welcome to the Palliview documentation. This documentation is intended to allow users to view, modify and build their own verision of our Plug-in-Play solution utilizing our software]---
 displayed_sidebar: hardwarePallivew
 description: >
 Palliaview is the lug and pay hardware option made to utlize
@@ -29,4 +29,4 @@ date: June 28 2024
 
 # Palliview Documentation
 
-Welcome to the Palliview documentation. This documentation is intended to allow users to view, modify and build their own verision of our Plug-in-Play solution utilizing our software(Iris)[ojosproject/website/tree/dev/docs/iris]
+Welcome to the Palliview documentation. This documentation is intended to allow users to view, modify and build their own verision of our Plug-in-Play solution utilizing our software (Iris)[ojosproject/website/tree/dev/docs/iris]
