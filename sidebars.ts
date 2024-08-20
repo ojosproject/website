@@ -51,6 +51,7 @@ const sidebars: SidebarsConfig = {
 		label: "Palliview Docs",
 		collapsible: false,
 		items: [
+			"palliview/requirements",
 			{
 				type: "category",
 				link: {
@@ -65,9 +66,9 @@ const sidebars: SidebarsConfig = {
 				collapsible: true,
 				items: [
 					"iris/documentation",
-					"iris/engineerdes",
-					"iris/licenseres",
-					"iris/userguide",
+					"iris/engineering-models",
+					"iris/licensing",
+					"iris/palliview-digital-models",
 				],
 			},
 		]
