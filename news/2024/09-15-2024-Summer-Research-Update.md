@@ -13,7 +13,7 @@ description: >
 <!-- markdownlint-disable MD026 -->
 <!-- ^ disabled no-trailing-punctuation -->
 
-[Ojos Project header](@site/static/images/header.png)
+![Ojos Project header](@site/static/images/header.png)
 
 <!-- truncate -->
 
