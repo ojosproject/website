@@ -19,14 +19,16 @@ description: >
 
 ## What Happened?
 
-Throughout this summer our members went through many achievements and 
+Throughout this summer our members went through many achievements and
 accomplishments. To begin, our members
 
 ### Developer News
+
 <!-- Carlos will need to update this part-->
 
 ### Engineering News
-<!-- I need to add 
+
+<!-- I need to add
 - [] the goasl I had for the summer
 - [] what was able to be completed
 - [] major changes to desing and workflow from plans
@@ -34,8 +36,10 @@ accomplishments. To begin, our members
 -->
 
 ### Research News
+
 <!-- Mai will neede to be consulted on this part of the news upate-->
 
 ## Some Future Goals
+
 <!-- we need to write some of the news about goals we have for this fall and year
 -[] specifically about the CHI competition and the taking over the URL -->
