@@ -22,11 +22,9 @@ description: >
 Throughout this summer our members went through many achievements and
 accomplishments. To begin, our members
 
-### Developer News
+## Developer News
 
-<!-- Carlos will need to update this part-->
-
-### Engineering News
+## Engineering News
 
 <!-- I need to add
 - [] the goasl I had for the summer
@@ -35,7 +33,7 @@ accomplishments. To begin, our members
 - [] Documentation, digital models, pcitures
 -->
 
-### Research News
+## Research News
 
 <!-- Mai will neede to be consulted on this part of the news upate-->
 
