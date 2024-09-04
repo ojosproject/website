@@ -1,5 +1,5 @@
 ---
-authors: [jsweatt@uci.edu]
+authors: [jsweatt@uci.edu, cvaldezh@uci.edu]
 slug: /Summer-2024-sendoff/
 hide_table_of_contents: true
 description: >
