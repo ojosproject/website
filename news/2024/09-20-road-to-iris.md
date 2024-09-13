@@ -23,6 +23,11 @@ working with the Rust programming language, NextJS, and Tauri!
 <!-- ? Please keep truncate here! -->
 <!-- ? Learn more: https://docusaurus.io/docs/blog#blog-list -->
 
+<!-- markdownlint-disable MD026 -->
+<!-- ? Disable no-trailing-punctuation, please keep here! -->
+<!-- ? Learn more: -->
+<!-- ? https://github.com/DavidAnson/markdownlint/blob/main/doc/md026.md -->
+
 ## Background
 
 [Iris](https://github.com/ojosproject/iris/) is the Ojos Project's open-source
