@@ -19,6 +19,30 @@ new experience, however, there are challenges.
 In this more technical news post, learn about how the team managed to get around
 working with the Rust programming language, NextJS, and Tauri!
 
+## Background
+
+[Iris](https://github.com/ojosproject/iris/) is the Ojos Project's open-source
+hospice management system. It's a program we've been researching for since
+October 2023 and building since May 2024. Our goals for the project is to ensure
+we have a centralized storage for hospice management that can be relayed to
+other caregivers of a hospice patient. Some of the planned features we include
+to have are:
+
+- Medication management
+- Video recording
+- Noting care instructions
+- ... and more.
+
+The program is being build with various tools, notably
+[React/NextJS](https://nextjs.org/), [Rust](https://rust-lang.org/) and
+[Tauri](https://tauri.app/). We're also using [git](https://git-scm.com/) and
+[GitHub](https://github.com/).
+
+The challenge for us is to learn how to use these tools to the best of our
+abilities, as many of us haven't worked with them. We are a team of amazing
+programmers from the [University of California, Irvine](https://uci.edu/) that
+decided to take on the challenge of using these tools effectively to build Iris.
+
 ## Front end with NextJS
 
 Hi! My name is Mai Luong, and I’ve been working with Ojos since last Spring. My
