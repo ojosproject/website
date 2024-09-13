@@ -21,7 +21,7 @@ working with the Rust programming language, NextJS, and Tauri!
 
 ## Front end with NextJS
 
-Hi! My name is Mai, and I’ve been working with Ojos since last Spring. My
+Hi! My name is Mai Luong, and I’ve been working with Ojos since last Spring. My
 responsibilities have primarily focused on developing the medication with
 NextJS. I’m currently a 4 majoring in Informatics and Political Science
 at UCI, and I’m excited to continue growing my skills in software development
