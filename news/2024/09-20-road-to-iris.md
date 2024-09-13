@@ -19,6 +19,10 @@ new experience, however, there are challenges.
 In this more technical news post, learn about how the team managed to get around
 working with the Rust programming language, NextJS, and Tauri!
 
+<!-- truncate -->
+<!-- ? Please keep truncate here! -->
+<!-- ? Learn more: https://docusaurus.io/docs/blog#blog-list -->
+
 ## Background
 
 [Iris](https://github.com/ojosproject/iris/) is the Ojos Project's open-source
@@ -60,5 +64,3 @@ to a route in the application, streamline the static routing process.
 One of the key challenges I've been working through is learning about connecting
 frontend with backend. Learning how to present the necessary data from
 back-end data have proven to be an informative learning experience.
-
-<!-- truncate -->
