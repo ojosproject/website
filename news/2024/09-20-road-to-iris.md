@@ -83,6 +83,50 @@ Now, taking into consideration that Palliaview, our plug-and-play hardware
 solution for Iris, is being build using an embedded system, the Rust programming
 language as a backend seems to be the perfect choice for this kind of project.
 
+### Troubles with Tauri
+
+A massive challenge when it came to learning Tauri (and admittedly, learning
+Rust alongside it) is discovering how to properly use Tauri. I had initially
+believed Tauri was just the toolkit itself. However, it took a while for me to
+understand how to work with
+[Tauri's `AppHandle` structure](https://docs.rs/tauri/1.7.2/tauri/struct.AppHandle.html).
+
+[As soon as I discovered you can add the `AppHandle` to a Tauri command's
+parameters](https://github.com/ojosproject/iris/commit/9324044d1c19f8aa5a1064e3c620df1e57f26395),
+it became much faster and efficient to develop Iris. As soon as it happened,
+development for Iris speed up and (admittedly) became so much more fun. At least
+to me!
+
+### The v2 Plugin Ecosystem
+
+[Iris has recently upgraded to Tauri v2](https://github.com/ojosproject/iris/commit/3190b1dda94820ce7c13a901060356d354524c7a),
+which splits a lot of Tauri v1's core functions into plugins. One of the biggest
+challenges in this aspect was realizing _just_ how many features Tauri came with
+that we hadn't realized at first.
+
+Although it's difficult to call this a "challenge" since it's always great to
+discover new features, it's also unfortunate to realize a lot of external
+solutions have a plugin alternative. For example...
+
+- Instead of using [`std::fs`](https://doc.rust-lang.org/std/fs/index.html), we
+  could have used [Tauri's File System plugin](https://v2.tauri.app/plugin/file-system/)
+- Instead of using [`rusqlite`](https://docs.rs/rusqlite/latest/rusqlite/), we
+  could have used [Tauri's SQL plugin](https://v2.tauri.app/plugin/sql/)
+
+Although this doesn't slow down our development, it's still nice to know Tauri
+has a lot of extensions!
+
+### The Lack of Documentation
+
+Tauri is an amazing way to develop desktop apps, but Electron is undoubtedly
+dominant in the space. With this, it's clear that there's much more
+documentation and support when it comes to Electron. I feel like Tauri's
+documentation has many areas of improvement, and I certainly didn't help the
+case with transitioning us to the soon-to-be released Tauri v2. I am, however,
+really excited to see the future of Tauri as I believe is a very promising
+toolkit. With more people working on programs with Tauri, documentation will
+get better, and therefore finding solutions and support online becomes better.
+
 ## Front end with NextJS
 
 Hi! My name is Mai Luong, and I’ve been working with Ojos since last Spring. My
