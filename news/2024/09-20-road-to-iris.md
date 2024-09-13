@@ -54,7 +54,7 @@ decided to take on the challenge of using these tools effectively to build Iris.
 
 ## Hello, Tauri!
 
-Hi hi, I'm Carlos. I was one of the founding members of the Ojos Project. My
+Hi hi, I'm Carlos. I am one of the founding members of the Ojos Project. My
 main responsibility when it comes to Iris is working with the backend and
 ensuring Tauri is appropriately implemented in the backend and the frontend.
 
