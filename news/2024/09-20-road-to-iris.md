@@ -52,6 +52,37 @@ abilities, as many of us haven't worked with them. We are a team of amazing
 programmers from the [University of California, Irvine](https://uci.edu/) that
 decided to take on the challenge of using these tools effectively to build Iris.
 
+## Hello, Tauri!
+
+Hi hi, I'm Carlos. I was one of the founding members of the Ojos Project. My
+main responsibility when it comes to Iris is working with the backend and
+ensuring Tauri is appropriately implemented in the backend and the frontend.
+
+Tauri is a toolkit to help developers create desktop apps using Rust and a
+frontend framework of our choice. Typically when it comes to desktop apps,
+people's tool of choice would be [Electron](https://www.electronjs.org/).
+However, we didn't go down the Electron route for a few reasons:
+
+- **Full JavaScript**: Electron requires us to write the frontend and backend in
+  JavaScript, but I don't think JavaScript belongs in the backend
+- **Huge Bundles**: An average Electron app can be around 200 MBs. This is
+  because Electron ships with [Chromium](https://www.chromium.org) and
+  [Node.js](https://nodejs.org/), practically meaning you're downloading a
+  browser for every new Electron app you install
+  [and there's a lot](https://www.electronjs.org/apps)
+
+Tauri, on the other hand, tackles this differently:
+
+- **A Rust Backend**: Tauri lets us work with Rust in the backend, which is
+  considered to be a safe and effective programming language
+- **Tiny Bundles**: Tauri uses the browser engine you already have installed, so
+  you it makes your apps smaller, sometimes even up to 15x smaller while also
+  making it more effective
+
+Now, taking into consideration that Palliaview, our plug-and-play hardware
+solution for Iris, is being build using an embedded system, the Rust programming
+language as a backend seems to be the perfect choice for this kind of project.
+
 ## Front end with NextJS
 
 Hi! My name is Mai Luong, and I’ve been working with Ojos since last Spring. My
