@@ -1,6 +1,6 @@
 ---
 authors: [jsweatt@uci.edu, cvaldezh@uci.edu]
-slug: /Summer-2024-sendoff/
+slug: /summer-2024-sendoff/
 hide_table_of_contents: true
 description: >
   THE SUMMER IS OVER!! This summer many of our Ojos Project member complete their
