@@ -56,3 +56,16 @@ tuned!
 
 <!-- we need to write some of the news about goals we have for this fall and year
 -[] specifically about the CHI competition and the taking over the URL -->
+
+:::note
+
+These goals may just change as the quarter begins and we get things moving. As
+a baseline, here are some things we have in mind:
+
+:::
+
+- General
+  - ...
+- Developers
+  - Create a beta version by early fall
+  - Create a tool to easily install and test Iris on Linux
