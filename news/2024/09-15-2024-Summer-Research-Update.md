@@ -22,33 +22,22 @@ description: >
 Throughout this summer our members went through many achievements and
 accomplishments. To begin, our members
 
-## Developer News
+## Iris Development
 
-### Rust, Our Beloved
+The developers finally began the very messy process of programming. We decided
+to take up the challenge and learn various tools that we're not too familiar
+with, such as the Rust programming language and NextJS. As well as learning
+these tools, we also adapted a collaborative workflow with GitHub and started
+using [pull requests](https://github.com/ojosproject/iris/pulls/) to better keep
+track of our process on specific features.
 
-Developers in the Ojos Project spent a good chunk of the summer exploring the
-[Rust programming language](https://rust-lang.org). 🦀
+As of now, there isn't too much to show, [as we're still actively working on
+Iris](https://github.com/ojosproject/iris/commits/main/?since=2024-06-13&until=2024-09-15).
+As soon as we have more to show, we will immediately display it here.
 
-Rust is an efficient and memory-safe programming language started in 2007,
-though officially released by Mozilla in 2015. The
-language has recently been [mentioned in a White House report](https://stackoverflow.blog/2024/03/04/in-rust-we-trust-white-house-office-urges-memory-safety/)
-after mentioning the need for memory-safe programming languages in cyberspace.
-The US military's Defense Advanced Research Projects Agency (DARPA) is starting
-a program to translate their existing C code to Rust, called the [TRACTOR
-program](https://www.darpa.mil/program/translating-all-c-to-rust).
-
-Although the University of California, Irvine does not provide a Rust class as
-of now, we believe that working with Rust is a skill that will be beneficial
-for our members.
-
-### Iris Development
-
-[Developers have been hard at work](https://github.com/ojosproject/iris/commits/main/?since=2024-06-13&until=2024-09-15)
-with developing Iris. Iris is being built with [Tauri](https://tauri.app), a
-modern toolkit for building desktop applications alongside
-[NextJS](https://nextjs.org/).
-
-Although it's been a slow process, Iris is starting to come together nicely.
+Until then, the developers are working on a more technical news post to show
+what we've been doing during the summer, which will be released soon. Stay
+tuned!
 
 ## Engineering News
 
