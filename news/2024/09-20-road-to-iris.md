@@ -1,5 +1,5 @@
 ---
-authors: [cvaldezh@uci.edu, pluong3@uci.edu]
+authors: [cvaldezh@uci.edu, pluong3@uci.edu, jasonbm2@uci.edu]
 slug: /road-to-iris/
 hide_table_of_contents: true
 description: >
@@ -144,3 +144,26 @@ to a route in the application, streamline the static routing process.
 One of the key challenges I've been working through is learning about connecting
 frontend with backend. Learning how to present the necessary data from
 back-end data have proven to be an informative learning experience.
+
+## Backend with Rust
+
+My name is Jason Martin, an upcoming 2nd year Informatics major, and I have been
+with Ojos since April 2024. While the obstacles that Iris threw at first-year
+me proved to be challenging, I found none more daunting than tackling Rust’s
+comparatively nonsensical syntax or seemingly roundabout solutions to problems
+that Python, the only programming language I knew prior to joining, made easy.
+
+Having to learn the complexities of Rust this summer has in turn helped me
+better my understanding of the complexities of, the reasonings behind, and
+the tools offered by programming languages, forcing me to be more mindful, or
+even learn for the first time, in some cases, of mutability, ownership, object
+references, pointers, stack vs heap, and more concepts I’m forgetting at the
+moment. Additionally, applying Rust to solve problems, while challenging, gave
+me necessary and foundational project-building experience, such as learning the
+Unix time system to store and sort medications in a database or learning how to
+make API calls and parsing json files.
+
+Remotely working with Rust this summer to help contribute to Iris’ backend,
+albeit with a lot of hand-holding and patience from Carlos, has helped me look
+forward to working more collaboratively and efficiently this upcoming school
+year!
