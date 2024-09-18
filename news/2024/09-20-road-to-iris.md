@@ -63,7 +63,7 @@ However, we didn't go down the Electron route for a few reasons:
   [Node.js](https://nodejs.org/), which means you're downloading a
   browser for every new Electron app you install.
   [And there are a lot](https://www.electronjs.org/apps).
-- **Massive Memory Usage**: Because Electron uses Chromium for its frontend, it
+- **Heavy Memory Usage**: Because Electron uses Chromium for its frontend, it
   ends up consuming a _lot_ of memory.
 
 Tauri, on the other hand, tackles this differently:
