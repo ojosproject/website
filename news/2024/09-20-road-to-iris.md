@@ -37,9 +37,8 @@ to have are:
 - ... and more.
 
 The program is being built with various tools, notably
-[React/NextJS](https://nextjs.org/), [Rust](https://rust-lang.org/) and
-[Tauri](https://tauri.app/). We're also using [git](https://git-scm.com/) and
-[GitHub](https://github.com/).
+[Figma](https://figma.com), [React/NextJS](https://nextjs.org/),
+[Rust](https://rust-lang.org/), and [Tauri](https://tauri.app/).
 
 The challenge for us is to learn how to use these tools to the best of our
 abilities, as many of us haven't worked with them. We are a team of amazing
@@ -64,14 +63,21 @@ However, we didn't go down the Electron route for a few reasons:
   [Node.js](https://nodejs.org/), which means you're downloading a
   browser for every new Electron app you install.
   [And there are a lot](https://www.electronjs.org/apps).
+- **Massive Memory Usage**: Because Electron uses Chromium for its frontend, it
+  ends up consuming a _lot_ of memory.
 
 Tauri, on the other hand, tackles this differently:
 
 - **A Rust Backend**: Tauri lets us work with Rust in the backend, which is
   considered to be a safe and effective programming language.
-- **Tiny Bundles**: Tauri uses the browser engine you already have installed, so
-  it makes your apps smaller, sometimes even up to 15x smaller while also
+- **Tiny Bundles**: [Tauri uses the browser engine you already have installed](https://tauri.app/v1/references/architecture/process-model#the-webview-process),
+  so it makes your apps smaller, sometimes even up to 15x smaller while also
   making it more effective.
+- **Efficient memory usage**: Rust by itself is already known to be very
+  efficient with memory, but because Tauri uses its own libraries
+  ([TAO](https://github.com/tauri-apps/tao) and
+  [WRY](https://github.com/tauri-apps/wry)) for the frontend, memory usage is
+  much more efficient compared to that of Chromium
 
 Now, taking into consideration that Palliaview is being built for an embedded
 system, the Rust programming language as a backend seems to be the perfect
@@ -80,7 +86,7 @@ choice for this kind of project.
 ### Troubles with Tauri
 
 A massive challenge when it came to learning Tauri (and admittedly, learning
-Rust alongside it) is understanding how to properly use Tauri. I had initially
+Rust alongside it) was understanding how to properly use Tauri. I had initially
 believed Tauri was just the setup and
 [the CLI](https://tauri.app/v1/api/cli/). However, it took a while for me to
 understand how to work with
@@ -117,8 +123,8 @@ dominant in the space. With this, it's clear why there's much more
 documentation and support when it comes to Electron. I feel like Tauri's
 documentation has many areas of improvement, and I certainly didn't help the
 case with transitioning us to the soon-to-be-released Tauri v2. I am, however,
-really excited to see the future of Tauri as I believe is a very promising
-toolkit. With more people working on programs with Tauri, documentation will
+really excited to see the future of Tauri as I believe it's a very promising
+toolkit. With more people building programs with Tauri, documentation will
 get better, and therefore finding solutions and support online will become
 better.
 
