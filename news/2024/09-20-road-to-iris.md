@@ -220,3 +220,12 @@ these requirements has been a challenge for us, and we are still currently
 trying to work this out. Despite the challenges, overall, this project has
 allowed us to gain valuable experience in using this popular framework, and I
 look forward to understanding NextJS even deeper as this project carries on.
+
+## What's next for the developers?
+
+A _break_. At least for a little bit! Iris development will continue once Fall
+quarter begins. Until then, developers will rest and not think about any of
+these topics.
+
+A massive thank you to the entire team for participating in this project. None
+of this could've been possible without each and every one of you. 🫶
