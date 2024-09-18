@@ -12,8 +12,8 @@ description: >
 
 ![Ojos Project header](@site/static/images/header.png)
 
-Iris has been in development in the entire summer. It's been a slow but steady
-pace seeing as how Iris comes with new experiences for the developers. With any
+Iris has been in development for the entire summer. It's been a slow but steady
+pace, seeing as how Iris comes with new experiences for the developers. With any
 new experience, however, there are challenges.
 
 In this more technical news post, learn about how the team managed to get around
@@ -32,7 +32,7 @@ working with the Rust programming language, NextJS, and Tauri!
 
 [Iris](https://github.com/ojosproject/iris/) is the Ojos Project's open-source
 hospice management system. It's a program we've been researching for since
-October 2023 and building since May 2024. Our goals for the project is to ensure
+October 2023 and building since May 2024. Our goal for the project is to ensure
 we have a centralized storage for hospice management that can be relayed to
 other caregivers of a hospice patient. Some of the planned features we include
 to have are:
@@ -42,7 +42,7 @@ to have are:
 - Noting care instructions
 - ... and more.
 
-The program is being build with various tools, notably
+The program is being built with various tools, notably
 [React/NextJS](https://nextjs.org/), [Rust](https://rust-lang.org/) and
 [Tauri](https://tauri.app/). We're also using [git](https://git-scm.com/) and
 [GitHub](https://github.com/).
@@ -54,8 +54,8 @@ decided to take on the challenge of using these tools effectively to build Iris.
 
 ## Hello, Tauri!
 
-Hi hi, I'm Carlos. I am one of the founding members of the Ojos Project. My
-main responsibility when it comes to Iris is working with the backend and
+Hi, hi! I'm Carlos, one of the founding members of the Ojos Project. My
+main responsibility regarding Iris is working with the backend and
 ensuring Tauri is appropriately implemented in the backend and the frontend.
 
 Tauri is a toolkit to help developers create desktop apps using Rust and a
@@ -64,24 +64,24 @@ people's tool of choice would be [Electron](https://www.electronjs.org/).
 However, we didn't go down the Electron route for a few reasons:
 
 - **Full JavaScript**: Electron requires us to write the frontend and backend in
-  JavaScript, but I don't think JavaScript belongs in the backend
+  JavaScript, but I don't think JavaScript belongs in the backend.
 - **Huge Bundles**: An average Electron app can be around 200 MBs. This is
   because Electron ships with [Chromium](https://www.chromium.org) and
-  [Node.js](https://nodejs.org/), practically meaning you're downloading a
-  browser for every new Electron app you install
-  [and there's a lot](https://www.electronjs.org/apps)
+  [Node.js](https://nodejs.org/), which means you're downloading a
+  browser for every new Electron app you install.
+  [And there are a lot](https://www.electronjs.org/apps).
 
 Tauri, on the other hand, tackles this differently:
 
 - **A Rust Backend**: Tauri lets us work with Rust in the backend, which is
-  considered to be a safe and effective programming language
+  considered to be a safe and effective programming language.
 - **Tiny Bundles**: Tauri uses the browser engine you already have installed, so
-  you it makes your apps smaller, sometimes even up to 15x smaller while also
-  making it more effective
+  it makes your apps smaller, sometimes even up to 15x smaller while also
+  making it more effective.
 
-Now, taking into consideration that Palliaview, our plug-and-play hardware
-solution for Iris, is being build using an embedded system, the Rust programming
-language as a backend seems to be the perfect choice for this kind of project.
+Now, taking into consideration that Palliaview is being built for an embedded
+system, the Rust programming language as a backend seems to be the perfect
+choice for this kind of project.
 
 ### Troubles with Tauri
 
@@ -93,7 +93,7 @@ understand how to work with
 
 [As soon as I discovered you can add the `AppHandle` to a Tauri command's
 parameters](https://github.com/ojosproject/iris/commit/9324044d1c19f8aa5a1064e3c620df1e57f26395),
-it became much faster and efficient to develop Iris. As soon as it happened,
+it became much faster and more efficient to develop Iris. As soon as it happened,
 development for Iris speed up and (admittedly) became so much more fun. At least
 to me!
 
@@ -119,31 +119,32 @@ has a lot of extensions!
 ### The Lack of Documentation
 
 Tauri is an amazing way to develop desktop apps, but Electron is undoubtedly
-dominant in the space. With this, it's clear that there's much more
+dominant in the space. With this, it's clear why there's much more
 documentation and support when it comes to Electron. I feel like Tauri's
 documentation has many areas of improvement, and I certainly didn't help the
-case with transitioning us to the soon-to-be released Tauri v2. I am, however,
+case with transitioning us to the soon-to-be-released Tauri v2. I am, however,
 really excited to see the future of Tauri as I believe is a very promising
 toolkit. With more people working on programs with Tauri, documentation will
-get better, and therefore finding solutions and support online becomes better.
+get better, and therefore finding solutions and support online will become
+better.
 
 ## Front end with NextJS
 
 Hi! My name is Mai Luong, and I’ve been working with Ojos since last Spring. My
-responsibilities have primarily focused on developing the medication with
-NextJS. I’m currently a 4 majoring in Informatics and Political Science
-at UCI, and I’m excited to continue growing my skills in software development
-through this project!
+responsibilities have primarily focused on developing the medication features
+with NextJS. I’m currently a 4th year majoring in Informatics and Political
+Science at UCI, and I’m excited to continue growing my skills in software
+development through this project!
 
-This summer, I've been learning server-side rendering and building Ojos UI.
+This summer, I've been learning server-side rendering and building Iris UI.
 Next.js simplifies many tasks like routing and API handling, which makes it
-a powerful tool for frontend development. Routing become intuitive by allowing
-me to create pages through the file system. Each pages corresponds
-to a route in the application, streamline the static routing process.
+a powerful tool for frontend development. Routing became intuitive by allowing
+me to create pages through the file system. Each page corresponds
+to a route in the application, streamlining the static routing process.
 
 One of the key challenges I've been working through is learning about connecting
-frontend with backend. Learning how to present the necessary data from
-back-end data have proven to be an informative learning experience.
+the frontend with the backend. Learning how to present the necessary data from
+back-end data has proven to be an informative learning experience.
 
 ## Backend with Rust
 
@@ -153,15 +154,15 @@ me proved to be challenging, I found none more daunting than tackling Rust’s
 comparatively nonsensical syntax or seemingly roundabout solutions to problems
 that Python, the only programming language I knew prior to joining, made easy.
 
-Having to learn the complexities of Rust this summer has in turn helped me
-better my understanding of the complexities of, the reasonings behind, and
+Having to learn the complexities of Rust this summer has, in turn, helped me
+better my understanding of the complexities of, the reasoning behind, and
 the tools offered by programming languages, forcing me to be more mindful, or
 even learn for the first time, in some cases, of mutability, ownership, object
 references, pointers, stack vs heap, and more concepts I’m forgetting at the
 moment. Additionally, applying Rust to solve problems, while challenging, gave
 me necessary and foundational project-building experience, such as learning the
 Unix time system to store and sort medications in a database or learning how to
-make API calls and parsing json files.
+make API calls and parse JSON files.
 
 Remotely working with Rust this summer to help contribute to Iris’ backend,
 albeit with a lot of hand-holding and patience from Carlos, has helped me look
@@ -170,10 +171,10 @@ year!
 
 ## Designing and Implementing
 
-Hello, my name is Jesse David, and I am a 4th-year Informatics major specializing
+Hello, my name is Jesse David, and I am a 4th year Informatics major specializing
 in Human-Computer Interaction at UCI. I have been involved with the Ojos Project
 since April 2024. During this summer, I have mainly been working on the front end
-by creating designs using Figma and implementing using NextJS.
+by creating designs using Figma and implementing them using NextJS.
 
 ### Designing with Figma
 
@@ -197,9 +198,9 @@ wireframes with some interactions. As of the writing of the post, the pages that
 have been designed are:
 
 - the pin entry page
-- the home / hub page
+- the home/hub page
 - the log view of the medications a patient takes
-- the video call / recordings pages
+- the video call/recordings pages
 
 ### Transferring Designs Over to NextJS
 
@@ -214,8 +215,8 @@ the framework, we came to learn about a number of these tradeoffs while coding.
 For example, when trying to implement the saving of video recordings into Iris,
 the package that we were using involves using asynchronous functions. However,
 we learned that client components in NextJS cannot directly call asynchronous
-functions, and that the useEffect hook would have to be used. Working around
-these requirements have been a challenge for us, and we are still currently
+functions and that the useEffect hook would have to be used. Working around
+these requirements has been a challenge for us, and we are still currently
 trying to work this out. Despite the challenges, overall, this project has
 allowed us to gain valuable experience in using this popular framework, and I
 look forward to understanding NextJS even deeper as this project carries on.
