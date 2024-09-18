@@ -1,5 +1,5 @@
 ---
-authors: [cvaldezh@uci.edu, pluong3@uci.edu, jasonbm2@uci.edu]
+authors: [cvaldezh@uci.edu, pluong3@uci.edu, jasonbm2@uci.edu, jessecd@uci.edu]
 slug: /road-to-iris/
 hide_table_of_contents: true
 description: >
@@ -167,3 +167,24 @@ Remotely working with Rust this summer to help contribute to Iris’ backend,
 albeit with a lot of hand-holding and patience from Carlos, has helped me look
 forward to working more collaboratively and efficiently this upcoming school
 year!
+
+## Designing and Implementing
+
+Hello, my name is Jesse David, and I am a 4th-year Informatics major specializing in Human-Computer Interaction at UCI. I have been involved with the Ojos Project since April 2024. During this summer, I have mainly been working on the front end by creating designs using Figma and implementing using NextJS.
+
+### Designing with Figma
+
+The designs for the various Iris screens were created using Figma. During Spring quarter, we created low-fidelity wireframes for various pages, and so, during this summer, I worked on creating higher-fidelity wireframes of pages. To help ensure consistency between pages, I first created a branding guide for Iris. The color scheme revolves around different shades of blue as it [conveys trust and is commonly seen in healthcare](https://doctorlogic.com/blog/medical-logo-colors). Additionally, blue is also part of the [UCI color scheme](https://brand.uci.edu/master-branding/color-palette/). Accessibility is an important focus for designing this software, so it was decided that foreground/background color combinations for text should be compliant with at least the [AA level for text according to WCAG](https://www.w3.org/TR/WCAG22/#contrast-minimum). Noto Sans was selected as the primary font for our designs since we wanted to use an [accessible font](https://www.audioeye.com/post/accessible-fonts/).
+
+After creating a branding guide, I worked on designing higher-fidelity wireframes with some interactions. As of the writing of the post, the pages that have been designed are:
+
+- the pin entry page
+- the home / hub page
+- the log view of the medications a patient takes
+- the video call / recordings pages
+
+### Transferring Designs Over to NextJS
+
+After creating designs using Figma, I worked on implementing them into code using NextJS. A couple of the reasons why I was in favor of using NextJS for Iris were that NextJS's App Router allows for relatively simple page routing and that NextJS has loading optimizations that we could potentially leverage later on.
+
+However, all tools come with tradeoffs, and since we were all relatively new to the framework, we came to learn about a number of these tradeoffs while coding. For example, when trying to implement the saving of video recordings into Iris, the package that we were using involves using asynchronous functions. However, we learned that client components in NextJS cannot directly call asynchronous functions, and that the useEffect hook would have to be used. Working around these requirements have been a challenge for us, and we are still currently trying to work this out. Despite the challenges, overall, this project has allowed us to gain valuable experience in using this popular framework, and I look forward to understanding NextJS even deeper as this project carries on.
