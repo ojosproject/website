@@ -86,16 +86,16 @@ choice for this kind of project.
 ### Troubles with Tauri
 
 A massive challenge when it came to learning Tauri (and admittedly, learning
-Rust alongside it) is discovering how to properly use Tauri. I had initially
-believed Tauri was just the toolkit itself. However, it took a while for me to
+Rust alongside it) is understanding how to properly use Tauri. I had initially
+believed Tauri was just the setup and
+[the CLI](https://tauri.app/v1/api/cli/). However, it took a while for me to
 understand how to work with
 [Tauri's `AppHandle` structure](https://docs.rs/tauri/1.7.2/tauri/struct.AppHandle.html).
 
 [As soon as I discovered you can add the `AppHandle` to a Tauri command's
 parameters](https://github.com/ojosproject/iris/commit/9324044d1c19f8aa5a1064e3c620df1e57f26395),
-it became much faster and more efficient to develop Iris. As soon as it happened,
-development for Iris speed up and (admittedly) became so much more fun. At least
-to me!
+it became much faster and more efficient to develop Iris. Development for Iris
+sped up and (admittedly) became so much more fun to work on. At least to me!
 
 ### The v2 Plugin Ecosystem
 
