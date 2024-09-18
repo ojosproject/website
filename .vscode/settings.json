@@ -28,6 +28,7 @@
 		"PROMIS",
 		"raspi",
 		"Rubalcava",
+		"rusqlite",
 		"rustc",
 		"rustup",
 		"Storyset",
@@ -41,6 +42,8 @@
 		"Telemedicine",
 		"timesheet",
 		"UROP",
+		"WCAG",
+		"wireframes",
 		"xinitrc"
 	],
 	"cSpell.language": "en,es",
