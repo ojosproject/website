@@ -20,13 +20,7 @@ In this more technical news post, learn about how the team managed to get around
 working with the Rust programming language, NextJS, and Tauri!
 
 <!-- truncate -->
-<!-- ? Please keep truncate here! -->
-<!-- ? Learn more: https://docusaurus.io/docs/blog#blog-list -->
-
 <!-- markdownlint-disable MD026 -->
-<!-- ? Disable no-trailing-punctuation, please keep here! -->
-<!-- ? Learn more: -->
-<!-- ? https://github.com/DavidAnson/markdownlint/blob/main/doc/md026.md -->
 
 ## Background
 
