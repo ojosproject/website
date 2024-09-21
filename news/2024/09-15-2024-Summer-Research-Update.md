@@ -20,7 +20,17 @@ description: >
 ## What Happened?
 
 Throughout this summer our members went through many achievements and
-accomplishments. To begin, our members
+accomplishments. To begin, our members were able to get accepted into the Learning Aligned Employment Program and the Summer Undergraduate Research Program fellowship. this is found in the news update <!-- add the link for our SURP announcement -->. 
+
+The Ojos Project worked remotely through the use of discord and other telenetwork software. With our group of 8 members meeting  weekly to push forward our goal on completing the Iris Software and Palliaview device prototypes. Additionally, it was an opportunity for our members to develop necessary career and research skills in there respective majors. 
+
+After, an intial set back in regards for funding for the group, Ojos project spent the next 12 weeks conducting research, designing,  and familiarizing with the different technical skills and niches of field. 
+
+Also, our Research team began to look into a international completion known as the Computer Human Interaction (CHI) Conference as a viable goal for the Ojos Project and the requirements entailed.
+
+In addition, some of our members began the hand-off of the Undergraduate Research Lab. Prepping to recruit and serve as advisors and resources for new Undergradyate research teams.
+
+Below are more details about each of our teams indivual goals and updates. 
 
 ## Iris Development
 
@@ -41,6 +51,22 @@ tuned!
 
 ## Engineering News
 
+This summer, Engineers had  goals of:
+
+  - [] Fabricate our prototype Palliaview V0.2 after our intial modeling for deployment
+  - [] Begin certification and the skill traing of many of the members including CAD, Additive Manufacturing, and electrical design.
+  - [] Create and [standardize design reports <!-- insert link for our documentation folder--> and Documentation](https://github.com/ojosproject/website/pull/45) for Palliaview.
+
+Fortunately,  we were able to achieve most of our goals or make some advancement on every goal.
+
+To begin, our team created a 10 week outline on what we should do. In order to make sure we were set on pace to complete our goals. However,  we had to adjust to compensate for summer obligations and personal matters that came up. 
+
+These changes include postponing and working ascrynchously. And even adjust timeliness to focus on different aspect of our Research. 
+
+For example conducting more research and improving reference models for our Research while we awaited for parts.
+
+ 
+ 
 <!-- I need to add
 - [] the goasl I had for the summer
 - [] what was able to be completed
@@ -50,7 +76,13 @@ tuned!
 
 ## Research News
 
-<!-- Mai will neede to be consulted on this part of the news upate-->
+<!-- Mai will neede to be consulted on this part of the news upate
+
+suggestions
+- [] writing our new outline for research process
+- [] invesitagting into the CHI competions
+- [] preppign for symposium proposal
+- [] outreaching to more potential interviewees -->
 
 ## Some Future Goals
 
@@ -66,6 +98,13 @@ a baseline, here are some things we have in mind:
 
 - General
   - ...
+
+- Engineering
+  - With our preliminary designs being updated and nearly completed, the focus is producing and evaluation our Palliaviw V0.2. 
+  - Begin a deployment in the end of Fall, or beginning of winter quarter. 
+  - Begin and compact our initial design in the V0.3 and begin incorporating more accessibility technology  and biometric data 
+  - Conduct certifications of several our members to expand skillset
+
 - Developers
   - Create a beta version by early fall
   - Create a tool to easily install and test Iris on Linux
