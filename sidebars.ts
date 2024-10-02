@@ -16,6 +16,11 @@ const sidebars: SidebarsConfig = {
 			collapsed: false,
 			items: [
 				"iris/README",
+				{
+					type: "link",
+					label: "Ojos CLI",
+					href: "https://github.com/ojosproject/cli/tree/release/docs",
+				},
 				{ type: "link", label: "Website Docs", href: "/docs/website/" },
 			],
 		},

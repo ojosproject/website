@@ -53,6 +53,8 @@ const config: Config = {
 					editUrl: "https://github.dev/ojosproject/website/blob/dev/",
 					showLastUpdateTime: true,
 					blogSidebarCount: "ALL",
+					onInlineAuthors: "throw",
+					onUntruncatedBlogPosts: "throw",
 				},
 				theme: {
 					customCss: "./src/css/custom.scss",
