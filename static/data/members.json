@@ -177,5 +177,19 @@
 		"avatar": "https://gravatar.com/avatar/17448caf304fe0e60a7ebe00d21695dfaa91028705fd712b7da99e362c6ca8fe?d=mp",
 		"contributions": [],
 		"active": false
+	},
+	{
+		"name": "Helen Chau",
+		"email": "chauh4@uci.edu",
+		"roles": ["Developers Team"],
+		"association": "University of California, Irvine",
+		"website": {
+			"label": "Personal Website",
+			"value": "https://helen-chau.my.canva.site/portfolio"
+		},
+		"joined": 1727812800,
+		"avatar": "https://gravatar.com/avatar/26fa2bb7c73c47d8901361cb33ddc515ca02c1b303f10e84786d4f2e8149987d?d=mp",
+		"contributions": [],
+		"active": true
 	}
 ]
