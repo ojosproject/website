@@ -152,8 +152,8 @@ const config: Config = {
 					title: "Ojos Project",
 					items: [
 						{
-							label: "Slack",
-							href: "https://ojosproject.slack.com/",
+							label: "Discord",
+							href: "https://discord.gg/SejmYUthEj",
 						},
 						{
 							label: "GitHub",
