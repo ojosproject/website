@@ -1,7 +1,5 @@
 // root.tsx
 // Ojos Project
-import GrandmaImage from "/static/images/grandma.jpg";
-import JosephGrandmaImage from "/static/images/joseph-grandma.jpg";
 import "./index.scss";
 import Layout from "@theme/Layout";
 import {
@@ -9,55 +7,41 @@ import {
 	getActiveMemberWithContributions,
 	TeamMemberButton,
 } from "../components/members";
+import WorkContainer from "../components/WorkContainer";
 
 export default function Root() {
 	return (
 		<Layout>
-			<div className="story">
-				<div className="story_text">
-					<h1>Creating an easier way to stay connected with who you love.</h1>
-					<p>
-						The Ojos Project is a UCI-backed research endeavor in which we aim
-						to understand the needs of hospice patients, caregivers, and
-						healthcare specialists to provide them with a better way to address
-						the hospice experience. By utilizing modern technologies and
-						analyzing previous methods, we will ensure nurses and caregivers
-						stay connected to provide a sense of comfort and confidence during
-						your loved one's care.
-					</p>
-				</div>
-				<img
-					className="story_image"
-					src={GrandmaImage as string}
-					alt="Carlos with his grandmother"></img>
-			</div>
+			<header className="index-header">
+				<h1>Working with you for a better hospice experience.</h1>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+					eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+					minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+					aliquip ex ea commodo consequat.
+				</p>
+			</header>
 
-			<div className="story" id="purpose">
-				<img
-					className="story_image"
-					src={JosephGrandmaImage as string}
-					alt="Joseph's family"
-				/>
-				<div className="story_text">
-					<h1>Our Purpose</h1>
-					<p>
-						Hospice patients are often immobile and slowly lose their
-						independence, relying on the people around them to take care of
-						them. It's difficult to help someone in this position when we often
-						have other responsibilities, such as work.
-					</p>
-					<p>
-						During this moment, caregivers often have a lot on their mind. This
-						can become dangerous if the caregiver forgets critical information
-						about the patient's care, loses track of how often medication was
-						taken, or forgets to report the patient's level of comfort.
-					</p>
-					<p>
-						The purpose of the Ojos Project is to increase patient independence
-						by providing a kiosk-like assistant and to make sure all caregivers
-						are on the same page by ensuring all information of the patient's
-						care is on one device.
-					</p>
+			<div className="our_work">
+				<h1>Our Work</h1>
+				<div className="our_work_wrap">
+					<WorkContainer
+						image=""
+						header="Iris"
+						description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+					eiusmod tempor incididunt ut labore et dolore magna aliqua."
+						href="/docs/iris/"
+						href_label="Iris Docs"
+					/>
+					<WorkContainer
+						image=""
+						header="Palliaview"
+						description="Ut enim ad
+					minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+					aliquip ex ea commodo consequat."
+						href="/docs/palliaview/"
+						href_label="Palliaview Docs"
+					/>
 				</div>
 			</div>
 

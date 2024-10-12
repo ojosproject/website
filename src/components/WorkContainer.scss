@@ -1,0 +1,28 @@
+.container-work {
+	max-width: 35%;
+	min-width: 250px;
+	background-color: #b4d2f9;
+
+	margin: 25px;
+	padding: 25px;
+	border-radius: 10px;
+
+	&:hover {
+		cursor: pointer;
+		text-decoration: none;
+	}
+}
+
+.container-work-button {
+	justify-self: flex-end;
+	background-color: #0063d7;
+	color: white;
+	padding: 10px 25px;
+	border-radius: 10px;
+
+	&:hover {
+		color: white;
+		background-color: #094595;
+		text-decoration: none;
+	}
+}
