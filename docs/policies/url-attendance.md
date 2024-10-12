@@ -3,7 +3,7 @@ displayed_sidebar: policies
 description: >
   Read on the attendance policies of the URL room at UCI, located at DBH 5089.
 last_update:
-  date: June 20, 2024
+  date: October 12 2024
   author: Carlos Valdez
 ---
 
