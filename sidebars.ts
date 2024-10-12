@@ -56,7 +56,6 @@ const sidebars: SidebarsConfig = {
 				"policies/git",
 				"policies/logo",
 				"policies/inf199-acknowledgement",
-				"policies/paperwork",
 				"policies/url-attendance",
 			],
 		},
