@@ -70,23 +70,9 @@ const sidebars: SidebarsConfig = {
 			items: [
 				"iris/requirements",
 				{
-					type: "category",
-					link: {
-						type: "generated-index",
-						title: "Software Design",
-						description:
-							"These are designs made by the Developers team. They're often made with Figma.",
-						slug: "iris/design/",
-						image: "@site/static/images/uci-pride-header.png",
-					},
-					label: "Design",
-					collapsible: true,
-					items: [
-						"iris/c4-model",
-						"iris/database-schema",
-						"iris/filesystem",
-						"iris/flowcharts",
-					],
+					label: "WIP Docs",
+					type: "link",
+					href: "https://github.com/ojosproject/iris/tree/main/docs",
 				},
 			],
 		},
