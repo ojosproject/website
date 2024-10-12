@@ -136,7 +136,7 @@ const config: Config = {
 			},
 			items: [
 				{
-					label: "Project News",
+					label: "News",
 					to: "/news/",
 				},
 				{
