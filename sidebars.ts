@@ -105,13 +105,7 @@ const sidebars: SidebarsConfig = {
 			},
 			label: "Website Docs",
 			collapsible: false,
-			items: [
-				"website/gravatar",
-				"website/members-json",
-				"website/updating-docs",
-				"website/updating-meeting-reports",
-				"website/updating-news",
-			],
+			items: ["website/gravatar", "website/members-json"],
 		},
 	],
 };
