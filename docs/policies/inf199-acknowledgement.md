@@ -31,7 +31,9 @@ was required to enroll in the course to ensure he sticks to the
 
 ## Benefits of enrolling in 199
 
-Individuals enrolled in IN4MATX 199 get a 2-5 unit course grade.
+Individuals enrolled in IN4MATX 199 get a 2-5 unit course grade. However, to get
+a good grade, you must ensure you attend lab meetings or otherwise contribute to
+the project.
 
 ## Benefits of not enrolling in 199
 
