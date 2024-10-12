@@ -30,7 +30,7 @@
 		"joined": 1696536000,
 		"avatar": "https://gravatar.com/avatar/84ea4715fcf218179a00bd36150884d878b5d4a19fb731b2d09ab0eee7aba509?d=mp",
 		"contributions": ["Advised our research effort."],
-		"active": true
+		"active": false
 	},
 	{
 		"name": "Joseph Sweatt",
@@ -189,7 +189,10 @@
 		},
 		"joined": 1727812800,
 		"avatar": "https://gravatar.com/avatar/26fa2bb7c73c47d8901361cb33ddc515ca02c1b303f10e84786d4f2e8149987d?d=mp",
-		"contributions": [],
+		"contributions": [
+			"Contributed code to our repositories.",
+			"Designed lo-fi prototypes for Iris."
+		],
 		"active": true
 	}
 ]
