@@ -17,7 +17,7 @@ policies we're going to enact to make sure the lab is being properly run.
 
 :::note
 
-Currently, we meet at Donald Bren Hall 5089, or on this [voice channel](https://discord.com/channels/1247989934430617620/1253408948820770887).
+Currently, we meet at Donald Bren Hall 5089.
 
 :::
 
@@ -27,12 +27,8 @@ With a lot of people going in and out of the lab, it can be hard to track who
 was where. This can be an issue if something goes missing for example, we need
 to know who was at the lab at the time.
 
-Therefore, to keep track of everybody's attendance, you must use
-[timesheet.ojosproject.org](https://timesheet.ojosproject.org/). Everybody
-participating in the Ojos Project, except for maybe our Research Advisor, must
-track their attendance using this tool.
-
-[Read the docs to learn more about our timesheet tool.](/docs/website/kimai)
+Therefore, to keep track of everybody's attendance, your name must be added to
+the [Meeting Reports](/docs/meeting-reports).
 
 ## Going AWOL and getting dropped
 
