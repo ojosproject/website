@@ -5,7 +5,7 @@ description: >
   we did here.
 last_update:
   author: Carlos Valdez
-  date: June 6, 2024
+  date: October 13 2024
 ---
 
 # Meeting Reports
@@ -37,6 +37,30 @@ Here's a template:
 Enter what this team did during the meeting!
 
 -->
+
+## October 10, 2024
+
+| General Information |                                                                  |
+| ------------------- | ---------------------------------------------------------------- |
+| Teams Present       | Developers                                                       |
+| Members Present     | Carlos Valdez, Jason Martin, Ayush Jain, Jesse David, Helen Chau |
+| Meeting Time        | 11:00 AM - 2:00 PM                                               |
+| Report Author(s)    | Carlos Valdez                                                    |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                    |
+
+### Developers
+
+The Developers met to work on Iris.
+
+Ayush and Helen worked on
+[Video Recording/Storage](https://github.com/ojosproject/iris/pull/19), Jesse
+worked on some designs for the Undergraduate Research Lab, Jason worked on
+[Patient Reported Outcomes](https://github.com/ojosproject/iris/pull/26), and
+Carlos worked on updating the
+[Requirements document](https://docs.google.com/document/d/1EJlghYqhiPrZsjPUHxxG_WeHkHulPB4a-HF8fL7QsCs/).
+
+Although Mai wasn't there physically, she worked on
+[Medication Logging](https://github.com/ojosproject/iris/pull/22).
 
 ## June 6, 2024
 
