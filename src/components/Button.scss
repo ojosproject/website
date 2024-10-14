@@ -1,0 +1,13 @@
+.button-iris {
+	justify-self: flex-end;
+	background-color: #0063d7;
+	color: white;
+	padding: 10px 25px;
+	border-radius: 10px;
+
+	&:hover {
+		color: white;
+		background-color: #094595;
+		text-decoration: none;
+	}
+}

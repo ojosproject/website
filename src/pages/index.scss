@@ -17,6 +17,7 @@ body {
 }
 
 .index-header {
+	color: black;
 	background-image: linear-gradient(to bottom right, #b4d2f9, #3f8bf0);
 	min-height: 350px;
 
@@ -37,13 +38,6 @@ body {
 	align-items: center;
 
 	margin: 100px 0;
-}
-
-.our_work_wrap {
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-	flex-wrap: wrap;
 }
 
 .our_team {
