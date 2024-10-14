@@ -17,20 +17,22 @@ export default function WorkShowcase(props: {
 			<div className="work-showcase-left">
 				<h2>{props.title}</h2>
 				{props.children}
-				{props.button_label ? (
-					<Button
-						type="PRIMARY"
-						label={props.button_label}
-						href={props.button_link}
-					/>
-				) : null}
-				{props.button_secondary_label ? (
-					<Button
-						type="SECONDARY"
-						label={props.button_secondary_label}
-						href={props.button_secondary_link}
-					/>
-				) : null}
+				<div className="button-row">
+					{props.button_label ? (
+						<Button
+							type="PRIMARY"
+							label={props.button_label}
+							href={props.button_link}
+						/>
+					) : null}
+					{props.button_secondary_label ? (
+						<Button
+							type="SECONDARY"
+							label={props.button_secondary_label}
+							href={props.button_secondary_link}
+						/>
+					) : null}
+				</div>
 			</div>
 			<img src={props.image} alt={props.image_alt} />
 		</div>

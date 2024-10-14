@@ -19,4 +19,10 @@
 		box-shadow: 0 5px 10px lightslategrey;
 		margin: 50px 20px;
 	}
+
+	.button-row {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+	}
 }
