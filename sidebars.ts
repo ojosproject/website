@@ -74,7 +74,7 @@ const sidebars: SidebarsConfig = {
 					href: "https://docs.google.com/document/d/1EJlghYqhiPrZsjPUHxxG_WeHkHulPB4a-HF8fL7QsCs/",
 				},
 				{
-					label: "WIP Docs",
+					label: "Repository Docs",
 					type: "link",
 					href: "https://github.com/ojosproject/iris/tree/main/docs",
 				},
