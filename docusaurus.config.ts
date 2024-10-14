@@ -173,7 +173,7 @@ const config: Config = {
 						},
 						{
 							label: "Undergraduate Research Lab",
-							href: "https://markbaldw.in/url/",
+							href: "https://urlatuci.org/",
 						},
 					],
 				},
