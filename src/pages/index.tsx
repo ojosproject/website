@@ -63,9 +63,14 @@ export default function Root() {
 				</WorkShowcase>
 				<WorkShowcase
 					title="Ojos Project: A Research Endeavor"
+					button_label="Visit urlatuci.org"
+					button_link="https://urlatuci.org/"
 					image={SymposiumPhoto}
 					image_alt="Header of the Ojos Project">
-					<p>Ojos Project is ultimately a UCI research project.</p>
+					<p>
+						Thanks to the Undergraduate Research Lab, Ojos Project has been able
+						to continue its research since 2023.
+					</p>
 					<p>
 						As a research project, we{" "}
 						<strong>read various academic papers</strong> and{" "}
