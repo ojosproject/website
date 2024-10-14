@@ -11,18 +11,14 @@ export function getActiveMemberWithContributions(): Member[] {
 	// A current member with contributions is a Member that meets the following criteria:
 	//     - `Member.active` is `true`
 	//     - `Member.contributions` is not empty
-	return membersJSON.filter(
-		(member) => member.active && member.contributions.length,
-	);
+	return membersJSON.filter((member) => member.active && member.contributed);
 }
 
 export function getFormerMembers(): Member[] {
 	// A former member is a Member that meets the following criteria:
 	//     - `Member.active` is `false`
 	//     - `Member.contributions` is not empty
-	return membersJSON.filter(
-		(member) => !member.active && member.contributions.length,
-	);
+	return membersJSON.filter((member) => !member.active && member.contributed);
 }
 
 export const months = [

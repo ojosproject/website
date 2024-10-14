@@ -10,12 +10,7 @@
 		},
 		"joined": 1696536000,
 		"avatar": "https://gravatar.com/avatar/41bb2938e02bf5326eb6b82ec02d919ca97cf68b376c4c5769fbba4acc85a190?d=mp",
-		"contributions": [
-			"Lead the URL Group.",
-			"Developed and maintained software infrastructure.",
-			"Researched various academic papers for the Ojos Project.",
-			"Requirements analysis."
-		],
+		"contributed": true,
 		"active": true
 	},
 	{
@@ -29,7 +24,7 @@
 		},
 		"joined": 1696536000,
 		"avatar": "https://gravatar.com/avatar/84ea4715fcf218179a00bd36150884d878b5d4a19fb731b2d09ab0eee7aba509?d=mp",
-		"contributions": ["Advised our research effort."],
+		"contributed": true,
 		"active": true
 	},
 	{
@@ -43,11 +38,7 @@
 		},
 		"joined": 1697050800,
 		"avatar": "https://gravatar.com/avatar/fac497a877e467035b306a201b938608120228662480b08e0477c59b4cfe347a?d=mp",
-		"contributions": [
-			"Lead a team of engineers.",
-			"Researched various academic papers for the Ojos Project.",
-			"Requirements analysis."
-		],
+		"contributed": true,
 		"active": true
 	},
 	{
@@ -61,13 +52,7 @@
 		},
 		"joined": 1706644800,
 		"avatar": "https://gravatar.com/avatar/e4c598f9826093429edec4c38d6bfb93968a59b512259b07e7d1ffe4ff7bb115?d=mp",
-		"contributions": [
-			"Maintained software infrastructure.",
-			"Requirements analysis.",
-			"Designed C4 Model diagrams.",
-			"Designed UML class diagrams.",
-			"Designed flowchart diagrams."
-		],
+		"contributed": true,
 		"active": true
 	},
 	{
@@ -81,7 +66,7 @@
 		},
 		"joined": 1707163200,
 		"avatar": "https://gravatar.com/avatar/e4b66681a801324cb8b596783892b45e275d0c182789cb22a2af0c14ff73f0f8?d=mp",
-		"contributions": ["Researched various academic papers"],
+		"contributed": true,
 		"active": false
 	},
 	{
@@ -92,10 +77,7 @@
 		"website": { "label": "Email", "value": "mailto:mbrubalc@uci.edu" },
 		"joined": 1712170800,
 		"avatar": "https://gravatar.com/avatar/7bae5b8f9cc1947984ed6c9d448549b7e8447b46af410c58ed4837223c7a4ff5?d=mp",
-		"contributions": [
-			"Assisted with engineering brainstorming.",
-			"Researched engineering design."
-		],
+		"contributed": true,
 		"active": true
 	},
 	{
@@ -106,11 +88,7 @@
 		"website": { "label": "Email", "value": "mailto:doankv@uci.edu" },
 		"joined": 1712170800,
 		"avatar": "https://gravatar.com/avatar/e54d8eddd364952c265567243cca1c33f8654fd0e8e4ac7323887e1d2fc01989?d=mp",
-		"contributions": [
-			"Assisted with engineering brainstorming.",
-			"Researched engineering design.",
-			"Designed C4 Model diagrams."
-		],
+		"contributed": true,
 		"active": true
 	},
 	{
@@ -121,14 +99,7 @@
 		"website": { "label": "Email", "value": "mailto:jessecd@uci.edu" },
 		"joined": 1713380400,
 		"avatar": "https://gravatar.com/avatar/51db6b5c49b02428e4e69270515fa2cd00c966f249afceede0a8a295a7dc3e0d?d=mp",
-		"contributions": [
-			"Contributed code to our repositories.",
-			"Designed C4 Model diagrams.",
-			"Designed flowchart diagrams.",
-			"Designed lo-fi prototypes for Iris.",
-			"Designed our UROP Symposium 2024 poster.",
-			"Designed UML class diagrams."
-		],
+		"contributed": true,
 		"active": true
 	},
 	{
@@ -139,12 +110,7 @@
 		"website": { "label": "Email", "value": "mailto:jasonbm2@uci.edu" },
 		"joined": 1713466800,
 		"avatar": "https://gravatar.com/avatar/8289191418b7daecb56c302c1088bc3cf261a250834ffa47681f707ad31c9e1e?d=mp",
-		"contributions": [
-			"Designed UML class diagrams.",
-			"Designed C4 Model diagrams.",
-			"Contributed code to our repositories.",
-			"Designed flowchart diagrams."
-		],
+		"contributed": true,
 		"active": true
 	},
 	{
@@ -158,10 +124,7 @@
 		},
 		"joined": 1714590000,
 		"avatar": "https://gravatar.com/avatar/5002e9dc4b1b7b95625b027b7dea849cfd47a8e743907545e37ef250635460ea?d=mp",
-		"contributions": [
-			"Designed lo-fi prototypes for Iris.",
-			"Contributed code to our repositories."
-		],
+		"contributed": true,
 		"active": true
 	},
 	{
@@ -175,10 +138,7 @@
 		},
 		"joined": 1727812800,
 		"avatar": "https://gravatar.com/avatar/26fa2bb7c73c47d8901361cb33ddc515ca02c1b303f10e84786d4f2e8149987d?d=mp",
-		"contributions": [
-			"Contributed code to our repositories.",
-			"Designed lo-fi prototypes for Iris."
-		],
+		"contributed": true,
 		"active": true
 	}
 ]

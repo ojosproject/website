@@ -6,6 +6,6 @@ export type Member = {
 	website: { label: string; value: string };
 	joined: number;
 	avatar: string;
-	contributions: string[];
+	contributed: boolean;
 	active: boolean;
 };
