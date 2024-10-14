@@ -5,14 +5,12 @@ import Layout from "@theme/Layout";
 import LogoHeader from "/static/images/header.png";
 import IrisCodeScreenshot from "/static/images/iris_code_screenshot.png";
 import SymposiumPhoto from "/static/images/2024-symposium-group.png";
-import {
-	Member,
-	getActiveMemberWithContributions,
-	TeamMemberButton,
-} from "../components/members";
 import WorkShowcase from "../components/WorkShowcase";
+import { getActiveMemberWithContributions } from "../helpers";
 
 export default function Root() {
+	const members = getActiveMemberWithContributions();
+
 	return (
 		<Layout>
 			<header className="index-header">
@@ -33,7 +31,12 @@ export default function Root() {
 					button_secondary_label="GitHub Repo"
 					button_secondary_link="https://github.com/ojosproject/iris/"
 					image={IrisCodeScreenshot}
-					image_alt="Header of the Ojos Project">
+					image_alt="Header of the Ojos Project"
+					members={members.filter(
+						(m) =>
+							m.roles.includes("Developers Team") ||
+							m.roles.includes("Developers Lead"),
+					)}>
 					<p>
 						Iris is the Ojos Project's hospice management system. Iris' goal is
 						to improve the hospice experience by providing various features,
@@ -55,7 +58,12 @@ export default function Root() {
 					button_label="Read the Palliaview Docs"
 					button_link="https://docs.google.com/document/d/1l60y9Kog3sbdiTm0TlWQSpLGMTpvvO05bGnn72r-dA8/"
 					image={LogoHeader}
-					image_alt="Header of the Ojos Project">
+					image_alt="Header of the Ojos Project"
+					members={members.filter(
+						(m) =>
+							m.roles.includes("Engineering Team") ||
+							m.roles.includes("Engineering Lead"),
+					)}>
 					<p>
 						Palliaview is the Ojos Project's plug-and-play solution for Iris. It
 						uses material specific to healthcare environments.
@@ -66,7 +74,12 @@ export default function Root() {
 					button_label="Visit urlatuci.org"
 					button_link="https://urlatuci.org/"
 					image={SymposiumPhoto}
-					image_alt="Header of the Ojos Project">
+					image_alt="Header of the Ojos Project"
+					members={members.filter(
+						(m) =>
+							m.roles.includes("Research Team") ||
+							m.roles.includes("Research Lead"),
+					)}>
 					<p>
 						Thanks to the Undergraduate Research Lab, Ojos Project has been able
 						to continue its research since 2023.
@@ -89,19 +102,6 @@ export default function Root() {
 						Undergraduate Research Symposium.
 					</p>
 				</WorkShowcase>
-			</div>
-
-			<div className="our_team" id="team">
-				<h1>Our Team</h1>
-				<div className="team_members">
-					{getActiveMemberWithContributions().map((member: Member) => {
-						return <TeamMemberButton member={member} />;
-					})}
-				</div>
-
-				<p>
-					... and <a href="/docs/members/">more</a>.
-				</p>
 			</div>
 		</Layout>
 	);
