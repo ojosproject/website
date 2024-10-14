@@ -3,6 +3,7 @@
 import "./index.scss";
 import Layout from "@theme/Layout";
 import LogoHeader from "/static/images/header.png";
+import IrisCodeScreenshot from "/static/images/iris_code_screenshot.png";
 import {
 	Member,
 	getActiveMemberWithContributions,
@@ -30,7 +31,7 @@ export default function Root() {
 					button_link="/docs/iris/"
 					button_secondary_label="GitHub Repo"
 					button_secondary_link="https://github.com/ojosproject/iris/"
-					image={LogoHeader}
+					image={IrisCodeScreenshot}
 					image_alt="Header of the Ojos Project">
 					<p>
 						Iris is the Ojos Project's hospice management system. Iris' goal is
