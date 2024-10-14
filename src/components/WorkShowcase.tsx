@@ -34,7 +34,9 @@ export default function WorkShowcase(props: {
 					) : null}
 				</div>
 			</div>
-			<img src={props.image} alt={props.image_alt} />
+			<div className="work-showcase-right">
+				<img src={props.image} alt={props.image_alt} />
+			</div>
 		</div>
 	);
 }
