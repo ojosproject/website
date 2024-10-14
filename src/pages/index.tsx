@@ -4,6 +4,7 @@ import "./index.scss";
 import Layout from "@theme/Layout";
 import LogoHeader from "/static/images/header.png";
 import IrisCodeScreenshot from "/static/images/iris_code_screenshot.png";
+import SymposiumPhoto from "/static/images/2024-symposium-group.png";
 import {
 	Member,
 	getActiveMemberWithContributions,
@@ -61,13 +62,26 @@ export default function Root() {
 					</p>
 				</WorkShowcase>
 				<WorkShowcase
-					title="Research"
-					image={LogoHeader}
+					title="Ojos Project: A Research Endeavor"
+					image={SymposiumPhoto}
 					image_alt="Header of the Ojos Project">
+					<p>Ojos Project is ultimately a UCI research project.</p>
 					<p>
-						Ojos Project is ultimately a research project. We're actively
-						researching various technologies and interviewing healthcare
-						professionals to get input for Iris and Palliaview.
+						As a research project, we{" "}
+						<strong>read various academic papers</strong> and{" "}
+						<strong>
+							conduct interviews with caregivers and healthcare professionals
+						</strong>
+						. We will soon we conducting UI/UX research once we have a beta
+						version of Iris up and running.
+					</p>
+					<p>
+						We've also participated in UCI's Undergraduate Research
+						Opportunities Program (UROP), winning{" "}
+						<a href="/news/urop-and-finances/">one grant</a> and{" "}
+						<a href="/news/surp-fellowship-2024/">a fellowship</a>. We also did{" "}
+						<a href="/news/symposium-2024/">a poster presentation</a> at the UCI
+						Undergraduate Research Symposium.
 					</p>
 				</WorkShowcase>
 			</div>
