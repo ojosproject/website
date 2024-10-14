@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: hardwarePallivew
+displayed_sidebar: hardwarePalliaview
 description: >
   Palliaview is the lug and pay hardware option made to utlize
   the Iris. A hardware to allow easier communication and comfort of mind for your loved ones.

@@ -19,8 +19,13 @@ const sidebars: SidebarsConfig = {
 				{ type: "link", label: "Website Docs", href: "/docs/website/" },
 			],
 		},
-		
-		,
+		{
+			type: "category",
+			label: "Hardware",
+			collapsible: true,
+			collapsed: false,
+			items: ["palliaview/README"],
+		},
 	],
 
 	policies: [
@@ -45,37 +50,36 @@ const sidebars: SidebarsConfig = {
 			],
 		},
 	],
-	hardwarePalliview:[{
-		type: "category",
-		link: { type: "doc", id: "palliview/README" },
-		label: "Palliview Docs",
-		collapsible: false,
-		items: [
-			"palliview/requirements",
-			{
-				type: "category",
-				link: {
-					type: "generated-index",
-					title: "Hardware Design",
-					description:
-						"The is made by the engineer team using computer aided software programs such as Solidworks,OnShape, and AutoDesk Fusion ",
-					slug: "palliview/design/",
-					image: "@site/static/images/uci-pride-header.png",
+	hardwarePalliaview: [
+		{
+			type: "category",
+			link: { type: "doc", id: "palliaview/README" },
+			label: "Palliaview Docs",
+			collapsible: false,
+			items: [
+				"palliaview/requirements",
+				{
+					type: "category",
+					link: {
+						type: "generated-index",
+						title: "Hardware Design",
+						description:
+							"The is made by the engineer team using computer aided software programs such as Solidworks,OnShape, and AutoDesk Fusion ",
+						slug: "palliaview/design/",
+						image: "@site/static/images/uci-pride-header.png",
+					},
+					label: "Iteration 1",
+					collapsible: true,
+					items: [
+						"palliaview/documentation",
+						"palliaview/engineering-models",
+						"palliaview/licensing",
+						"palliaview/palliaview-digital-models",
+					],
 				},
-				label: "Itteration 1",
-				collapsible: true,
-				items: [
-					"iris/documentation",
-					"iris/engineering-models",
-					"iris/licensing",
-					"iris/palliview-digital-models",
-				],
-			},
-		]
-	},
-],
-
-	]
+			],
+		},
+	],
 	softwareIris: [
 		{
 			type: "category",
