@@ -185,8 +185,8 @@ export function TeamMemberButton(props: { member?: Member }) {
 			/>
 			<br />
 			<h3>{props.member.name}</h3>
-			<p>{props.member.association.toLowerCase()}</p>
-			<p>{props.member.roles[0].toLowerCase()}</p>
+			<p>{props.member.association}</p>
+			<p>{props.member.roles[0]}</p>
 		</a>
 	);
 }
