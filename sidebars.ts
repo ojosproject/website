@@ -68,7 +68,11 @@ const sidebars: SidebarsConfig = {
 			label: "Iris Docs",
 			collapsible: false,
 			items: [
-				"iris/requirements",
+				{
+					label: "Requirements",
+					type: "link",
+					href: "https://docs.google.com/document/d/1EJlghYqhiPrZsjPUHxxG_WeHkHulPB4a-HF8fL7QsCs/",
+				},
 				{
 					label: "WIP Docs",
 					type: "link",
