@@ -4,8 +4,7 @@
 	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
-
-	margin: 20px 0;
+	margin: 10px 0;
 
 	.work-showcase-left {
 		max-width: 500px;
@@ -13,8 +12,8 @@
 	}
 
 	img {
-		width: 100%;
-		max-width: 350px;
+		width: 90%;
+		max-width: 500px;
 		box-shadow: 0 5px 10px lightslategrey;
 		margin: 50px 0;
 	}
