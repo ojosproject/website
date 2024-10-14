@@ -53,7 +53,7 @@ export default function Root() {
 				<WorkShowcase
 					title="Palliaview"
 					button_label="Read the Palliaview Docs"
-					button_link="/docs/palliaview/"
+					button_link="https://docs.google.com/document/d/1l60y9Kog3sbdiTm0TlWQSpLGMTpvvO05bGnn72r-dA8/"
 					image={LogoHeader}
 					image_alt="Header of the Ojos Project">
 					<p>
