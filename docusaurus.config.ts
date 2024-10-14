@@ -116,16 +116,16 @@ const config: Config = {
 			},
 			items: [
 				{
-					label: "Project News",
+					label: "News",
 					to: "/news/",
+				},
+				{
+					label: "Our Team",
+					to: "/docs/members/",
 				},
 				{
 					label: "Meeting Reports",
 					to: "/docs/meeting-reports/",
-				},
-				{
-					label: "Meet the Team",
-					to: "/docs/members/",
 				},
 				{
 					label: "Documentation",
