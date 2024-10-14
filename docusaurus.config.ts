@@ -73,24 +73,8 @@ const config: Config = {
 					{ from: "/qr/", to: "/" }, // Old `/qr/`
 					{ from: "/iris/", to: "/docs/iris/" },
 					{
-						from: "/docs/url/requirements/",
-						to: "/docs/iris/requirements/",
-					},
-					{
-						from: "/docs/url/developers/design/",
-						to: "/docs/iris/design/",
-					},
-					{
-						from: "/docs/url/developers/c4-model/",
-						to: "/docs/iris/c4-model/",
-					},
-					{
-						from: "/docs/url/developers/database-schema/",
-						to: "/docs/iris/database-schema/",
-					},
-					{
-						from: "/docs/url/developers/flowcharts/",
-						to: "/docs/iris/flowcharts/",
+						from: "/docs/iris/requirements/",
+						to: "https://docs.google.com/document/d/1EJlghYqhiPrZsjPUHxxG_WeHkHulPB4a-HF8fL7QsCs/",
 					},
 					{
 						from: "/events/uci-symposium-2024/",
@@ -99,10 +83,6 @@ const config: Config = {
 					{
 						from: "/docs/url/meeting-reports/",
 						to: "/docs/meeting-reports/",
-					},
-					{
-						from: "/docs/url/glossary/",
-						to: "/docs/glossary/",
 					},
 					{
 						from: "/docs/url/members/",

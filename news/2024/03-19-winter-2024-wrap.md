@@ -34,7 +34,7 @@ are building the right thing with the information we've gotten from the
 interviews and our research.
 
 Since our requirements aren't yet ready, it isn't published. Once it is though,
-[you can find them here](/docs/iris/requirements/).
+[you can find them here](https://docs.google.com/document/d/1EJlghYqhiPrZsjPUHxxG_WeHkHulPB4a-HF8fL7QsCs/).
 
 ### Hardware
 
@@ -73,7 +73,7 @@ The plans for Spring quarter are a bit fuzzy, but this is what I am (currently)
 considering:
 
 - Teams
-  - Splitting the [URL team](/docs/url/) into more
+  - Splitting the URL team into more
     focused teams, such as developers and engineering
   - Getting someone to properly lead the Research Team
   - Getting someone to lead individuals at [Imperial Valley College](https://imperial.edu/)
