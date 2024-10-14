@@ -1,13 +1,35 @@
-.button-iris {
-	justify-self: flex-end;
-	background-color: #0063d7;
-	color: white;
+@mixin button-traits() {
+	font-weight: bold;
 	padding: 10px 25px;
 	border-radius: 10px;
+
+	margin: 5px;
+
+	&:hover {
+		text-decoration: none;
+	}
+}
+
+.button-iris-primary {
+	@include button-traits();
+	color: white;
+	background-color: #0063d7;
 
 	&:hover {
 		color: white;
 		background-color: #094595;
-		text-decoration: none;
+	}
+}
+
+.button-iris-secondary {
+	@include button-traits();
+	color: #0063d7;
+	background-color: white;
+	border: solid #0063d7 3px;
+
+	padding: 8px 25px;
+
+	&:hover {
+		color: #0063d7;
 	}
 }
