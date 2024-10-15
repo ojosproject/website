@@ -2,8 +2,8 @@
 // Ojos Project
 import "./index.scss";
 import Layout from "@theme/Layout";
-import LogoHeader from "/static/images/header.png";
 import IrisCodeScreenshot from "/static/images/iris_code_screenshot.png";
+import PalliaviewDesign from "/static/images/v0.2-digital-model.jpg";
 import SymposiumPhoto from "/static/images/2024-symposium-group.png";
 import WorkShowcase from "../components/WorkShowcase";
 import { getActiveMemberWithContributions } from "../helpers";
@@ -54,10 +54,12 @@ export default function Root() {
 					</p>
 				</WorkShowcase>
 				<WorkShowcase
-					title="Palliaview"
+					title="Palliaview: A Better Hospice Monitoring System"
 					button_label="Read the Palliaview Docs"
-					button_link="https://docs.google.com/document/d/1l60y9Kog3sbdiTm0TlWQSpLGMTpvvO05bGnn72r-dA8/"
-					image={LogoHeader}
+					button_link="https://drive.google.com/drive/folders/1owV0YqtF37tkHizjPn0HzeRXbxK7gnIP/"
+					button_secondary_label="View 3D Files"
+					button_secondary_link="https://drive.google.com/drive/folders/1hgPBY2IzzHujGLQLzD2xgjgWIx_gFRIS/"
+					image={PalliaviewDesign}
 					image_alt="Header of the Ojos Project"
 					members={members.filter(
 						(m) =>
@@ -65,8 +67,12 @@ export default function Root() {
 							m.roles.includes("Engineering Lead"),
 					)}>
 					<p>
-						Palliaview is the Ojos Project's plug-and-play solution for Iris. It
-						uses material specific to healthcare environments.
+						Palliaview <i>(pal-lee-a-view)</i> is a hospice and moreover
+						palliative monitoring system with the aim of providing ease of mind
+						to caregivers and independence to patients.
+					</p>
+					<p>
+						Thus far, our goals are affordability and accessibility technology.
 					</p>
 				</WorkShowcase>
 				<WorkShowcase
