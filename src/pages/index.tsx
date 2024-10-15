@@ -45,12 +45,16 @@ export default function Root() {
 					</p>
 					<p>
 						Iris is being built using modern technologies, such as React/NextJS
-						and Rust/Tauri.
+						and Rust/Tauri. In the Ojos Project's Developers Team, our team
+						learns how to use software in a way that is used in industry. Some
+						of the topics we've touched so far include: a collaborative
+						Git/GitHub workflow, creating Figma wireframes, software design,
+						terminal usage, and more.
 					</p>
 
 					<p>
-						Iris is free and open-source software, meaning that you can install
-						it on any Windows/Mac/Linux device.
+						Iris is 100% open-source software and is protected with the GNU
+						GPLv3 license.
 					</p>
 				</WorkShowcase>
 				<WorkShowcase
