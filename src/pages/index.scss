@@ -29,6 +29,11 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+
+	h1,
+	p {
+		max-width: 500px;
+	}
 }
 
 .our_work {
