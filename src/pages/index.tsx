@@ -18,7 +18,8 @@ export default function Root() {
 				<p>
 					Ojos Project is a UCI-backed research endeavor in which we aim to
 					understand the needs of hospice patients, caregivers, and healthcare
-					specialists.
+					specialists. Our end goal is to build quality and open products for
+					the hospice experience.
 				</p>
 			</header>
 
