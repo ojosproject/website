@@ -1,4 +1,4 @@
-// root.tsx
+// index.tsx
 // Ojos Project
 import "../css/index.scss";
 import Layout from "@theme/Layout";
@@ -37,7 +37,8 @@ export default function Root() {
 						(m) =>
 							m.roles.includes("Developers Team") ||
 							m.roles.includes("Developers Lead"),
-					)}>
+					)}
+					members_label="Developers Team">
 					<p>
 						Iris is the Ojos Project's hospice management system. Iris' goal is
 						to improve the hospice experience by providing various features,
@@ -70,7 +71,8 @@ export default function Root() {
 						(m) =>
 							m.roles.includes("Engineering Team") ||
 							m.roles.includes("Engineering Lead"),
-					)}>
+					)}
+					members_label="Engineering Team">
 					<p>
 						Palliaview <i>(pal-lee-a-view)</i> is a hospice and moreover
 						palliative monitoring system with the aim of providing ease of mind
@@ -90,7 +92,8 @@ export default function Root() {
 						(m) =>
 							m.roles.includes("Research Team") ||
 							m.roles.includes("Research Lead"),
-					)}>
+					)}
+					members_label="Research Team">
 					<p>
 						Thanks to the Undergraduate Research Lab, Ojos Project has been able
 						to continue its research since 2023.

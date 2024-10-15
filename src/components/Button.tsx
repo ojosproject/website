@@ -1,3 +1,8 @@
+// Button.tsx
+// Ojos Project
+//
+// This is a Button component that is styled with the Iris Branding Guidelines.
+
 import "./Button.scss";
 
 export default function Button(props: {

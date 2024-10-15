@@ -1,3 +1,8 @@
+// helpers.ts
+// Ojos Project
+//
+// A file with functions and constants that are helpful.
+
 import { Member } from "./types/types";
 import membersJSON from "@site/static/data/members.json";
 
