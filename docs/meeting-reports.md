@@ -414,9 +414,9 @@ later.
 
 ### Developers
 
-Developers took some time to ensure [all of our designs](/docs/iris/design/) are
+Developers took some time to ensure all of our designs are
 consistent with one another. We also created a new
-[Filesystem Diagram](/docs/iris/filesystem) to help us visualize how
+Filesystem Diagram to help us visualize how
 Iris will interact with the Linux filesystem.
 
 Developers also continued to work on the Requirements.
@@ -443,7 +443,7 @@ now that we have parts to use and measure from.
 ### Developers
 
 Developers decided to work on the
-[Iris database scheme](/docs/iris/database-schema/) since working on
+Iris database scheme since working on
 class diagrams became complicated without having a solid idea of what exactly
 the database will have. The database schema is mostly finalized.
 
@@ -454,8 +454,7 @@ Reported Outcomes (PROs) into the database and decided to use
 Ayush and Jason worked on creating a dummy database to see how effective our
 schema is.
 
-Carlos and Jesse worked on a
-[flowchart diagram for the Symposium](/docs/iris/flowcharts).
+Carlos and Jesse worked on a flowchart diagram for the Symposium.
 
 ### Engineering
 
@@ -543,7 +542,7 @@ needed to be produced:
 
 The Developers worked on the C4 Model more, creating a rough draft of the
 Container Diagram and the Component Diagram, both of which will be found in the
-[C4 Model page](/docs/iris/c4-model).
+C4 Model page.
 
 The Developers have also agreed to develop a mobile app for Iris written in
 [React Native](https://reactnative.dev/) to keep only one extra codebase. This

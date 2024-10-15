@@ -16,36 +16,33 @@ body {
 	}
 }
 
-.story {
+.index-header {
+	color: black;
+	background-image: linear-gradient(to bottom right, #b4d2f9, #3f8bf0);
+	min-height: 350px;
+
+	padding: 0 50px;
+
+	text-align: center;
+
 	display: flex;
-	flex-direction: row;
-	justify-content: space-around;
+	flex-direction: column;
+	justify-content: center;
 	align-items: center;
 
-	flex-wrap: wrap-reverse;
-
-	min-height: 75dvh;
-
-	.story_text {
-		flex: 2;
-
+	h1,
+	p {
 		max-width: 500px;
-		min-width: 350px;
-
-		margin: 0 20px;
-		text-align: left;
 	}
+}
 
-	.story_image {
-		margin: 20px;
+.our_work {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 
-		// max-height: 396px;
-		max-width: 600px;
-
-		@media screen and (max-width: 767px) {
-			max-width: 95%;
-		}
-	}
+	margin: 100px 0;
 }
 
 .our_team {

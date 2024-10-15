@@ -55,10 +55,10 @@ Kristopher! We wrote about it more in [this post](/news/surp-fellowship-2024/).
 
 The Developers team began working on software design, which includes...
 
-- [A C4 Model](/docs/iris/c4-model/)
-- [A database schema](/docs/iris/database-schema/)
-- [A filesystem overview](/docs/iris/filesystem/)
-- [Flowcharts](/docs/iris/flowcharts/)
+- A C4 Model
+- A database schema
+- A filesystem overview
+- Flowcharts
 
 These methods are often used in industry before coding begins, and we decided
 to follow this route to get a better idea of how we're going to build our

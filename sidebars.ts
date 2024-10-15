@@ -16,11 +16,6 @@ const sidebars: SidebarsConfig = {
 			collapsed: false,
 			items: [
 				"iris/README",
-				{
-					type: "link",
-					label: "Ojos CLI",
-					href: "https://github.com/ojosproject/cli/tree/release/docs",
-				},
 				{ type: "link", label: "Website Docs", href: "/docs/website/" },
 			],
 		},
@@ -56,7 +51,6 @@ const sidebars: SidebarsConfig = {
 				"policies/git",
 				"policies/logo",
 				"policies/inf199-acknowledgement",
-				"policies/paperwork",
 				"policies/url-attendance",
 			],
 		},
@@ -69,25 +63,15 @@ const sidebars: SidebarsConfig = {
 			label: "Iris Docs",
 			collapsible: false,
 			items: [
-				"iris/requirements",
 				{
-					type: "category",
-					link: {
-						type: "generated-index",
-						title: "Software Design",
-						description:
-							"These are designs made by the Developers team. They're often made with Figma.",
-						slug: "iris/design/",
-						image: "@site/static/images/uci-pride-header.png",
-					},
-					label: "Design",
-					collapsible: true,
-					items: [
-						"iris/c4-model",
-						"iris/database-schema",
-						"iris/filesystem",
-						"iris/flowcharts",
-					],
+					label: "Requirements",
+					type: "link",
+					href: "https://docs.google.com/document/d/1EJlghYqhiPrZsjPUHxxG_WeHkHulPB4a-HF8fL7QsCs/",
+				},
+				{
+					label: "Repository Docs",
+					type: "link",
+					href: "https://github.com/ojosproject/iris/tree/main/docs",
 				},
 			],
 		},
@@ -106,14 +90,7 @@ const sidebars: SidebarsConfig = {
 			},
 			label: "Website Docs",
 			collapsible: false,
-			items: [
-				"website/gravatar",
-				"website/kimai",
-				"website/members-json",
-				"website/updating-docs",
-				"website/updating-meeting-reports",
-				"website/updating-news",
-			],
+			items: ["website/gravatar", "website/members-json"],
 		},
 	],
 };
