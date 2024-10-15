@@ -9,6 +9,8 @@ last_update:
 
 # members.json
 
+<!-- markdownlint-disable MD010 -->
+
 ![Ojos Project header](@site/static/images/header.png)
 
 The `members.json` file is a file located in `/static/data/` that keeps all
