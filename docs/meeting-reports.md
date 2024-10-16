@@ -38,6 +38,27 @@ Enter what this team did during the meeting!
 
 -->
 
+## October 15, 2024
+
+| General Information |                                                                                 |
+| ------------------- | ------------------------------------------------------------------------------- |
+| Teams Present       | Developers                                                                      |
+| Members Present     | Carlos Valdez, Jesse David, Helen Chau, Ayush Jain, Jason Martin, Joseph Sweatt |
+| Meeting Time        | 11:00 AM - 2:00 PM                                                              |
+| Report Author(s)    | Carlos Valdez                                                                   |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                   |
+
+### Ojos Project
+
+Joseph started the process for us to begin applying for the UROP Research
+Experience Fellowship.
+
+### Developers
+
+Ayush and Helen kept working on the Video Recording/Storage feature. Jesse
+worked on designs for Patient Reported Outcomes. Jason worked on the backend for
+Patient Reported Outcomes. Carlos published the new version of the website.
+
 ## October 10, 2024
 
 | General Information |                                                                  |
