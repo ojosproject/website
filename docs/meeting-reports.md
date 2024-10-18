@@ -22,11 +22,10 @@ the top.
 
 Here's a template:
 
-## Date
+## Date - Meeting Type (General, Developer, Engineering, etc.)
 
 | General Information |     |
 | ------------------- | --- |
-| Teams Present       |     |
 | Members Present     |     |
 | Meeting Time        |     |
 | Report Author(s)    |     |
