@@ -37,6 +37,22 @@ Enter what this team did during the meeting!
 
 -->
 
+## October 17, 2024 - Developer Meeting
+
+| General Information |                                                     |
+| ------------------- | --------------------------------------------------- |
+| Members Present     | Carlos Valdez, Jason Martin, Jesse David, Mai Luong |
+| Meeting Time        | 11:00 AM - 2:00 PM                                  |
+| Report Author(s)    | Carlos Valdez                                       |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall       |
+
+### Developers
+
+Developers worked on a practice proposal for the Undergraduate Research Lab.
+After they submitted that, they wrote their personal statements for the UROP
+Research Experience Fellowship, resulting in Jason, Jesse, and Mai finishing
+their first draft.
+
 ## October 15, 2024
 
 | General Information |                                                                                 |
