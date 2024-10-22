@@ -37,6 +37,24 @@ Enter what this team did during the meeting!
 
 -->
 
+## October 22, 2024 - General Meeting
+
+| General Information |                                                                                                |
+| ------------------- | ---------------------------------------------------------------------------------------------- |
+| Members Present     | Joseph Sweatt, Carlos Valdez, Ayush Jain, Meadow Rubalcava, Helen Chau, Jesse David, Kris Doan |
+| Meeting Time        | 11:00 AM - 2:00 PM                                                                             |
+| Report Author(s)    | Carlos Valdez                                                                                  |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                                  |
+
+### Ojos Project
+
+Joseph, Carlos, Ayush, and Kris prepared some things for the URL Event tomorrow.
+Meadow was doing CAD assembly for the V0.2 arm system. Jesse worked on designs
+for the PRs.
+
+Mai finished up the Medication Logging PR, requiring review. Helen figured out
+the camera PR, allowing us to keep moving forward with the recordings feature.
+
 ## October 17, 2024 - Developer Meeting
 
 | General Information |                                                     |
