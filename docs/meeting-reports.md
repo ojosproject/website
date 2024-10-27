@@ -37,6 +37,22 @@ Enter what this team did during the meeting!
 
 -->
 
+## October 24, 2024 - Developer Meeting
+
+| General Information |                                                                 |
+| ------------------- | --------------------------------------------------------------- |
+| Members Present     | Carlos Valdez, Jason Martin, Jesse David, Helen Chau, Mai Luong |
+| Meeting Time        | 11:00 AM - 2:00 PM                                              |
+| Report Author(s)    | Carlos Valdez                                                   |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                   |
+
+### Summary
+
+Carlos started polishing up the Medication Logging PR and is also taking over
+the camera PR. Jason is starting to work on the SMS messaging PR. Jesse worked
+on designs for the PRO features, Helen will be implementing them. Mai worked on
+organizing potential interviewees.
+
 ## October 22, 2024 - General Meeting
 
 | General Information |                                                                                                |
