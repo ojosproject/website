@@ -641,6 +641,28 @@ our Kiosk Device:
 Additionally, we have finalized our first shopping list for the prototype we
 will be presenting during our [2024 Symposium](/news/symposium-2024/)
 
+## 12/28/2024 - Engineering
+
+| General Information | Making itemized budget and discussion for PCB Design, finished personal statements |
+| ------------------- | ---------------------------------------------------------------------------------- |
+| Members Present     | Carlos Valdez, Joseph Sweatt, Ayush Jain, Meadow Rubalcava, Kristopher Doan        |
+| Meeting Time        | 5 PM - 7 PM                                                                        |
+| Report Author(s)    | Kristopher Doan                                                                    |
+| Location            | Camino Del Sol                                                                     |
+
+## 10/29/2024 - General
+
+| General Information | Learning the routine for git push and coding commits                                                 |
+| ------------------- | ---------------------------------------------------------------------------------------------------- |
+| Members Present     | Carlos Valdez, Joseph Sweatt, Ayush Jain, Meadow Rubalcava, Kristopher Doan, Mai Luong, Jason Martin |
+| Meeting Time        | 10 AM - 2 PM                                                                                         |
+| Report Author(s)    | Kristopher Doan                                                                                      |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                                        |
+
+### Team
+
+Enter what this team did during the meeting!
+
 ## Previous Reports
 
 Before this page, we didn't exactly have "meeting reports". Rather, we just took
