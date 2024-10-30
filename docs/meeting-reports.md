@@ -37,21 +37,23 @@ Enter what this team did during the meeting!
 
 -->
 
-## 10/29/2024 - General Meeting
+## October 29, 2024 - General Meeting
 
-| General Information |                                                                                                      |
-| ------------------- | ---------------------------------------------------------------------------------------------------- |
-| Members Present     | Carlos Valdez, Joseph Sweatt, Ayush Jain, Meadow Rubalcava, Kristopher Doan, Mai Luong, Jason Martin |
-| Meeting Time        | 10 AM - 2 PM                                                                                         |
-| Report Author(s)    | Kristopher Doan                                                                                      |
-| Location            | Undergraduate Research Lab @ Donald Bren Hall                                                        |
+| General Information |                                                                                                                                   |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Members Present     | Carlos Valdez, Joseph Sweatt, Ayush Jain, Meadow Rubalcava, Kristopher Doan, Mai Luong, Jason Martin (async), Jesse David (async) |
+| Meeting Time        | 10 AM - 2 PM                                                                                                                      |
+| Report Author(s)    | Kristopher Doan, Carlos Valdez                                                                                                    |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                                                                     |
 
-### Engineering
+### Summary
 
-We learned how to commit and push code to alter our website through VS Code,
-implemented the GIT into our terminals.
+Carlos helped the Engineering team learn how to write meeting reports on the
+Docusaurus site. Jesse worked on design for Patient Reported Outcomes, Jason
+worked on the relaying service, Carlos worked on polishing the Medication
+Logging PR, Mai worked on her personal statement.
 
-## 12/28/2024 - Engineering Meeting
+## October 28, 2024 - Engineering Meeting
 
 | General Information |                                                                             |
 | ------------------- | --------------------------------------------------------------------------- |
@@ -60,7 +62,7 @@ implemented the GIT into our terminals.
 | Report Author(s)    | Kristopher Doan                                                             |
 | Location            | Camino Del Sol                                                              |
 
-### Engineering
+### Summary
 
 Making itemized budget and discussion for PCB Design,
 finished personal statements
