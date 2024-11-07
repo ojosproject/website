@@ -31,11 +31,26 @@ Here's a template:
 | Report Author(s)    |     |
 | Location            |     |
 
-### Team
+### Description
 
 Enter what this team did during the meeting!
 
 -->
+
+## November 5, 2024 - General Meeting
+
+| General Information |                                                                                   |
+| ------------------- | --------------------------------------------------------------------------------- |
+| Members Present     | Carlos Valdez, Meadow Rubalcava, Jesse David, Jason Martin, Helen Chau, Mai Luong |
+| Meeting Time        | 11 AM - 2 PM                                                                      |
+| Report Author(s)    | Carlos Valdez                                                                     |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                     |
+
+### Description
+
+Carlos and Jason took time to plan the notification relay for Iris. Jesse worked
+on designs for the PROs. Helen continued to implement PROs. Mai continued with
+research-related tasks.
 
 ## October 29, 2024 - General Meeting
 
