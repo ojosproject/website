@@ -51,11 +51,11 @@ Enter what this team did during the meeting!
 Carlos and Ayush attempted to get a Raspberry Pi working to test Iris on it, but
 stopped because they were missing an SD card.
 
-Carlos continued to work on the care instructions page for Iris. Joseph worked
-on finishing slicing the 3D models. Jesse designed checkboxes and input boxes
-for Iris, as well as a Settings page. Helen continued to work on the patient
-reported outcomes page. Ayush continued to research different AI models to use
-for Iris.
+Carlos continued to work on the care instructions page for Iris. Joseph and
+Meadow worked on finishing slicing the 3D models. Jesse designed checkboxes and
+input boxes for Iris, as well as a Settings page. Helen continued to work on the
+patient reported outcomes page. Ayush continued to research different AI models
+to use for Iris.
 
 ## November 7, 2024 - Developer Meeting
 
