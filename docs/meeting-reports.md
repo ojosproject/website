@@ -37,6 +37,45 @@ Enter what this team did during the meeting!
 
 -->
 
+## November 12, 2024 - General Meeting
+
+| General Information |                                                                                                         |
+| ------------------- | ------------------------------------------------------------------------------------------------------- |
+| Members Present     | Carlos Valdez, Joseph Sweatt (Discord), Jesse David, Meadow Rubalcava (Discord), Helen Chau, Ayush Jain |
+| Meeting Time        | 11:00 AM - 2:00 PM                                                                                      |
+| Report Author(s)    | Carlos Valdez                                                                                           |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall, Undergraduate Research Lab Discord server                |
+
+### Description
+
+Carlos and Ayush attempted to get a Raspberry Pi working to test Iris on it, but
+stopped because they were missing an SD card.
+
+Carlos continued to work on the care instructions page for Iris. Joseph worked
+on finishing slicing the 3D models. Jesse designed checkboxes and input boxes
+for Iris, as well as a Settings page. Helen continued to work on the patient
+reported outcomes page. Ayush continued to research different AI models to use
+for Iris.
+
+## November 7, 2024 - Developer Meeting
+
+| General Information |                                                                |
+| ------------------- | -------------------------------------------------------------- |
+| Members Present     | Carlos Valdez, Jason Martin, Helen Chau, Mai Luong, Ayush Jain |
+| Meeting Time        | 11:00 AM - 2:00 PM                                             |
+| Report Author(s)    | Carlos Valdez                                                  |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                  |
+
+### Description
+
+Carlos and Ayush taught Jason how the web works. Carlos and Jason are figuring
+out how to set up a server for the Iris so that they don't keep Twilio API keys
+in Iris.
+
+Helen continued to work on the frontend for patient reported outcomes.
+
+Ayush began researching for our AI-related feature.
+
 ## November 5, 2024 - General Meeting
 
 | General Information |                                                                                   |
