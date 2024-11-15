@@ -105,7 +105,8 @@ mentioned above.
 :::
 
 If you're a former member and would like your data deleted, please email the
-Developers Team at <developers@ojosproject.org> or
+Developers Team at
+[developers@ojosproject.org](mailto:developers@ojosproject.org) or
 [raise a GitHub issue](https://github.com/ojosproject/website/issues/new/choose/).
 You may request some or all of your data to be deleted.
 

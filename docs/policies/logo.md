@@ -66,4 +66,5 @@ Link: `https://ojosproject.org/images/uci-pride-header.png`
 
 ## Contact
 
-If you need any information, please contact us at <contact@ojosproject.org>.
+If you need any information, please contact us at
+[contact@ojosproject.org](mailto:contact@ojosproject.org).

@@ -30,9 +30,11 @@ There's a lot of different things you can explore. For example...
 ## Need help?
 
 These docs should be simple to understand and constantly updated. If that is not
-the case, please contact either <engineering@ojosproject.org> for the
-Engineering Docs or <contact@ojosproject.org> for everything else
-in the docs.
+the case, please contact either
+[engineering@ojosproject.org](mailto:engineering@ojosproject.org) for the
+Engineering Docs or
+[contact@ojosproject.org](mailto:contact@ojosproject.org) for everything
+else in the docs.
 
 Otherwise, you may raise an issue in our
 [GitHub repository](https://github.com/ojosproject/website/issues/new?assignees=calejvaldez&labels=documentation&template=docs.yml&title=⚠%EF%B8%8F+Insert+a+short+title+for+your+issue.).
