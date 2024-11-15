@@ -30,8 +30,8 @@ There's a lot of different things you can explore. For example...
 ## Need help?
 
 These docs should be simple to understand and constantly updated. If that is not
-the case, please contact either [Joseph Sweatt](mailto:jsweatt@uci.edu) for the
-Engineering Docs or [Carlos Valdez](mailto:cvaldezh@uci.edu) for everything else
+the case, please contact either <engineering@ojosproject.org> for the
+Engineering Docs or <contact@ojosproject.org> for everything else
 in the docs.
 
 Otherwise, you may raise an issue in our

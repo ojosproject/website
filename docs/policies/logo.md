@@ -66,5 +66,4 @@ Link: `https://ojosproject.org/images/uci-pride-header.png`
 
 ## Contact
 
-If you need any information, please contact Carlos at
-[cvaldezh@uci.edu](mailto:cvaldezh@uci.edu).
+If you need any information, please contact us at <contact@ojosproject.org>.
