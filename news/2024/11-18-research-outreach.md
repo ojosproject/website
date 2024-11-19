@@ -1,12 +1,13 @@
 ---
-authors: [pluong3@uci.edu],
+authors: [pluong3@uci.edu]
 slug: /2024-research-outreach/
 hide_table_of_contents: true
 description: >
   Our research team have been working on outreach engagement along with seeking
   out those experience in healthcare. Through personalized to campus-
-  wide outreach, the team is seeking to gather informed opinion about Iris. 
+  wide outreach, the team is seeking to gather informed opinion about Iris.
 ---
+
 # Outreach with Iris: From Us to You
 
 ![Ojos Project header](@site/static/images/header.png)
@@ -36,5 +37,6 @@ participants can share their stories, challenges, and ideas freely.
 ## Get Involved
 
 Want to join the conversation or learn more about Iris? We'd love to connect!
-Contact the research team at <research@ojosproject.org>. Together, we can create a
-future where Iris helps transform healthcare for the better.
+Contact the research team at
+[research@ojosproject.org](mailto:research@ojosproject.org). Together, we can
+create a future where Iris helps transform healthcare for the better.
