@@ -3,7 +3,7 @@
 //
 // Gets and organizes the information about members of the Ojos Project to
 // display it in https://docs.ojosproject.org/url/members/.
-import "./members.scss";
+import "./members.css";
 import { Member } from "../types/types";
 import { getActiveMembers, getFormerMembers } from "../helpers";
 import { months } from "../helpers";

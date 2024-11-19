@@ -1,0 +1,33 @@
+.button-iris-primary {
+	font-weight: bold;
+	padding: 10px 25px;
+	border-radius: 10px;
+
+	margin: 5px;
+
+	color: white;
+	background-color: #0063d7;
+}
+
+.button-iris-primary:hover {
+	text-decoration: none;
+	color: white;
+	background-color: #094595;
+}
+
+.button-iris-secondary {
+	font-weight: bold;
+	padding: 10px 25px;
+	border-radius: 10px;
+	margin: 5px;
+	color: #0063d7;
+	background-color: white;
+	border: solid #0063d7 3px;
+
+	padding: 8px 25px;
+}
+
+.button-iris-secondary:hover {
+	text-decoration: none;
+	color: #0063d7;
+}

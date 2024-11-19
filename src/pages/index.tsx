@@ -1,6 +1,6 @@
 // index.tsx
 // Ojos Project
-import "../css/index.scss";
+import "../css/index.css";
 import Layout from "@theme/Layout";
 import IrisCodeScreenshot from "/static/images/iris_code_screenshot.png";
 import PalliaviewDesign from "/static/images/v0.2-digital-model.jpg";

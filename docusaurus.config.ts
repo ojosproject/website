@@ -57,14 +57,13 @@ const config: Config = {
 					onUntruncatedBlogPosts: "throw",
 				},
 				theme: {
-					customCss: "./src/css/custom.scss",
+					customCss: "./src/css/custom.css",
 				},
 			} satisfies Preset.Options,
 		],
 	],
 
 	plugins: [
-		"docusaurus-plugin-sass",
 		[
 			"@docusaurus/plugin-client-redirects",
 			{

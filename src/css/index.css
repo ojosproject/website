@@ -1,19 +1,18 @@
-// index.scss
-// Ojos Project
-
+/*
+index.css
+Ojos Project
+*/
 body {
 	font-family: Arial, Helvetica, sans-serif;
+}
 
-	p,
-	li {
-		line-height: 25px;
-	}
+body p,
+body li {
+	line-height: 25px;
+}
 
-	p {
-		a {
-			text-decoration: underline;
-		}
-	}
+body p a {
+	text-decoration: none;
 }
 
 .index-header {
@@ -29,11 +28,11 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+}
 
-	h1,
-	p {
-		max-width: 500px;
-	}
+.index-header h1,
+.index-header p {
+	max-width: 500px;
 }
 
 .our_work {
@@ -52,13 +51,13 @@ body {
 	align-items: center;
 
 	margin: 100px 0;
+}
 
-	.team_members {
-		display: flex;
-		flex-direction: row;
-		justify-content: center;
-		align-items: center;
+.team_members {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
 
-		flex-wrap: wrap;
-	}
+	flex-wrap: wrap;
 }

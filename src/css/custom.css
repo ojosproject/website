@@ -1,5 +1,5 @@
 /*
-custom.scss
+custom.css
 Ojos Project
 */
 :root {
@@ -22,36 +22,24 @@ Ojos Project
 	--ifm-color-primary-lightest: #ffffff;
 }
 
-article {
-	// Ensures that the links in the news posts are underlined. Without this,
-	// it would look like regular text, which isn't great.
-	p,
-	li,
-	tr {
-		a {
-			text-decoration: underline;
-		}
-	}
+:root article p a,
+:root article p li,
+:root article p tr {
+	text-decoration: underline;
 }
 
-.NotFoundContent {
-	a {
-		text-decoration: underline;
-	}
+.NotFoundContent a {
+	text-decoration: none;
 }
 
 .ojos_logo_in_navbar {
-	// For people who want to use dark mode, it makes the logo look circular in
-	// the nav bar. Light mode people won't really notice this.
+	/* For people who want to use dark mode, it makes the logo look circular in
+	the nav bar. Light mode people won't really notice this. */
 	border-radius: 50px;
 }
 
-.footer__grandma--grey {
-	// Makes the grandma message at the bottom of the footer grey and smaller so
-	// that it doesn't take up a lot of attention from the menu items.
-	p,
-	a {
-		color: grey;
-		font-size: 12px;
-	}
+.footer__grandma--grey p,
+.footer__grandma--grey a {
+	color: grey;
+	font-size: 12px;
 }

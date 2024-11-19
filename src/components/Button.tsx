@@ -3,7 +3,7 @@
 //
 // This is a Button component that is styled with the Iris Branding Guidelines.
 
-import "./Button.scss";
+import "./Button.css";
 
 export default function Button(props: {
 	type: "PRIMARY" | "SECONDARY";

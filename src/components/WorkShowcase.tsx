@@ -5,7 +5,7 @@
 // displays the kind of work we do. One WorkShowcase per part of the project.
 // That is, Iris, Palliaview, and Research.
 
-import "./WorkShowcase.scss";
+import "./WorkShowcase.css";
 import Button from "./Button";
 import { ReactNode } from "react";
 import { Member } from "../types/types";
