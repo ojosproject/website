@@ -37,6 +37,27 @@ Enter what this team did during the meeting!
 
 -->
 
+## November 19, 2024 -General Meeting
+
+| General Information |                                                                                                                               |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Members Present     | Carlos Valdez, Joseph Sweatt, Ayush Jain, Meadow Rubalcava, Kristopher Doan, Mai Luong, Jason Martin, Jesse David, Helen Chau |
+| Meeting Time        | 10 am to 2 pm                                                                                                                 |
+| Report Author(s)    | Kristopher Doan                                                                                                               |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                                                                 |
+
+### Ojos project Team
+
+Discussed and finalized our Kai competition schedule to meet deadline and compiled Iris Software on Palliaview
+
+### Engineering Team
+
+Finalized V0.2 of Palliaview, started Design Engineering report, and began research for V0.3 of Palliaview
+
+### Developing Team
+
+Ayush and Jesse kept looking into the AI feature, Helen kept working on the PROS branch, Carlos and Jason worked on the Flask server
+
 ## November 12, 2024 - General Meeting
 
 | General Information |                                                                                                         |
