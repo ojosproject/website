@@ -37,6 +37,23 @@ Enter what this team did during the meeting!
 
 -->
 
+## November 21, 2024 - Developer Meeting
+
+| General Information |                                                                                                                |
+| ------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Members Present     | Carlos Valdez, Joseph Sweatt, Jason Martin, Helen Chau, Kris Doan, Ayush Jain (Discord), Jesse David (Discord) |
+| Meeting Time        | 11:00 AM - 2:00 PM                                                                                             |
+| Report Author(s)    | Carlos Valdez                                                                                                  |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                                                  |
+
+### Description
+
+Jason and Carlos worked on building the Iris API and explored authentication
+methods. Ayush and Jesse looked more into AI models to research which best would
+work with Palliaview. Helen continued working on the `pro` branch. Kris and
+Carlos looked into the Fitbit API. Carlos started a `settings` branch to
+directly interact with the `Config` struct.
+
 ## November 19, 2024 -General Meeting
 
 | General Information |                                                                                                                               |
