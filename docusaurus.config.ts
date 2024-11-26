@@ -122,6 +122,10 @@ const config: Config = {
 			},
 			items: [
 				{
+					label: "About",
+					to: "/about/",
+				},
+				{
 					label: "News",
 					to: "/news/",
 				},
