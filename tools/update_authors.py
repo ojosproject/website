@@ -10,8 +10,8 @@
 # 
 # This script also adds people's websites using the `socials` key rather than
 # the old `url` key.
-import requests
 import sys
+import json
 
 def type_of_website(value: str):
     if "linkedin" in value:
@@ -30,10 +30,12 @@ if __name__ == "__main__":
     else:
         requested_member = input("Who should I get? Input their email: ")
     
-    response = requests.get("https://ojosproject.org/data/url/members.json")
+    content = ""
+    with open("./static/data/members.json", "r") as member_data:
+        content = member_data.read()
 
-    if response.status_code == 200:
-        data: list[dict] = response.json()
+
+        data: list[dict] = json.loads(content)
         yaml = ""
 
         filtered = list(filter(lambda member: member['email'] == requested_member, data))
@@ -54,9 +56,3 @@ if __name__ == "__main__":
 
         with open("./news/authors.yml", "a") as f:
             f.write(yaml)
-
-
-    else:
-        print("AN ERROR OCCURRED.")
-        print(f"Code: {response.status_code}")
-        print(f"Content:\n{response.text}")
