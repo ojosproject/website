@@ -37,6 +37,20 @@ Enter what this team did during the meeting!
 
 -->
 
+## December 3rd, 2024 - General Meeting
+
+| General Information |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| Members Present     | Carlos Valdez, Jason Martin, Ayush Jain, Jesse David |
+| Meeting Time        | 11:00 AM - 2:00 PM                                   |
+| Report Author(s)    | Jason Martin                                         |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall        |
+
+### Description
+
+Carlos helped familiarize Jason with the Iris website, as well as working on the
+settings page. Ayush and Jesse continued researching AI implementation for Iris.
+
 ## November 21, 2024 - Developer Meeting
 
 | General Information |                                                                                                                |
