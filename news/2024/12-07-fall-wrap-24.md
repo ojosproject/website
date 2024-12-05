@@ -1,5 +1,5 @@
 ---
-authors: [cvaldezh@uci.edu, jasonbm2@uci.edu, mbrubalc@uci.edu]
+authors: [cvaldezh@uci.edu, jasonbm2@uci.edu, mbrubalc@uci.edu, pluong3@uci.edu]
 slug: /fall-2024-wrap/
 hide_table_of_contents: true
 description: >
@@ -41,9 +41,23 @@ The arm mount was also redesigned this past Fall quarter to create a more stable
 
 ## Research Updates
 
-Mai Luong conducted interviews to obtain information and insight on the current care caregivers give and patients receive. Mai also created a poster to create more outreach opportunities for the research team.
+Mai Luong conducted interviews to obtain information and insight on the current
+care caregivers give and patients receive. Mai also created a poster to create
+more outreach opportunities for the research team.
 
 ![Research Poster](../../static/images/Hospice_experience_seeking.webp)
+
+During the fall quarter, the research team made significant progress in several
+key areas. Outreach efforts included engaging potential participants through
+social media, emails, and expanding outreach across campus. These efforts
+resulted in expressed interest from three potential participants, leading
+to the successful completion of one interview with a healthcare professional
+and one scheduled interview before the end of the year. The interview conducted
+provide valuable discussion to our project.
+
+Looking ahead to the winter quarter, the team plans to build on this momentum by
+increasing the frequency of campus outreach, continuing our efforts on social
+media to engage a broader audience, and conducting additional interviews.
 
 ## General Updates
 
