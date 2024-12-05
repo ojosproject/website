@@ -18,8 +18,8 @@ in the Ojos Project!
 
 ### Software Coming Together
 
-Developers have been hard at work making Iris come together. Although we’re not
-yet ready to confirm it as a beta just yet, we have screenshots!
+Developers have been hard at work making Iris come together, and although we’re
+not yet ready to confirm it as a beta just yet, we have screenshots!
 
 <!-- ![medication log](@site/static/images/medication_log.png)
 ![care instructions](image.jpg)
