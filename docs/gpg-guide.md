@@ -1,5 +1,26 @@
 # GnuPG Guide
 
+## Installing
+
+macOS and Linux users can use their package managers to install GPG. This is
+how to do it with [brew](https://brew.sh):
+
+```shell
+brew install gpg
+```
+
+Windows users can install it with [Gpg4win](https://gpg4win.org/).
+
+:::tip
+
+Windows users, please run:
+
+```shell
+git config --global gpg.program "C:\Program Files (x86)\GnuPG\bin\gpg.exe"
+```
+
+:::
+
 ## Encryption
 
 ### Decrypting a file
