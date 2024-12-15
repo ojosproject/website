@@ -12,21 +12,29 @@ description: >
 ![Ojos Project header](@site/static/images/header.png)
 
 The Engineering team has developed the Palliaview system into the next stage.
-We have 3D-printed the shell and mount for the system, making it customizable and enabling it to adapt to any surface.
-The Palliaview v0.1 shell was not able to fully seat the monitor, but the new shell fully encompasses the body of the monitor, making the system more structurally sound.
-We reduced the material used by 44% going from 323g of PLA filament used in the display shell to 183g for this iteration.
-Reduce manufacturing time from approximately 8 hours to 5.5 hours of 3d printing time for display.
+We have 3D printed the  new shell and mount for the system, making it customizable
+and adaptable for any surface and purpose.
+
+The Palliaview v0.1 shell was unable to securely and evenly hold the display
+ monitor. With the new shell design, it fully encompasses the body of the
+monitor, making the system more structurally sound.
+
+We reduced the material used by 44% going from 323g of PLA filament used in the
+display shell to 183g for this iteration.
+
+Thus, Reduce manufacturing time from approximately 8 hours to 5.5 hours of 3d printing
+ time for display.
 
 <!-- truncate -->
 
 ## Development of Palliaview V0.3
 
-We are excited to announce the new development stage of V0.3. In this new iteration,
-we are bringing a new design to the internal system with the implementation
-of embedded systems replacing the Raspberry Pi.
+We are excited to announce the new development stage of V0.3. In this new
+iteration, we are bringing a new design to the internal system with the
+implementation of embedded systems replacing the Raspberry Pi.
 We can reduce the cost of production and increase power efficiency by doing this.
-On the outer aspect of the Palliaview, we are continuing to develop the shell to be slimmer and material efficient,
-and making the mount more user-friendly.
+On the outer aspect of the Palliaview, we are continuing to develop the shell
+ to be slimmer and material efficient,and making the mount more user-friendly.
 
 ## Get Involved
 
