@@ -3,6 +3,7 @@ authors: [cvaldezh@uci.edu, jasonbm2@uci.edu, mbrubalc@uci.edu, pluong3@uci.edu]
 slug: /fall-2024-wrap/
 hide_table_of_contents: true
 description: >
+  Read up on the Ojos Project's accomplishments during Fall 2024!
 ---
 
 # Fall 2024 Wrap Up
@@ -18,14 +19,22 @@ in the Ojos Project!
 
 ### Software Coming Together
 
-Developers have been hard at work making Iris come together, and although we’re
-not yet ready to confirm it as a beta just yet, we have screenshots!
+Developers have been hard at work making Iris come together. Although we're not
+quite yet to confirm it as a beta just yet, we have screenshots!
 
-Developers researched the integration for connecting wearables and external devices to Iris. They also researched Twilio to build phone number relaying.
+![Iris Hub](@site/static/images/iris_hub.png)
 
-<!-- ![medication log](@site/static/images/medication_log.png)
-![care instructions](image.jpg)
-![resources](image.jpg) -->
+![Iris Care Instructions](@site/static/images/iris_care_instructions.png)
+
+![Iris Resources](@site/static/images/iris_resources.png)
+
+![Iris Medications](@site/static/images/iris_medications.png)
+
+Iris now has medication logging, leaving instructions for caregivers, and
+resources. As time goes on, Iris will mature and become more reliable as time
+goes by.
+
+We aim to have an official beta by March 2025.
 
 ## Engineering Updates
 
@@ -33,11 +42,11 @@ Developers researched the integration for connecting wearables and external devi
 
 Engineers started by redesigning the monitor shell. The purpose of redesigning the outer shell was to create a case that would better fit onto the monitor and protect and conceal the electronics connected to the rear of the monitor. After redesigning the shell, it was 3D printed and marked for further improvements.
 
-![Shell Photo](../../static/images/20241126_113429.jpg)
+![Shell Photo](@site/static/images/20241126_113429.jpg)
 
 The arm mount was also redesigned this past Fall quarter to create a more stable mount that would support the monitor. It was then 3D printed and inspected for further development.
 
-![Arm Mount Photo](../../static/images/20241126_110945.jpg)
+![Arm Mount Photo](@site/static/images/20241126_110945.jpg)
 
 ## Research Updates
 
@@ -45,7 +54,7 @@ Mai Luong conducted interviews to obtain information and insight on the current
 care caregivers give and patients receive. Mai also created a poster to create
 more outreach opportunities for the research team.
 
-![Research Poster](../../static/images/Hospice_experience_seeking.webp)
+![Research Poster](@site/static/images/Hospice_experience_seeking.webp)
 
 During the fall quarter, the research team made significant progress in several
 key areas. Outreach efforts included engaging potential participants through
