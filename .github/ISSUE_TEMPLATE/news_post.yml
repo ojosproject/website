@@ -1,0 +1,38 @@
+name: News Post Submission
+description: 📰 Think we should publish something?
+title: ⚠️ Add the name of your post
+labels: ["news"]
+body:
+  - type: input
+    attributes:
+      label: Title
+      description: What should the title be? Have it be something creative and eye-catching!
+      placeholder: Introducing Iris v1.0.0
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Author(s)
+      description: List the name of the people working on this post.
+      placeholder: Carlos Valdez, Joseph Sweatt
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Target Date
+      description: When should we publish this by?
+      placeholder: January 1, 2025
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Image
+      description: Add a creative image for the post!
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Content
+      description: Write your full post here!
+    validations:
+      required: true

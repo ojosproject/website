@@ -21,14 +21,8 @@
 		// Makes comments stand out more
 		"aaron-bond.better-comments",
 
-		// Ensures you're indenting properly
-		"oderwat.indent-rainbow",
-
 		// Ensures you're writing proper Markdown
 		"DavidAnson.vscode-markdownlint",
-
-		// Windows Subsystem for Linux extension, for WSL users in Ojos Project
-		"ms-vscode-remote.remote-wsl",
 
 		// Enables MDX support
 		"unifiedjs.vscode-mdx",
