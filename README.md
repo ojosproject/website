@@ -42,10 +42,11 @@ Thanks to Docusaurus, we use three of its features on our website:
 
 ### Installing dependencies
 
-If you'd like to make changes to the website, you can! First, you'll have to
-install the dependencies with npm:
+If you'd like to make changes to the website, you can! First, you must install
+[nvm](https://github.com/nvm-sh/nvm) (or a similar tool). Then run:
 
 ```shell
+nvm use
 npm i
 ```
 
