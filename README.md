@@ -90,6 +90,12 @@ Then open a Pull Request pointing to `dev`.
 If you're not a member, please create a fork copy of `dev`, commit your changes,
 and open a Pull Request pointing to `dev`.
 
+## Acknowledgements
+
+[Carlos Valdez](https://github.com/calejvaldez/) is the maintainer of the
+website repository. The website is being developed by the Ojos Project
+team at the University of California, Irvine.
+
 ## License
 
 Content: [Creative Commons Attribution 4.0 International](https://choosealicense.com/licenses/cc-by-4.0/)
