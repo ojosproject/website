@@ -3,9 +3,6 @@ displayed_sidebar: default
 description: >
   Whenever we have a meeting for URL, we will note down the different things
   we did here.
-last_update:
-  author: Carlos Valdez
-  date: October 13 2024
 ---
 
 # Meeting Reports
@@ -36,6 +33,22 @@ Here's a template:
 Enter what this team did during the meeting!
 
 -->
+
+## December 5, 2024 - Developer Meeting
+
+| General Information |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| Members Present     | Carlos Valdez, Jason Martin, Ayush Jain, Jesse David |
+| Meeting Time        | 11:00 AM - 2:00 PM                                   |
+| Report Author(s)    | Carlos Valdez                                        |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall        |
+
+### Description
+
+Ayush and Jesse continued working on the AI feature. Carlos continued working on
+the Settings page for Iris, and
+[completed the consent screen for Twilio](https://github.com/ojosproject/iris/issues/46).
+Jason continued working on the website.
 
 ## Dec 4th, 2024 - Engineering
 
