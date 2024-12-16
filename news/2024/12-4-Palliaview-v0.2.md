@@ -16,14 +16,14 @@ We have 3D printed the [new shell](https://drive.google.com/drive/folders/1LkSjb
 and mount for the system, making it customizablev and adaptable for any surface and purpose.
 
 The Palliaview v0.1 shell was unable to securely and evenly hold the display
- monitor. With the new shell design, it fully encompasses the body of the
+monitor. With the new shell design, it fully encompasses the body of the
 monitor, making the system more structurally sound.
 
 We reduced the material used by 44% going from 323g of PLA filament used in the
 display shell to 183g for this iteration.
 
 Thus, Reduce manufacturing time from approximately 8 hours to 5.5 hours of 3d printing
- time for display.
+time for display.
 
 ![Ojos Display Monitor](<../../static/images/Screenshot 2024-08-26 122654.png>)
 
@@ -34,9 +34,12 @@ Thus, Reduce manufacturing time from approximately 8 hours to 5.5 hours of 3d pr
 We are excited to announce the new development stage of V0.3. In this new
 iteration, we are bringing a new design to the internal system with the
 implementation of embedded systems replacing the Raspberry Pi.
+We are excited to announce the new development stage of V0.3. In this new
+iteration, we are bringing a new design to the internal system with the
+implementation of embedded systems replacing the Raspberry Pi.
 We can reduce the cost of production and increase power efficiency by doing this.
 On the outer aspect of the Palliaview, we are continuing to develop the shell
- to be slimmer and material efficient,and making the mount more user-friendly.
+to be slimmer and material efficient,and making the mount more user-friendly.
 
 ## Get Involved
 
