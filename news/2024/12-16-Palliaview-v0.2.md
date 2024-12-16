@@ -15,6 +15,8 @@ The Engineering team has developed the Palliaview system into the next stage.
 We have 3D printed the [new shell](https://drive.google.com/drive/folders/1LkSjbK6iT8F5QuMHFIHtM4qL38IK150e?usp=drive_link)
 and mount for the system, making it customizablev and adaptable for any surface and purpose.
 
+<!-- truncate -->
+
 The Palliaview v0.1 shell was unable to securely and evenly hold the display
 monitor. With the new shell design, it fully encompasses the body of the
 monitor, making the system more structurally sound.
