@@ -36,10 +36,11 @@ Here's a template:
 Enter what this team did during the meeting!
 
 -->
+
 ## Dec 4th, 2024 - Engineering
 
 | General Information |                                                           |
-|---------------------|-----------------------------------------------------------|
+| ------------------- | --------------------------------------------------------- |
 | Members Present     | Kris Doan, Carlos Valdez, Meadow Rubaclava, Joseph Sweatt |
 | Meeting Time        | 6:50 pm                                                   |
 | Report Author(s)    | Joseph Sweatt                                             |
@@ -49,14 +50,13 @@ Enter what this team did during the meeting!
 
 Engineers finish our Palliaview V0.2 Engineer Design Report and began writing
 our blog post about respective topics including CHI competition, Palliaview V0.2
-update release and the 2024 Fall wrap up. Additional CAD design for th ojos 
+update release and the 2024 Fall wrap up. Additional CAD design for th ojos
 project were developed.
 
--->
 ## December 3rd, 2024 - General Meeting
 
 | General Information |                                                      |
-|---------------------|------------------------------------------------------|
+| ------------------- | ---------------------------------------------------- |
 | Members Present     | Carlos Valdez, Jason Martin, Ayush Jain, Jesse David |
 | Meeting Time        | 11:00 AM - 2:00 PM                                   |
 | Report Author(s)    | Jason Martin                                         |
@@ -70,7 +70,7 @@ settings page. Ayush and Jesse continued researching AI implementation for Iris.
 ## November 21, 2024 - Developer Meeting
 
 | General Information |                                                                                                                |
-|---------------------|----------------------------------------------------------------------------------------------------------------|
+| ------------------- | -------------------------------------------------------------------------------------------------------------- |
 | Members Present     | Carlos Valdez, Joseph Sweatt, Jason Martin, Helen Chau, Kris Doan, Ayush Jain (Discord), Jesse David (Discord) |
 | Meeting Time        | 11:00 AM - 2:00 PM                                                                                             |
 | Report Author(s)    | Carlos Valdez                                                                                                  |
@@ -87,7 +87,7 @@ directly interact with the `Config` struct.
 ## November 19, 2024 -General Meeting
 
 | General Information |                                                                                                                               |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | Members Present     | Carlos Valdez, Joseph Sweatt, Ayush Jain, Meadow Rubalcava, Kristopher Doan, Mai Luong, Jason Martin, Jesse David, Helen Chau |
 | Meeting Time        | 10 am to 2 pm                                                                                                                 |
 | Report Author(s)    | Kristopher Doan                                                                                                               |
@@ -108,7 +108,7 @@ Ayush and Jesse kept looking into the AI feature, Helen kept working on the PROS
 ## November 12, 2024 - General Meeting
 
 | General Information |                                                                                                         |
-|---------------------|---------------------------------------------------------------------------------------------------------|
+| ------------------- | ------------------------------------------------------------------------------------------------------- |
 | Members Present     | Carlos Valdez, Joseph Sweatt (Discord), Jesse David, Meadow Rubalcava (Discord), Helen Chau, Ayush Jain |
 | Meeting Time        | 11:00 AM - 2:00 PM                                                                                      |
 | Report Author(s)    | Carlos Valdez                                                                                           |
@@ -128,7 +128,7 @@ to use for Iris.
 ## November 7, 2024 - Developer Meeting
 
 | General Information |                                                                |
-|---------------------|----------------------------------------------------------------|
+| ------------------- | -------------------------------------------------------------- |
 | Members Present     | Carlos Valdez, Jason Martin, Helen Chau, Mai Luong, Ayush Jain |
 | Meeting Time        | 11:00 AM - 2:00 PM                                             |
 | Report Author(s)    | Carlos Valdez                                                  |
@@ -147,7 +147,7 @@ Ayush began researching for our AI-related feature.
 ## November 5, 2024 - General Meeting
 
 | General Information |                                                                                   |
-|---------------------|-----------------------------------------------------------------------------------|
+| ------------------- | --------------------------------------------------------------------------------- |
 | Members Present     | Carlos Valdez, Meadow Rubalcava, Jesse David, Jason Martin, Helen Chau, Mai Luong |
 | Meeting Time        | 11 AM - 2 PM                                                                      |
 | Report Author(s)    | Carlos Valdez                                                                     |
@@ -162,7 +162,7 @@ research-related tasks.
 ## October 29, 2024 - General Meeting
 
 | General Information |                                                                                                                                   |
-|---------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Members Present     | Carlos Valdez, Joseph Sweatt, Ayush Jain, Meadow Rubalcava, Kristopher Doan, Mai Luong, Jason Martin (async), Jesse David (async) |
 | Meeting Time        | 10 AM - 2 PM                                                                                                                      |
 | Report Author(s)    | Kristopher Doan, Carlos Valdez                                                                                                    |
@@ -178,7 +178,7 @@ Logging PR, Mai worked on her personal statement.
 ## October 28, 2024 - Engineering Meeting
 
 | General Information |                                                                             |
-|---------------------|-----------------------------------------------------------------------------|
+| ------------------- | --------------------------------------------------------------------------- |
 | Members Present     | Carlos Valdez, Joseph Sweatt, Ayush Jain, Meadow Rubalcava, Kristopher Doan |
 | Meeting Time        | 5 PM - 7 PM                                                                 |
 | Report Author(s)    | Kristopher Doan                                                             |
@@ -192,7 +192,7 @@ finished personal statements
 ## October 24, 2024 - Developer Meeting
 
 | General Information |                                                                 |
-|---------------------|-----------------------------------------------------------------|
+| ------------------- | --------------------------------------------------------------- |
 | Members Present     | Carlos Valdez, Jason Martin, Jesse David, Helen Chau, Mai Luong |
 | Meeting Time        | 11:00 AM - 2:00 PM                                              |
 | Report Author(s)    | Carlos Valdez                                                   |
@@ -208,7 +208,7 @@ organizing potential interviewees.
 ## October 22, 2024 - General Meeting
 
 | General Information |                                                                                                |
-|---------------------|------------------------------------------------------------------------------------------------|
+| ------------------- | ---------------------------------------------------------------------------------------------- |
 | Members Present     | Joseph Sweatt, Carlos Valdez, Ayush Jain, Meadow Rubalcava, Helen Chau, Jesse David, Kris Doan |
 | Meeting Time        | 11:00 AM - 2:00 PM                                                                             |
 | Report Author(s)    | Carlos Valdez                                                                                  |
@@ -226,7 +226,7 @@ the camera PR, allowing us to keep moving forward with the recordings feature.
 ## October 17, 2024 - Developer Meeting
 
 | General Information |                                                     |
-|---------------------|-----------------------------------------------------|
+| ------------------- | --------------------------------------------------- |
 | Members Present     | Carlos Valdez, Jason Martin, Jesse David, Mai Luong |
 | Meeting Time        | 11:00 AM - 2:00 PM                                  |
 | Report Author(s)    | Carlos Valdez                                       |
@@ -242,7 +242,7 @@ their first draft.
 ## October 15, 2024
 
 | General Information |                                                                                 |
-|---------------------|---------------------------------------------------------------------------------|
+| ------------------- | ------------------------------------------------------------------------------- |
 | Teams Present       | Developers                                                                      |
 | Members Present     | Carlos Valdez, Jesse David, Helen Chau, Ayush Jain, Jason Martin, Joseph Sweatt |
 | Meeting Time        | 11:00 AM - 2:00 PM                                                              |
@@ -263,7 +263,7 @@ Patient Reported Outcomes. Carlos published the new version of the website.
 ## October 10, 2024
 
 | General Information |                                                                  |
-|---------------------|------------------------------------------------------------------|
+| ------------------- | ---------------------------------------------------------------- |
 | Teams Present       | Developers                                                       |
 | Members Present     | Carlos Valdez, Jason Martin, Ayush Jain, Jesse David, Helen Chau |
 | Meeting Time        | 11:00 AM - 2:00 PM                                               |
@@ -287,7 +287,7 @@ Although Mai wasn't there physically, she worked on
 ## June 6, 2024
 
 | General Information |                                                                        |
-|---------------------|------------------------------------------------------------------------|
+| ------------------- | ---------------------------------------------------------------------- |
 | Teams Present       | Developers, Engineering                                                |
 | Members Present     | Joseph Sweatt, Carlos Valdez, Ayush Jain, Mark S. Baldwin, Jesse David |
 | Meeting Time        | 12:00-4:00 PM                                                          |
@@ -302,7 +302,7 @@ website posts. We will reconvene during Summer session I.
 ## June 5, 2024
 
 | General Information |                                                                                               |
-|---------------------|-----------------------------------------------------------------------------------------------|
+| ------------------- | --------------------------------------------------------------------------------------------- |
 | Teams Present       | Developers, Engineers                                                                         |
 | Members Present     | Carlos Valdez, Joseph Sweatt, Ayush Jain, Jesse David, Meadow Rubalcava, Kris Doan, Mai Luong |
 | Meeting Time        | 12:00 - 3:00PM                                                                                |
@@ -327,7 +327,7 @@ familiarize with user interface and operations.
 ## May 30, 2024
 
 | General Information |                                                                                           |
-|---------------------|-------------------------------------------------------------------------------------------|
+| ------------------- | ----------------------------------------------------------------------------------------- |
 | Teams Present       | Developers, Engineering                                                                   |
 | Members Present     | Carlos Valdez, Joseph Sweatt, Mark S. Baldwin, Ayush Jain, Meadow Rubalcava, Jason Martin |
 | Meeting Time        | 12:00 PM - 3:00 PM                                                                        |
@@ -355,7 +355,7 @@ It is showing that there is a long road to develop individual skills.
 ## May 29, 2024
 
 | General Information |                                                                           |
-|---------------------|---------------------------------------------------------------------------|
+| ------------------- | ------------------------------------------------------------------------- |
 | Teams Present       | Developers, Engineering                                                   |
 | Members Present     | Carlos Valdez, Jesse David, Meadow Rubalcava, Joseph Sweatt, Jason Martin |
 | Meeting Time        | 12:00 PM - 3:00 PM                                                        |
@@ -388,7 +388,7 @@ designs in the new system.
 ## May 22, 2024
 
 | General Information |                                                                                       |
-|---------------------|---------------------------------------------------------------------------------------|
+| ------------------- | ------------------------------------------------------------------------------------- |
 | Teams Present       | Engineering, Developers                                                               |
 | Members Present     | Joseph Sweatt, Carlos Valdez, Jesse David, Ayush Jain, Mark Baldwin, Meadow Rubalcava |
 | Meeting Time        | 12:00 PM - 3:00 PM                                                                    |
@@ -421,7 +421,7 @@ learning a bit of Rust.
 ## May 21, 2024
 
 | General Information |               |
-|---------------------|---------------|
+| ------------------- | ------------- |
 | Teams Present       | N/A           |
 | Members Present     | N/A           |
 | Meeting Time        | N/A           |
@@ -437,7 +437,7 @@ and workflow management decisions were initiated remotely.
 ## May 17, 2024
 
 | General Information |                                                                       |
-|---------------------|-----------------------------------------------------------------------|
+| ------------------- | --------------------------------------------------------------------- |
 | Teams Present       | Developers, Engineering                                               |
 | Members Present     | Carlos Valdez, Ayush Jain, Meadow Rubalcava, Kris Doan, Joseph Sweatt |
 | Meeting Time        | 1:30 PM - 3:00 PM                                                     |
@@ -453,7 +453,7 @@ We presented our work at the 2024 Undergraduate Research Symposium.
 ## May 16, 2024
 
 | General Information |                                                                            |
-|---------------------|----------------------------------------------------------------------------|
+| ------------------- | -------------------------------------------------------------------------- |
 | Teams Present       | Engineering, Developers                                                    |
 | Members Present     | Joseph Sweatt, Carlos Valdez, Mark S. Baldwin, Meadow Rubalcava, Kris Doan |
 | Meeting Time        | 12:00 PM - 3:00PM                                                          |
@@ -468,7 +468,7 @@ professional development.
 ## May 15, 2024
 
 | General Information |                                                                          |
-|---------------------|--------------------------------------------------------------------------|
+| ------------------- | ------------------------------------------------------------------------ |
 | Teams Present       | Engineering, Developers                                                  |
 | Members Present     | Joseph Sweatt, Carlos Valdez, Meadow Rubalcava, Jason Martin, Ayush Jain |
 | Meeting Time        | 12:00 PM - 3:00PM                                                        |
@@ -484,7 +484,7 @@ information page for the symposium.
 ## May 10, 2024
 
 | General Information |                                                                            |
-|---------------------|----------------------------------------------------------------------------|
+| ------------------- | -------------------------------------------------------------------------- |
 | Teams Present       | Engineering, Developers                                                    |
 | Members Present     | Joseph Sweatt, Carlos, Valdez, Kris Doan, Jesse David, Mai Luong           |
 | Meeting Time        | 12:00-4:00 PM                                                              |
@@ -501,7 +501,7 @@ Career Pathways to obtain professional clothes for the symposium.
 ## May 9, 2024
 
 | General Information |                                                                                                        |
-|---------------------|--------------------------------------------------------------------------------------------------------|
+| ------------------- | ------------------------------------------------------------------------------------------------------ |
 | Teams Present       |                                                                                                        |
 | Members Present     | Joseph Sweatt, Carlos Valdez, Meadow Rubalcava, Mark S. Baldwin, Ayush Jain, Jesse David, Jason Martin |
 | Meeting Time        | 12:00-3:00PM                                                                                           |
@@ -522,7 +522,7 @@ Meadow finished first assembly of her models of the mounting system.
 ## May 8, 2024
 
 | General Information |                                                                                                  |
-|---------------------|--------------------------------------------------------------------------------------------------|
+| ------------------- | ------------------------------------------------------------------------------------------------ |
 | Teams Present       | Engineering, Developers                                                                          |
 | Members Present     | Joseph Sweatt, Carlos Valdez, Jesse David, Jason Martin, Meadow Rubalcava, Ayush Jain, Kris Doan |
 | Meeting Time        | 12:00 PM - 3:00PM                                                                                |
@@ -543,7 +543,7 @@ created a electronic component diagram for the poster.
 ## May 9, 2024
 
 | General Information |                                                                                                        |
-|---------------------|--------------------------------------------------------------------------------------------------------|
+| ------------------- | ------------------------------------------------------------------------------------------------------ |
 | Teams Present       | Developers, Engineering                                                                                |
 | Members Present     | Carlos Valdez, Joseph Sweatt, Jesse David, Mark S. Baldwin, Ayush Jain, Meadow Rubalcava, Jason Martin |
 | Meeting Time        | 12:00 PM - 3:00 PM                                                                                     |
@@ -559,7 +559,7 @@ the documentation isn't in a singular place. Carlos will look into it more.
 ## May 8, 2024
 
 | General Information |                                                                                                 |
-|---------------------|-------------------------------------------------------------------------------------------------|
+| ------------------- | ----------------------------------------------------------------------------------------------- |
 | Teams Present       | Developers, Engineering                                                                         |
 | Members Present     | Joseph Sweatt, Ayush Jain, Carlos Valdez, Jesse David, Jason Martin, Kristopher Doan, Mai Luong |
 | Meeting Time        | 12:00 PM - 3:00 PM                                                                              |
@@ -580,7 +580,7 @@ agendas for the team.
 ## May 3, 2024
 
 | General Information |                                               |
-|---------------------|-----------------------------------------------|
+| ------------------- | --------------------------------------------- |
 | Teams Present       | Developers                                    |
 | Members Present     | Carlos Valdez, Jesse David, Jason Martin      |
 | Meeting Time        | 12:00 PM - 4:00 PM                            |
@@ -598,7 +598,7 @@ modules, such as `Database.py`, `User.py`, `main.py`, and `Medications.py`.
 ## May 2, 2024
 
 | General Information |                                                                                      |
-|---------------------|--------------------------------------------------------------------------------------|
+| ------------------- | ------------------------------------------------------------------------------------ |
 | Teams Present       | Engineering, Developers                                                              |
 | Members Present     | Ayush Jain, Joseph Sweatt, Carlos Valdez, Jesse David, Mark S. Baldwin, Jason Martin |
 | Meeting Time        | 12:30 PM - 3:00 PM                                                                   |
@@ -627,7 +627,7 @@ later.
 ## May 1, 2024
 
 | General Information |                                                                                                  |
-|---------------------|--------------------------------------------------------------------------------------------------|
+| ------------------- | ------------------------------------------------------------------------------------------------ |
 | Teams Present       | Developers, Engineering                                                                          |
 | Members Present     | Carlos Valdez, Ayush Jain, Joseph Sweatt, Jesse David, Meadow Rubalcava, Mai Luong, Jason Martin |
 | Meeting Time        | 12:30 PM - 3:00 PM                                                                               |
@@ -655,7 +655,7 @@ now that we have parts to use and measure from.
 ## April 26, 2024
 
 | General Information |                                                      |
-|---------------------|------------------------------------------------------|
+| ------------------- | ---------------------------------------------------- |
 | Teams Present       | Developers                                           |
 | Members Present     | Carlos Valdez, Ayush Jain, Jason Martin, Jesse David |
 | Meeting Time        | 12:00 PM - 4:00 PM                                   |
@@ -697,7 +697,7 @@ The following are still underway.
 ## April 25, 2024
 
 | General Information |                                                                                                                         |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------|
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Teams Present       | Developers, Engineering                                                                                                 |
 | Members Present     | Carlos Valdez, Joseph Sweatt, Ayush Jain, Jesse David, Meadow Rubalcava, Mark S. Baldwin, Kristopher Doan, Jason Martin |
 | Meeting Time        | 12:00 PM - 3:00 PM                                                                                                      |
@@ -753,7 +753,7 @@ needed to be produced:
 ## April 24, 2024
 
 | General Information |                                                                         |
-|---------------------|-------------------------------------------------------------------------|
+| ------------------- | ----------------------------------------------------------------------- |
 | Teams Present       | Developers, Engineering                                                 |
 | Members Present     | Carlos Valdez, Joseph Sweatt, Ayush Jain, Meadow Rubalcava, Jesse David |
 | Meeting Time        | 12:00 PM - 3:00 PM                                                      |
