@@ -23,6 +23,7 @@
 
 		// Ensures you're writing proper Markdown
 		"DavidAnson.vscode-markdownlint",
+		"yzhang.markdown-all-in-one",
 
 		// Enables MDX support
 		"unifiedjs.vscode-mdx",
