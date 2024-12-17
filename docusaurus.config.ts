@@ -102,12 +102,6 @@ const config: Config = {
 	],
 
 	themeConfig: {
-		announcementBar: {
-			isCloseable: true,
-			content:
-				"<strong>🗣️ Want to start your own research like the Ojos Project? The Undergraduate Research Lab is accepting research proposals! <a target='_blank' rel='noopener noreferrer' href='https://urlatuci.org/docs/proposals/'>Submit a proposal here!</a></strong>",
-			backgroundColor: "#b4d2f9",
-		},
 		colorMode: {
 			defaultMode: "light",
 			respectPrefersColorScheme: true,
