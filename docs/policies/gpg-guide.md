@@ -90,8 +90,8 @@ Next, configure Git.
 
 ```shell
 git config --global commit.gpgsign true
-git config --global user.signingkey = keyId
-git config --global gpg.program = "READ BELOW"
+git config --global user.signingkey keyId
+git config --global gpg.program "READ BELOW"
 ```
 
 The `gpg.program` depends on how you installed GnuPG.
