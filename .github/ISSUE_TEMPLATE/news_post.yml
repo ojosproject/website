@@ -36,3 +36,9 @@ body:
       description: Write your full post here!
     validations:
       required: true
+  - type: textarea
+    attributes:
+      label: Description
+      description: After writing your post, give us a quick summary!
+    validations:
+      required: true
