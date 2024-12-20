@@ -23,8 +23,8 @@ Ojos Project
 }
 
 :root article p a,
-:root article p li,
-:root article p tr {
+:root article li a,
+:root article tbody a {
 	text-decoration: underline;
 }
 
