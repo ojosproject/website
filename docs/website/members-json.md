@@ -77,7 +77,6 @@ most common fields you may want to update are:
 - `roles`
 - `website.label`
 - `website.value`
-- `contributions`
 
 **DO NOT COMMIT DIRECTLY ON THE MAIN BRANCH.** Create a separate branch and
 open a Pull Request. Once you do that, let Carlos know and he will review and
