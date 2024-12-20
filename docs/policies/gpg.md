@@ -55,7 +55,7 @@ GitHub.
 | ------------------------------------- | ---------------------------------------------------------- |
 | `gpg --generate-key`                  | Create a new key-pair.                                     |
 | `gpg --list-keys --keyid-format=long` | List your keys and their `keyId`.                          |
-| `gpg --export --armour keyId`         | Outputs the public key. Copy output to GitHub.             |
+| `gpg --export --armor keyId`          | Outputs the public key. Copy output to GitHub.             |
 | `gpg --delete-key keyId`              | Deletes a key. Please delete both public and private keys. |
 
 You can generally add `-secret` to most of these to also manage your private
@@ -83,7 +83,7 @@ gpg --generate-key
 gpg --list-keys --keyid-format=long
 
 # Add the output to https://github.com/settings/keys
-gpg --export --armour keyId
+gpg --export --armor keyId
 ```
 
 Next, configure Git.
@@ -103,3 +103,32 @@ The `gpg.program` depends on how you installed GnuPG.
 | Linux    | No need.                                   |
 
 Congrats, you should be set up to sign your commits!
+
+## Extra Instructions for Windows
+
+When you do a full restart of your PC, the GPG agent may not automatically start
+for you. Therefore, it's highly recommended that you add a shortcut of the
+`gpg-connect-agent.exe` to the list of programs that start when you log into
+your computer. You can do so with PowerShell:
+
+```powershell
+$shell = New-Object -ComObject WScript.Shell
+$shortcut = $shell.CreateShortcut("C:\Users\$($Env:UserName)\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\gpg-connect-agent.lnk")
+$shortcut.TargetPath = "C:\Program Files (x86)\GnuPG\bin\gpg-connect-agent.exe"
+$shortcut.Arguments = "/bye"
+$shortcut.Save()
+```
+
+<!-- markdownlint-disable no-inline-html -->
+
+<a href="ms-settings:startupapps">Click here to see if it was properly added.</a>
+It should be labeled as "GnuPG's IPC tool".
+
+<!-- markdownlint-enable no-inline-html -->
+
+However, if you'd rather do this manually every time you start your computer,
+you can do so with this command:
+
+```shell
+gpgconf --launch gpg-agent
+```
