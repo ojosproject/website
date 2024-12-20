@@ -34,6 +34,7 @@ The structure of the Members JSON file is:
 		"email": "",
 		"roles": [],
 		"association": "",
+		"public_key": "",
 		"website": { "label": "", "value": "" },
 		"joined": 0,
 		"avatar": "",
@@ -53,6 +54,7 @@ Here's a table of keys and their meaning:
 | `email`         | `string`   | Their institution email. Must be from an [approved domain](/docs/policies/email).                                                                                                    | Used to uniquely sort you from others in the team.                                                                                 |
 | `roles`         | `string[]` | Their role(s) in the Ojos Project. Index 0 is your main role.                                                                                                                        | Used to give you credit for your role(s) in the Ojos Project.                                                                      |
 | `association`   | `string`   | The individual's association. Examples: `University of California, Irvine`, `Imperial Valley College`, etc.                                                                          | Used to indicate your school or institution you're associated with.                                                                |
+| `public_key`    | `string`   | Name of the file with the member's GPG public key. If it's empty, the member has not added a public key.                                                                             | Used to share public keys with each other.                                                                                         |
 | `website.label` | `string`   | The label, usually `Personal Website`, `Email`, etc.                                                                                                                                 | Used to label your website URL.                                                                                                    |
 | `website.value` | `string`   | The link to direct people to. `mailto:` for `Email`.                                                                                                                                 | Used to link people to your website.                                                                                               |
 | `joined`        | `number`   | [Unix timestamp](https://www.unixtimestamp.com/) of their join date                                                                                                                  | Used to sort people... or at least will be used to sort people.                                                                    |
