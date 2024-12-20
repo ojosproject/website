@@ -46,10 +46,10 @@ unlocked with the recipient's private key. This makes it so that _only the
 intended recipients can decrypt the key_. It sounds complicated, but it really
 isn't.
 
-| Command                             | Description                                                                                   |
-| ----------------------------------- | --------------------------------------------------------------------------------------------- |
-| `gpg -se -r [emailOrName] FILE.txt` | Signs and encrypts a file with `[emailOrName]` as the recipient. Add more `-r` per recipient. |
-| `gpg FILE.txt.gpg`                  | Decrypts a file, if you're the recipient. You will be asked for your passphrase.              |
+| Command                              | Description                                                                                                                                        |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `gpg -sea -r [emailOrName] FILE.txt` | Signs and encrypts a file with `[emailOrName]` as the recipient. Add more `-r` per recipient. Add yourself as a recipient if you need a copy, too. |
+| `gpg FILE.txt.gpg`                   | Decrypts a file, if you're the recipient. You will be asked for your passphrase.                                                                   |
 
 You must have the recipient's public key on your machine. You can find
 everybody's public key in the [members page](/docs/members/) and you can import
@@ -60,7 +60,13 @@ curl https://ojosproject.org/data/gpg/CarlosValdez.asc | gpg --import
 ```
 
 ```powershell
-Invoke-WebRequest -Uri https://ojosproject.org/data/gpg/CarlosValdez.asc -UseBasicParsing | Select-Object -ExpandProperty Content | gpg --import
+Invoke-WebRequest -Uri "https://ojosproject.org/data/gpg/CarlosValdez.asc" -UseBasicParsing | Select-Object -ExpandProperty Content | New-Item -Path . -Name "temp.asc" -ItemType "file" -Force | Out-Null;  gpg --import temp.asc; Remove-Item -Path temp.asc -Force
+```
+
+Finally, you must sign the public key to trust it.
+
+```shell
+gpg --sign-key [emailOrName]
 ```
 
 ## Commit Signing
