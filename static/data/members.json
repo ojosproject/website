@@ -34,7 +34,7 @@
 		"email": "jsweatt@uci.edu",
 		"roles": ["Engineering Lead", "Research Team"],
 		"association": "University of California, Irvine",
-		"public_key": "",
+		"public_key": "JosephSweatt.asc",
 		"website": {
 			"label": "LinkedIn",
 			"value": "https://linkedin.com/in/josephsweattjr/"
