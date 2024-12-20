@@ -28,10 +28,40 @@ When you're prompted for a passphrase, please choose a secure one.
 GnuPG provides an easy way to encrypt files. Ojos Project uses `gpg` to keep
 files safe, such as interview files.
 
-| Command           | Description      |
-| ----------------- | ---------------- |
-| `gpg -c FILE.txt` | Encrypts a file. |
-| `gpg FILE.txt`    | Decrypts a file. |
+### Symmetric Encryption
+
+If a file is encrypted with symmetric encryption, you only need the encryption
+password to decrypt the file. You must ask the person who encrypted the file for
+the password.
+
+| Command            | Description      |
+| ------------------ | ---------------- |
+| `gpg -c FILE.txt`  | Encrypts a file. |
+| `gpg FILE.txt.gpg` | Decrypts a file. |
+
+### Asymmetric Encryption
+
+If a file is encrypted with asymmetric encryption, it means a file must be
+unlocked with the recipient's private key. This makes it so that _only the
+intended recipients can decrypt the key_. It sounds complicated, but it really
+isn't.
+
+| Command                             | Description                                                                                   |
+| ----------------------------------- | --------------------------------------------------------------------------------------------- |
+| `gpg -se -r [emailOrName] FILE.txt` | Signs and encrypts a file with `[emailOrName]` as the recipient. Add more `-r` per recipient. |
+| `gpg FILE.txt.gpg`                  | Decrypts a file, if you're the recipient. You will be asked for your passphrase.              |
+
+You must have the recipient's public key on your machine. You can find
+everybody's public key in the [members page](/docs/members/) and you can import
+it like this:
+
+```shell
+curl https://ojosproject.org/data/gpg/CarlosValdez.asc | gpg --import
+```
+
+```powershell
+Invoke-WebRequest -Uri https://ojosproject.org/data/gpg/CarlosValdez.asc -UseBasicParsing | Select-Object -ExpandProperty Content | gpg --import
+```
 
 ## Commit Signing
 
