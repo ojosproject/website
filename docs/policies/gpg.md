@@ -102,7 +102,37 @@ The `gpg.program` depends on how you installed GnuPG.
 | macOS    | `/usr/local/bin/gpg`                       |
 | Linux    | No need.                                   |
 
-Congrats, you should be set up to sign your commits!
+Now, let's test your signature.
+
+### Testing your signature
+
+Ojos Project members must test their signature by uploading their public key to
+the website. You can do so like this:
+
+:::important
+
+Only clone the website repository if you haven't cloned it before. Otherwise,
+just open the folder in your terminal and continue with the rest of
+the instructions.
+
+:::
+
+```shell
+git clone https://github.com/ojosproject/website
+cd website
+
+gpg --list-keys --keyid-format=long
+gpg --output static/data/gpg/[firstNameAndLastName].asc --armor --export [keyId]
+
+git add .
+git commit -m "chore(keys): add key"
+git push origin main
+```
+
+If everything worked correctly,
+[check your commit](https://github.com/ojosproject/website/commits/). If your
+commit has a "Verified" badge, you've successfully set up GPG key signing.
+Congratulations!
 
 ## Extra Instructions for Windows
 
