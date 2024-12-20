@@ -96,11 +96,10 @@ git config --global gpg.program "READ BELOW"
 
 The `gpg.program` depends on how you installed GnuPG.
 
-| Platform | Value                                      |
-| -------- | ------------------------------------------ |
-| Windows  | `C:\Program Files (x86)\GnuPG\bin\gpg.exe` |
-| macOS    | `/usr/local/bin/gpg`                       |
-| Linux    | No need.                                   |
+| Platform    | Value                                      |
+| ----------- | ------------------------------------------ |
+| Windows     | `C:\Program Files (x86)\GnuPG\bin\gpg.exe` |
+| macOS/Linux | `/usr/local/bin/gpg`                       |
 
 Now, let's test your signature.
 
