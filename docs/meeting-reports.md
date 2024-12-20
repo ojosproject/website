@@ -61,10 +61,17 @@ Jason continued working on the website.
 
 ### Description
 
+<<<<<<< Updated upstream
 Engineers finish our Palliaview V0.2 Engineer Design Report and began writing
 our blog post about respective topics including CHI competition, Palliaview V0.2
 update release and the 2024 Fall wrap up. Additional CAD design for th ojos
 project were developed.
+=======
+Engineers finished our Palliaview V0.2 Engineer Design Report and began writing
+our new blog posts about respective topics including CHI competition, Palliaview
+V0.2 update release, and the 2024 Fall wrap up. Additional CAD design for the
+Ojos project were developed.
+>>>>>>> Stashed changes
 
 ## December 3rd, 2024 - General Meeting
 
