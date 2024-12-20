@@ -48,6 +48,16 @@ function getRowForCurrentMember(member: Member) {
 						{member.website.label}
 					</a>
 				</p>
+				{member.public_key && (
+					<p>
+						<strong>Public Key:</strong>{" "}
+						{member.public_key ? (
+							<a href={"/data/gpg/" + member.public_key}>GPG</a>
+						) : (
+							"None"
+						)}
+					</p>
+				)}
 			</td>
 		</tr>
 	);

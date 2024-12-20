@@ -96,6 +96,10 @@ const config: Config = {
 						from: "/docs/policies/url-lab-attendance/",
 						to: "/docs/policies/url-attendance/",
 					},
+					{
+						from: "/data/gpg/",
+						to: "/docs/members/",
+					},
 				],
 			},
 		],
