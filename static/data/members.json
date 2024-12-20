@@ -4,6 +4,7 @@
 		"email": "cvaldezh@uci.edu",
 		"roles": ["Project Lead", "Developers Lead", "Research Team"],
 		"association": "University of California, Irvine",
+		"public_key": "CarlosValdez.asc",
 		"website": {
 			"label": "Personal Website",
 			"value": "https://calejvaldez.com/"
@@ -17,6 +18,7 @@
 		"name": "Mark S. Baldwin, PhD",
 		"email": "mbaldwi2@calstatela.edu",
 		"association": "California State University, Los Angeles",
+		"public_key": "",
 		"roles": ["Mentor", "Former Faculty Advisor"],
 		"website": {
 			"label": "Personal Website",
@@ -32,6 +34,7 @@
 		"email": "jsweatt@uci.edu",
 		"roles": ["Engineering Lead", "Research Team"],
 		"association": "University of California, Irvine",
+		"public_key": "",
 		"website": {
 			"label": "LinkedIn",
 			"value": "https://linkedin.com/in/josephsweattjr/"
@@ -46,6 +49,7 @@
 		"email": "ayushj4@uci.edu",
 		"roles": ["Developers Team", "Research Team"],
 		"association": "University of California, Irvine",
+		"public_key": "",
 		"website": {
 			"label": "Personal Website",
 			"value": "https://ayushdotjain.com/"
@@ -60,6 +64,7 @@
 		"email": "igronich@students.imperial.edu",
 		"roles": ["Research Team"],
 		"association": "Imperial Valley College",
+		"public_key": "",
 		"website": {
 			"label": "Email",
 			"value": "mailto:igronich@students.imperial.edu"
@@ -74,6 +79,7 @@
 		"email": "mbrubalc@uci.edu",
 		"roles": ["Engineering Team", "Research Team"],
 		"association": "University of California, Irvine",
+		"public_key": "",
 		"website": { "label": "Email", "value": "mailto:mbrubalc@uci.edu" },
 		"joined": 1712170800,
 		"avatar": "https://gravatar.com/avatar/7bae5b8f9cc1947984ed6c9d448549b7e8447b46af410c58ed4837223c7a4ff5?d=mp",
@@ -85,6 +91,7 @@
 		"email": "doankv@uci.edu",
 		"roles": ["Engineering Team", "Research Team"],
 		"association": "University of California, Irvine",
+		"public_key": "",
 		"website": { "label": "Email", "value": "mailto:doankv@uci.edu" },
 		"joined": 1712170800,
 		"avatar": "https://gravatar.com/avatar/e54d8eddd364952c265567243cca1c33f8654fd0e8e4ac7323887e1d2fc01989?d=mp",
@@ -96,6 +103,7 @@
 		"email": "jessecd@uci.edu",
 		"roles": ["Developers Team", "Research Team"],
 		"association": "University of California, Irvine",
+		"public_key": "",
 		"website": { "label": "Email", "value": "mailto:jessecd@uci.edu" },
 		"joined": 1713380400,
 		"avatar": "https://gravatar.com/avatar/51db6b5c49b02428e4e69270515fa2cd00c966f249afceede0a8a295a7dc3e0d?d=mp",
@@ -107,6 +115,7 @@
 		"email": "jasonbm2@uci.edu",
 		"roles": ["Developers Team", "Research Team"],
 		"association": "University of California, Irvine",
+		"public_key": "",
 		"website": { "label": "Email", "value": "mailto:jasonbm2@uci.edu" },
 		"joined": 1713466800,
 		"avatar": "https://gravatar.com/avatar/8289191418b7daecb56c302c1088bc3cf261a250834ffa47681f707ad31c9e1e?d=mp",
@@ -118,6 +127,7 @@
 		"email": "pluong3@uci.edu",
 		"roles": ["Research Lead", "Developers Team"],
 		"association": "University of California, Irvine",
+		"public_key": "",
 		"website": {
 			"label": "LinkedIn",
 			"value": "https://www.linkedin.com/in/phuong-luong-541840216/"
@@ -132,6 +142,7 @@
 		"email": "chauh4@uci.edu",
 		"roles": ["Developers Team", "Research Team"],
 		"association": "University of California, Irvine",
+		"public_key": "HelenChau.asc",
 		"website": {
 			"label": "Personal Website",
 			"value": "https://helen-chau.my.canva.site/portfolio"
