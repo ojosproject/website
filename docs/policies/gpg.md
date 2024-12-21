@@ -1,10 +1,14 @@
-# GnuPG Guide
+---
+displayed_sidebar: policies
+description: >
+  Ojos Project uses the GnuPG tool a lot for encryption and commit signatures.
+  It's important to understand how to use the gpg tool.
+---
+# GnuPG
 
-[GnuPG](https://gnupg.org/) is a program that helps with encryption and digital
-signatures.
-
-GnuPG is used often in the Ojos Project, so it's important for you to know how
-to use it.
+GnuPG, often just referred to as `gpg`, is an encryption and digital signing
+tool. `gpg` is used often in the Ojos Project as we encrypt interview notes and
+sign our commits. It is important that you understand how to use it.
 
 :::warning
 
@@ -15,7 +19,19 @@ When you're prompted for a passphrase, please choose a secure one.
 
 :::
 
+:::note
+
+You might hear people say "PGP keys" instead of "GPG keys." They're basically
+the same thing as they both follow the OpenPGP standard.
+
+:::
+
 ## Installation
+
+All you really need is [GnuPG](https://gnupg.org), but I recommend you install
+these instead as they come with GnuPG, integrate with your OS and even have GUI
+tools to help manage your GPG keys, such as Kleopatra (Windows) and the GPG
+Keychain (macOS).
 
 | Platform | Instructions                                         |
 | -------- | ---------------------------------------------------- |
@@ -27,6 +43,9 @@ When you're prompted for a passphrase, please choose a secure one.
 
 GnuPG provides an easy way to encrypt files. Ojos Project uses `gpg` to keep
 files safe, such as interview files.
+
+**If you're encrypting to another Ojos Project member, please use asymmetric
+encryption.**
 
 ### Symmetric Encryption
 
@@ -52,18 +71,21 @@ isn't.
 | `gpg FILE.txt.gpg`                   | Decrypts a file, if you're the recipient. You will be asked for your passphrase.                                                                   |
 
 You must have the recipient's public key on your machine. You can find
-everybody's public key in the [members page](/docs/members/) and you can import
-it like this:
+everybody's public key in the [members page](/docs/members/).
+
+Importing on macOS/Linux:
 
 ```shell
-curl https://ojosproject.org/data/gpg/CarlosValdez.asc | gpg --import
+curl https://ojosproject.org/data/gpg/[name].asc | gpg --import
 ```
+
+Importing on Windows:
 
 ```powershell
-Invoke-WebRequest -Uri "https://ojosproject.org/data/gpg/CarlosValdez.asc" -UseBasicParsing | Select-Object -ExpandProperty Content | New-Item -Path . -Name "temp.asc" -ItemType "file" -Force | Out-Null;  gpg --import temp.asc; Remove-Item -Path temp.asc -Force
+Invoke-WebRequest -Uri "https://ojosproject.org/data/gpg/[name].asc" -UseBasicParsing | Select-Object -ExpandProperty Content | New-Item -Path . -Name "temp.asc" -ItemType "file" -Force | Out-Null;  gpg --import temp.asc; Remove-Item -Path temp.asc -Force
 ```
 
-Finally, you must sign the public key to trust it.
+Finally, sign the newly imported public key.
 
 ```shell
 gpg --sign-key [emailOrName]
@@ -104,13 +126,13 @@ keys, they will be listed in a format similar to this. Make sure to find the
 `keyId`.
 
 ```plaintext
-pub   rsa3072 2024-12-15 [SC]
-      48051EAF9A2164BB02FA32BA914E91D21405F16C
-uid           [ultimate] Carlos Valdez <cvaldezh@uci.edu>
-sub   rsa3072 2024-12-15 [E]
+pub   ed25519/78C756F8FAC03006 2024-12-14 [SC]
+      F16D2B9D8739A4503AE694FF78C756F8FAC03006
+uid                 [ultimate] Carlos Valdez <cvaldezh@uci.edu>
+sub   cv25519/3EB4C61C1FC290D1 2024-12-14 [E]
 ```
 
-My `keyId` is `48051EAF9A2164BB02FA32BA914E91D21405F16C`.
+My `keyId` is `F16D2B9D8739A4503AE694FF78C756F8FAC03006`.
 
 ```shell
 gpg --generate-key
