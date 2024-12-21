@@ -49,6 +49,7 @@ const sidebars: SidebarsConfig = {
 			items: [
 				"policies/email",
 				"policies/git",
+				"policies/gpg",
 				"policies/logo",
 				"policies/inf199-acknowledgement",
 				"policies/url-attendance",
