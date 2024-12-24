@@ -115,7 +115,7 @@
 		"email": "jasonbm2@uci.edu",
 		"roles": ["Developers Team", "Research Team"],
 		"association": "University of California, Irvine",
-		"public_key": "",
+		"public_key": "JasonMartin.asc",
 		"website": { "label": "Email", "value": "mailto:jasonbm2@uci.edu" },
 		"joined": 1713466800,
 		"avatar": "https://gravatar.com/avatar/8289191418b7daecb56c302c1088bc3cf261a250834ffa47681f707ad31c9e1e?d=mp",
