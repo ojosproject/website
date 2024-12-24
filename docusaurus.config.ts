@@ -40,9 +40,6 @@ const config: Config = {
 			{
 				docs: {
 					sidebarPath: "./sidebars.ts",
-					editUrl: "https://github.dev/ojosproject/website/blob/dev/",
-					showLastUpdateAuthor: true,
-					showLastUpdateTime: true,
 				},
 				blog: {
 					path: "./news",
@@ -50,9 +47,6 @@ const config: Config = {
 					blogTitle: "Project News",
 					blogDescription:
 						"Stay updated with the Ojos Project, a research project at the University of California, Irvine. The Ojos Project is creating a hospice device to help with the coordination of hospice patient care.",
-					// ? Cannot have last update time show up without an editUrl link set
-					editUrl: "https://github.dev/ojosproject/website/blob/dev/",
-					showLastUpdateTime: true,
 					blogSidebarCount: "ALL",
 					onInlineAuthors: "throw",
 					onUntruncatedBlogPosts: "throw",
