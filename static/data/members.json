@@ -104,7 +104,7 @@
 		"roles": ["Developers Team", "Research Team"],
 		"association": "University of California, Irvine",
 		"public_key": "JesseDavid.asc",
-		"website": { "label": "Email", "value": "mailto:jessecd@uci.edu" },
+		"website": { "label": "Email", "value": "mailto:jcdavid172@gmail.com" },
 		"joined": 1713380400,
 		"avatar": "https://gravatar.com/avatar/51db6b5c49b02428e4e69270515fa2cd00c966f249afceede0a8a295a7dc3e0d?d=mp",
 		"contributed": true,
