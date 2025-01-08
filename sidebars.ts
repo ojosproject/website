@@ -52,6 +52,7 @@ const sidebars: SidebarsConfig = {
 				"policies/gpg",
 				"policies/logo",
 				"policies/inf199-acknowledgement",
+				"policies/tauri-training",
 				"policies/url-attendance",
 			],
 		},

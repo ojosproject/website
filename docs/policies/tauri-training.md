@@ -1,3 +1,9 @@
+---
+displayed_sidebar: policies
+description: >
+  Ojos Project builds Iris using Tauri. This page exists to help people build a
+  minimal app and learn the core concepts of Tauri.
+---
 # Tauri Training
 
 ## Introduction
