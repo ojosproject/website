@@ -25,8 +25,9 @@ outline our plans for the summer.
 
 ### Names
 
-We came up with code names what we're building. [Iris](/docs/iris/) is the
-hospice management system that can be installed on nearly any computer.
+We came up with code names what we're building.
+[Iris](https://github.com/ojosproject/iris/tree/main/docs) is the hospice
+management system that can be installed on nearly any computer.
 [Palliaview](https://docs.google.com/document/d/1l60y9Kog3sbdiTm0TlWQSpLGMTpvvO05bGnn72r-dA8/)
 is our plug-and-play hardware solution that uses the Iris software.
 

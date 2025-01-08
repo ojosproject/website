@@ -1,10 +1,3 @@
----
-displayed_sidebar: softwareIris
-last_update:
-  author: Carlos Valdez
-  date: December 6 2024
----
-
 # Requesting consent to deliver SMS messages
 
 This document outlines the protocol for requesting consent to delivery SMS

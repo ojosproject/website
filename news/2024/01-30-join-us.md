@@ -70,7 +70,7 @@ and open-source.
 Other member responsibilities depend heavily on the team they're in. The URL
 Group has three teams:
 
-- [Developers team](/docs/iris/)
+- [Developers team](https://github.com/ojosproject/iris/tree/main/docs)
   - Software design
   - Learning Rust
   - Developing the software

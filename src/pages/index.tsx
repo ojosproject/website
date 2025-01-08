@@ -30,7 +30,7 @@ export default function Root() {
 				<WorkShowcase
 					title="Iris: The Hospice Management System"
 					button_label="Read the Iris Docs"
-					button_link="/docs/iris/"
+					button_link="https://github.com/ojosproject/iris/tree/main/docs"
 					button_secondary_label="GitHub Repo"
 					button_secondary_link="https://github.com/ojosproject/iris/"
 					image={IrisCodeScreenshot}

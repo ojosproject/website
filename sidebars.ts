@@ -15,7 +15,11 @@ const sidebars: SidebarsConfig = {
 			collapsible: true,
 			collapsed: false,
 			items: [
-				"iris/README",
+				{
+					type: "link",
+					label: "Iris Docs",
+					href: "https://github.com/ojosproject/iris/tree/main/docs",
+				},
 				{ type: "link", label: "Website Docs", href: "/docs/website/" },
 			],
 		},
@@ -54,27 +58,6 @@ const sidebars: SidebarsConfig = {
 				"policies/inf199-acknowledgement",
 				"policies/tauri-training",
 				"policies/url-attendance",
-			],
-		},
-	],
-
-	softwareIris: [
-		{
-			type: "category",
-			link: { type: "doc", id: "iris/README" },
-			label: "Iris Docs",
-			collapsible: false,
-			items: [
-				{
-					label: "Requirements",
-					type: "link",
-					href: "https://docs.google.com/document/d/1EJlghYqhiPrZsjPUHxxG_WeHkHulPB4a-HF8fL7QsCs/",
-				},
-				{
-					label: "Repository Docs",
-					type: "link",
-					href: "https://github.com/ojosproject/iris/tree/main/docs",
-				},
 			],
 		},
 	],

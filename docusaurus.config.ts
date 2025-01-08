@@ -65,7 +65,14 @@ const config: Config = {
 				redirects: [
 					{ from: "/join-us/", to: "/news/join-us/" },
 					{ from: "/qr/", to: "/" }, // Old `/qr/`
-					{ from: "/iris/", to: "/docs/iris/" },
+					{
+						from: "/iris/",
+						to: "https://github.com/ojosproject/iris/",
+					},
+					{
+						from: "/docs/iris/",
+						to: "https://github.com/ojosproject/iris/tree/main/docs",
+					},
 					{
 						from: "/docs/iris/requirements/",
 						to: "https://docs.google.com/document/d/1EJlghYqhiPrZsjPUHxxG_WeHkHulPB4a-HF8fL7QsCs/",
@@ -168,7 +175,7 @@ const config: Config = {
 					items: [
 						{
 							label: "Iris Docs",
-							to: "/docs/iris/",
+							href: "https://github.com/ojosproject/iris/tree/main/docs",
 						},
 						{
 							label: "Palliaview Docs",

@@ -23,7 +23,7 @@ There's a lot of different things you can explore. For example...
 
 | Doc                                                                                                          | Description                                                                     |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| [Iris Documentation](/docs/iris/)                                                                            | Iris is an open-source hospice management system developed by the Ojos Project. |
+| [Iris Documentation](https://github.com/ojosproject/iris/tree/main/docs)                                     | Iris is an open-source hospice management system developed by the Ojos Project. |
 | [Palliaview Documentation](https://docs.google.com/document/d/1l60y9Kog3sbdiTm0TlWQSpLGMTpvvO05bGnn72r-dA8/) | Palliaview is our plug-and-play solution for Iris software.                     |
 | [Website Documentation](/docs/website/)                                                                      | `ojosproject.org` has a lot of neat features that are documented.               |
 
