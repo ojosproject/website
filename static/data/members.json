@@ -49,7 +49,7 @@
 		"email": "ayushj4@uci.edu",
 		"roles": ["Developers Team", "Research Team"],
 		"association": "University of California, Irvine",
-		"public_key": "",
+		"public_key": "AyushJain.asc",
 		"website": {
 			"label": "Personal Website",
 			"value": "https://ayushdotjain.com/"
