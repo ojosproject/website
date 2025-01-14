@@ -123,11 +123,11 @@
 		"active": true
 	},
 	{
-		"name": "Phuong Luong",
-		"email": "luongph.21@gmail.com",
+		"name": "Mai Luong",
+		"email": "pluong3@uci.edu",
 		"roles": ["Research Lead", "Developers Team"],
 		"association": "University of California, Irvine",
-		"public_key": "PhuongLuong.asc",
+		"public_key": "MaiLuong.asc",
 		"website": {
 			"label": "LinkedIn",
 			"value": "https://www.linkedin.com/in/phuong-luong-541840216/"
