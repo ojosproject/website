@@ -34,6 +34,20 @@ Enter what this team did during the meeting!
 
 -->
 
+## January 22, 2025 - Developer Meeting
+
+| General Information |                                                                  |
+| ------------------- | ---------------------------------------------------------------- |
+| Members Present     | Helen Chau, Jesse David, Carlos Valdez, Ayush Jain, Jason Martin |
+| Meeting Time        | 11:00 AM - 2:00 PM                                               |
+| Report Author(s)    | Jesse David                                                      |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                    |
+
+### Description
+
+Carlos and Helen worked on bug fixes. Jason worked on the relay notification
+feature. Ayush worked on the AI feature. Jesse worked on the website.
+
 ## December 5, 2024 - Developer Meeting
 
 | General Information |                                                      |
