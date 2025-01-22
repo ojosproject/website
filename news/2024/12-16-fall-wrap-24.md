@@ -8,7 +8,7 @@ description: >
 
 # Fall 2024 Wrap Up
 
-![Ojos Project header](@site/static/images/header.png)
+![Ojos Project header](@site/static/images/news-header-02.webp)
 
 Another quarter in, another quarter out. Let’s talk about what we’ve been doing
 in the Ojos Project!
