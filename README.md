@@ -13,6 +13,7 @@
     - [npm commands](#npm-commands)
   - [Contributing](#contributing)
     - [Branching](#branching)
+  - [Acknowledgements](#acknowledgements)
   - [License](#license)
 
 ## Description
@@ -92,7 +93,7 @@ and open a Pull Request pointing to `dev`.
 
 ## Acknowledgements
 
-[Carlos Valdez](https://github.com/calejvaldez/) is the maintainer of the
+[Jesse David](https://github.com/jessed7) is the maintainer of the
 website repository. The website is being developed by the Ojos Project
 team at the University of California, Irvine.
 
