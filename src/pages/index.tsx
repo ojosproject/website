@@ -7,14 +7,12 @@ import PalliaviewDesign from "/static/images/v0.2-digital-model.jpg";
 import SymposiumPhoto from "/static/images/2024-symposium-group.png";
 import WorkShowcase from "../components/WorkShowcase";
 import { getActiveMemberWithContributions } from "../helpers";
-import EventCountdown from "../components/temp/EventCountdown";
 
 export default function Root() {
 	const members = getActiveMemberWithContributions();
 
 	return (
 		<Layout>
-			<EventCountdown />
 			<header className="index-header">
 				<h1>Working with you for a better hospice experience.</h1>
 				<p>
