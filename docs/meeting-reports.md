@@ -65,6 +65,58 @@ and the CHI competition.
 Carlos and Helen worked on bug fixes. Jason worked on the relay notification
 feature. Ayush worked on the AI feature. Jesse worked on the website.
 
+## January 15, 2025 - Developer Meeting
+
+| General Information |                                                                  |
+| ------------------- | ---------------------------------------------------------------- |
+| Members Present     | Carlos Valdez, Ayush Jain, Jason Martin, Jesse David, Helen Chau |
+| Meeting Time        | 11:00 AM - 2:00 PM                                               |
+| Report Author(s)    | Carlos Valdez                                                    |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                    |
+
+### Description
+
+Carlos, Jason and Helen began fixing the various bugs discovered by the user
+testing interview. The bugs are being added to the sprint backlog. Carlos began
+rewriting the medications backend. Jesse started working on designs for a
+medication schedule.
+
+## January 13, 2025 - General Meeting
+
+| General Information |                                                                                                                  |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Members Present     | Joseph Sweatt, Ayush Jain, Carlos Valdez, Meadow Rubalcava, Jason Martin, Helen Chau, Kristopher Doan, Mai Luong |
+| Meeting Time        | 12:00 PM - 3:00 PM                                                                                               |
+| Report Author(s)    | Carlos Valdez, Kristopher Doan                                                                                   |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                                                    |
+
+### Description
+
+The developers began their first sprint of Winter quarter. The
+[sprint backlog](https://github.com/ojosproject/iris/blob/main/docs/maintenance/sprint.md)
+was updated to reflect what developers will work on for the next three weeks.
+The developers began user testing interviews with the Engineering team to reveal
+bugs in the code.
+
+Engineering marked out their goals for the shell and embedded systems and
+collaborated with the developers to create a scope of work. They also discussed
+what type of additions they should have for the peripherals, trackball, and AR.
+
+## January 8, 2025 - Developer Meeting
+
+| General Information |                                                                  |
+| ------------------- | ---------------------------------------------------------------- |
+| Members Present     | Carlos Valdez, Ayush Jain, Jason Martin, Helen Chau, Jesse David |
+| Meeting Time        | 11:00 AM - 2:00 PM                                               |
+| Report Author(s)    | Carlos Valdez                                                    |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                    |
+
+### Description
+
+Carlos introduced Scrum as the collaboration framework we'll be using. The team
+was also asked to complete a [Tauri training](/docs/policies/tauri-training/).
+Everyone was also asked to enable [GPG](/docs/policies/gpg/) for commit signing.
+
 ## December 5, 2024 - Developer Meeting
 
 | General Information |                                                      |
