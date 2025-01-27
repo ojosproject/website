@@ -9,7 +9,7 @@ description: >
 
 # Palliaview V0.2 Update
 
-![Ojos Project header](@site/static/images/header.png)
+![Ojos Project header](@site/static/images/news-header-03.webp)
 
 The Engineering team has developed the Palliaview system into the next stage.
 We have 3D printed the [new shell](https://drive.google.com/drive/folders/1LkSjbK6iT8F5QuMHFIHtM4qL38IK150e?usp=drive_link)
