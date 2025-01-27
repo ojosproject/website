@@ -34,6 +34,23 @@ Enter what this team did during the meeting!
 
 -->
 
+## Date - Meeting Type (General, Developer, Engineering, etc.)
+
+| General Information |                                                                                |
+| ------------------- | ------------------------------------------------------------------------------ |
+| Members Present     | Jesse David, Ayush Jain, Mai Luong, Jason Martin, Joseph Sweatt, Carlos Valdez |
+| Meeting Time        | 12:00 PM - 3:00 PM                                                             |
+| Report Author(s)    | Jesse David                                                                    |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                  |
+
+### Description
+
+The team had a virtual meeting with Professor Baldwin. Carlos worked on the
+joystick support. Ayush worked on the AI feature. Jesse worked on news page
+headers. Mai worked on the medication rewrite. Jason continued working on the
+relay notification feature. Joseph worked on the documentation related to UROP
+and the CHI competition.
+
 ## January 22, 2025 - Developer Meeting
 
 | General Information |                                                                  |
