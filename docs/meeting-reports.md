@@ -34,14 +34,14 @@ Enter what this team did during the meeting!
 
 -->
 
-## Date - Meeting Type (General, Developer, Engineering, etc.)
+## January 27, 2025 - General Meeting
 
-| General Information |                                                                                |
-| ------------------- | ------------------------------------------------------------------------------ |
-| Members Present     | Jesse David, Ayush Jain, Mai Luong, Jason Martin, Joseph Sweatt, Carlos Valdez |
-| Meeting Time        | 12:00 PM - 3:00 PM                                                             |
-| Report Author(s)    | Jesse David                                                                    |
-| Location            | Undergraduate Research Lab @ Donald Bren Hall                                  |
+| General Information |                                                                                                  |
+| ------------------- | ------------------------------------------------------------------------------------------------ |
+| Members Present     | Jesse David, Ayush Jain, Mai Luong, Jason Martin, Meadow Rubalcava, Joseph Sweatt, Carlos Valdez |
+| Meeting Time        | 12:00 PM - 3:00 PM                                                                               |
+| Report Author(s)    | Jesse David                                                                                      |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                                    |
 
 ### Description
 
