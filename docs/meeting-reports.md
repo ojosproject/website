@@ -34,6 +34,22 @@ Enter what this team did during the meeting!
 
 -->
 
+## February 3, 2025 - General Meeting
+
+| General Information |                                                                                                  |
+| ------------------- | ------------------------------------------------------------------------------------------------ |
+| Members Present     | Jesse David, Ayush Jain, Mai Luong, Jason Martin, Meadow Rubalcava, Joseph Sweatt, Carlos Valdez |
+| Meeting Time        | 12:00 PM - 3:00 PM                                                                               |
+| Report Author(s)    | Jesse David                                                                                      |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                                    |
+
+### Description
+
+The second sprint of the quarter started. Carlos assigned the developers new
+[backlog items](https://github.com/ojosproject/iris/blob/da899c19da545219db7c2c57cccddd965e89ba4e/docs/maintenance/sprint.md),
+and the developers began working on them. The engineers worked
+on designing the new shell for Palliaview.
+
 ## January 27, 2025 - General Meeting
 
 | General Information |                                                                                                  |
