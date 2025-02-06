@@ -40,7 +40,7 @@ Enter what this team did during the meeting!
 | ------------------- | ---------------------------------------------------------------- |
 | Members Present     | Helen Chau, Jesse David, Ayush Jain, Jason Martin, Carlos Valdez |
 | Meeting Time        | 11:00 AM - 2:00 PM                                               |
-| Report Author(s)    | Jesse David                                                      |
+| Report Author(s)    | Jesse David, Carlos Valdez                                       |
 | Location            | Undergraduate Research Lab @ Donald Bren Hall                    |
 
 ### Description
@@ -48,6 +48,13 @@ Enter what this team did during the meeting!
 The Developers Team continued working on
 [backlog items](https://github.com/ojosproject/iris/blob/da899c19da545219db7c2c57cccddd965e89ba4e/docs/maintenance/sprint.md)
 for the second sprint of Winter Quarter.
+
+Helen continued to work on adding animations and started adding accessibility
+features on Iris. Jesse worked on creating designs for the medication scheduling
+screen, as well as medication icons. Ayush continued to work on the artificial
+intelligence feature for the care instructions. Jason continued to work on the
+Iris API (to be renamed to the Iris Server) and began running tests. Carlos
+worked on documentation.
 
 ## February 3, 2025 - General Meeting
 
