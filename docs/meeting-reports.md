@@ -34,6 +34,25 @@ Enter what this team did during the meeting!
 
 -->
 
+## February 10, 2025 - General Meeting
+
+| General Information |                                                                 |
+| ------------------- | --------------------------------------------------------------- |
+| Members Present     | Helen Chau, Jesse David, Jason Martin, Carlos Valdez, Mai Luong |
+| Meeting Time        | 12:00 PM - 3:00 PM                                              |
+| Report Author(s)    | Jesse David                                                     |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                   |
+
+### Description
+
+The Developers Team continued working on
+[backlog items](https://github.com/ojosproject/iris/blob/da899c19da545219db7c2c57cccddd965e89ba4e/docs/maintenance/sprint.md)
+for the second sprint of Winter Quarter.
+
+Carlos worked on the PROs feature. Jason continued working on the relay feature.
+Jesse worked on medication icons.
+
+
 ## February 5, 2025 - Developer Meeting
 
 | General Information |                                                                  |
