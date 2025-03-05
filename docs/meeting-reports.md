@@ -34,6 +34,53 @@ Enter what this team did during the meeting!
 
 -->
 
+## March 5, 2025 - Developer Meeting
+
+| General Information |                                                                  |
+| ------------------- | ---------------------------------------------------------------- |
+| Members Present     | Helen Chau, Jesse David, Ayush Jain, Jason Martin, Carlos Valdez |
+| Meeting Time        | 11:00 AM - 2:00 PM                                               |
+| Report Author(s)    | Jesse David                                                      |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                    |
+
+### Description
+
+The Developers Team continued working on
+[backlog items](https://github.com/ojosproject/iris/blob/da899c19da545219db7c2c57cccddd965e89ba4e/docs/maintenance/sprint.md)
+for Winter Quarter.
+
+## March 3, 2025 - General Meeting
+
+| General Information |                                                                   |
+| ------------------- | ----------------------------------------------------------------- |
+| Members Present     | Helen Chau, Jesse David, Ayush Jain, Joseph Sweatt, Carlos Valdez |
+| Meeting Time        | 12:00 PM - 3:00 PM                                                |
+| Report Author(s)    | Jesse David                                                       |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                     |
+
+### Description
+
+The Engineering Team continued wokring on Palliaview.
+The Developers Team continued working on
+[backlog items](https://github.com/ojosproject/iris/blob/da899c19da545219db7c2c57cccddd965e89ba4e/docs/maintenance/sprint.md)
+for Winter Quarter.
+
+## February 24, 2025 - General Meeting
+
+| General Information |                                                                                                   |
+| ------------------- | ------------------------------------------------------------------------------------------------- |
+| Members Present     | Helen Chau, Jesse David,  Mai Luong, Jason Martin, Meadow Rubalcava, Joseph Sweatt, Carlos Valdez |
+| Meeting Time        | 12:00 PM - 3:00 PM                                                                                |
+| Report Author(s)    | Jesse David                                                                                       |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                                     |
+
+### Description
+
+The Ojos Project had a meeting with Professor Baldwin to discuss the team's
+current progress. The Developers Team continued working on
+[backlog items](https://github.com/ojosproject/iris/blob/da899c19da545219db7c2c57cccddd965e89ba4e/docs/maintenance/sprint.md)
+for Winter Quarter.
+
 ## February 12, 2025 - Developer Meeting
 
 | General Information |                                                    |
