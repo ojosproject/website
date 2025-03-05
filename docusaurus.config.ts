@@ -189,13 +189,6 @@ const config: Config = {
 				},
 			],
 		},
-		announcementBar: {
-			isCloseable: true,
-			textColor: "black",
-			backgroundColor: "#FFB668",
-			content:
-				"<strong>ZotCon is returning on March 1st, 2025! <a href='https://linktr.ee/zotcon' target='blank' rel='noopener noreferrer'>Buy tickets here!</a></strong>",
-		},
 	} satisfies Preset.ThemeConfig,
 };
 
