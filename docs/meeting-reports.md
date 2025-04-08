@@ -34,6 +34,40 @@ Enter what this team did during the meeting!
 
 -->
 
+## April 7, 2025 - General Meeting
+
+| General Information |                                                        |
+| ------------------- | ------------------------------------------------------ |
+| Members Present     | Joseph Sweatt, Carlos Valdez, Jason Martin, Helen Chau |
+| Meeting Time        | 10:00 AM - 12:00 PM                                    |
+| Report Author(s)    | Carlos Valdez                                          |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall          |
+
+### Description
+
+Carlos introduced the new sprint to the developers. Joseph took time to work on
+Symposium paperwork. Jason and Helen worked on their assigned tasks.
+
+## April 4, 2025  - General Meeting
+
+| General Information |                                                                                  |
+| ------------------- | -------------------------------------------------------------------------------- |
+| Members Present     | Joseph Sweatt, Carlos Valdez, Mai Luong, Jason Martin, Meadow Rubalcava (remote) |
+| Meeting Time        | 10:00 AM - 12:00 PM                                                              |
+| Report Author(s)    | Carlos Valdez                                                                    |
+| Location            | Undergraduate Research Lab @ Donald Bren Hall                                    |
+
+### Description
+
+Carlos and Joseph took time to plan out what the next year will look like as
+Carlos is due to graduate soon.
+
+Mai and Carlos took time to discuss upcoming user interviews that will happen
+during the second and third Spring sprints.
+
+Carlos and Jason spoke about how the developers team will look like in the
+following academic year, including potential recruits.
+
 ## March 5, 2025 - Developer Meeting
 
 | General Information |                                                                  |
