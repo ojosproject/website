@@ -2,6 +2,7 @@
 authors: [cvaldezh@uci.edu]
 slug: /love-is-collaborative/
 hide_table-of-contents: true
+image: https://ojosproject.org/images/love-is-collaborative.png
 description: >
   The Iris developers invite you to participate in the first-ever Iris logo
   contest!
