@@ -2,7 +2,7 @@
 // Ojos Project
 import "../css/index.css";
 import Layout from "@theme/Layout";
-import IrisCodeScreenshot from "/static/images/iris_code_screenshot.png";
+import IrisScreenshot from "/static/images/iris-v0-summary.png";
 import PalliaviewDesign from "/static/images/v0.2-digital-model.jpg";
 import SymposiumPhoto from "/static/images/2024-symposium-group.png";
 import WorkShowcase from "../components/WorkShowcase";
@@ -26,12 +26,12 @@ export default function Root() {
 			<div className="our_work">
 				<h1>Our Work</h1>
 				<WorkShowcase
-					title="Iris: The Hospice Management System"
-					button_label="Read the Iris Docs"
-					button_link="https://github.com/ojosproject/iris/tree/main/docs"
+					title="Iris: The Care Management System"
+					button_label="Download Now"
+					button_link="https://github.com/ojosproject/iris/releases/latest/"
 					button_secondary_label="GitHub Repo"
 					button_secondary_link="https://github.com/ojosproject/iris/"
-					image={IrisCodeScreenshot}
+					image={IrisScreenshot}
 					image_alt="Header of the Ojos Project"
 					members={members.filter(
 						(m) =>
