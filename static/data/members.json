@@ -96,7 +96,7 @@
 		"joined": 1712170800,
 		"avatar": "https://gravatar.com/avatar/e54d8eddd364952c265567243cca1c33f8654fd0e8e4ac7323887e1d2fc01989?d=mp",
 		"contributed": true,
-		"active": true
+		"active": false
 	},
 	{
 		"name": "Jesse David",
@@ -105,13 +105,13 @@
 		"association": "University of California, Irvine",
 		"public_key": "JesseDavid.asc",
 		"website": {
-			"label": "Email",
-			"value": "mailto:jcdavid172@gmail.com"
+			"label": "Personal Website",
+			"value": "https://jessedavid.design/"
 		},
 		"joined": 1713380400,
 		"avatar": "https://gravatar.com/avatar/51db6b5c49b02428e4e69270515fa2cd00c966f249afceede0a8a295a7dc3e0d?d=mp",
 		"contributed": true,
-		"active": true
+		"active": false
 	},
 	{
 		"name": "Jason Martin",
