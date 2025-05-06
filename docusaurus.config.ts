@@ -4,7 +4,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
 	// Appears as the order the keys appear in
 	// https://docusaurus.io/docs/api/docusaurus-config
-	title: "Ojos Project - a UCI research project",
+	title: "Ojos Project",
 	url: "https://ojosproject.org",
 	baseUrl: "/",
 
@@ -24,7 +24,7 @@ const config: Config = {
 			attributes: {
 				name: "description",
 				content:
-					"The Ojos Project is a research project developing a tablet-like device that can be used in an at-home hospice care setting. This device is being developed under Professor Mark S. Baldwin's Undergraduate Research Lab at the University of California, Irvine.",
+					"The Ojos Project is a research project developing a kiosk-like device that can be used in an at-home care setting. This device is being developed under Undergraduate Research Lab at the University of California, Irvine.",
 			},
 		},
 	],
@@ -47,7 +47,7 @@ const config: Config = {
 					blogTitle: "Project News",
 					blogDescription:
 						"Stay updated with the Ojos Project, a research project at the University of California, Irvine. The Ojos Project is creating a hospice device to help with the coordination of hospice patient care.",
-					blogSidebarCount: "ALL",
+					blogSidebarCount: 10,
 					onInlineAuthors: "throw",
 					onUntruncatedBlogPosts: "throw",
 				},
@@ -128,15 +128,6 @@ const config: Config = {
 					label: "Our Team",
 					to: "/docs/members/",
 				},
-				{
-					label: "Meeting Reports",
-					to: "/docs/meeting-reports/",
-				},
-				{
-					label: "Documentation",
-					to: "/docs/",
-					position: "right",
-				},
 			],
 		},
 		footer: {
@@ -146,27 +137,11 @@ const config: Config = {
 					items: [
 						{
 							label: "Discord",
-							href: "https://discord.gg/SejmYUthEj",
+							href: "https://discord.gg/qZyQadbuMG",
 						},
 						{
 							label: "GitHub",
 							href: "https://github.com/ojosproject/",
-						},
-						{
-							label: "Finances",
-							href: "https://docs.google.com/spreadsheets/d/1W9qHV4Bm3wPtvsBWxmY4jpJY9JbhpSFIvcgRSFbrr78/",
-						},
-						{
-							label: "Meeting Reports",
-							to: "/docs/meeting-reports/",
-						},
-						{
-							label: "Policies",
-							to: "/docs/policies/",
-						},
-						{
-							label: "Undergraduate Research Lab",
-							href: "https://urlatuci.org/",
 						},
 					],
 				},
