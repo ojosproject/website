@@ -1,0 +1,35 @@
+.header {
+	background-color: var(--black);
+	padding: 5px;
+
+	display: flex;
+	align-items: center;
+}
+
+.ojosIcon {
+	border-radius: 100%;
+	margin-left: 5px;
+}
+
+.ojosIcon:hover {
+	cursor: pointer;
+}
+
+.navigationMenu {
+	list-style: none;
+	display: flex;
+}
+
+.navigationMenu a {
+	color: var(--white);
+	text-decoration: none;
+	width: 100%;
+}
+
+.navigationMenu li {
+	min-width: 75px;
+}
+
+.navigationMenu:visited {
+	text-decoration: none;
+}
