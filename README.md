@@ -23,8 +23,12 @@ pnpm i
 
 `pnpm run [script]`
 
-| Command | Description |
-| ------- | ----------- |
+| Command             | Description                          |
+| ------------------- | ------------------------------------ |
+| `pnpm run dev`      | Start the development server         |
+| `pnpm run build`    | Build the website.                   |
+| `pnpm run serve`    | Serve a build of the website.        |
+| `pnpm run prettier` | Run [Prettier](https://prettier.io/) |
 
 ## Acknowledgements
 

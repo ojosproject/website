@@ -5,6 +5,10 @@
 /build
 /public
 
+# NextJS
+.next
+next-env.d.ts
+
 # Generated files
 .docusaurus
 .cache-loader
