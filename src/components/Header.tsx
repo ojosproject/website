@@ -10,7 +10,7 @@ type MenuItemProps = {
 	children: ReactNode;
 };
 
-function HeaderMenuItem({ href, children }: MenuItemProps) {
+function MenuItem({ href, children }: MenuItemProps) {
 	return (
 		<li>
 			<Link href={href}>{children}</Link>
@@ -32,7 +32,8 @@ export default function Header() {
 				onClick={() => router.push("/")}
 			/>
 			<ul className={styles.navigationMenu}>
-				<HeaderMenuItem href="/news/">News</HeaderMenuItem>
+				<MenuItem href="/news/">News</MenuItem>
+				<MenuItem href="/team/">Our Team</MenuItem>
 			</ul>
 		</header>
 	);

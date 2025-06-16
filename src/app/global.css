@@ -1,6 +1,9 @@
 :root {
 	--black: #16171a;
 	--white: white;
+	--blue-primary: #0063d7;
+	--blue-dark: #094595;
+	--blue-light: #83b3f3;
 }
 
 body {
