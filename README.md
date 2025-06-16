@@ -28,6 +28,7 @@ pnpm i
 | `pnpm run dev`      | Start the development server         |
 | `pnpm run build`    | Build the website.                   |
 | `pnpm run serve`    | Serve a build of the website.        |
+| `pnpm run clear`    | Remove temporary folders             |
 | `pnpm run prettier` | Run [Prettier](https://prettier.io/) |
 
 ## Acknowledgements
