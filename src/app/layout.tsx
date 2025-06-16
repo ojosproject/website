@@ -17,6 +17,7 @@ const webpageHeaderFile = "/images/header.png";
 export const metadata: Metadata = {
 	title: webpageTitle,
 	description: webpageDescription,
+	metadataBase: new URL(webpageUrl),
 	icons: ["/images/logo.png"],
 	openGraph: {
 		type: "website",
