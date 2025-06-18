@@ -1,0 +1,57 @@
+.irisContainer {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	margin: 20px 0;
+}
+
+.irisDetails {
+	padding: 20px 0;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.irisDetails h1 {
+	font-size: 6dvw;
+	margin: 0;
+}
+
+.tagline {
+	font-size: 4vw;
+	margin: 0;
+}
+
+.irisPlatforms {
+	font-size: 14px;
+	color: rgb(192, 192, 192);
+}
+
+.irisImage {
+	width: 50dvw;
+	height: auto;
+
+	border-radius: 20px;
+}
+
+.palliaviewContainer {
+	display: flex;
+	flex-direction: column;
+
+	margin: 20px 50px;
+}
+
+.palliaviewDetails {
+	padding: 20px 0;
+}
+
+.palliaviewDetails h1 {
+	font-size: 4.5dvw;
+}
+
+.palliaviewDetails p {
+	font-size: 2.5dvw;
+}

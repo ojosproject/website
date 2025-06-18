@@ -33,6 +33,8 @@ export default function Header() {
 			/>
 			<ul className={styles.navigationMenu}>
 				<MenuItem href="/news/">News</MenuItem>
+				<MenuItem href="/iris/">Iris</MenuItem>
+				<MenuItem href="/palliaview/">Palliaview</MenuItem>
 				<MenuItem href="/team/">Our Team</MenuItem>
 			</ul>
 		</header>

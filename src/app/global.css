@@ -4,12 +4,57 @@
 	--blue-primary: #0063d7;
 	--blue-dark: #094595;
 	--blue-light: #83b3f3;
+
+	color: var(--white);
+	background-color: var(--black);
 }
 
 body {
 	margin: 0;
 }
 
-main {
-	margin: 10px;
+button.primary {
+	font-weight: bold;
+	padding: 10px 25px;
+	min-width: 100px;
+	border-radius: 10px;
+	margin: 5px;
+
+	color: var(--white);
+	background-color: var(--blue-primary);
+	border: solid transparent 2px;
+}
+
+button.primary:hover {
+	text-decoration: none;
+	color: var(--white);
+	background-color: var(--blue-dark);
+	cursor: pointer;
+}
+
+button.primary:disabled {
+	background-color: var(--gray);
+}
+
+button.primary:hover:disabled {
+	cursor: not-allowed;
+	background-color: var(--gray);
+}
+
+button.secondary {
+	font-weight: bold;
+	padding: 10px 25px;
+	min-width: 100px;
+	border-radius: 10px;
+	margin: 5px;
+
+	color: var(--blue-primary);
+	background-color: var(--white);
+	border: solid var(--blue-primary) 2px;
+}
+
+button.secondary:hover {
+	text-decoration: none;
+	color: var(--blue-primary);
+	cursor: pointer;
 }
