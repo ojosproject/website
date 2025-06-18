@@ -1,0 +1,53 @@
+.footer {
+	color: var(--white);
+	min-height: 250px;
+	background-color: var(--black);
+
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.footer ul {
+	list-style: none;
+	padding: 20px 50px;
+}
+
+.footer li {
+	margin: 8px 0;
+}
+
+.footer ul p {
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.footer a {
+	text-decoration: none;
+	color: var(--white);
+
+	transition: color 0.15s;
+}
+
+.footer a:hover {
+	color: var(--blue-light);
+}
+
+.grandmaMessageContainer {
+	color: rgb(100, 100, 100);
+	width: 100dvw;
+
+	display: flex;
+	justify-content: center;
+}
+
+.grandmaMessageContainer a {
+	color: rgb(100, 100, 100);
+	text-decoration: underline;
+}
+
+.grandmaMessage {
+	text-align: center;
+	width: 85dvw;
+
+	font-size: 12px;
+}
