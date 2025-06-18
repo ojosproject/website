@@ -5,7 +5,7 @@ import Image from "next/image";
 export default function Page() {
 	return (
 		<>
-			<div className={styles.irisContainer} id="iris">
+			<section className={styles.irisContainer} id="iris">
 				<div className={styles.irisDetails}>
 					<h1>iris</h1>
 					<p className={styles.tagline}>
@@ -32,13 +32,19 @@ export default function Page() {
 					width={25}
 					height={25}
 				/>
-			</div>
-			<div className={styles.palliaviewContainer}>
+			</section>
+			<section className={styles.palliaviewContainer}>
 				<div className={styles.palliaviewDetails}>
 					<h1>Palliaview</h1>
 					<p>A Better Hospice Monitoring System</p>
 				</div>
-			</div>
+			</section>
+			<section>
+				<div>
+					<h1>Mentorship through research</h1>
+					<p>Mentoring the future of healthcare tools.</p>
+				</div>
+			</section>
 		</>
 	);
 }
