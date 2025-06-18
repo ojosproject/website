@@ -37,6 +37,7 @@
 
 .navigationMenu li {
 	min-width: 75px;
+	text-align: center;
 }
 
 .navigationMenu:visited {
