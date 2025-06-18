@@ -10,7 +10,7 @@ export function metadataWith(
 		title: webpageTitle,
 		description: webpageDescription,
 		metadataBase: new URL("https://ojosproject.org/"),
-		icons: ["/images/logo.png"],
+		icons: ["/images/brand/logo.png"],
 		openGraph: {
 			type: "website",
 			url: webpageUrl,

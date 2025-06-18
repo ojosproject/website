@@ -24,7 +24,7 @@ export default function Header() {
 	return (
 		<header className={styles.header}>
 			<Image
-				src="/images/logo-space.png"
+				src="/images/brand/logo-space.png"
 				alt="Ojos Project logo"
 				width={35}
 				height={35}

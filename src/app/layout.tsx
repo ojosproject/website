@@ -13,7 +13,7 @@ export const metadata = metadataWith(
 	"Ojos Project — Iris, Palliaview, and caregiver research",
 	"Ojos Project is building Iris and Palliaview to improve the caregiver space with modern technology.",
 	"https://ojosproject.org/",
-	"/images/header.png",
+	"/images/brand/header.png",
 );
 
 export default function RootLayout({ children }: { children: ReactNode }) {
