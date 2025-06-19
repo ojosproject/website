@@ -26,7 +26,7 @@ export default function Page() {
 					<p className={styles.irisPlatforms}>Windows, macOS, & Linux</p>
 				</div>
 				<Image
-					src="/images/brand/iris/v0/hub.png"
+					src="/images/iris/promo/hub.png"
 					alt="Iris Client hub"
 					className={styles.irisImage}
 					width={25}
@@ -37,14 +37,22 @@ export default function Page() {
 				<div className={styles.palliaviewDetails} id="palliaview">
 					<h1>Palliaview</h1>
 					<p>A Better Hospice Monitoring System</p>
+					<div>
+						<button className="primary">Get 3D files</button>
+						<button className="secondary">Learn more</button>
+					</div>
 				</div>
+				<Image
+					src="/images/palliaview/promo/model.jpg"
+					alt="Palliaview 3D model"
+					className={styles.palliaviewImage}
+					width={25}
+					height={25}
+				/>
 			</section>
 			<section>
 				<div>
-					<h1>
-						<span style={{ color: "var(--blue-light)" }}>Mentorship</span>{" "}
-						through research
-					</h1>
+					<h1>Mentorship through research</h1>
 					<p>Mentoring the future of healthcare developers.</p>
 				</div>
 			</section>

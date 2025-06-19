@@ -30,7 +30,8 @@
 	color: rgb(192, 192, 192);
 }
 
-.irisImage {
+.irisImage,
+.palliaviewImage {
 	width: 50dvw;
 	height: auto;
 
