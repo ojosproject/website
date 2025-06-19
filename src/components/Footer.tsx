@@ -27,8 +27,14 @@ export default function Footer() {
 		<footer className={styles.footer}>
 			<ul>
 				<p>Ojos Project</p>
-				<ListItem href="https://github.com/ojosproject/">GitHub</ListItem>
 				<ListItem href="https://discord.gg/qZyQadbuMG">Discord</ListItem>
+				<ListItem href="https://github.com/ojosproject/">GitHub</ListItem>
+				<ListItem href="https://instagram.com/theojosproject/">
+					Instagram
+				</ListItem>
+				<ListItem href="https://ko-fi.com/ojosproject/">
+					Ko-fi (donations)
+				</ListItem>
 			</ul>
 			<ul>
 				<p>Documentation</p>
