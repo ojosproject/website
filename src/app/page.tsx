@@ -42,13 +42,23 @@ export default function Page() {
 						<button className="secondary">Learn more</button>
 					</div>
 				</div>
-				<Image
-					src="/images/palliaview/promo/model.jpg"
-					alt="Palliaview 3D model"
-					className={styles.palliaviewImage}
-					width={25}
-					height={25}
-				/>
+				<div className={styles.palliaviewImageTextContainer}>
+					<Image
+						src="/images/palliaview/promo/model.jpg"
+						alt="Palliaview 3D model"
+						className={styles.palliaviewImage}
+						width={25}
+						height={25}
+					/>
+					<p
+						style={{
+							margin: "0 50px;",
+							textAlign: "right",
+							minWidth: "100px",
+						}}>
+						Palliaview is powered by Iris software.
+					</p>
+				</div>
 			</section>
 			<section>
 				<div>

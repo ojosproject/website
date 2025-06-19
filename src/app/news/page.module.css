@@ -1,0 +1,36 @@
+.blogContainer {
+	color: var(--black);
+	background-color: var(--white);
+}
+
+body section {
+	margin: 0 20px;
+}
+
+.topmostContainer h1 {
+	font-size: 4em;
+	margin: 0;
+	padding-top: 50px;
+}
+
+.topmostContainer p {
+	font-size: 2em;
+	margin: 0;
+}
+
+.listArticles {
+	list-style: none;
+	margin: 0;
+
+	width: 75dvw;
+}
+
+.articleContainer {
+	height: 100px;
+	margin: 35px 0;
+	border: 1px var(--white) solid;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
