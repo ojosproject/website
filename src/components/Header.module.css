@@ -1,0 +1,46 @@
+.header {
+	background-color: var(--black);
+
+	display: flex;
+	align-items: center;
+
+	padding: 5 55px;
+}
+
+.ojosIcon {
+	border-radius: 100%;
+	margin-left: 5px;
+}
+
+.ojosIcon:hover {
+	cursor: pointer;
+}
+
+.navigationMenu {
+	list-style: none;
+	display: flex;
+}
+
+.navigationMenu a {
+	color: var(--white);
+	text-decoration: none;
+	width: 100%;
+	border: solid 2px transparent;
+	border-radius: 15px;
+	padding: 5px 8px;
+
+	transition: color 0.15s;
+}
+
+.navigationMenu a:hover {
+	color: var(--blue-light);
+}
+
+.navigationMenu li {
+	min-width: 75px;
+	text-align: center;
+}
+
+.navigationMenu:visited {
+	text-decoration: none;
+}
