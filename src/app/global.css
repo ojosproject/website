@@ -18,11 +18,15 @@ body section {
 	margin-right: 50px;
 }
 
+button {
+	font-size: 1rem;
+}
+
 button.primary {
 	font-weight: bold;
 	padding: 10px 25px;
 	min-width: 100px;
-	border-radius: 10px;
+	border-radius: 20px;
 	margin: 5px;
 
 	color: var(--white);
@@ -50,7 +54,7 @@ button.secondary {
 	font-weight: bold;
 	padding: 10px 25px;
 	min-width: 100px;
-	border-radius: 10px;
+	border-radius: 20px;
 	margin: 5px;
 
 	color: var(--blue-primary);

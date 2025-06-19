@@ -38,8 +38,12 @@ export default function Page() {
 					<h1>Palliaview</h1>
 					<p>A Better Hospice Monitoring System</p>
 					<div>
-						<button className="primary">Get 3D files</button>
-						<button className="secondary">Learn more</button>
+						<Link href="ojosproject.org">
+							<button className="primary">Get 3D files</button>
+						</Link>
+						<Link href="ojosproject.org">
+							<button className="secondary">Learn more</button>
+						</Link>
 					</div>
 				</div>
 				<div className={styles.palliaviewImageTextContainer}>
