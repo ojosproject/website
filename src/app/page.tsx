@@ -34,15 +34,18 @@ export default function Page() {
 				/>
 			</section>
 			<section className={styles.palliaviewContainer}>
-				<div className={styles.palliaviewDetails}>
+				<div className={styles.palliaviewDetails} id="palliaview">
 					<h1>Palliaview</h1>
 					<p>A Better Hospice Monitoring System</p>
 				</div>
 			</section>
 			<section>
 				<div>
-					<h1>Mentorship through research</h1>
-					<p>Mentoring the future of healthcare tools.</p>
+					<h1>
+						<span style={{ color: "var(--blue-light)" }}>Mentorship</span>{" "}
+						through research
+					</h1>
+					<p>Mentoring the future of healthcare developers.</p>
 				</div>
 			</section>
 		</>

@@ -51,8 +51,10 @@
 
 .palliaviewDetails h1 {
 	font-size: 4.5dvw;
+	margin: 0;
 }
 
 .palliaviewDetails p {
 	font-size: 2.5dvw;
+	margin: 0;
 }
