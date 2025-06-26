@@ -3,7 +3,11 @@
 
 # Production
 /build
-/public
+
+# NextJS
+.next
+next-env.d.ts
+out
 
 # Generated files
 .docusaurus
