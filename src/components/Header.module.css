@@ -4,7 +4,7 @@
 	display: flex;
 	align-items: center;
 
-	padding: 5 55px;
+	padding: 5px 55px;
 }
 
 .ojosIcon {
@@ -19,6 +19,8 @@
 .navigationMenu {
 	list-style: none;
 	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .navigationMenu a {
@@ -29,7 +31,7 @@
 	border-radius: 15px;
 	padding: 5px 8px;
 
-	transition: color 0.15s;
+	transition: color 0.1s;
 }
 
 .navigationMenu a:hover {
@@ -37,10 +39,34 @@
 }
 
 .navigationMenu li {
-	min-width: 75px;
 	text-align: center;
 }
 
 .navigationMenu:visited {
 	text-decoration: none;
+}
+
+.navigationMenu:disabled {
+	visibility: hidden;
+}
+
+@media only screen and (max-width: 30rem) {
+	.header {
+		justify-content: space-between;
+		align-items: center;
+		flex-wrap: wrap;
+
+		padding: 20px 20px 0 20px;
+	}
+
+	.navigationMenu {
+		flex-wrap: wrap;
+		padding: 0;
+	}
+
+	.navigationMenu li {
+		width: 75%;
+		margin: 20px 0;
+		font-size: 1.15rem;
+	}
 }

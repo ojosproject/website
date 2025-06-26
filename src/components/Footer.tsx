@@ -1,6 +1,7 @@
 import Link from "next/link";
 import styles from "./Footer.module.css";
 import { ReactNode } from "react";
+import { OpenNewWindow } from "iconoir-react";
 
 type ListItemProps = {
 	href: string;
@@ -16,7 +17,8 @@ function ListItem({ href, children }: ListItemProps) {
 				href={href}
 				target={isExternal ? "_blank" : null}
 				rel={isExternal ? "noopener noreferrer" : null}>
-				{children}
+				{children}{" "}
+				{isExternal && <OpenNewWindow width={20} style={{ marginLeft: 8 }} />}
 			</Link>
 		</li>
 	);

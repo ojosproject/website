@@ -12,8 +12,10 @@
 	padding: 20px 50px;
 }
 
-.footer li {
-	margin: 8px 0;
+.footer li a {
+	display: flex;
+	align-items: center;
+	margin: 10px 0;
 }
 
 .footer ul p {
@@ -25,7 +27,7 @@
 	text-decoration: none;
 	color: var(--white);
 
-	transition: color 0.15s;
+	transition: color 0.1s;
 }
 
 .footer a:hover {
@@ -50,4 +52,15 @@
 	width: 85dvw;
 
 	font-size: 0.8rem;
+}
+
+@media only screen and (max-width: 30rem) {
+	.footer ul {
+		padding: 20px;
+		padding-right: 50px;
+	}
+
+	.footer li a {
+		margin: 20px 0;
+	}
 }
