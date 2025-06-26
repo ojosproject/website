@@ -4,7 +4,7 @@
 	display: flex;
 	align-items: center;
 
-	padding: 5 55px;
+	padding: 5px 55px;
 }
 
 .ojosIcon {
@@ -31,7 +31,7 @@
 	border-radius: 15px;
 	padding: 5px 8px;
 
-	transition: color 0.15s;
+	transition: color 0.1s;
 }
 
 .navigationMenu a:hover {
@@ -55,6 +55,8 @@
 		justify-content: space-between;
 		align-items: center;
 		flex-wrap: wrap;
+
+		padding: 20px 20px 0 20px;
 	}
 
 	.navigationMenu {
