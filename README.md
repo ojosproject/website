@@ -4,8 +4,14 @@
 
 ## Description
 
-Welcome to the repository for [ojosproject.org](https://ojosproject.org), Ojos
-Project's home on the Internet! This contains the source code for our website.
+Welcome to the repository for the Ojos Project website.
+
+The goals of this website:
+
+1. Promote, market, and distribute our technology
+2. Update stakeholders regarding our software
+3. Promote different programs at Ojos Project (URL, open source, etc.)
+4. House various articles (support, documentation, etc)
 
 ## Getting Started
 
