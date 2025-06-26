@@ -15,7 +15,7 @@
 .footer li a {
 	display: flex;
 	align-items: center;
-	margin: 20px 0;
+	margin: 10px 0;
 }
 
 .footer ul p {
@@ -58,5 +58,9 @@
 	.footer ul {
 		padding: 20px;
 		padding-right: 50px;
+	}
+
+	.footer li a {
+		margin: 20px 0;
 	}
 }
