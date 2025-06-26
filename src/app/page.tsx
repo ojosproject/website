@@ -9,7 +9,7 @@ export default function Page() {
 				<div className={styles.irisDetails}>
 					<h1>iris</h1>
 					<p className={styles.tagline}>
-						A <span style={{ color: "var(--blue-light)" }}>modern</span> care
+						A <span style={{ color: "var(--light-blue)" }}>modern</span> care
 						management system
 					</p>
 					<div style={{ margin: "10px 0" }}>

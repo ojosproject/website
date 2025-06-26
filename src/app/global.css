@@ -1,9 +1,9 @@
 :root {
 	--black: #16171a;
 	--white: white;
-	--blue-primary: #0063d7;
-	--blue-dark: #094595;
-	--blue-light: #83b3f3;
+	--blue: #0063d7;
+	--dark-blue: #094595;
+	--light-blue: #83b3f3;
 
 	color: var(--white);
 	background-color: var(--black);
@@ -11,11 +11,6 @@
 
 body {
 	margin: 0;
-}
-
-body section {
-	padding-left: 50px;
-	padding-right: 50px;
 }
 
 button {
@@ -30,14 +25,14 @@ button.primary {
 	margin: 5px;
 
 	color: var(--white);
-	background-color: var(--blue-primary);
+	background-color: var(--blue);
 	border: solid transparent 2px;
 }
 
 button.primary:hover {
 	text-decoration: none;
 	color: var(--white);
-	background-color: var(--blue-dark);
+	background-color: var(--dark-blue);
 	cursor: pointer;
 }
 
@@ -57,13 +52,13 @@ button.secondary {
 	border-radius: 20px;
 	margin: 5px;
 
-	color: var(--blue-primary);
+	color: var(--blue);
 	background-color: var(--white);
-	border: solid var(--blue-primary) 2px;
+	border: solid var(--blue) 2px;
 }
 
 button.secondary:hover {
 	text-decoration: none;
-	color: var(--blue-primary);
+	color: var(--blue);
 	cursor: pointer;
 }

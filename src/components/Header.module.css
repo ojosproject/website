@@ -35,7 +35,7 @@
 }
 
 .navigationMenu a:hover {
-	color: var(--blue-light);
+	color: var(--light-blue);
 }
 
 .navigationMenu li {
