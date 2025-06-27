@@ -56,7 +56,7 @@ export default function Page() {
 					/>
 					<p
 						style={{
-							margin: "0 50px;",
+							margin: "0 50px",
 							textAlign: "right",
 							minWidth: "100px",
 						}}>
