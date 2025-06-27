@@ -53,15 +53,14 @@
 @media only screen and (max-width: 30rem) {
 	.header {
 		justify-content: space-between;
-		align-items: center;
 		flex-wrap: wrap;
-
-		padding: 20px 20px 0 20px;
+		padding: 20px;
 	}
 
 	.navigationMenu {
 		flex-wrap: wrap;
 		padding: 0;
+		width: 100%;
 	}
 
 	.navigationMenu li {
