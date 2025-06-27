@@ -67,12 +67,14 @@ export default function Header() {
 					<>
 						{showMenu ? (
 							<Xmark
+								color="white"
 								onClick={() => {
 									setShowMenu(false);
 								}}
 							/>
 						) : (
 							<MenuIcon
+								color="white"
 								onClick={() => {
 									setShowMenu(true);
 								}}

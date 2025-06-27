@@ -21,7 +21,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
 		<html lang="en" className={inter.className}>
 			<body>
 				<Header />
-				<main>{children}</main>
+				<main className="sectionBoundary">{children}</main>
 				<Footer />
 			</body>
 		</html>
