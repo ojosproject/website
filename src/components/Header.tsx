@@ -22,10 +22,18 @@ function MenuItem({ href, children }: MenuItemProps) {
 function Menu() {
 	return (
 		<ul className={styles.navigationMenu}>
-			<MenuItem href="/iris/">Iris</MenuItem>
-			<MenuItem href="/palliaview/">Palliaview</MenuItem>
-			<MenuItem href="/news/">News</MenuItem>
-			<MenuItem href="/team/">Our Team</MenuItem>
+			<MenuItem key="iris" href="/iris/">
+				Iris
+			</MenuItem>
+			<MenuItem key="palliaview" href="/palliaview/">
+				Palliaview
+			</MenuItem>
+			<MenuItem key="news" href="/news/">
+				News
+			</MenuItem>
+			<MenuItem key="team" href="/team/">
+				Our Team
+			</MenuItem>
 		</ul>
 	);
 }
@@ -43,37 +51,39 @@ export default function Header() {
 	if (isMobile === undefined) return null;
 
 	return (
-		<header className={styles.header}>
-			<Link href="/">
-				<Image
-					src="/images/brand/logo-space.png"
-					alt="Ojos Project logo"
-					width={35}
-					height={35}
-					className={styles.ojosIcon}
-				/>
-			</Link>
+		<header className={styles.headerContainer}>
+			<div className={styles.header}>
+				<Link href="/">
+					<Image
+						src="/images/brand/logo-space.png"
+						alt="Ojos Project logo"
+						width={35}
+						height={35}
+						className={styles.ojosIcon}
+					/>
+				</Link>
 
-			{isMobile ? (
-				<>
-					{showMenu ? (
-						<Xmark
-							onClick={() => {
-								setShowMenu(false);
-							}}
-						/>
-					) : (
-						<MenuIcon
-							onClick={() => {
-								setShowMenu(true);
-							}}
-						/>
-					)}
-					{showMenu && <Menu />}
-				</>
-			) : (
-				<Menu />
-			)}
+				{isMobile ? (
+					<>
+						{showMenu ? (
+							<Xmark
+								onClick={() => {
+									setShowMenu(false);
+								}}
+							/>
+						) : (
+							<MenuIcon
+								onClick={() => {
+									setShowMenu(true);
+								}}
+							/>
+						)}
+						{showMenu && <Menu />}
+					</>
+				) : (
+					<Menu />
+				)}
+			</div>
 		</header>
 	);
 }

@@ -1,3 +1,9 @@
+.headerContainer {
+	position: fixed;
+	top: 0;
+	width: 100dvw;
+}
+
 .header {
 	background-color: var(--black);
 
