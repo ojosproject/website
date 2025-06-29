@@ -4,9 +4,14 @@
 	--blue: #0063d7;
 	--dark-blue: #094595;
 	--light-blue: #83b3f3;
+	--gray: rgb(90, 90, 90);
 
 	color: var(--black);
 	background-color: var(--black);
+}
+
+html {
+	scroll-behavior: smooth;
 }
 
 body {
