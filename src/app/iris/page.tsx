@@ -11,6 +11,9 @@ export const metadata = metadataWith(
 	"/images/iris/promo/summary.png",
 );
 
+// notes:
+// todo: "online. or not."
+
 export default function Page() {
 	const features: {
 		label: string;

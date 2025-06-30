@@ -22,17 +22,14 @@ function MenuItem({ href, children }: MenuItemProps) {
 function Menu() {
 	return (
 		<ul className={styles.navigationMenu}>
+			<MenuItem key="news" href="/news/">
+				News
+			</MenuItem>
 			<MenuItem key="iris" href="/iris/">
 				Iris
 			</MenuItem>
 			<MenuItem key="palliaview" href="/palliaview/">
 				Palliaview
-			</MenuItem>
-			<MenuItem key="news" href="/news/">
-				News
-			</MenuItem>
-			<MenuItem key="team" href="/team/">
-				Our Team
 			</MenuItem>
 		</ul>
 	);

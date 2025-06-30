@@ -49,7 +49,7 @@ export default function Footer() {
 				<ListItem href="/palliaview/">Palliaview</ListItem>
 			</ul>
 			<ul>
-				<p>Support</p>
+				<p>Get Involved</p>
 				<ListItem href="https://ko-fi.com/ojosproject/">
 					Donations (Ko-fi)
 				</ListItem>
