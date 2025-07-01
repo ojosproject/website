@@ -1,23 +1,31 @@
+import Link from "next/link";
 import styles from "./page.module.css";
 
 export default function Page() {
 	return (
 		<>
-			<section>
-				<h1>Working with you for a better care experience.</h1>
-				<p>
-					Ojos Project is a group of volunteers committed to building open tools
-					to improve the care experience.
-				</p>
-				<p>We believe that healthcare tools should be accessible.</p>
+			<section className={styles.promoIris}>
+				<div className={styles.promoText}>
+					<h1>Iris for Desktop</h1>
+					<p>
+						<strong>The all-in-one caregiver tool.</strong> Iris for Desktop is
+						a free and open-source care system. Track medications, keep track of
+						your care, video monitoring, and more.
+					</p>
+					<div>
+						<Link href="/iris#download">
+							<button className="primary">Try for free</button>
+						</Link>
+						<Link href="/iris/">
+							<button className="secondary">Learn more</button>
+						</Link>
+					</div>
+				</div>
+				<img src="/images/iris/promo/hub.png" />
 			</section>
 			<section>
-				<h2>Projects & Tools</h2>
-				<p>Here are some of the things we've been working on.</p>
-				<ul>
-					<li>Iris</li>
-					<li>Palliaview</li>
-				</ul>
+				<h1>Palliaview</h1>
+				<p>The best way to interact with Iris.</p>
 			</section>
 			<section>
 				<h2>News</h2>
