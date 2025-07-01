@@ -1,3 +1,12 @@
+import { metadataWith } from "utils/metadata";
+
+export const metadata = metadataWith(
+	"Palliaview, a better care monitoring system | Ojos Project",
+	"Learn more about Palliaview, a system powered by Iris.",
+	"https://ojosproject.org/palliaview/",
+	"/images/brand/oembed.png",
+);
+
 export default function Page() {
 	return (
 		<>
