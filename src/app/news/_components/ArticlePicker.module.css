@@ -1,0 +1,36 @@
+.newsStand {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.tagsContainer {
+	margin: 2rem 0;
+}
+
+.articleContainer {
+	display: flex;
+	flex-direction: column;
+
+	text-decoration: none;
+	color: var(--black);
+
+	border: solid var(--gray) 0.1rem;
+	border-radius: 10px;
+	padding: 1rem;
+	margin: 2rem;
+	max-width: 25rem;
+}
+
+.tagsFlex {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.tagLabel {
+	margin: 0 1rem;
+	border: solid var(--gray) 0.05rem;
+	border-radius: 20px;
+	padding: 0.2rem 0.6rem;
+}
