@@ -18,7 +18,8 @@ type AvailablePlatforms =
 	| "windows-x64"
 	| "macos-x64"
 	| "macos-aarch64"
-	| "linux-x64";
+	| "linux-x64"
+	| "linux-aarch64";
 
 type AvailableDownloads = {
 	[P in AvailablePlatforms]: { label: string; download: string };
@@ -41,27 +42,33 @@ export default async function Download({
 			"macos-x64": null,
 			"macos-aarch64": null,
 			"linux-x64": null,
+			"linux-aarch64": null,
 		};
 
 		data.assets.forEach((asset) => {
 			if (asset.name.endsWith("amd64.AppImage")) {
 				availableDownloads["linux-x64"] = {
-					label: "Linux x64",
+					label: "AppImage (x64)",
 					download: asset.browser_download_url,
 				};
 			} else if (asset.name.endsWith("aarch64.dmg")) {
 				availableDownloads["macos-aarch64"] = {
-					label: "macOS (Apple Silicon)",
+					label: "Apple Silicon",
 					download: asset.browser_download_url,
 				};
 			} else if (asset.name.endsWith("x64.dmg")) {
 				availableDownloads["macos-x64"] = {
-					label: "macOS (Intel)",
+					label: "Intel",
 					download: asset.browser_download_url,
 				};
 			} else if (asset.name.endsWith("x64-setup.exe")) {
 				availableDownloads["windows-x64"] = {
-					label: "Windows x64",
+					label: "x64",
+					download: asset.browser_download_url,
+				};
+			} else if (asset.name.endsWith("aarch64.AppImage")) {
+				availableDownloads["linux-aarch64"] = {
+					label: "AppImage (ARM)",
 					download: asset.browser_download_url,
 				};
 			}
@@ -79,21 +86,41 @@ export default async function Download({
 				{productName} is on{" "}
 				<Link href={`https://github.com/${repoPath}`}>Github</Link>!
 			</p>
-			<ul className={styles.downloadList}>
-				{(Object.keys(cleanData) as AvailablePlatforms[]).map((platform) => {
-					const targetPlatform = cleanData[platform];
-
-					return (
-						<li key={targetPlatform.download}>
-							<Link
-								className={styles.downloadListItem}
-								href={targetPlatform.download}>
-								<button className="primary">{targetPlatform.label}</button>
-							</Link>
-						</li>
-					);
-				})}
-			</ul>
+			<div>
+				<h3>Windows</h3>
+				<div>
+					<Link
+						className={styles.downloadListItem}
+						href={cleanData["windows-x64"].download}>
+						<button className="primary">
+							{cleanData["windows-x64"].label}
+						</button>
+					</Link>
+				</div>
+				<h3>macOS</h3>
+				<div>
+					<Link
+						className={styles.downloadListItem}
+						href={cleanData["macos-aarch64"].download}>
+						<button className="primary">
+							{cleanData["macos-aarch64"].label}
+						</button>
+					</Link>
+					<Link
+						className={styles.downloadListItem}
+						href={cleanData["macos-x64"].download}>
+						<button className="secondary">
+							{cleanData["macos-x64"].label}
+						</button>
+					</Link>
+					<h3>Linux</h3>
+					<Link
+						className={styles.downloadListItem}
+						href={cleanData["linux-x64"].download}>
+						<button className="primary">{cleanData["linux-x64"].label}</button>
+					</Link>
+				</div>
+			</div>
 			<p>Latest update: {isoToReadable(githubData.published_at)}</p>
 		</section>
 	);
