@@ -2,6 +2,7 @@ name: News Post Submission
 description: 📰 Think we should publish something?
 title: ⚠️ Add the name of your post
 labels: ["news"]
+assignees: [calejvaldez]
 body:
   - type: input
     attributes:

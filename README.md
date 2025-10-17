@@ -1,20 +1,4 @@
-# ojosproject.org: Home to Ojos Project, Iris, Palliaview, and more
-
-![The Ojos Project header](https://ojosproject.org/images/header.png)
-
-## Table of Contents
-
-- [ojosproject.org: Home to Ojos Project, Iris, Palliaview, and more](#ojosprojectorg-home-to-ojos-project-iris-palliaview-and-more)
-  - [Table of Contents](#table-of-contents)
-  - [Description](#description)
-    - [Features](#features)
-  - [Getting Started](#getting-started)
-    - [Installing dependencies](#installing-dependencies)
-    - [npm commands](#npm-commands)
-  - [Contributing](#contributing)
-    - [Branching](#branching)
-  - [Acknowledgements](#acknowledgements)
-  - [License](#license)
+# ojosproject.org
 
 ## Description
 
@@ -37,37 +21,33 @@ Thanks to Docusaurus, we use three of its features on our website:
 
 ## Getting Started
 
-> [!IMPORTANT]
-> Please make sure to follow the
-> [Ojos Project `git` policies](https://ojosproject.org/docs/policies/git/)
-
 ### Installing dependencies
 
 If you'd like to make changes to the website, you can! First, you must install
-[nvm](https://github.com/nvm-sh/nvm) (or a similar tool). Then run:
+[pnpm](https://pnpm.io/installation). Then run:
 
 ```shell
-nvm use
-npm i
+pnpm env use --global vv22.3.0
+pnpm i
 ```
 
 ### npm commands
 
 There's four useful commands Docusaurus provides:
 
-| Command         | Description                                      |
-| --------------- | ------------------------------------------------ |
-| `npm run start` | Starts the website in development mode           |
-| `npm run clear` | Is something not working? This clears the cache! |
-| `npm run build` | Makes a production-ready version of the website  |
-| `npm run serve` | Starts the website in production mode            |
+| Command      | Description                                      |
+| ------------ | ------------------------------------------------ |
+| `pnpm start` | Starts the website in development mode           |
+| `pnpm clear` | Is something not working? This clears the cache! |
+| `pnpm build` | Makes a production-ready version of the website  |
+| `pnpm serve` | Starts the website in production mode            |
 
 > [!TIP]
 > If you're having issues with Docusaurus, clearing the cache with
-> `npm run clear` may help.
+> `pnpm clear` may help.
 
 Before pushing, I recommend running
-`npm run clear; npm run build; npm run serve`, which runs the three commands in
+`pnpm clear; pnpm build; pnpm serve`, which runs the three commands in
 that order to make sure you don't have any remaining bugs.
 
 ## Contributing
@@ -78,24 +58,17 @@ You can contribute by
 [the same issue doesn't already exist](https://github.com/ojosproject/website/issues?q=is%3Aissue))
 or providing code.
 
-### Branching
+### Working in this repository
 
 Please don't use the `main` branch. It must always be stable and will only be
-merged into.
-
-If you're a
-[member of the Ojos Project GitHub organization](https://github.com/orgs/ojosproject/people),
-please commit quick changes to `dev`. Otherwise, create a branch with any name.
-Then open a Pull Request pointing to `dev`.
-
-If you're not a member, please create a fork copy of `dev`, commit your changes,
-and open a Pull Request pointing to `dev`.
+merged into. Please create a branch named `issue-x`, where x is the issue number
+this branch is for. Then submit a PR.
 
 ## Acknowledgements
 
-[Jesse David](https://github.com/jessed7) is the maintainer of the
-website repository. The website is being developed by the Ojos Project
-team at the University of California, Irvine.
+[Carlos Valdez](https://github.com/calejvaldez) is the maintainer of the
+website repository. The website is being maintained by open source contributors
+at Ojos Project.
 
 ## License
 
