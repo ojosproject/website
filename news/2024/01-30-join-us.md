@@ -88,7 +88,7 @@ Group has three teams:
 
 Individuals who are not enrolled in IN4MATX 199 may join and leave the project
 however they'd like.
-[Please read the Informatics 199 Acknowledgment here](/docs/policies/inf199-acknowledgement/).
+Please read the Informatics 199 Acknowledgment.
 
 ## 🙋 How you can help
 
