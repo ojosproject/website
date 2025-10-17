@@ -14,7 +14,7 @@ const config: Config = {
 		defaultLocale: "en",
 		locales: ["en"],
 	},
-	future: { experimental_faster: true },
+	future: { experimental_faster: true, v4: true },
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
 
