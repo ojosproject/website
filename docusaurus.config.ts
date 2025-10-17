@@ -38,9 +38,7 @@ const config: Config = {
 		[
 			"classic",
 			{
-				docs: {
-					sidebarPath: "./sidebars.ts",
-				},
+				docs: false,
 				blog: {
 					path: "./news",
 					routeBasePath: "/news",
@@ -124,16 +122,12 @@ const config: Config = {
 					label: "News",
 					to: "/news/",
 				},
-				{
-					label: "Our Team",
-					to: "/docs/members/",
-				},
 			],
 		},
 		footer: {
 			links: [
 				{
-					title: "Ojos Project",
+					title: "Socials",
 					items: [
 						{
 							label: "Discord",
@@ -146,19 +140,24 @@ const config: Config = {
 					],
 				},
 				{
-					title: "Documentation",
+					title: "Our Solutions",
 					items: [
 						{
-							label: "Iris Docs",
-							href: "https://github.com/ojosproject/iris/tree/main/docs",
+							label: "Iris for Desktop",
+							href: "https://github.com/ojosproject/iris/",
 						},
 						{
-							label: "Palliaview Docs",
+							label: "Palliaview",
 							href: "https://docs.google.com/document/d/1l60y9Kog3sbdiTm0TlWQSpLGMTpvvO05bGnn72r-dA8/",
 						},
+					],
+				},
+				{
+					title: "Get Involved",
+					items: [
 						{
-							label: "Website Docs",
-							to: "/docs/website/",
+							label: "Donations (Ko-fi)",
+							href: "https://ko-fi.com/ojosproject/",
 						},
 					],
 				},
