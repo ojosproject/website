@@ -79,26 +79,6 @@ const config: Config = {
 						from: "/events/uci-symposium-2024/",
 						to: "/",
 					},
-					{
-						from: "/docs/url/meeting-reports/",
-						to: "/docs/meeting-reports/",
-					},
-					{
-						from: "/docs/url/members/",
-						to: "/docs/members/",
-					},
-					{
-						from: "/docs/url/proposal/",
-						to: "/docs/proposal/",
-					},
-					{
-						from: "/docs/policies/url-lab-attendance/",
-						to: "/docs/policies/url-attendance/",
-					},
-					{
-						from: "/data/gpg/",
-						to: "/docs/members/",
-					},
 				],
 			},
 		],
