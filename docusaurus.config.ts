@@ -159,6 +159,10 @@ const config: Config = {
 							label: "Donations (Ko-fi)",
 							href: "https://ko-fi.com/ojosproject/",
 						},
+						{
+							label: "Making a news post",
+							href: "/making-a-post/",
+						},
 					],
 				},
 			],
