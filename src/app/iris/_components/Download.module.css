@@ -1,5 +1,24 @@
+.downloadProduct {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
 .downloadProduct h2 {
 	color: var(--blue);
-	font-size: 3rem;
 	margin: 0;
+}
+
+.downloadPicker {
+	border: solid 1px var(--black);
+	border-radius: 20px;
+	padding: 20px 100px;
+}
+
+.downloadPicker h3 {
+	margin: 0;
+}
+
+.platformGroup {
+	margin: 1.5rem 0;
 }

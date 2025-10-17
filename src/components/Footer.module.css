@@ -21,6 +21,7 @@
 .footer ul p {
 	font-weight: bold;
 	margin-bottom: 10px;
+	color: var(--white);
 }
 
 .footer a {
@@ -52,12 +53,14 @@
 
 .grandmaMessageContainer a {
 	color: rgb(100, 100, 100);
+	font-size: 0.8rem;
 	text-decoration: underline;
 }
 
 .grandmaMessage {
 	text-align: center;
 	width: 85dvw;
+	color: rgb(100, 100, 100);
 
 	font-size: 0.8rem;
 }

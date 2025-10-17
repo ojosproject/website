@@ -57,7 +57,10 @@ export default function Footer() {
 			<div className={styles.grandmaMessageContainer}>
 				<p className={styles.grandmaMessage}>
 					ojos means eyes, named after my grandma's nickname for me:{" "}
-					<Link href="https://translate.google.com/?sl=es&tl=en&text=mis+ojos">
+					<Link
+						target="_blank"
+						rel="noopener noreferrer"
+						href="https://translate.google.com/?sl=es&tl=en&text=mis+ojos">
 						mis ojos
 					</Link>
 				</p>

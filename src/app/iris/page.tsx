@@ -3,6 +3,7 @@ import { AppleMac, HeartSolid, Linux, Windows } from "iconoir-react";
 import { metadataWith } from "utils/metadata";
 import Download from "./_components/Download";
 import Link from "next/link";
+import Image from "next/image";
 
 export const metadata = metadataWith(
 	"Iris, a modern care management system | Ojos Project",
@@ -14,7 +15,7 @@ export const metadata = metadataWith(
 // notes:
 // todo: "online. or not."
 
-export default function Page() {
+export default async function Page() {
 	const features: {
 		label: string;
 		description: string;
@@ -49,9 +50,12 @@ export default function Page() {
 	return (
 		<>
 			<section className={styles.irisHeadliner}>
-				<img
+				<Image
 					src="/images/iris/promo/icon.png"
+					alt="The Iris app logo"
 					className={styles.irisHeadlinerImage}
+					width={100}
+					height={100}
 				/>
 				<p>
 					A <span className={styles.blueHighlight}>modern</span> care management
@@ -70,8 +74,8 @@ export default function Page() {
 			</section>
 
 			<section id="features" className={styles.featuresFlex}>
-				<h2 className={styles.twoHeader}>Features</h2>
-				<p>Say hello to your new toolkit.</p>
+				<h2>Features</h2>
+				<p className="bigText">Say hello to your new toolkit.</p>
 				<div className={styles.newToolkit}>
 					<img src="/images/iris/promo/hub.png" />
 				</div>
@@ -99,34 +103,17 @@ export default function Page() {
 				</ul>
 			</section>
 
-			<section id="feel-assured" className={styles.feelAssured}>
-				<h2 className={styles.twoHeader}>Feel assured</h2>
-				<p>
-					Iris is built to be resilient and trustworthy thanks to tools like the
-					Rust and TypeScript programming languages.
-				</p>
-			</section>
-
-			<section id="customize" className={styles.feelAssured}>
-				<h2 className={styles.twoHeader}>Easy to customize</h2>
-				<p>
-					We want to help you. Care agencies can easily tweak Iris to create
-					their own distributable.
-				</p>
-				<button className="secondary">Customize Iris</button>
-			</section>
-
 			<section id="research" className={styles.basedOnResearch}>
 				<div className={styles.sideText}>
-					<h2 className={styles.twoHeader}>Based on research</h2>
-					<p>
-						Iris for Desktop is developed within the Undergraduate Research Lab
-						(URL) at UC Irvine as part of Palliaview. Since 2023, students have
+					<h2>Based on research</h2>
+					<p className="bigText">
+						Iris for Desktop is developed alongside the Undergraduate Research
+						Lab (URL) at UC Irvine with Palliaview. Since 2023, students have
 						been actively researching existing caregiver technologies,
 						interviewing healthcare professionals and family caregivers, and
 						iterating on Iris through user interviews and direct feedback.
 					</p>
-					<p>
+					<p className="bigText">
 						As a research project, Palliaview won three grants from the UCI
 						Undergraduate Research Opportunities Program (UROP).
 					</p>
@@ -139,30 +126,24 @@ export default function Page() {
 
 			<section id="oss" className={styles.openSourceContainer}>
 				<div className={styles.openSourceStatement}>
-					<h2 className={styles.twoHeader}>Because we want to help.</h2>
-					<p>
+					<h2>Because we want to help.</h2>
+					<p className="bigText">
 						Many of us became caregivers before we were ready. Iris is the tool
 						we wish we had—built by those who once felt helpless, for those who
 						still do.
 					</p>
-					<p>
+					<p className="bigText">
 						We believe care tools should be as accessible as possible. That's
 						why Iris for Desktop is fully open-source. Anybody can use it, study
 						it, or build upon it.
 					</p>
-					<p>
+					<p className="bigText">
 						Iris for Desktop is licensed with the GNU General Public License v3.
 					</p>
 					<HeartSolid />
 				</div>
 			</section>
 			<Download productName="Iris for Desktop" repoPath="ojosproject/iris" />
-			<section id="join">
-				<h2 className={styles.twoHeader}>Want to help?</h2>
-				<p>
-					Iris for Desktop is developed openly on GitHub. Feel free to join us!
-				</p>
-			</section>
 		</>
 	);
 }

@@ -30,10 +30,8 @@ export default async function Download({
 	repoPath,
 }: DownloadProps) {
 	if (!productName && !repoPath) return null;
-
-	const githubResponse = await fetch(
-		`https://api.github.com/repos/${repoPath}/releases/latest`,
-	);
+	const url = `https://api.github.com/repos/${repoPath}/releases/latest`;
+	const githubResponse = await fetch(url);
 	const githubData: GithubData = await githubResponse.json();
 
 	async function cleanGithubData(data: GithubData) {
@@ -84,44 +82,61 @@ export default async function Download({
 			<h2>Download {productName}</h2>
 			<p>
 				{productName} is on{" "}
-				<Link href={`https://github.com/${repoPath}`}>Github</Link>!
+				<Link
+					target="_blank"
+					rel="noopener noreferrer"
+					href={`https://github.com/${repoPath}`}>
+					Github
+				</Link>
+				!
 			</p>
-			<div>
-				<h3>Windows</h3>
-				<div>
-					<Link
-						className={styles.downloadListItem}
-						href={cleanData["windows-x64"].download}>
-						<button className="primary">
-							{cleanData["windows-x64"].label}
-						</button>
-					</Link>
+			<div className={styles.downloadPicker}>
+				<div className={styles.platformGroup}>
+					<h3>Windows</h3>
+					<div>
+						<Link
+							className={styles.downloadListItem}
+							href={cleanData["windows-x64"].download}>
+							<button className="primary">
+								{cleanData["windows-x64"].label}
+							</button>
+						</Link>
+					</div>
 				</div>
-				<h3>macOS</h3>
-				<div>
-					<Link
-						className={styles.downloadListItem}
-						href={cleanData["macos-aarch64"].download}>
-						<button className="primary">
-							{cleanData["macos-aarch64"].label}
-						</button>
-					</Link>
-					<Link
-						className={styles.downloadListItem}
-						href={cleanData["macos-x64"].download}>
-						<button className="secondary">
-							{cleanData["macos-x64"].label}
-						</button>
-					</Link>
+
+				<div className={styles.platformGroup}>
+					<h3>macOS</h3>
+					<div>
+						<Link
+							className={styles.downloadListItem}
+							href={cleanData["macos-aarch64"].download}>
+							<button className="primary">
+								{cleanData["macos-aarch64"].label}
+							</button>
+						</Link>
+						<Link
+							className={styles.downloadListItem}
+							href={cleanData["macos-x64"].download}>
+							<button className="secondary">
+								{cleanData["macos-x64"].label}
+							</button>
+						</Link>
+					</div>
+				</div>
+				<div className={styles.platformGroup}>
 					<h3>Linux</h3>
-					<Link
-						className={styles.downloadListItem}
-						href={cleanData["linux-x64"].download}>
-						<button className="primary">{cleanData["linux-x64"].label}</button>
-					</Link>
+					<div>
+						<Link
+							className={styles.downloadListItem}
+							href={cleanData["linux-x64"].download}>
+							<button className="primary">
+								{cleanData["linux-x64"].label}
+							</button>
+						</Link>
+					</div>
 				</div>
 			</div>
-			<p>Latest update: {isoToReadable(githubData.published_at)}</p>
+			<p>{isoToReadable(githubData.published_at)}</p>
 		</section>
 	);
 }
