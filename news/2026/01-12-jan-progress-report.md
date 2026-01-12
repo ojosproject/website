@@ -3,7 +3,9 @@ authors: [cvaldezh@uci.edu, jsweatt@uci.edu, jasonbm2@uci.edu]
 slug: /2026-jan-progress-report/
 hide_table-of-contents: true
 description: >
-  WRITE WRITE WRITE WRITE
+  Ojos Project has been quiet but productive in these last few months! We have
+  new icons for Iris, new members, and a new path forward for Palliaview. Come
+  read about it on the Ojos Project News!
 ---
 # Jan. 2026 Progress Report
 
