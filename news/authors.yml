@@ -1,12 +1,14 @@
 cvaldezh@uci.edu:
   name: Carlos Valdez
-  title: Project Lead
+  title: Iris Developer
   image_url: https://gravatar.com/avatar/41bb2938e02bf5326eb6b82ec02d919ca97cf68b376c4c5769fbba4acc85a190?d=mp
   socials:
-    website: https://calejvaldez.com/
+    website: https://carlos.vldz.tech/
+    github: https://github.com/calejvaldez/
+    linkedin: https://www.linkedin.com/in/calejvaldez/
 jsweatt@uci.edu:
   name: Joseph Sweatt
-  title: Engineering Lead
+  title: Project Lead
   image_url: https://gravatar.com/avatar/fac497a877e467035b306a201b938608120228662480b08e0477c59b4cfe347a?d=mp
   socials:
     linkedin: https://linkedin.com/in/josephsweattjr/
@@ -24,7 +26,7 @@ jessecd@uci.edu:
     email: mailto:jessecd@uci.edu
 jasonbm2@uci.edu:
   name: Jason Martin
-  title: Developers Team
+  title: Developer Lead
   image_url: https://gravatar.com/avatar/8289191418b7daecb56c302c1088bc3cf261a250834ffa47681f707ad31c9e1e?d=mp
   socials:
     email: mailto:jasonbm2@uci.edu

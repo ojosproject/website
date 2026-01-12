@@ -60,7 +60,7 @@ export default function NotFoundContent({ className }: Props): JSX.Element {
 						</li>
 						<li>
 							<a
-								href="mailto:cvaldezh@uci.edu"
+								href="mailto:carlos@vldz.tech"
 								target="_blank"
 								rel="noreferrer noopener">
 								<Translate id="theme.NotFound.a2">
