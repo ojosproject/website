@@ -33,8 +33,8 @@ promote a more polished look, starting with these amazing icons.
 
 Nearing the end of our Spring quarter of last year, we’ve had to say goodbye to
 some members and introduce new ones. We’d like to give a warm welcome to
-**Jacky Laraher** and **Annabel Wang**. They’ve been doing research for the
-project as well as working on various tasks. Welcome to the team!
+**Jacqueline Lara Hernandez** and **Annabel Wang**. They’ve been doing research
+for the project as well as working on various tasks. Welcome to the team!
 
 We’d also like to congratulate the team members that have graduated in Spring.
 Congratulations to Ayush J., Mai P., and Carlos V.! We’d also like to thank Helen for her
