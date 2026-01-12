@@ -16,7 +16,6 @@ const config: Config = {
 	},
 	future: { experimental_faster: true, v4: true },
 	onBrokenLinks: "throw",
-	onBrokenMarkdownLinks: "warn",
 
 	headTags: [
 		{
@@ -31,6 +30,9 @@ const config: Config = {
 
 	markdown: {
 		mermaid: true,
+		hooks: {
+			onBrokenMarkdownLinks: 'warn',
+		}
 	},
 	themes: ["@docusaurus/theme-mermaid"],
 
