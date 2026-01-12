@@ -21,7 +21,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
 		<html lang="en" className={inter.className}>
 			<body>
 				<Header />
-				<div style={{ height: "50px" }} />
+				<div className="space" />
 				<main>{children}</main>
 				<Footer />
 			</body>

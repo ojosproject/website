@@ -51,11 +51,6 @@ a {
 }
 
 section {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-
-	padding: 4rem 0;
 	margin: 0 1.5rem;
 	background-color: var(--white);
 }
@@ -110,8 +105,16 @@ button.secondary:hover {
 	cursor: pointer;
 }
 
+.space {
+	height: 60px;
+}
+
 @media only screen and (max-width: 30rem) {
 	section {
-		padding: 5rem 0.5rem 0.5rem 0.5rem;
+		margin: 0 0.5rem;
+	}
+
+	.space {
+		height: 80px;
 	}
 }
