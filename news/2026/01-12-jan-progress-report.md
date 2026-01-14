@@ -28,6 +28,8 @@ we’re giving Iris a fresh new look! Take a look below:
 
 ![New icons for Iris, designed by Jesse David](@site/static/images/2026-iris-new-icons.png)
 
+![New app icon for Iris, designed by Jesse](@site/static/images/iris-new-logo.png)
+
 Iris has been in development for almost two years, so we believe it's time to
 make the program look professional. Going forward, Iris' interface will start to
 promote a more polished look, starting with these amazing icons.
@@ -79,3 +81,5 @@ source contributors.
 The Undergraduate Research Lab is the main team working with the current Iris
 source code as they’re porting it to Android and tailoring it to Palliaview. The
 Iris team, on the other hand, will refine existing features.
+
+**Updated on Jan 14, 2026**: Added the new Iris app icon.
